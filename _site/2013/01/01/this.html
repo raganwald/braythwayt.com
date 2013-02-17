@@ -46,7 +46,6 @@
       <section>
         <div id="title">
           <h1>More than you ever wanted to know about "this" in JavaScript, Part I</h1>
-<p>braythwayt.com</p>
           <hr>
           <span class="credits left">This blog is written by <a href="http://braythwayt.com">Reg "raganwald" Braithwaite</a></span>
           <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="http://twitter.com/#!/michigangraham">mattgraham</a></span>
@@ -248,7 +247,7 @@
 
 <p>JavaScript programmers talk about functions having a “context” when being called. <code>this</code> is bound to the context (Too bad the language binds the context to the name <code>this</code> instead of the name <code>context</code>!) The important thing to understand is that the context for a function being called is set by the way the function is called, not the function itself.</p>
 
-<p>This is an important distinction. Consider closures: As we discussed repeatedly in blog posts and books about JavaScript, a function’s free variables are resolved by looking them up in their enclosing functions’ environments. You can always determine the functions that define free variables by examining the source code of a JavaScript program, which is why this scheme is known as [Lexical Scoping].</p>
+<p>This is an important distinction. Consider closures: As we discussed repeatedly in blog posts and books about JavaScript, a function’s free variables are resolved by looking them up in their enclosing functions’ environments. You can always determine the functions that define free variables by examining the source code of a JavaScript program, which is why this scheme is known as Lexical Scope[^lexical-scope].</p>
 
 <p>A function’s context cannot be determined by examining the source code of a JavaScript program. Let’s look at our example again:</p>
 
