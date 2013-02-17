@@ -247,7 +247,7 @@
 
 <p>JavaScript programmers talk about functions having a “context” when being called. <code>this</code> is bound to the context (Too bad the language binds the context to the name <code>this</code> instead of the name <code>context</code>!) The important thing to understand is that the context for a function being called is set by the way the function is called, not the function itself.</p>
 
-<p>This is an important distinction. Consider closures: As we discussed repeatedly in blog posts and books about JavaScript, a function’s free variables are resolved by looking them up in their enclosing functions’ environments. You can always determine the functions that define free variables by examining the source code of a JavaScript program, which is why this scheme is known as Lexical Scope[^lexical-scope].</p>
+<p>This is an important distinction. Consider closures: As we discussed repeatedly in blog posts and books about JavaScript, a function’s free variables are resolved by looking them up in their enclosing functions’ environments. You can always determine the functions that define free variables by examining the source code of a JavaScript program, which is why this scheme is known as Lexical Scope<sup id="fnref:lexical-scope"><a href="#fn:lexical-scope" rel="footnote">1</a></sup>.</p>
 
 <p>A function’s context cannot be determined by examining the source code of a JavaScript program. Let’s look at our example again:</p>
 
@@ -516,6 +516,13 @@
 
 <p>(<a href="http://www.reddit.com/r/javascript/comments/179j51/more_than_you_ever_wanted_to_know_about_this_in/">discuss</a>)</p>
 
+<div class="footnotes">
+  <ol>
+    <li id="fn:lexical-scope">
+      <p>https://en.wikipedia.org/wiki/Scope_(computer_science)#Lexical_scoping<a href="#fnref:lexical-scope" rel="reference">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
 
         
         <hr />
