@@ -1,6 +1,7 @@
 ---
 layout: homoiconic
 title: Tortoises, Teleporting Turtles, and Iterators (JavaScript)
+tags: javascript
 ---
 
 (These code examples are in JavaScript. [Click Here](./turtles-and-iterators.html) for code examples in CoffeeScript)

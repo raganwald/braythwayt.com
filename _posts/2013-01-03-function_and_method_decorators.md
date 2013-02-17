@@ -1,6 +1,7 @@
 ---
 layout: homoiconic
 title: Function and Method Decorators
+tags: javascript
 ---
 
 (a/k/a **"More than you ever wanted to know about "this" in JavaScript, Part II"**)

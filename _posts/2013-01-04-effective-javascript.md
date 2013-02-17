@@ -1,6 +1,7 @@
 ---
 layout: homoiconic
 title: Effective JavaScript Reviewed
+tags: javascript books
 ---
 
 [![Effective JavaScript](http://i.minus.com/ibjveCleaJzli1.png)](http://effectivejs.com)
