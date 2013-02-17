@@ -1,1 +1,0 @@
-This is a test, designed to provoke an emotional response.

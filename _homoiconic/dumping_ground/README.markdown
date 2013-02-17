@@ -1,1 +1,0 @@
-If you're just snooping around, have fun. Nothing in this folder is meant to be a permanent addition, it's just a handy place for me to dump stuff that doesn't have a home yet.

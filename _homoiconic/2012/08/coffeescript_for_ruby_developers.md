@@ -1,1 +1,0 @@
-(This post has been rewritten as [Method Combinators in CoffeeScript](https://github.com/raganwald/homoiconic/blob/master/2012/08/method-decorators-and-combinators-in-coffeescript.html#method-combinators-in-coffeescript))
