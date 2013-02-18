@@ -82,7 +82,74 @@ An interesting exercise, but what good is it? Well, let's pose a problem:
 
 Well? Can refactoring our algorithm help us? Try to work this out for yourself. You'll need some kind of data structure for the chequerboard, including a randomized direction for each square and a randomly chosen start position.
 
-### hint
+### hints
+
+You'll need a "Board" and/or "Game" class that acts as iterable, along with some notion of directions. Here's one possible implementation:
+
+{% highlight javascript %}
+var DIRECTIONS = [
+                   {
+                     delta: [1, 0],
+                     toString: function () { return 'N'; }
+                   },
+                   {
+                     delta: [0, 1],
+                     toString: function () { return 'E'; }
+                   },
+                   {
+                     delta: [-1, 0],
+                     toString: function () { return 'S'; }
+                   },
+                   {
+                     delta: [0, -1],
+                     toString: function () { return 'W'; }
+                   }
+                 ];
+
+var Game = (function () {
+  function Game () {
+    var i,
+        j;
+    
+    this.size = Math.floor(Math.random() * 8) + 8;
+    this.board = [];
+    for (i = 0; i < this.size; ++i) {
+      this.board[i] = [];
+      for (j = 0; j < this.size; ++j) {
+        this.board[i][j] = DIRECTIONS[Math.floor(Math.random() * DIRECTIONS.length)];
+      }
+    }
+    this.initialPosition = [
+      2 + Math.floor(Math.random() * (this.size - 4)), 
+      2 + Math.floor(Math.random() * (this.size - 4))
+    ];
+    return this;
+  };
+  
+  Game.prototype.contains = function (position) {
+    return position[0] >= 0 && position[0] < this.size && position[1] >= 0 && position[1] < this.size;
+  };
+  
+  Game.prototype.iterator = function () {
+    var position = [this.initialPosition[0], this.initialPosition[1]];
+    return function () {
+      var direction;
+      if (this.contains(position)) {
+        direction = this.board[position[0]][position[1]];
+        position[0] += direction.delta[0];
+        position[1] += direction.delta[1];
+        return direction.toString();
+      }
+      else {
+        return void 0;
+      }
+    }.bind(this);
+  };
+  
+  return Game;
+  
+})();
+{% endhighlight %}
 
 In [Tortoises, Teleporting Turtles, and Iterators](http://braythwayt.com/2013/02/15/turtles-and-iterators.js.html), we saw the `fold` function that converts a finite iterator into a value:
 
@@ -116,4 +183,10 @@ function accumulate (iter, binaryFn, seed) {
 };
 {% endhighlight %}
 
-`accumulate` can be very handy for solving this problem. [A preliminary solution is here](http://braythwayt.com/2013/02/18/drunken-walk-solution.html).
+`accumulate` can be very handy for solving this problem.
+
+### a solution
+
+One possible solution is posted separately to prevent spoilers. Try at least thinking it through before peaking!
+
+[Solving the "Drunken Walk" problem with iterators](http://braythwayt.com/2013/02/18/drunken-walk-solution.html).

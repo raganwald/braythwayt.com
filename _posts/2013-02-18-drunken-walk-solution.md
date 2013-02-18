@@ -23,15 +23,6 @@ var DIRECTIONS = [
                      toString: function () { return 'W'; }
                    }
                  ];
-                
-var LOOKUP = (function () {
-  var LOOKUP = {},
-      i;
-  for (i = 0; i < DIRECTIONS.length; ++i) {
-    LOOKUP[DIRECTIONS[i].toString()] = DIRECTIONS[i];
-  }
-  return LOOKUP;
-})();
 
 var Game = (function () {
   function Game () {
@@ -90,15 +81,30 @@ function accumulate (iter, binaryFn, seed) {
   }
 };
 
-function RelativeIterator (directionIterator) {
-  return accumulate(directionIterator, function (relativePositionStr, directionStr) {
-    var delta = LOOKUP[directionStr].delta,
-        matchData = relativePositionStr.match(/(-?\d+) (-?\d+)/),
-        relative0 = parseInt(matchData[1], 10),
-        relative1 = parseInt(matchData[2], 10);
-    return "" + (relative0 + delta[0]) + " " + (relative1 + delta[1]);
-  }, "0 0")
-}
+var RelativeIterator = (function () {
+  var LOOKUP = (function () {
+    var LOOKUP = {},
+        i;
+    for (i = 0; i < DIRECTIONS.length; ++i) {
+      LOOKUP[DIRECTIONS[i].toString()] = DIRECTIONS[i];
+    }
+    return LOOKUP;
+  })();
+  function RelativeIterator (directionIterator) {
+    return accumulate(directionIterator, function (relativePositionStr, directionStr) {
+      var delta = LOOKUP[directionStr].delta,
+          matchData = relativePositionStr.match(/(-?\d+) (-?\d+)/),
+          relative0 = parseInt(matchData[1], 10),
+          relative1 = parseInt(matchData[2], 10);
+      return "" + (relative0 + delta[0]) + " " + (relative1 + delta[1]);
+    }, "0 0")
+  };
+  
+  return RelativeIterator;
+  
+})();
+
+
 
 function GameProxy (game) {
   return {
