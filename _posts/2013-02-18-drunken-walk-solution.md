@@ -46,7 +46,10 @@ var Game = (function () {
         this.board[i][j] = DIRECTIONS[Math.floor(Math.random() * DIRECTIONS.length)];
       }
     }
-    this.initialPosition = [Math.floor(Math.random() * this.size), Math.floor(Math.random() * this.size)];
+    this.initialPosition = [
+      2 + Math.floor(Math.random() * (this.size - 4)), 
+      2 + Math.floor(Math.random() * (this.size - 4))
+    ];
     return this;
   };
   
@@ -74,11 +77,27 @@ var Game = (function () {
   
 })();
 
+function accumulate (iter, binaryFn, seed) {
+  var acc = seed;
+  return function () {
+    element = iter();
+    if (element == null) {
+      return element;
+    }
+    else {
+      return (acc = binaryFn.call(element, acc, element));
+    }
+  }
+};
+
 function RelativeIterator (directionIterator) {
-  return accumulate(directionIterator, function (relativePosition, str) {
-    var delta = LOOKUP[str].delta;
-    return [ relativePosition[0] + delta[0], relativePosition[1] + delta[1] ]
-  }, [0, 0])
+  return accumulate(directionIterator, function (relativePositionStr, directionStr) {
+    var delta = LOOKUP[directionStr].delta,
+        matchData = relativePositionStr.match(/(-?\d+) (-?\d+)/),
+        relative0 = parseInt(matchData[1], 10),
+        relative1 = parseInt(matchData[2], 10);
+    return "" + (relative0 + delta[0]) + " " + (relative1 + delta[1]);
+  }, "0 0")
 }
 
 function GameProxy (game) {
@@ -94,7 +113,7 @@ function tortoiseAndHareLoopDetector (iterable) {
       hare = iterable.iterator(), 
       tortoiseValue, 
       hareValue;
-  while (((tortoiseValue = tortoise()) != null) && ((hareValue = hare()() != null))) {
+  while (((tortoiseValue = tortoise()) != null) && ((hare(), hareValue = hare()) != null)) {
     if (tortoiseValue === hareValue) {
       return true;
     }
@@ -102,7 +121,7 @@ function tortoiseAndHareLoopDetector (iterable) {
   return false;
 };
 
-function doesGameTerminate (game) {
+function terminates (game) {
   return !tortoiseAndHareLoopDetector(GameProxy(game));
 }
 {% endhighlight %}

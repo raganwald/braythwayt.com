@@ -61,7 +61,7 @@ function tortoiseAndHareLoopDetector (iterable) {
       hare = iterable.iterator(), 
       tortoiseValue, 
       hareValue;
-  while (((tortoiseValue = tortoise()) != null) && ((hareValue = hare()() != null))) {
+  while (((tortoiseValue = tortoise()) != null) && ((hare(), hareValue = hare()) != null)) {
     if (tortoiseValue === hareValue) {
       return true;
     }
@@ -106,7 +106,7 @@ function accumulate (iter, binaryFn, seed) {
   var acc = seed;
   return function () {
     element = iter();
-    if (element != null) {
+    if (element == null) {
       return element;
     }
     else {
