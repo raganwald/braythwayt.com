@@ -19,7 +19,7 @@ I went home and pondered the problem. I wanted to solve it. Eventually, I came u
 Some time later, I was told that the correct solution was:
 
 {% highlight javascript %}
-var LinkedList, list, tortoiseAndHareLoopDetector;
+var LinkedList, list;
 
 LinkedList = (function() {
 
@@ -41,7 +41,7 @@ LinkedList = (function() {
 
 })();
 
-tortoiseAndHareLoopDetector = function(list) {
+function tortoiseAndHareLoopDetector (list) {
   var hare, tortoise, nextHare;
   tortoise = list;
   hare = list.next;
@@ -71,9 +71,9 @@ This algorithm is called "The Tortoise and the Hare," and was discovered by Robe
 At the time, I couldn't think of any way to use hashing to solve the problem, so I gave up and tried to fit this into a powers-of-two algorithm. My first pass at it was clumsy, but it was roughly equivalent to this:
 
 {% highlight javascript %}
-var list, teleportingTurtleLoopDetector;
+var list;
 
-teleportingTurtleLoopDetector = function(list) {
+function teleportingTurtleLoopDetector (list) {
   var i, rabbit, speed, turtle;
   speed = 1;
   turtle = rabbit = list;
