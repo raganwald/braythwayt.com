@@ -74,6 +74,46 @@ An interesting exercise, but what good is it? Well, let's pose a problem:
 
 ### a drunken walk
 
-*Consider a finite checkerboard of unknown size. On each square is placed a spinner. Each spinner can point in one of four directions: N, S, E, and W. A chequer is placed randomly on the checkerboard. Each move consists of moving the red chequer one square in the direction of the spinner in the square it occupies. If the chequer eventually falls off the edge of the board, it is a "loss." If the chequer never falls off the board, it is a "win."*
+*Consider a finite checkerboard of unknown size. On each square is placed a spinner. Each spinner can point in one of four directions: N, S, E, and W. A chequer is placed randomly on the checkerboard. Each move consists of moving the red chequer one square in the direction of the spinner in the square it occupies.*
 
-*Report a win or loss for the chequer in constant space.*
+*You cannot see the entire board, just the square the chequerboard occupies. They are identical, so the only thing you know after a move is whether you have fallen off the edge of the board or whether you are still on the board. If you are still on the board, you know the direction of the spinner in that square.*
+
+*Write a function that determines whether the chequer will remain on the board forever, in constant space.*
+
+Well? Can refactoring our algorithm help us? Try to work this out for yourself. You'll need some kind of data structure for the chequerboard, including a randomized direction for each square and a randomly chosen start position.
+
+### hint
+
+In [Tortoises, Teleporting Turtles, and Iterators](http://braythwayt.com/2013/02/15/turtles-and-iterators.js.html), we saw the `fold` function that converts a finite iterator into a value:
+
+{% highlight javascript %}
+function fold (iter, binaryFn, seed) {
+  var acc, element;
+  acc = seed;
+  element = iter();
+  while (element != null) {
+    acc = binaryFn.call(element, acc, element);
+    element = iter();
+  }
+  return acc;
+};
+{% endhighlight %}
+
+There's a similar function that works with finite or infinite iterators, `accumulate`:
+
+{% highlight javascript %}
+function accumulate (iter, binaryFn, seed) {
+  var acc = seed;
+  return function () {
+    element = iter();
+    if (element != null) {
+      return element;
+    }
+    else {
+      return (acc = binaryFn.call(element, acc, element));
+    }
+  }
+};
+{% endhighlight %}
+
+`accumulate` can be very handy for solving this problem.
