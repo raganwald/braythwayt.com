@@ -44,7 +44,7 @@ function tortoiseAndHareLoopDetector (list) {
 };
 {% endhighlight %}
 
-Now we'll refactor it to use iterators instead of linked lists. We'll add an `.iterator()` method to linked lists as well:
+Now we'll refactor it to use iterators instead of linked lists. We'll add an `.iterator()` method to linked lists, and we'll rewrite our loop detector function to take an "iterable" instead of a list:
 
 {% highlight javascript %}
 LinkedList.prototype.iterator = function() {
@@ -56,9 +56,9 @@ LinkedList.prototype.iterator = function() {
   };
 };
 
-function tortoiseAndHareLoopDetector (list) {
-  var tortoise = list.iterator(),
-      hare = list.iterator(), 
+function tortoiseAndHareLoopDetector (iterable) {
+  var tortoise = iterable.iterator(),
+      hare = iterable.iterator(), 
       tortoiseValue, 
       hareValue;
   while (((tortoiseValue = tortoise()) != null) && ((hareValue = hare()() != null))) {

@@ -27,7 +27,7 @@ var DIRECTIONS = [
 var LOOKUP = (function () {
   var LOOKUP = {},
       i;
-  for (i = 0; i < 4; ++i) {
+  for (i = 0; i < DIRECTIONS.length; ++i) {
     LOOKUP[DIRECTIONS[i].toString()] = DIRECTIONS[i];
   }
   return LOOKUP;
@@ -35,20 +35,19 @@ var LOOKUP = (function () {
 
 var Game = (function () {
   function Game () {
-    var self = this instanceof Game ? this : new Game (),
-        i,
+    var i,
         j;
     
-    self.size = Math.floor(Math.random() * 8) + 8;
-    self.board = [];
-    for (i = 0; i < size; ++i) {
-      self.board[i] = [];
-      for (j = 0; j < size; ++j) {
-        self.board[i][j] = DIRECTIONS[Math.floor(Math.random() * self.size)];
+    this.size = Math.floor(Math.random() * 8) + 8;
+    this.board = [];
+    for (i = 0; i < this.size; ++i) {
+      this.board[i] = [];
+      for (j = 0; j < this.size; ++j) {
+        this.board[i][j] = DIRECTIONS[Math.floor(Math.random() * DIRECTIONS.length)];
       }
     }
-    self.initialPosition = [Math.floor(Math.random() * self.size), Math.floor(Math.random() * self.size)]
-    return self;
+    this.initialPosition = [Math.floor(Math.random() * this.size), Math.floor(Math.random() * this.size)];
+    return this;
   };
   
   Game.prototype.contains = function (position) {
@@ -56,11 +55,11 @@ var Game = (function () {
   };
   
   Game.prototype.iterator = function () {
-    var position = this.initialPosition;
+    var position = [this.initialPosition[0], this.initialPosition[1]];
     return function () {
       var direction;
       if (this.contains(position)) {
-        direction = self.board[position[0]][position[1]];
+        direction = this.board[position[0]][position[1]];
         position[0] += direction.delta[0];
         position[1] += direction.delta[1];
         return direction.toString();
@@ -68,8 +67,10 @@ var Game = (function () {
       else {
         return void 0;
       }
-    }
+    }.bind(this);
   };
+  
+  return Game;
   
 })();
 
@@ -86,6 +87,19 @@ function GameProxy (game) {
       return RelativeIterator(game.iterator());
     }
   };
+};
+
+function tortoiseAndHareLoopDetector (iterable) {
+  var tortoise = iterable.iterator(),
+      hare = iterable.iterator(), 
+      tortoiseValue, 
+      hareValue;
+  while (((tortoiseValue = tortoise()) != null) && ((hareValue = hare()() != null))) {
+    if (tortoiseValue === hareValue) {
+      return true;
+    }
+  }
+  return false;
 };
 
 function doesGameTerminate (game) {
