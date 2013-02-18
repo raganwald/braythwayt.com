@@ -8,8 +8,7 @@ In [Tortoises, Teleporting Turtles, and Iterators](http://braythwayt.com/2013/02
 
 We then went on to discuss how to use iterators to untangle these concerns, but we never returned to refactor either of the algorithms. Let's do that now with the first of the original algorithms, "Tortoise and Hare:"
 
-{:lang="javascript"}
-~~~~~~~~
+~~~~~~~~ javascript
 var LinkedList = (function() {
 
   function LinkedList(content, next) {
@@ -47,8 +46,7 @@ function tortoiseAndHareLoopDetector (list) {
 
 Now we'll refactor it to use iterators instead of linked lists. We'll add an `.iterator()` method to linked lists as well:
 
-{:lang="javascript"}
-~~~~~~~~
+~~~~~~~~ javascript
 LinkedList.prototype.iterator = function() {
   var list = this;
   return function() {
