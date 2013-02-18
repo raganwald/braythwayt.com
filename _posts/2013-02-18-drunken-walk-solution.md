@@ -4,6 +4,7 @@ layout: homoiconic
 tags: javascript
 ---
 
+{% highlight javascript %}
 var DIRECTIONS = [
                    {
                      delta: [1, 0],
@@ -90,3 +91,4 @@ function GameProxy (game) {
 function doesGameTerminate (game) {
   return !tortoiseAndHareLoopDetector(GameProxy(game));
 }
+{% endhighlight %}
