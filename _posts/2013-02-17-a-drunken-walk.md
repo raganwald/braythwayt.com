@@ -1,5 +1,5 @@
 ---
-title: A Drunken Walk
+title: Programming Problem: A Drunken Walk
 layout: homoiconic
 tags: javascript
 ---
@@ -74,7 +74,7 @@ An interesting exercise, but what good is it? Well, let's pose a problem:
 
 ### a drunken walk
 
-*Consider a finite checkerboard of unknown size. On each square is placed a spinner. Each spinner can point in one of four directions: N, S, E, and W. A chequer is placed randomly on the checkerboard. Each move consists of moving the red chequer one square in the direction of the spinner in the square it occupies.*
+*Consider a finite checkerboard of unknown size. On each square is placed a spinner. Each spinner can point in one of four directions: N, S, E, and W. A chequer is placed randomly on the checkerboard. Each move consists of moving the red chequer one square in the direction of the spinner in the square it occupies. At the beginning, the spinners are spun and point in random directions. The spinners do not move thereafter.*
 
 *You cannot see the entire board, just the square the chequerboard occupies. They are identical, so the only thing you know after a move is whether you have fallen off the edge of the board or whether you are still on the board. If you are still on the board, you know the direction of the spinner in that square.*
 
@@ -116,4 +116,4 @@ function accumulate (iter, binaryFn, seed) {
 };
 {% endhighlight %}
 
-`accumulate` can be very handy for solving this problem.
+`accumulate` can be very handy for solving this problem. A solution will be posted this week.
