@@ -4,7 +4,20 @@ layout: homoiconic
 tags: javascript
 ---
 
-This is an example solution for [The "Drunken Walk" Programming Problem](http://braythwayt.com/2013/02/17/a-drunken-walk.html). It demonstrates how refactoring the "Tortoise and Hare" algorithm to use iterables instead of directly manipulating linked list nodes allows it to be used to find loops in a path as well as loops in a linked list. 
+This is an example solution for [The "Drunken Walk" Programming Problem](http://braythwayt.com/2013/02/17/a-drunken-walk.html). It demonstrates how refactoring the "Tortoise and Hare" algorithm to use iterables instead of directly manipulating linked list nodes allows it to be used to find loops in a path as well as loops in a linked list.
+
+### problem statement
+
+*Consider a finite checkerboard of unknown size. On each square is placed a spinner. Each spinner can point in one of four directions: N, S, E, and W. A chequer is placed randomly on the checkerboard. Each move consists of moving the red chequer one square in the direction of the spinner in the square it occupies. At the beginning, the spinners are spun and point in random directions. The spinners do not move thereafter.*
+
+*You cannot see the entire board, just the square the chequerboard occupies. They are identical, so the only thing you know after a move is whether you have fallen off the edge of the board or whether you are still on the board. If you are still on the board, you know the direction of the spinner in that square.*
+
+*Write a function that determines whether the chequer will remain on the board forever, in constant space.*
+
+### suggested starting point
+
+The suggested starting point is as follows. First, a data structure that associates directions with increments or decrements along two axes:
+
 
 {% highlight javascript %}
 var DIRECTIONS = [
@@ -25,7 +38,11 @@ var DIRECTIONS = [
                      toString: function () { return 'W'; }
                    }
                  ];
+{% endhighlight %}
 
+Next, a single "Game" object that randomly initializes the directions associated with each square and a randomly selected starting square. Games are iterables: Calling `.iterate()` on a game returns an iterator that represents the chequer's path from square to square, returning the direction. SO the results might be `N`, `E`, `N`, `S`, and so forth:
+
+{% highlight javascript %}
 var Game = (function () {
   function Game () {
     var i,
@@ -69,7 +86,11 @@ var Game = (function () {
   return Game;
   
 })();
+{% endhighlight %}
 
+Finally, we are given `accumulate`, a version of `fold` that accumulates state and produces another iterator:
+
+{% highlight javascript %}
 function accumulate (iter, binaryFn, seed) {
   var acc = seed;
   return function () {
@@ -82,7 +103,26 @@ function accumulate (iter, binaryFn, seed) {
     }
   }
 };
+{% endhighlight %}
 
+### solution with commentary
+
+Our insight is that although we don't know the size of the board, there are two possibilities:
+
+1. The chequer visits a finite number of unique squares, and then falls off the edge.
+2. The chequer follows a path that revisits a square, which leads to it "looping" forever.
+
+This is isomorphic to the problem of discovering whether a linked list loops, all we have to do is transform the game's iterator into an iterator that has the property that it uniquely identifies each square. As given, the iterator does not have this property: If it returns `N` twice, for example, this could be the same cell or two different cells that both have a spinner set to "N."
+
+We aren't given the position of the chequer at any time, but what we can do is convert the directions we are given into a position relative to the starting square. One wrinkle: JavaScript does not do structural equivalence in comparisons, so we can't use an array or object to represent our relative position.[^canonical]
+
+[^canonical]: We also can't canonicalize objects, because we are constrained to write a solution that requires constant space.
+
+So instead, we represent positions as strings, and that adds some fiddling to translate back and forth from strings to numbers. We use `accumulate` to transform an iterator of directions into an iterator of offsets represented as strings. If our tortoise and hare ever end up with the same string representation, the path loops and the game does not terminate.
+
+`RelativeIterator` is a function that converts a Game's iterator into a relative iterator.
+
+{% highlight javascript %}
 var RelativeIterator = (function () {
   var LOOKUP = (function () {
     var LOOKUP = {},
@@ -105,17 +145,11 @@ var RelativeIterator = (function () {
   return RelativeIterator;
   
 })();
+{% endhighlight %}
 
+Finally, we need an iterable that returns RelativeIterators for `tortoiseAndHareLoopDetector`. `RelativeIterable` wraps a game for exactly this purpose, and our `terminates` function uses this to answer whether a particular game v=ever terminates.
 
-
-function GameProxy (game) {
-  return {
-    iterator: function () {
-      return RelativeIterator(game.iterator());
-    }
-  };
-};
-
+{% highlight javascript %}
 function tortoiseAndHareLoopDetector (iterable) {
   var tortoise = iterable.iterator(),
       hare = iterable.iterator(), 
@@ -129,7 +163,19 @@ function tortoiseAndHareLoopDetector (iterable) {
   return false;
 };
 
+function RelativeIterable (game) {
+  return {
+    iterator: function () {
+      return RelativeIterator(game.iterator());
+    }
+  };
+};
+
 function terminates (game) {
-  return !tortoiseAndHareLoopDetector(GameProxy(game));
+  return !tortoiseAndHareLoopDetector(RelativeIterable(game));
 }
 {% endhighlight %}
+
+### conclusion
+
+Untangling the mechanism of following a linked list from the algorithm of searching for a loop allows us to repurpose the tortoise and hare algorithm to solve a question about a path looping. Better factoring equals more reuse. Win.
