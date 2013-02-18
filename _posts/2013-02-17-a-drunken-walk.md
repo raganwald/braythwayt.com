@@ -116,4 +116,4 @@ function accumulate (iter, binaryFn, seed) {
 };
 {% endhighlight %}
 
-`accumulate` can be very handy for solving this problem. A solution will be posted this week.
+`accumulate` can be very handy for solving this problem. [A preliminary solution is here](http://braythwayt.com/2013/02/18/brunken-walk-solution.html).
