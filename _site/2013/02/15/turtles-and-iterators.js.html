@@ -65,7 +65,7 @@
 
 <p>Some time later, I was told that the correct solution was:</p>
 
-<div class="highlight"><pre><code class="javascript"><span class="kd">var</span> <span class="nx">LinkedList</span><span class="p">,</span> <span class="nx">list</span><span class="p">,</span> <span class="nx">tortoiseAndHareLoopDetector</span><span class="p">;</span>
+<div class="highlight"><pre><code class="javascript"><span class="kd">var</span> <span class="nx">LinkedList</span><span class="p">,</span> <span class="nx">list</span><span class="p">;</span>
 
 <span class="nx">LinkedList</span> <span class="o">=</span> <span class="p">(</span><span class="kd">function</span><span class="p">()</span> <span class="p">{</span>
 
@@ -87,7 +87,7 @@
 
 <span class="p">})();</span>
 
-<span class="nx">tortoiseAndHareLoopDetector</span> <span class="o">=</span> <span class="kd">function</span><span class="p">(</span><span class="nx">list</span><span class="p">)</span> <span class="p">{</span>
+<span class="kd">function</span> <span class="nx">tortoiseAndHareLoopDetector</span> <span class="p">(</span><span class="nx">list</span><span class="p">)</span> <span class="p">{</span>
   <span class="kd">var</span> <span class="nx">hare</span><span class="p">,</span> <span class="nx">tortoise</span><span class="p">,</span> <span class="nx">nextHare</span><span class="p">;</span>
   <span class="nx">tortoise</span> <span class="o">=</span> <span class="nx">list</span><span class="p">;</span>
   <span class="nx">hare</span> <span class="o">=</span> <span class="nx">list</span><span class="p">.</span><span class="nx">next</span><span class="p">;</span>
@@ -116,9 +116,9 @@
 
 <p>At the time, I couldn’t think of any way to use hashing to solve the problem, so I gave up and tried to fit this into a powers-of-two algorithm. My first pass at it was clumsy, but it was roughly equivalent to this:</p>
 
-<div class="highlight"><pre><code class="javascript"><span class="kd">var</span> <span class="nx">list</span><span class="p">,</span> <span class="nx">teleportingTurtleLoopDetector</span><span class="p">;</span>
+<div class="highlight"><pre><code class="javascript"><span class="kd">var</span> <span class="nx">list</span><span class="p">;</span>
 
-<span class="nx">teleportingTurtleLoopDetector</span> <span class="o">=</span> <span class="kd">function</span><span class="p">(</span><span class="nx">list</span><span class="p">)</span> <span class="p">{</span>
+<span class="kd">function</span> <span class="nx">teleportingTurtleLoopDetector</span> <span class="p">(</span><span class="nx">list</span><span class="p">)</span> <span class="p">{</span>
   <span class="kd">var</span> <span class="nx">i</span><span class="p">,</span> <span class="nx">rabbit</span><span class="p">,</span> <span class="nx">speed</span><span class="p">,</span> <span class="nx">turtle</span><span class="p">;</span>
   <span class="nx">speed</span> <span class="o">=</span> <span class="mi">1</span><span class="p">;</span>
   <span class="nx">turtle</span> <span class="o">=</span> <span class="nx">rabbit</span> <span class="o">=</span> <span class="nx">list</span><span class="p">;</span>
