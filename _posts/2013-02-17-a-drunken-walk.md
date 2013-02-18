@@ -1,5 +1,5 @@
 ---
-title: Programming Problem\: A Drunken Walk
+title: The "Drunken Walk" Programming Problem
 layout: homoiconic
 tags: javascript
 ---
