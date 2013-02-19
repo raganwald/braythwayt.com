@@ -171,7 +171,7 @@ function terminates (game) {
 
 ### conclusion
 
-Untangling the mechanism of following a linked list from the algorithm of searching for a loop allows us to repurpose the tortoise and hare algorithm to solve a question about a path looping.
+Untangling the mechanism of following a linked list from the algorithm of searching for a loop allows us to repurpose the Tortoise and Hare algorithm to solve a question about a path looping.
 
 Better factoring equals more reuse.
 
