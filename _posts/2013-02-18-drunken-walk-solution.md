@@ -14,8 +14,7 @@ This is an example solution for [The "Drunken Walk" Programming Problem](http://
 
 ### suggested starting point
 
-The suggested starting point is as follows. First, a data structure that associates directions with increments or decrements along two axes:
-
+The suggested starting point is a "Game" object that randomly initializes the directions associated with each square and a randomly selected starting square. Games are iterables: Calling `.iterate()` on a game returns an iterator that represents the chequer's path from square to square, returning the direction. SO the results might be `N`, `E`, `N`, `S`, and so forth:
 
 {% highlight javascript %}
 var DIRECTIONS = [
@@ -36,11 +35,7 @@ var DIRECTIONS = [
                      toString: function () { return 'W'; }
                    }
                  ];
-{% endhighlight %}
 
-Next, a single "Game" object that randomly initializes the directions associated with each square and a randomly selected starting square. Games are iterables: Calling `.iterate()` on a game returns an iterator that represents the chequer's path from square to square, returning the direction. SO the results might be `N`, `E`, `N`, `S`, and so forth:
-
-{% highlight javascript %}
 var Game = (function () {
   function Game () {
     var i,
