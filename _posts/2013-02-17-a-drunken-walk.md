@@ -221,7 +221,7 @@ i();
 i();
   //=> undefined
   
-`accumulate` is useful for producing stateful maps from one iterator to another.
+`accumulate` can be thought of as iterating over the steps of a fold. Accumulate can also be thought of as a stateful map from one iterator to another.
 
 ### a solution
 
