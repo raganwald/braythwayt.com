@@ -187,6 +187,6 @@ function accumulate (iter, binaryFn, seed) {
 
 ### a solution
 
-One possible solution is posted separately to prevent spoilers. Try at least thinking it through before peaking!
+One possible solution is posted separately to prevent spoilers. Try at least thinking it through before peeking!
 
 [Solving the "Drunken Walk" problem with iterators](http://braythwayt.com/2013/02/18/drunken-walk-solution.html).
