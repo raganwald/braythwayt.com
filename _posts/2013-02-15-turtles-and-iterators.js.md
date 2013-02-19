@@ -432,6 +432,10 @@ This solution composes the parts we already have, rather than writing a tricky b
 
 Untangling the concerns of how to iterate over data from what to do with data leads us to thinking of iterators and working directly with iterators. For example, we can map and filter iterators rather than trying to write separate map and filter functions or methods for each type of data structure. This leads to the possibility of working with lazy or infinite iterators.
 
-*This material will be added to [JavaScript Allongé][ja], [CoffeeScript Ristretto][cr], and/or [allong.es](http://allong.es) after feedback and review*.
+**next**
+
+In [The "Drunken Walk" Programming Problem](http://braythwayt.com/2013/02/17/a-drunken-walk.html), we'll refactor the "Tortoise and Hare" algorithm to solve an isomorphic programming problem. 
+
+*This material also appears in the book [JavaScript Allongé](http://leanpub.com/javascript-allongé).*
 
 
