@@ -176,3 +176,5 @@ Untangling the mechanism of following a linked list from the algorithm of search
 Better factoring equals more reuse.
 
 Win.
+
+---
