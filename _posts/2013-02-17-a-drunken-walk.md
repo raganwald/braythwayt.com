@@ -199,7 +199,29 @@ function accumulate (iter, binaryFn, seed) {
 };
 {% endhighlight %}
 
-`accumulate` can be very handy for solving this problem.
+`accumulate` can be very handy for solving this problem. Like `fold`, accumulate takes an iterator, a binary function, and a seed. But instead of returning the final, accumulated value, it returns an iterator over the accumulated values. Compare and contrast:
+
+{% highlight javascript %}
+function sum (x, y) { return x + y; }
+
+fold(ArrayIterator([1, 2, 3, 4, 5]), sum, 0);
+  //=> 15
+
+var i = accumulate(ArrayIterator([1, 2, 3, 4, 5]), sum, 0);
+i();
+  //=> 1
+i();
+  //=> 3
+i();
+  //=> 6
+i();
+  //=> 10
+i();
+  //=> 15
+i();
+  //=> undefined
+  
+`accumulate` is useful for producing stateful maps from one iterator to another.
 
 ### a solution
 
