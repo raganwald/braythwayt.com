@@ -45,7 +45,26 @@ function tortoiseAndHareLoopDetector (list) {
 };
 {% endhighlight %}
 
-We then went on to discuss how to use functional iterators to untangle concerns like this, and used taking the sum of a list as an example. However, we never returned to refactor the Tortoise and Hare algorithm. Let's do that now: We'll refactor it to use iterators instead of directly operate on linked lists. We'll add an `.iterator()` method to linked lists, and we'll rewrite our loop detector function to take an "iterable" instead of a list:
+### functional iterators
+
+We then went on to discuss how to use functional iterators to untangle concerns like this, and used taking the sum of a list as an example. A functional iterator is a stateful function that iterates over a data structure. Every time you call it, it returns the next element from the data structure. If and when it completes its traversal, it returns `undefined`.
+
+For example, here is a function that takes an array and returns a functional iterator over the array:
+
+{% highlight javascript %}
+function ArrayIterator (array) {
+  var index = 0;
+  return function() {
+    return array[index++];
+  };
+};
+{% endhighlight %}
+
+Iterators allow us to write (or refactor) functions to operate on iterators instead of data structures. That increases reuse. We can also write higher-order functions that operate directly on iterators such as mapping and selecting. That allows us to write lazy algorithms.
+
+### refactoring the tortoise and hare
+
+In [the previous post](http://braythwayt.com/2013/02/15/turtles-and-iterators.js.html), we refactored other algorithms, but not the Tortoise and Hare. Let's do that now: We'll refactor it to use iterators instead of directly operate on linked lists. We'll add an `.iterator()` method to linked lists, and we'll rewrite our loop detector function to take an "iterable" instead of a list:
 
 {% highlight javascript %}
 LinkedList.prototype.iterator = function() {
