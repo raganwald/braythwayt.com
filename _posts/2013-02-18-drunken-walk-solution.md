@@ -8,11 +8,9 @@ This is an example solution for [The "Drunken Walk" Programming Problem](http://
 
 ### problem statement
 
-*Consider a finite checkerboard of unknown size. On each square is placed a spinner. Each spinner can point in one of four directions: N, S, E, and W. A chequer is placed randomly on the checkerboard. Each move consists of moving the red chequer one square in the direction of the spinner in the square it occupies. At the beginning, the spinners are spun and point in random directions. The spinners do not move thereafter.*
+*Consider a finite checkerboard of unknown size. On each square we randomly place an arrow pointing to one of its four sides. For convenience, we shall uniformly label the directions: N, S, E, and W. A chequer is placed randomly on the checkerboard. Each move consists of moving the red chequer one square in the direction of the arrow in the square it occupies. If the arrow should cause the chequer to move off the edge of the board, the game halts.*
 
-*You cannot see the entire board, just the square the chequerboard occupies. They are identical, so the only thing you know after a move is whether you have fallen off the edge of the board or whether you are still on the board. If you are still on the board, you know the direction of the spinner in that square.*
-
-*Write a function that determines whether the chequer will remain on the board forever, in constant space.*
+*As a player moves the chequer, he calls out the direction of movement, e.g. "N, E, N, S, N, E..." Write an algorithm that will determine whether the game halts strictly from the called out directions, in constant space.*
 
 ### suggested starting point
 

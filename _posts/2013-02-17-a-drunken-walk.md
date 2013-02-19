@@ -4,9 +4,10 @@ layout: homoiconic
 tags: javascript
 ---
 
-In [Tortoises, Teleporting Turtles, and Iterators](http://braythwayt.com/2013/02/15/turtles-and-iterators.js.html), we looked at two different algorithms for detecting a linked list, each of which tangled iteration over the list with the algorithm for detecting a loop.
+In [Tortoises, Teleporting Turtles, and Iterators](http://braythwayt.com/2013/02/15/turtles-and-iterators.js.html), we looked at the "Tortoise and Hare" algorithm for detecting a linked list. Like many such algorithms, it "tangles" two different concerns:
 
-We then went on to discuss how to use iterators to untangle these concerns, but we never returned to refactor either of the algorithms. Let's do that now with the first of the original algorithms, "Tortoise and Hare:"
+1. The mechanism for iterating over a list.
+2. The algorithm for detecting a loop in a list.
 
 {% highlight javascript %}
 var LinkedList = (function() {
@@ -44,7 +45,7 @@ function tortoiseAndHareLoopDetector (list) {
 };
 {% endhighlight %}
 
-Now we'll refactor it to use iterators instead of linked lists. We'll add an `.iterator()` method to linked lists, and we'll rewrite our loop detector function to take an "iterable" instead of a list:
+We then went on to discuss how to use functional iterators to untangle concerns like this, and used taking the sum of a list as an example. However, we never returned to refactor the Tortoise and Hare algorithm. Let's do that now: We'll refactor it to use iterators instead of directly operate on linked lists. We'll add an `.iterator()` method to linked lists, and we'll rewrite our loop detector function to take an "iterable" instead of a list:
 
 {% highlight javascript %}
 LinkedList.prototype.iterator = function() {
@@ -70,17 +71,13 @@ function tortoiseAndHareLoopDetector (iterable) {
 };
 {% endhighlight %}
 
-An interesting exercise, but what good is it? Well, let's pose a problem:
+We now have a function that will operate on anything that responds to the `.iterate()` method. It's classic "Duck Typed" Object-Orientation. So, how shall we put it to work?
 
 ### a drunken walk
 
-*Consider a finite checkerboard of unknown size. On each square is placed a spinner. Each spinner can point in one of four directions: N, S, E, and W. A chequer is placed randomly on the checkerboard. Each move consists of moving the red chequer one square in the direction of the spinner in the square it occupies. At the beginning, the spinners are spun and point in random directions. The spinners do not move thereafter.*
+*Consider a finite checkerboard of unknown size. On each square we randomly place an arrow pointing to one of its four sides. For convenience, we shall uniformly label the directions: N, S, E, and W. A chequer is placed randomly on the checkerboard. Each move consists of moving the red chequer one square in the direction of the arrow in the square it occupies. If the arrow should cause the chequer to move off the edge of the board, the game halts.*
 
-*You cannot see the entire board, just the square the chequerboard occupies. They are identical, so the only thing you know after a move is whether you have fallen off the edge of the board or whether you are still on the board. If you are still on the board, you know the direction of the spinner in that square.*
-
-*Write a function that determines whether the chequer will remain on the board forever, in constant space.*
-
-Well? Can refactoring our algorithm help us? Try to work this out for yourself. You'll need some kind of data structure for the chequerboard, including a randomized direction for each square and a randomly chosen start position.
+*As a player moves the chequer, he calls out the direction of movement, e.g. "N, E, N, S, N, E..." Write an algorithm that will determine whether the game halts strictly from the called out directions, in constant space.*
 
 ### hints
 
