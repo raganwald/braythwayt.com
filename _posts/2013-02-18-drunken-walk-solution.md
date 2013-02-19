@@ -140,7 +140,7 @@ var RelativeIterator = (function () {
 })();
 {% endhighlight %}
 
-Finally, we need an iterable that returns RelativeIterators for `tortoiseAndHareLoopDetector`. `RelativeIterable` wraps a game for exactly this purpose, and our `terminates` function uses this to answer whether a particular game v=ever terminates.
+Finally, we need an iterable that returns RelativeIterators for `tortoiseAndHareLoopDetector`. `RelativeIterable` wraps a Game for exactly this purpose, and our `terminates` function uses this to answer whether a particular game ever terminates.
 
 {% highlight javascript %}
 function tortoiseAndHareLoopDetector (iterable) {
@@ -171,4 +171,8 @@ function terminates (game) {
 
 ### conclusion
 
-Untangling the mechanism of following a linked list from the algorithm of searching for a loop allows us to repurpose the tortoise and hare algorithm to solve a question about a path looping. Better factoring equals more reuse. Win.
+Untangling the mechanism of following a linked list from the algorithm of searching for a loop allows us to repurpose the tortoise and hare algorithm to solve a question about a path looping.
+
+Better factoring equals more reuse.
+
+Win.
