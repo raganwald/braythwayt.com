@@ -1,6 +1,6 @@
 ---
 title: Better to leave it in the social sphere
-layout: homoiconic
+layout: simple
 date: 2013-02-19
 ---
 
