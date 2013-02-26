@@ -26,7 +26,7 @@ They danced, they fell in love, they married, and they tried to rent an apartmen
 
 They would have to buy a home to live together, so they did. This was more expensive than renting, so they both needed to work. Gwen scoured the newspaper classifieds, and saw that Empire Life was hiring young men for a career in "data processing," no experience required. They invited applicants to attend a "cattle call" interview, so Gwen attended, on time and neatly dressed.
 
-![Keypunch](/assets/images/posterous/punch.gif)
+![Keypunch](/assets/images/punch.gif)
 
 She was, she recalled, the only woman. She was also the only black person. A crowd of young men were lined up in front of some tables, where some women were handing out aptitude tests. When Gwen reached the front of the line, the women tried to be helpful. "Yes, we are hiring keypunchers, but you're in the wrong room." Gwen had learned how to be forceful, but she also learned some tact. And she needed that job. 
 
