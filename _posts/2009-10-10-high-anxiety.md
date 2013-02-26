@@ -1,3 +1,8 @@
+---
+title: High Anxiety
+layout: braythwayt
+---
+
 The other night, a good friend was visiting and she suggested we pass the time playing [Go](http://bit.ly/hbUQr). I own a board, but I don't recall ever playing with it. We got the board out and she started to explain how to play. I love games, so you would expect that we had a good time. But no, I fell into a blue funk and things went rapidly downhill. I do not kid when I say that by the time she ended the game in exasperation, I had sucked all the joy out of the room.
 
 
@@ -31,7 +36,7 @@ There are many ways to explain my discomfort. Much has been made of [Learned Hel
 
 The feelings of being helpless and incompetent cut me somewhere very deep. It feels a little like being a victim, like I am exposed to being manipulated and hurt by others, like my opponents in a game are going to really hurt me and I will have no defense, I won't even know I am being led to slaughter until they announce "Checkmate" malevolently. And no matter how much I reassure myself that I am playing a *game* with a *friend*, with someone who cares deeply about my feelings and would never want to hurt me, inside me there is a child who fears being hurt by someone who claims to love them, and it is hard to overcome that child's terror, it is hard to feel *safe*.
 
-**Playing Again**
+### Playing Again
 
 We started to play. She gave me three stones on a small board and made the first move. I stared at her stone. What was she doing? Why? What was the threat? How should I respond?? In bridge we used to say that a player would go "into the tank," thinking silently for a long time when faced with a difficult choice. I went into the tank on the very first play. What was I supposed to do? How was I supposed to respond? What was my plan? I had no idea. I still have no idea.
 
