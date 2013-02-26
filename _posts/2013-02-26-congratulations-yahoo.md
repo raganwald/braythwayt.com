@@ -3,7 +3,7 @@ title: Congratulations, Yahoo!
 layout: braythwayt
 ---
 
-Yes, congratulations on issuing the edict (or is it decree?) that henceforth, all such persons who attempt to further Yahoo!'s mission and business goals but who fail to do so within such times and places as dictated by Yahoo! management, can go help someone else succeed. In other words, "have your ass in an office chair, in our offices, during office hours, or you're gone."[^rumour]
+Yes, congratulations on issuing the edict (or is it decree?) that *Henceforth, all such persons who attempt to further Yahoo!'s mission and business goals but who fail to do so within such times and places as dictated by Yahoo! management, shall suffer the penalty of walking the plank.*. In other words, "Have your ass in an office chair, in our offices, during office hours, or you're gone."[^rumour]
 
 [^rumour]: Rumour has it that this is a "soft layoff," and that many of the people who comply with the edict and start working from the office will soon be fired any ways, but that's just a rumour.
 
