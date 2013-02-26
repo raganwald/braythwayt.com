@@ -55,7 +55,7 @@ Today she is retired, and like most retirees, she asks her [son](http://braythw
 
 ## Follow-up to "A Woman's Story"
 
-First off, I'm amazed and gratified that so many people liked [A Woman's Story](http://raganwald.posterous.com/a-womans-story). My mother seems pretty amazing to me, and the story of how she became a systems analyst is just one piece of an incredible life. I was invited to join MetaFilter by a friend. There was a lot more [discussion](http://www.metafilter.com/114365/A-Womans-Story) about IBM and the early days of computing and a few folks asked me to share more about my mother's life. So here's what I wrote there (more or less, I've fixed some spelling and grammar errors):
+First off, I'm amazed and gratified that so many people liked "A Woman's Story." My mother seems pretty amazing to me, and the story of how she became a systems analyst is just one piece of an incredible life. I was invited to join MetaFilter by a friend. There was a lot more [discussion](http://www.metafilter.com/114365/A-Womans-Story) about IBM and the early days of computing and a few folks asked me to share more about my mother's life. So here's what I wrote there (more or less, I've fixed some spelling and grammar errors):
 
 > My mother was a very driven women. She was very successful as an analyst, and transcended the programming aspect of the job. She once told me that years after she left Empire Life, they were still using an operations manual that she and another woman had written, because it explained their procedures clearly.
 > 
