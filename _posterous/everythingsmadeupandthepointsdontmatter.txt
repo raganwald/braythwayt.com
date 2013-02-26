@@ -1,0 +1,19 @@
+## Everything's Made Up and The Points Don't Matter
+
+Yesterday, I wrote a [fictional resignation letter](http://raganwald.posterous.com/i-hereby-resign). I was not clear that this was a work of speculative fiction, and I apologise for failing to include a disclaimer.
+
+I am employed as a technical lead with a small consulting firm. I am not a Director. I have been here for years, not two months. We don't have a COO. We are very interested in the drinking habits of developers, but we don't surf their Facebook pages, we host a monthly pub night as well as other social and technical gatherings like the upcoming Throne of JS conference.
+
+It's impossible to get through a decade without somebody, somewhere suggesting an idea you question strongly. I believe in working with people who discuss such things respectfully with each other. I hope that if anyone ever suggests a misguided policy to me, I will be able to listen to their concerns and work with them to establish a policy that is ethical and in the company's true best interests, rather than "going along with it" and then resigning when I realize that my bonus is in jeopardy.
+
+As they say: "Change your company. If that fails, change companies."
+
+p.s. For those who like to "keep score," I left a few clues that in hindsight, I realize were insufficient to alert everyone to the letter's inauthenticity.
+
+First, the Nixon letter. Nixon invaded people's privacy and was forced to resign. In the story, I invaded people's privacy and was forced to resign. This is not a noble story of a man standing up for what he believes in, it's a story of a fellow who knows that he and not the COO ought to be judging new hires. Nevertheless, he complies with unreasonable demands and then resigns when they bite him personally. If I ever act this way, I won't brag about it on my blog.
+
+Second, I hoped that the nerds in the audience would get a good laugh out of hiring for the Fizz Buzz team. I'm not sure that even Enterprise Java Fizz Buzz running on multiple Websphere instances communicating via SOAP over MQ would need an entire team to build and maintain it.
+
+Clues or no clues, I should have ended the post with a disclaimer. Mea Culpa!
+
+[Permalink](http://raganwald.posterous.com/everythings-made-up-and-the-points-dont-matte)

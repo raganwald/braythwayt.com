@@ -1,0 +1,29 @@
+## When you share personal data with Facebook friends, you're sharing your personal data with every app your friends use
+
+By now, everyone is familiar with the idea that Facebook's purpose is to strip-mine your personal data and behaviour for information they can sell to advertisers. Whatever you share on Facebook is also shared _with_ Facebook. You know that, and I presume you're good with that.
+
+Facebook prefers that you share your behaviour with as much of the world as possible. It's possible to control what you share using now-you-see-them, now-you-don't controls that they provide. For example, you can say that you are only sharing your Work History with friends, but not with friends of friends. If Tom's your friend, Tom can see that you used to work for [Initech](https://en.wikipedia.org/wiki/Office_Space), but his buddy Jerry can't.
+
+If Tom decides to share his own work history with the world, that's Tom's business. Imagine he decides to go job hunting. He puts together his resumé and shares it with a headhunter. I think we all expect that he is not supposed to take all of his friends' resumés and hand them to the headhunter as part of looking for a job. If a headhunter asked him to do that, we'd call it pretty sleazy. And if Tom went along with it, we'd be upset with him.
+
+Yet that's exactly what's going on in the world of Facebook by default. Here's an app that purports to help people build their "professional network:"
+
+[![Pastedgraphic-1](images/PastedGraphic-1_tiff_scaled_501.jpg)](http://getfile2.posterous.com/getfile/files.posterous.com/raganwald/nYCRVZYP63t72ORY2INO6TEo4wGPckzHHe2GII5scB9TTDGH9XxLdQbjtOJg/PastedGraphic-1.tiff.converted.jpg)
+
+If you share your work history with friends and they use this app, you've just silently shared your work history with the people who built this app. And your locations data! I have visions of them selling an employee profiling service: "Mr. Braithwaite claimed to be employed with Initech, but he spent an awful lot of time at [Sense Appeal Coffee Roasters](http://senseappeal.ca/) during that time period..."
+
+Did you read and authorize their Terms of Service? Neither did I! Luckily, Facebook has a way to shut this nonsense down. Let's look in their privacy settings for "Apps, Games and Websites:"
+
+[![Pastedgraphic-2](images/PastedGraphic-2_tiff_scaled_501.jpg)](http://getfile9.posterous.com/getfile/files.posterous.com/raganwald/iZjNMl12B4c7WNqILnRMcsEaoWAyH20HAccviaTlteSezQBL6fDIpqfh897k/PastedGraphic-2.tiff.converted.jpg)
+
+There it is. Look at what you're sharing by default with all of your friends' apps!
+
+[![Screen_shot_2012-04-07_at_1](images/Screen_Shot_2012-04-07_at_1_09_32_PM_png_scaled500.png)](http://getfile0.posterous.com/getfile/files.posterous.com/temp-2012-04-07/cJshjDFInDnldAtHiFAprbBithqCloeeArGgdrEdroFJEBqsenypjeEuBdhC/Screen_Shot_2012-04-07_at_1.09.32_PM.png.scaled1000.png)
+
+Selfish bastards that we are, we do not wish to make our friends' experiences "better and more social" when they use apps that we don't personally authorize. Turn everything off and save changes. Voila! You've stuck another finger in the dike holding back the endless flood of Facebook privacy loopholes.
+
+You're welcome.
+
+([discuss](http://www.reddit.com/r/technology/comments/ry0oh/when_you_share_personal_data_with_facebook/))
+
+[Permalink](http://raganwald.posterous.com/when-you-share-personal-data-with-facebook-fr)

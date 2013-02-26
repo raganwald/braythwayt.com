@@ -1,0 +1,27 @@
+## The web is still the place
+
+[Daring Fireball](http://daringfireball.net/linked/2012/09/08/mg-twitter-mac) on Twitter's decision to End-of-Life their Mac client:
+
+> They may even have a retina-ready update ready to release --- but they're just going to keep it in their pocket out of spite. They want people to use the website.
+
+Hmm. Those two statements contradict each other: If it's spite, they have no motivation beyond schadenfreude. If it's that they want people to use the web site, it's that they want people to use the web site, not spite. My money's on Gruber being right. I guess I need to be more specific: My money's on Gruber being right that it's because they want people using the web client.
+
+Even if they have a new version "in the can," releasing it today means people falling in love with its features and being even more resistant to using the web. It means support costs. It means sending a mixed message. If the web's the place, why not go "all in" on it now? Why wait for tomorrow if it's the right decision today?
+
+And why wouldn't it be the right decision? The web is the ultimate write-once, run-everywhere platform[1]. Why incur the additional expense and headache of maintaining multiple, heterogenous development platforms unless a vendor forces your hand by selling a gajillion devices that don't have a decent web browser?
+
+If you do take that headache on, all is not sweetness and light with your customer base. I recently installed the latest incarnation of Facebook's iOS client on my iPad. I noticed right away that I can't seem to share the deep, insightful posts I read from sources like George Takai or [I Fucking Love Science](https://www.facebook.com/IFeakingLoveScience). And my old iPhone 3G doesn't run iOS4.3, so I can't use the new client there either.
+
+Before you say I'm a luddite and don't count, consider this: Any device new enough to run the new client is fast enough to do a good job with Safari. So why bother with a native client? What's in it for the user?
+
+Facebook decided that it's worth it to maintain an iOS app in addition to a web app. I assume they've run the numbers and know it's making them money. I credit them with having brains that work. Now we see Twitter deciding that developing a native client for OS X systems---devices that do a great job running web browsers---isn't worth the cost and headaches.
+
+I know that passionate users will feel disappointed this "retina" version isn't shipping. But it's not personal. It isn't spiteful. If anything, it's a sign of things to come: Every application that can run in a web browser will soon be available in a web browser and eventually only run in a web browser. Get used to it.
+
+([discuss](http://news.ycombinator.com/item?id=4497764))
+
+Notes:
+
+1. Everywhere except corporate offices where PCs are locked down on IE. But how many of those offices allow HTTP and/or HTTPS traffic to social sites like Twitter?
+
+[Permalink](http://raganwald.posterous.com/the-web-is-still-the-place)

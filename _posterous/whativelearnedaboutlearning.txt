@@ -1,0 +1,53 @@
+## What I've Learned About Learning
+
+I have a rather glaring life-long weakness, a behaviour that has tripped me up many times. You would think that I would have noticed it and corrected my behaviour in my teens or twenties, but no, it has persisted. While I am much better at correcting myself, it is extremely persistent and requires constant vigilance to suppress.
+
+The behaviour in question is this: When I am learning something new, I suffer from laziness, impatience, and hubris. I try to grasp the gist of the thing, the conclusion, and then I stop. I figure I "understand" it, so I must be done learning.
+
+This is wrong for me. I am blessed with a quick mind for certain subjects, so there are times when I am reading something, or someone is explaining something, and I can work out the obvious implications. Someone is telling me about aspect-oriented programming, and I start thinking about cross-cutting concerns like authorization. Or perhaps database access. Then I ask myself whether AOP is related to the "Unobtrusive Javascript" style. Or if it's really fine-grained dependency injection.
+
+I'm impatient to learn, so I try to jump to the end. I don't "do the work" of taking it step by step, doing exercises with the material, building my knowledge like a pyramid with a broad foundation. If a technology seems interesting, I want to jump right into the deep end and try it on an important project instead of researching it more thoroughly or playing with it a bit on side-projects.
+
+This has been wrong more often than not.
+
+Every idea has "big implications." Decoupling. Refactoring. Events. Idempotence. Whatever. But ideas in execution have many, many little implications, little caveats and gotchas, rough edges and leaky abstractions. These "little ideas" are less important than the big ideas in theory, but in practice each failure to grasp an implication or consequence leads almost directly to a flaw in the finished work.
+
+The wrongness of my laziness, impatience, and hubris is apparent. When I think that I "grasp" an idea, I'm really only grasping the big idea. Or what I think is the big idea in my hubris. I'm assuming that what I don't know about the idea can't hurt me. But what I don't know about an idea can hurt me and often has.
+
+I don't always make this mistake. Sometimes an idea catches my fancy and I find myself playing with it. Combinators grabbed me in this way. I was fascinated by the book "To Mock a Mockingbird" many years ago, and when I started Ruby programming, I had a chance to try these ideas out in practice.
+
+I worked from Ruby to Combinatorial Logic and from Combinatorial Logic to Ruby at the same time. I tried to view certain meta-programming ideas from the perspective of CL, to fit them within the framework. This opened up some insights that had eluded me when I thought that I had "grasped" Ruby meta-programming. And when I took some of the combinators and tried to find practical uses for them in Ruby, [I learned some more](http://leanpub.com/combinators).
+
+It turns out, there really is no substitute for experience with an idea. Experience that is obtained through practice, through repeated application of principles to problems, not just from skimming a text.
+
+A decade ago, I would have read an article like this and summarized it thusly: "There's more to an idea than the obvious implication, there are some details you need to learn as well." I'd have been wrong. There's an important factor my mental model of ideas and implications ignores.
+
+> A programming language that doesn't affect the way you think about programming, is not worth learning.---Alan Perlis
+
+My personal experience is that "learning" a programming language requires writing programs in that language. If I tell you that Scheme is homoiconic, that it has just five special forms, and that it has hygienic macros do you "know" Scheme? Can you say that it "affects the way you think about programming?"
+
+From what I wrote above, we say "No, because there are many implications of these three features of the language that are not obvious, that require further study." But I think there's something else.
+
+Knowing how to do something is not the same thing as doing that thing. When you actually do the thing, and when you incorporate it into your life, it becomes a _mental habit_, it becomes part of who you are and how you think.
+
+_That_ is when a language affects the way you think about programs: When its ideas become part of your mental habits. And a language's ideas only become you rmental habits when you program in that language on a regular basis. This doesn't happen from playing with it a bit here and a bit there. It doesn't happen from reading a lot of books and blog posts. It doesn't happen when you snap your fingers and think you "get" its big ideas.
+
+You have to go beyond thinking you know how, you have to go beyond actually knowing how, you have to go out and do it. Again and again and again until it becomes a habit. I think this is true of much more than just programming languages. Everything I've learned works the same way: There is a difference between knowing how to do it and doing it enough to change your way of thinking.
+
+> In cognitive therapy, you have to "do the work," you have to grind it out and do the exercises day in and day out. Week after week. Month after month.
+
+I've experienced this in a very direct way with Cognitive Therapy. I can tell you ([and I did](http://github.com/raganwald/homoiconic/blob/master/2009-05-01/optimism.md#readme)) that one of the ways to combat depression is to change the way you explain negative events in your life, to view them as being impersonal or external, specific, and temporary. I can tell you that you should view positive events as personal or internal, general, and permanent. And I know you will snap your fingers and intuit how this can change your moods and outlook.
+
+But knowing how to change your moods is not the same thing as changing your moods. In cognitive therapy, you have to "do the work," you have to grind it out and do the exercises day in and day out. Week after week. Month after month. It's the doing of cognitive therapy that changes your moods, not the grasping of its big principles nor the acquisition of the little implications. Just doing it. Day after day after day.
+
+Reasoning by analogy is notoriously unreliable, but there seems to be a deep truth here about the business of learning ideas. There are the big implications I can grasp, sometimes quickly. But there are also the "little" implications that require practice and experimentation, and when I am impatient and ignore them, I suffer.
+
+And finally there is the way that an idea affects my thinking which comes only from sustained effort applying the idea. Picking it up and playing with it isn't enough, I need to use it every day if I want it to change me in any serious way.
+
+My weakness is thinking that when I first grasp an idea, I think I'm done. I've gotten better over time. I have learned to exercise ideas, to write and use little libraries, even to write essays like this to help me think the little implications through.
+
+But I mustn't be fooled into thinking I'm done. So if you'll excuse me, I'm off to do the work.
+
+([discuss](http://news.ycombinator.com/item?id=4350501))
+
+[Permalink](http://raganwald.posterous.com/what-ive-learned-about-learning)

@@ -1,0 +1,42 @@
+## Good people behaving badly on the Internet
+
+Please forgive me, I am feeling very emotional right now. Sometimes that's good thing, we call it passion. Sometimes that's an amusing thing, we call it ranting. I sincerely hope this doesn't come across as a bad thing, what we might call flaming.
+
+As I write this, there's a debate in the Hacker News [comments](http://news.ycombinator.com/item?id=4508873) over Wil Wheaton's "[depression lies](http://wilwheaton.net/2012/09/depression-lies/)" blog post. I am not singling Hacker News out, I've seen this exact same type of discussion back in the days of Usenet. I suspect coffeehouses have this discussion. I've certainly heard it at cocktail parties. It's a human thing, not a Geek thing.
+
+So what is working me up, and why do I describe it as " Good people behaving badly?"
+
+[![Pastedgraphic-1](images/PastedGraphic-1_tiff_scaled_501.jpg)](http://getfile2.posterous.com/getfile/files.posterous.com/raganwald/ZJs6DYhdaL4BV91AeZ5t3pIIDh0HUstSSCJVqabigFBVnSRVrjlY8StKSPZs/PastedGraphic-1.tiff.converted.jpg)
+
+Well, people are arguing the efficacy of treatment for depression on the Internet. Quite honestly, this dismays me. The matter has been studied. There are papers. There are books. There are (pardon me while I appeal to authority) people who spend their careers arguing for and against certain treatment modalities.
+
+And what do we get? Comments like this about Cognitive Behavioural Therapy:
+
+> None of those studies address what happens to the people around you if you start blaming them for your screw ups. 
+
+Now, I was going to reply to this when I realized that this person making this comment is motivated by good thoughts. He or she is trying to make the world a better place by asking questions. I believe that they are completely mischaracterizing how certain types of CBT work, so I am tempted to dispute the question as a strawman.
+
+But if my argument is that this person doesn't understand CBT, who am I to say that I understand it? I feel that people reading this kind of comment will be misled. But what if I argue with them and mischaracterize it myself? What if I "lose" an argument on the internet with this person, say because their powers of rhetoric exceed my powers of experience with the subject matter?
+
+Will people get the wrong impression and perhaps be turned away from something that might help them or someone they love? That thought dismays me. I am no more qualified to defend CBT than this person appears to be qualified to criticize it!
+
+I have known this for a long time. [When I wrote about "Learned Optimism,"](https://github.com/raganwald/homoiconic/blob/master/2009-05-01/optimism.md#optimism) I was careful to tell people to [read the book](http://www.amazon.com/gp/product/1400078393?ie=UTF8&amp;tag=raganwald001-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=1400078393). It was written by a researcher after doing actual research. It is a book. How can you judge it by what one random reader says on two sides of one piece of paper? The best I could hope for was that people might be curious enough to read it themselves.
+
+And that's really my response to people reading these comments and arguments on the Internet: Read the original books and material for yourselves.
+
+I am especially leery of reading anything by people who are certain it works or are certain it's bunk. Any time nerds start discussing hiring on the Internet, we revisit the subject that sometimes the most confident people are the ones who don't know what they don't know.
+
+Expert, experienced programmers can be full of doubts. Tyros can be very dangerous, they are unconsciously incompetent. They read "raganwald's" latest column about [method combinators](https://github.com/raganwald/method-combinators), they know just how to design the new program! Experienced hands see flaws and dangers everywhere, especially in their own choices. They use words like "sometimes" and phrases like "it depends."
+
+That carries over to subjects like therapy. The more you know, the more you see things as having trade-offs, the more you recognize the unknowns. You end up thinking that on balance such-and-such has been a good choice, but will go no further than saying "Have a look at it, decide for yourself" when asked to recommend it to others.
+
+Whereas the inexperienced fanatic is most likely to say that "It is the latest and greatest, and it's a floor wax and dessert topping as well!!!" Or to refute it absolutely: "It's garbage, snake-oil spread to sell books and garner fees for speaking engagements." To make things worse, the experienced person hesitates before wading into an Internet debate, while the inexperienced fanatic takes typing classes so that he can reply to everyone within 6 seconds of their posting a comment. So the debates are dominated by the people least able to offer insight.
+
+  
+You cannot judge Cognitive Therapy by what detractors or supporters say in an Internet Forum. It is entirely the wrong kind of anecdotal evidence, dominated by the least experienced people, under the worst possible circumstances: Pseudo-anonymous debate where you win points for getting people to click a little up-arrow and you have zero emotional investment in what people do with their lives.
+
+If you or someone you care about may be suffering from depression, please do not make choices based on Internet debates or discussions. Go to the source. See a doctor, even a GP, and discuss the symptoms. Being an informed patient is wonderful, so do research your options. Read actual books and papers. Talk to practitioners. Talk to actual patients if you can.
+
+But don't take my word for it. I'm just another good person behaving badly on the Internet.
+
+[Permalink](http://raganwald.posterous.com/good-people-behaving-badly-on-the-internet)

@@ -1,0 +1,27 @@
+## The Apple Trichotomy
+
+Apple, as you know, is doing tremendously well. It makes a lot of money. In its most recent quarter, it made more money than any other company has ever made in a quarter without pumping mankind's energy birthright out of the ground and selling it to people who drive oversized SUVs from their house to the big-block store to buy plastic trinkets made from the same goo that are shipped form China in ships that burn the goo, which...
+
+Sorry, let me wipe the spittle off the screen and start again. Right.
+
+Lots and lots of money. And its doing so much like it always appears to have done so, by integrating hardware and software, by being design-focused, and by making products for "the rest of us." So, why is it making gatrillions of dollars now even though it was almost bought by Sun a few decades ago?
+
+Well, it's all about focus. One upon a time, Apple focused on **margins**. That is, it optimized for maximizing the difference between what it paid to build a Macintosh (or anything else it built), and what it could charge. Now, the people running Apple in those days were not complete idiots, but if you think about optimizing for margins, you can quickly see that you're almost certainly going to sacrifice market share by identifying the people willing to pay the most for the stuff that costs you the least to build and ship, and then serving them. M$100 margin on sales of M$200 is twice as good as M$100 margin on sales of M$400.
+
+Meanwhile, the Microsoft/Intel duopoloy focused on **market share**. The more units sold, the happier they were. This is because they charged a tax per unit, and a lot of their value proposition was that everyone has one. Margins were their so-called "partners"'s problem.
+
+Given the ubiquity of the iPhone and iPad today, you might be tempted to think that Apple has switched to a sales focus. Nope. It is easy to think this is a dichotomy, or perhaps a continuum from margin to sales. But there is a third focus: **profit share**. That sounds like "margin," but no. "Profit" in this case is the total amount of margin in the market. profit share is how much of the money to be made goes to you.
+
+Optimizing for profit share means you need to dominate the market while managing your costs. You can't be someone's phoney-baloney partner while paying them a tax that makes them profitable. You can't dump units on the market at near-zero margin.
+
+You do have to be prepared to attack yourself when necessary. Apple undermined the margins of their iPod business when it shipped the iPhone. It's now undermining the margins of its 10" iPad business with its 7" iPad mini business. But it's maintaining its focus on collecting all of the profit money it can.
+
+You do have to be prepared to simplify your product line. The segmentation strategy that many PC vendors use doesn't generate the profits that emphasizing three models per product generates. There are other optimizations Apple makes, it in each and every case, the difference between the way Apple executes and the way its competitors executes comes down to going for Profit Share.
+
+Measured in pure margin, Apple's profit share of the personal computer market is astounding. The serfs tilling the Duopoly's fields are finding such slim pickings that they are reduced to giving away computers (more-or-less) as a platform for [stickers](http://pogue.blogs.nytimes.com/2010/09/02/laptops-look-like-race-cars-and-not-in-a-good-way/) and JunkWare. If you don't buy a copy of Adobe Crapulastic 5.0 or Virus Nuke Millenium Edition, HP or Dell or whomever don't make any money selling you a laptop.
+
+But even if you include those payments, Apple _still_ has the lion's share of the PC profit. And of the phone profit (Samsung notwithstanding) and of the tablet profit (again, Samsung notwithstanding). Of course people will crow about Andoid's market _share_. But note well: Until they start crowing about Samsung's share of the profits, Apple is executing on its focus. Ruthlessly. And effectively.
+
+p.s. Does all this seem familiar? John Gruber has been saying this for years, but people still seem to focus on margins and market share.
+
+[Permalink](http://raganwald.posterous.com/the-apple-trichotomy)

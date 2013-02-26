@@ -1,0 +1,37 @@
+## Symmetry in a Penrose-tiled universe
+
+On [Hacker News](http://news.ycombinator.com), I read that Adam P. Goucher has discovered a glider in a five-state cellular automaton on a Penrose tiling. This is fascinating! If you've seen my code for [HashLife](http://recursiveuniver.se), you know that I'm interested in Conway's Game of Life. To put it in a few words, Adam discovered a pattern that 'moves' indefinitely across the universe.
+
+![5769443414959725426](images/5769443414959725426.png)
+
+What's cool about this is that the universe in question, a [Penrose tiling](https://en.wikipedia.org/wiki/Penrose_tiling), is aperiodic. Meaning, no two places are the same. So?
+
+**why I'm interested**
+
+I may be misusing the word, but it all starts with "symmetry." Symmetry is the general case of something remaining the same after being put through some sort of transformation. So a square is symmetrical when transformed by reflection along either of two axes. This generalizes in other ways. We are pretty sure that gravity works the same way on Earth as on the Sun, and the same on the Sun as on other starts in our galaxy, and the same way here as it does on galaxies far far away. So gravity is the same when transformed by being moved across any arbitrary distance in space.
+
+  
+Conway's Game of Life has translational symmetry. If you take any cell and look at its neighbours, they are always arranged in the same grid, they look like each other. So you can say that if you take any point and "translate" it by moving it somewhere else, it will behave the same way. The same goes for any pattern or formation of cells: You can move them somewhere else and they will look the same way and behave the same way.
+
+  
+Thus, a glider that "moves" across the Life universe is constantly moving from one place that looks like everywhere else to another place that looks like everywhere else. Although you may not guess exactly what a glider or spaceship or puffer train or any other 'moving' formation looks like, you can guess that there is no special impediment to their existence, because if something were to move from place A to place B, it would automatically repeat all over again and move to point C and then D and so on because point B looks just like A, and C looks just like B.
+
+  
+So yes, you have to solve how to move from A to B in such a way that you don't leave any debris around so that the universe from the vantage of point B looks just like the universe from the vantage of point A. But then the thing will just keep going forever.
+
+But what about a universe with Penrose tiling? Well, this is different. The defining characteristic of Penrose tiling is that it lacks translational symmetry. By definition, no two places in a Penrose-tiled universe look just like each other. If you have place A and place B, and they are different places, the exact arrangement of neighbours is going to be different. In a Penrose-tiled universe, you can figure out exactly where you are by looking at your neighbourhood.
+
+![Penrose_tiling](images/Penrose_tiling_gif_scaled500.png)
+
+For this reason, if we take some point A and construct a formation that replicates itself while moving to point B, we cannot assume that it will now replicate itself and move to point C, because we know that the neighbourhood around B is not the same as the neighbourhood around A. The pattern must somehow be specially crafted to deal with any and every possible arrangement of tiles within its neighbourhood.
+
+  
+Furthermore, if it is to 'glide' and not circle like a boomerang, it must be crafted not to turn in any arbitrary way, because it is deterministic, and if it ever returns to a place it has been, it will be trapped in a loop forever.
+
+Obviously it is possible, we are looking at the glider Adam discovered! But given the basic problem that no two places look like each other in a Penrose-tiled universe, it is very surprising to me that any glider exists, much less a small and simple one. More importantly, the fact that a simple glider exists suggest that there is some translational symmetry going on even though the exact neighbourhood of cells is different everywhere you look in the Penrose-tiled universe.
+
+That's interesting.
+
+(This post began its life as [an HN comment](http://news.ycombinator.com/item?id=4299358).)
+
+[Permalink](http://raganwald.posterous.com/symmetry-in-a-penrose-tiled-universe)

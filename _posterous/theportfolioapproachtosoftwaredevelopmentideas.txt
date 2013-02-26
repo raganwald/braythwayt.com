@@ -1,0 +1,23 @@
+## The portfolio approach to software development ideas
+
+Recently, there has been a rash of blog posts about the best and worst ways to interview programmers. They advance wildly different approaches: Just do a FizzBuzz test, then get on to discussing experience.[ Don't do any testing, but talk about past projects in detail](http://thecodist.com/article/interviews_can_be_a_terrible_way_to_identify_good_programmers). Don't write code, but solve a problem. Write code on a white board. Write code on a computer with Internet connection and IDE. Don't judge by more than whether the program is good enough. Judge by whether the programmer spends hours writing tests and polishing documents. Don't ask about the explicit keyword. Ask about the explicit keyword. [Manholes](http://hebig.org/blog/003029.php). Mountains. [Hire the programmer who reads your mind](http://morethancoding.com/2012/04/30/5-signs-that-you-should-hire-a-programmer-on-the-spot/):
+
+![Carnac](images/Carnac.jpg)
+
+Well. I'm not wading into that morass again, [especially right now](http://braythwayt.com/reginald/RegBraithwaite20120423.pdf).
+
+So let's talk about blog posts talking about programming practices. Code should be damn simple, [99% of the time](https://twitter.com/#!/raganwald/status/198499424811483136). Code should be as simple as possible, but no simpler. Code should be written for people to read. Code should have complex underpinnings like DSL implementations and Mock testing frameworks to make the surface simple to read. Code should use meta-programming. Code should never use meta-programming. Code should use popular meta-programming libraries but nothing home brewed. [Kingdom of nouns](http://steve-yegge.blogspot.ca/2006/03/execution-in-kingdom-of-nouns.html). Everything's a function. OOP. AOP. DCI. [POO](https://github.com/raganwald/homoiconic/blob/master/2010/12/oop.md#readme)!
+
+And we can write another paragraph about higher-level design and development practices. TDD. BDD. XP. Spiral. Oh, you get the idea... It's the interview thing all over again, and the programming practices thing all over again, a bunch of radically opposed ideas, each of which is backed by somebody who seems to be passionate, experienced, and convinced that they know the Way and the Light. How do we know which one's best? Quick: Read every post and tell me, which interview process do you bet your next hire on? Which programming practice will you standardize on? What development practice will you pick?
+
+The answer, as usual, is obvious when you calm down. Imagine I ask you an equally tough question: I have one million dollars in cash. What's the best stock to buy? Let's assume you talk to twenty people and let's assume none of them are idiots. Where do you put your money? The answer, for almost everyone, is that there is no one best stock. There is a _portfolio_ of stocks, and you choose the composition of your portfolio carefully to create an appropriate balance of risk and return given your personal situation.
+
+Naturally, you avoid all [ridiculous](http://finance.yahoo.com/echarts?s=GRPN+Interactive#symbol=grpn;range=6m) stocks that are backed by ridiculous business plans. But given a bunch of other reasonable choices, you put together a basket of stocks that are not chosen in isolation. Each one has some positives, some negatives, some volatility, some expectation of upside... And you mix them together to create the right investment portfolio. It's the same with interviewing, programming, everything.
+
+That doesn't mean there aren't bad ideas out there that need to be debunked and avoided. There are [bad investments](http://finance.yahoo.com/echarts?s=RIMM#symbol=rimm;range=6m) that don't belong in anyone's portfolio. And you can't decide whether something belongs in your portfolio without a clear idea of its possibilities, its risks, its upsides and downsides. You get those by discussing and debating the ideas.
+
+So carry on discussing and debating. And especially debunking! But when it comes time to choose, remember that none of these ideas are useful in a vacuum. No serious code base contains only one programming paradigm. No interview has only one question. And no team uses one, count them one technique for designing , developing and delivering software.
+
+Blog posts look a lot like investment analyst reports. They say "BUY," they say "SELL." But we who _read_ the posts are not like analysts, we're like mutual fund managers. We ask ourselves, "How much?" And we ask ourselves, "In a basket with which other ideas?"
+
+[Permalink](http://raganwald.posterous.com/the-portfolio-approach-to-software-developmen)

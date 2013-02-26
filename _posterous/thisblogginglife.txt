@@ -1,0 +1,21 @@
+## This Blogging Life
+
+[Kestrels, Quirky Birds, and Hopeless Egocentricity](http://combinators.info) was my first technical book. It's a reprinted and tidied up collection of blog posts that all share a common structure: Briefly (perhaps all-too-briefly) explain some combinator such as the Bluebird or Hopelessly Egocentric Bird, and then expound on some idea from Ruby inspired by the combinator's behaviour, including code samples.
+
+**I thought everyone's reaction was**:
+
+![Goo](images/goo.png)
+
+**But in reality, it was**:
+
+![Maxwell_smart_confused](images/maxwell_smart_confused.png)
+
+Come to think of it, that's pretty much how my blogging has gone since 2004. I'm looking forward to another year of blogging.
+
+**News that I haven't retired writing about things I don't understand has been met with quiet anticipation**:
+
+![Tumblr_m6xnhynwaj1r87tid](images/tumblr_m6xnhynwaJ1r87tid.png)
+
+(all pictures are from [This PLT Life](http://this-plt-life.tumblr.com), a must-read).
+
+[Permalink](http://raganwald.posterous.com/this-blogging-life)

@@ -1,0 +1,23 @@
+## Did you attend "jQuery Combinators" at #oredev?
+
+Hello!
+
+Did you attend my "[jQuery Combinators](http://oredev.org/2012/sessions/jquery-combinators)" talk at Øredev? I had planned a conventional presentation but decided at the last moment to switch to a semi-live coding format. In retrospect, this was sub-optimal. I was up half the night re-doing the code and it showed.
+
+I got some great feedback from participants and other speakers about how to do it better next time. As my way of saying **Thank you for your patience**, I have two things for you.
+
+First, I have continued to work on improving the code. The latest version is online. Here's the fully annotated source code for the standard version:
+
+[http://weblog.raganwald.com/JQuery-Combinators/life/decombinatored.html](http://weblog.raganwald.com/JQuery-Combinators/life/decombinatored.html)
+
+And here's the same code refactored to use jQuery Combinators:
+
+[http://weblog.raganwald.com/JQuery-Combinators/life/life.html](http://weblog.raganwald.com/JQuery-Combinators/life/life.html)
+
+Second, I would like to give you one (or more) of my books for free. All you have to do is send me an email telling me you attended the talk, and I will email you back a code so you can download a book for free. You can have either "[CoffeeScript Ristretto](http://leanpub.com/coffeescript-ristretto)," my latest book, or if you are not interested in CoffeeScript, you can have "[The Raganwald Bundle](https://leanpub.com/b/raganwald)," which is all of my other books in one bundle. For free!
+
+Simply send me an email ([reg@braythwayt.com](mailto:reg@braythwayt.com)) and let me know whether you want [CoffeeScript Ristretto](http://leanpub.com/coffeescript-ristretto) or [The Raganwald Bundle](https://leanpub.com/b/raganwald). As noted, the offer of a free book or books is for Øredev 2012 particpants who attended my talk.
+
+Thank you once again!
+
+[Permalink](http://raganwald.posterous.com/did-you-attend-jquery-combinators-at-oredev)

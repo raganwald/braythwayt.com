@@ -1,0 +1,27 @@
+## A Matter of Black and White
+
+Imagine, if you will, a group of zealous anti-CoffeeScripters. They hate the CoffeeScript style and the way it pollutes otherwise "pure" JavaScript projects and JavaScript communities.
+
+They are paranoid and angry. When JavaScript programmers try CoffeeScript, they are accused of being "Script Traitors." The zealots say they aren't anti-CoffeeScript, they simply have "JavaScript Pride."
+
+Consider Mr. Reg Braithwaite. He writes many of his blog posts in both JavaScript and CoffeeScript. When he works on a JavaScript project, he generally leaves it in JavaScript. If he starts a new project, he considers the style of programming and chooses JavaScript of CoffeeScript accordingly. He has written a [CoffeeScript book](http://leanpub.com/coffeescript-ristretto).
+
+One day he shows up at a JavaScript meetup. The zealots mutter angrily: "Get the CoffeeScriptor outta here! Let him go to meetups with his own kind!!" Mr. Braithwaite is unmoved.
+
+"I'm a JavaScript programmer. Let us get on with the Wild JavaScript Rumpus."
+
+The zealots are outraged. "If you have one drop of CoffeeScript blood, you're a CoffeeScripter! You have the arrow culture! You have the brace-free look! You do that wild jungle indentation dancing!!"
+
+But they are wrong. Mr. Braithwaite is inclusive, he is a CoffeeScript programmer AND a JavaScript programmer. The "single drop of blood" doctrine is nonsense. These people are blinded by ignorance and a desire to hate an enemy.
+
+In a similar vein, I can tell you that Mr. Braithwaite is proud to call himself a White Canadian. And proud to call himself a Black Canadian. Why not? He has a White Father. He listens to Rush. He plays Hockey. He also has a Black Mother. He listens to P-Funk. He dances the Freak.
+
+He identifies with more than one culture. And also, why not? He lives in a country with two official languages, a country that embraces multi-culturalism. And he takes that multicultural, inclusive perspective to his programming philosophies.
+
+He seeks more than just a world of many people of different backgrounds working together. He seeks a world where each person integrates many points of views, cultures, and experiences.
+
+He is a multi-cultural man, and an unapologetic polyglot programmer. And he's not just an addict, he's also a pusher.
+
+It's a matter of black AND white.
+
+[Permalink](http://raganwald.posterous.com/a-matter-of-black-and-white)

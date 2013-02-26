@@ -1,0 +1,5 @@
+## @deech's corollary to Norvig's corollary to Greenspun's Tenth Rule of Programming
+
+> Any sufficiently powerful strongly typed programming language will be abused to create an ad hoc, informally-specified, bug-ridden, slow implementation of half of prolog with bad syntax & weird semantics.
+
+[Permalink](http://raganwald.posterous.com/deechs-corollary-to-norvigs-corollary-to-gree)

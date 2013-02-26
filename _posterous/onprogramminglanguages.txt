@@ -1,0 +1,25 @@
+## On Programming Languages
+
+More specifically, _On the use of English in collaborative software development_.
+
+The world's de facto standard language for programming is, without any doubt, English. Most programmers speak it competently as their first or second language. Most conferences expect their speakers to deliver presentations in English and their audiences to understand English. Most documentation is in English.
+
+There are huge network benefits to everyone speaking the same language. If you write in English, everyone can read it. If you write in Brazilian Portuguese, fewer can understand it, and those that translate it may get a nuänce wrong. Keeping documentation synchronized between multiple languages is roughly as difficult as keeping multiple versions of the same program synchronized.
+
+I agree with every one of these and other arguments that have been made as to the benefits of English as the language to be used when programmers talk to programmers. When programmers write documentation. When programmers discuss issues on lists or in forums. When programmers submit pull requests. When programmers write comments in code. When programmers name things in programs.
+
+In other words, I agree with the motivation behind the words: "[Learn English and get over it](http://news.ycombinator.com/item?id=4886560)."
+
+Do you know what these arguments have in common? They're arguments about the _utility_ of a certain course of action. Arguments about how much more code we'll get, or how much more money we'll make, or how much more convenient it will be to continue doing what we're already doing. Of course these things are true!
+
+But I've heard these utility arguments before. Like, the Armed Forces will be more cohesive without negroes on the front line. Or our company will run more smoothly if "The Boys" can be themselves and not have to stop cracking jokes because we hired a woman. Or for that matter, that if we can fire every women who gets pregnant, it'll be easier to hire women in the first place because we won't face uncertainty about having to keep her job for her while she takes parental leave. Or a bunch of other things where a moral principle ran into a utility argument.
+
+It's easy to take a moral stand if you can find a good utility argument for it. For example, I can argue that if you don't educate women in your country, you'll be fighting for high-tech jobs with only half a team in the new economy. But the acid test of a principle is when you have to swallow a bitter pill to stand up for your values. That's the definition of a value, by the way: You value it enough to outweigh the utility of abandoning it.
+
+So here's my principled argument about programming languages: **I think we as a world-wide community should be as inclusive as possible, and that means encouraging everyone to contribute, even if they can't or won't do so in English.** I know we'll have to take a hit, just as the armed forces did take hits when they put negroes, and then women, and then homosexuals on the firing line. But they found a way forward, and if _those_ institutions can find a way, I'm offended by the notion that _we_ can't sort out how I can share ideas with someone in San Paulo who speaks broken English but is interested in CoffeeScript or Ruby or Combinators or what-have-you.
+
+I value inclusiveness, that includes including people who don't speak English, and that includes saying, "**Participate now, learn English later or not at all, your choice**."
+
+_(Watch it right up to the last line, then [discuss](http://news.ycombinator.com/item?id=4889418) on hacker news.)_
+
+[Permalink](http://raganwald.posterous.com/on-programming-languages)
