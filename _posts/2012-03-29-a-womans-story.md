@@ -15,7 +15,7 @@ The next day, Lois visited the principal's office. Why, Lois wanted to know, was
 
 Lois was not easily deterred. A few days later, she was back in the principal's office with "The men of her tribe." Gwen's grandfather and uncles crowded into the principal's office and were free with their opinions of the decision and the process. All three men were forceful, and the principal relented.
 
-![North_toronto_collegiate_institute](/assets/images/posterous/North_Toronto_Collegiate_Institute.JPG.scaled500.jpg)
+![North_toronto_collegiate_institute](/assets/images/NTCI.jpg)
 
   
 So the following September, Gwen went to North Toronto, played first violin in its storied orchestra, and nutured a lifelong passion for music and dance. In time she graduated, and attended the University of Toronto, the first woman in her family to do so.
@@ -26,7 +26,7 @@ They danced, they fell in love, they married, and they tried to rent an apartmen
 
 They would have to buy a home to live together, so they did. This was more expensive than renting, so they both needed to work. Gwen scoured the newspaper classifieds, and saw that Empire Life was hiring young men for a career in "data processing," no experience required. They invited applicants to attend a "cattle call" interview, so Gwen attended, on time and neatly dressed.
 
-![Punch](/assets/images/posterous/punch_gif_scaled500.gif)
+![Keypunch](/assets/images/posterous/punch.gif)
 
 She was, she recalled, the only woman. She was also the only black person. A crowd of young men were lined up in front of some tables, where some women were handing out aptitude tests. When Gwen reached the front of the line, the women tried to be helpful. "Yes, we are hiring keypunchers, but you're in the wrong room." Gwen had learned how to be forceful, but she also learned some tact. And she needed that job. 
 
@@ -38,7 +38,7 @@ After answering all the questions, she handed it in and waited to be told what t
 
 Gwen was confused. What prank? The associate was sure that she was cheating, that someone had fed her the answers. In a scene that would be repeated decades later in the movie "Slumdog Millionaire," the two interviewers tried their hardest to get her to admit that she had cheated. Her score, they told her, was too good to be true. It was simply impossible for a young black woman to come in the 99th percentile on a test designed to measure aptitude for computer programming.
 
-![757px-ibm_electronic_data_processing_machine_-_gpn-2000-001881](/assets/images/posterous/757px-IBM_Electronic_Data_Processing_Machine_-_GPN-2000-001881.jpg.scaled500.jpg)
+![IBM Machine](/assets/images/ibm-machine.jpg)
 
   
 Computer _what_?
