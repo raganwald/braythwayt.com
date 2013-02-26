@@ -8,7 +8,7 @@ The other night, a good friend was visiting and she suggested we pass the time p
 
 [![Go Board (c) 2008 Ralph Unden, some rights reserved](http://farm4.static.flickr.com/3113/2285032267_c1ecd9b66e_d.jpg)](http://www.flickr.com/photos/ralphunden/2285032267/ "Go Board (c) 2008 Ralph Unden, some rights reserved") 
 
-My involvement with Go has been sporadic and inauspicious. I had heard it was a beautiful game, full of subtleties and marvels. Friends told me how much I would love it. Decades ago, I visited a [club](http://senseis.xmp.net/?TorontoGoClub "Toronto Go club") and explained I would like to learn to play. One of the members pulled out a small board, gave me a brief run-down of the rules, and invited me to play. He probably gave me a large handicap, I don't remember the details. I had no idea what I was doing, and he destroyed me. (If you understand the mind that would take losing the first game ever played against an aficionado so [personally](http://github.com/raganwald/homoiconic/blob/master/2009-05-01/optimism.md#readme "Optimism"), you can probably stop reading right here.) 
+My involvement with Go has been sporadic and inauspicious. I had heard it was a beautiful game, full of subtleties and marvels. Friends told me how much I would love it. Decades ago, I visited a [club](http://senseis.xmp.net/?TorontoGoClub "Toronto Go club") and explained I would like to learn to play. One of the members pulled out a small board, gave me a brief run-down of the rules, and invited me to play. He probably gave me a large handicap, I don't remember the details. I had no idea what I was doing, and he destroyed me. (If you understand the mind that would take losing the first game ever played against an aficionado so [personally](http://braythwayt.com/2009/05/01/optimism.html "Optimism"), you can probably stop reading right here.) 
 
 I'm sure he was a very nice man who wanted to share his love of the game with me. I do not think he wanted to "destroy" me, he was probably just showing me the natural consequences of actions and reactions in Go, consequences that happened to lead to his armies surrounding nearly all the free territory on the board.
 
@@ -94,7 +94,7 @@ So that's what I'm going to do.
 
 > But those that i saw who became really good, were always on the other end of the spectrum. Those who jump right in and played /really/ bad without any anxiety or pressure (no thinking at all and mostly just stubborn imitation of moves they saw someone else play before) and fast (many many many games, often not even to the end), almost always sticked to the game long enough to learn to appreciate and enjoy it, and sometimes even managed to excel at it.
 
-> There's something magical about the fearlessness of just playing. Pure curiosity, maybe even quite a bit of ambition, but especially the absolute surrender to repeated and premeditated failure. --[enki](http://news.ycombinator.com/item?id=904933 "Hacker News | I've taught Go to over fifty people over the years - and i've seen this over and...")  
+> There's something magical about the fearlessness of just playing. Pure curiosity, maybe even quite a bit of ambition, but especially the absolute surrender to repeated and premeditated failure. --[enki](http://news.ycombinator.com/item?id=904933 "I've taught Go to over fifty people over the years - and i've seen this over and...")  
 <p></p>
 
 > Go resembles life in that sense. An infant does not learn to walk by thinking about it. --[tarvaina](http://twitter.com/tarvaina/statuses/5198351345)  
