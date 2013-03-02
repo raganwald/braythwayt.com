@@ -1,5 +1,5 @@
 ---
-Title: The Not-So-Big wroc_love.rb Keynote
+title: The Not-So-Big Keynote
 layout: braythwayt
 ---
 
