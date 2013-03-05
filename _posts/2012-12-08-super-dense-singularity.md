@@ -9,7 +9,9 @@ Get me: I just took a "Beta-Cam," a device that used to come in a large box and 
 
 It's straight outta a science fiction novel, only nobody predicted these phones, because they'd have been laughed off as being impossible. In the seventies we believed in FTL travel but couldn't conceive what a 2012 pocket device would do. We couldn't imagine any devices this radical. 
 
-I cannot stress this highly enough: Today's "smart phones" or whatever you want to call them are the most powerful devices ever made. Now, my MacBook Air is almost as portable and more powerful in raw computing terms. A cluster of PCs running a distributed chess program are clearly much more powerful in computing terms. Google is waaaay more powerful in data processing terms. 
+I cannot stress this highly enough: Today's "smart phones" or whatever you want to call them are the most powerful devices ever made.[^louisck] Now, my MacBook Air is almost as portable and more powerful in raw computing terms. A cluster of PCs running a distributed chess program are clearly much more powerful in computing terms. Google is waaaay more powerful in data processing terms. 
+
+[^louisck]: [Louis CK puts it better than I ever could, nsfw](http://youtu.be/KpUNA2nutbk).
 
 But all of that pales in significance next to this device that fits in a trouser pocket. You saw the doo-dads in "Star Wars IV." None of them were as cool as this phone, and I can watch Star Wars on this phone. You saw the video telephones in "2001" and "Bladerunner." They appeared to be hard-wired to land lines. Phooey. 
 
