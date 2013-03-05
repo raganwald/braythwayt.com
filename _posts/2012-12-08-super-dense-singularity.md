@@ -26,3 +26,7 @@ If I want to I can use this thing just like one of those terminals that used to 
 The future may be unevenly distributed, but I have to express my contentment with the little super-dense singularity represented by this device. And best of all, it's so commonplace that if anyone bothers to read my hagiographic description, the response is likely to be,
 
 "Meh, that's nothing. You should see my Android..."
+
+---
+
+footnote:
