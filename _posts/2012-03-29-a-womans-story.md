@@ -1,6 +1,6 @@
 ---
 title: A Woman's Story
-layout: braythwayt
+layout: default
 ---
 
 _The following words appear in a collection of my blog posts about freedom entitled [Steal This Book!](http://leanpub.com/stealthisbook) Both the book and this post are 100% free-as-in-speech and 100% free-as-in-beer._

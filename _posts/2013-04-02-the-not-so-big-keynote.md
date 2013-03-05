@@ -1,6 +1,6 @@
 ---
 title: The Not-So-Big Keynote
-layout: braythwayt
+layout: default
 ---
 
 This morning I had the honour of keynoting the [wroc_love.rb](http://wrocloverb.com) conference. I gave a fairly informal talk called "The Not-So-Big Software Design." You can browse the slides [online](http://braythwayt.com/assets/The-Not-So-Big-Software-Design/) or download [a .zip of the images](http://braythwayt.com/assets/The-Not-So-Big-Software-Design/the-not-so-big-keynote.zip).
