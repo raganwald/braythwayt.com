@@ -19,8 +19,7 @@ Instead, you roll up your sleeves and get to work with a series of recipes for m
 
 [phpunit]: https://leanpub.com/grumpy-phpunit
 
-> <font size="+2">Most of my writing appeals to the kind of people I call "The few, the proud, the curious."</font>  
-  
+<blockquote><font size="+2">Most of my writing appeals to the kind of people I call "The few, the proud, the curious."</font></blockquote><br/>
 
 I understand this and I am happy to say I'm glad that there are pain relievers in the world. I need them too! But part of what makes me happy is a revelation I had a while back: I may not always be in the aspirin business, but I'm not peddling vitamins that may or may not make you a healthier programmer "someday."
 
