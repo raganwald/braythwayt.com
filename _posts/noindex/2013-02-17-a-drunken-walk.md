@@ -2,6 +2,7 @@
 title: The "Drunken Walk" Programming Problem
 layout: homoiconic
 tags: javascript
+categories: noindex
 ---
 
 In [Tortoises, Teleporting Turtles, and Iterators](http://raganwald.com/2013/02/15/turtles-and-iterators.js.html), we looked at the "Tortoise and Hare" algorithm for detecting a linked list. Like many such algorithms, it "tangles" two different concerns:
