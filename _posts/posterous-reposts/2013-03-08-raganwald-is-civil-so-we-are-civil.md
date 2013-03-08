@@ -1,5 +1,5 @@
 ---
-title: Raganwald is Civil so We are Civil
+title: Raganwald is civil so we are civil
 layout: default
 categories: posterous
 ---
