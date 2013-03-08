@@ -1,6 +1,6 @@
 ---
 layout: default
-publish: false
+published: false
 ---
 
 > No wireless. Less space than a Nomad. Lame
