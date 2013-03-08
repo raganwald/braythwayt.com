@@ -15,7 +15,7 @@ For example, if you're writing PHP, you probably suffer whenever you need to do 
 
 [phpunit]: https://leanpub.com/grumpy-phpunit
 
-Instead, you roll up your sleeve with a series of recipes for making your life better *today*. There's no namby-pamby as-good-as-it-gets "Chris Hartjes makes me want to be a better programmer" talk. The Grumpy Programmer's PHPUnit Cookbook is industrial-strength pain relief for people with PHP migraines.
+Instead, you roll up your sleeve with a series of recipes for making your life better *today*. There's no namby-pamby as-good-as-it-gets "Reading *The Hipster's Guide to JavaScript Framework Architecture* makes me want to be a better programmer" talk. *The Grumpy Programmer's PHPUnit Cookbook* is industrial-strength pain relief for people with PHP migraines.
 
 > <font size="+2">Most of my writing appeals to the kind of people I call "The few, the proud, the curious."</font>
 
@@ -23,11 +23,11 @@ Instead, you roll up your sleeve with a series of recipes for making your life b
 
 I understand this and I am happy to say I'm glad that there are pain relievers in the world. I need them too! But part of what makes me happy is a revelation I had a while back: I may not always be in the aspirin business, but I'm not peddling vitamins that may or may not make you a healthier programmer "someday."
 
-No. I'm actually a drug dealer (please supply your own air quotes).
+No. I'm actually a drug dealer (please supply your own air quotes). I'm in the endorphin business, not the vitamin business.
 
-I'm in the endorphin business, not the vitamin business. It's not for everyone, but some people are wired such that when they learn something, a little part of their brain releases some chemicals that make them feel good. Right away.
+It's not for everyone, but some people are wired such that when they learn something, a little part of their brain releases some chemicals that make them feel good. **Right away**.
 
-And when they (and by "they," I mean you!) feel good about whatever it was that turned on those switches, they feel good about other things in their life. They relax a bit. They do a better job when they're happy. They are more creative. They're easier to get along with. They're in their happy place.
+And when they (and by "they," I hope I also mean you!) feel good about whatever it was that turned on those switches, they feel good about other things in their life. They relax a bit. They do a better job when they're happy. They are more creative. They're easier to get along with. They're in their happy place.
 
 ---
 
@@ -37,7 +37,7 @@ And when they (and by "they," I mean you!) feel good about whatever it was that 
 
 ---
 
-I help people turn on some switches in their brain that were already there just waiting to be flipped. To turn on the lightbulb that was sitting there ready to pop like flash bulb. And when that happens, <u>everybody wins</u>.
+I help people turn on some switches in their brain that were already there just waiting to be flipped. To turn on the lightbulb that was sitting there ready to pop like flash bulb. And when that happens, **everybody wins**.
 
 The neat part about seeing this part of my life as being in the endorphin business is that I can help people without having to be better or smarter or more successful than they are. Doctors and pharmacists doesn't have to be richer or smarter than their customers.[^notsmart] They just has to be good at curating all the information about drugs and interactions and dosages and then filling little bottles accordingly.
 
