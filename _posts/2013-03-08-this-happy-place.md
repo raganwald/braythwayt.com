@@ -11,17 +11,16 @@ Now, it so happens that 550 readers is really trivial by technical book standard
 
 Best-sellers in technical books are very much like best sellers in software: They are aspirins, not vitamins. They don't promise some vague and hard-to-quantify benefit somewhere down the road, they deliver instant alleviation to pain that people are feeling *right now*.
 
-For example, if you're writing PHP, you probably suffer whenever you need to do anything non-trivial like refactoring. You feel pain. So when someone like Chris Hartjes comes along with [The Grumpy Programmer's PHPUnit Cookbook][phpunit], there's no idle dreaming about someday writing really neat-o code.
+For example, if you're writing PHP, you probably suffer whenever you need to do anything non-trivial like refactoring. You feel pain. Now.
+
+So when someone like Chris Hartjes comes along with [The Grumpy Programmer's PHPUnit Cookbook][phpunit], you won't find any idle dreaming about someday writing really neat-o code between its virtual covers. There's no namby-pamby as-good-as-it-gets "Reading *The Hipster's Guide to JavaScript Framework Architecture* makes me want to be a better programmer" talk. 
+
+Instead, you roll up your sleeves and get to work with a series of recipes for making your life better today. *The Grumpy Programmer's PHPUnit Cookbook* is industrial-strength pain relief for people with PHP migraines.
 
 [phpunit]: https://leanpub.com/grumpy-phpunit
 
-Instead, you roll up your sleeve with a series of recipes for making your life better *today*. There's no namby-pamby as-good-as-it-gets "Reading *The Hipster's Guide to JavaScript Framework Architecture* makes me want to be a better programmer" talk.
-
-*The Grumpy Programmer's PHPUnit Cookbook* is industrial-strength pain relief for people with PHP migraines.
-
-> <font size="+2">Most of my writing appeals to the kind of people I call "The few, the proud, the curious."</font>
-
-<br/>
+> <font size="+2">Most of my writing appeals to the kind of people I call "The few, the proud, the curious."</font>  
+  
 
 I understand this and I am happy to say I'm glad that there are pain relievers in the world. I need them too! But part of what makes me happy is a revelation I had a while back: I may not always be in the aspirin business, but I'm not peddling vitamins that may or may not make you a healthier programmer "someday."
 
