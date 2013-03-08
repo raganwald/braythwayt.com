@@ -1,6 +1,7 @@
 ---
 title: Cargo Cults and Interview Questions
 layout: default
+categories: posterous
 ---
 
 Bob filled the espresso group with ground coffee and carefully tamped it before clamping it into the machine. Ted handed him two warm espresso cups, and moments later the rich coffee was streaming into the cups. Bob  shut the machine off, handed a cup to Ted, and banged the expired grounds into the waste bucket. He cleaned the group and replaced it with a practiced flick of the wrist.

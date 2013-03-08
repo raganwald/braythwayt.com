@@ -1,6 +1,7 @@
 ---
 title: The Programmer's Dilemma
 layout: default
+categories: posterous
 ---
 
 The Vice-President of Development hitched his chair forward, looked intently at the team lead, and deliberately softened his face. He was a master of body language, and he knew the exact fatherly tone of voice he needed to get the job done. The project has gone down in flames after a miserable Death March, and this meeting was a necessary step towards healing, reconciliation, and gearing up for the next project that would go down exactly the same way.

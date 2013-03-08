@@ -1,6 +1,7 @@
 ---
 title: High Anxiety
 layout: default
+categories: homoiconic
 ---
 
 The other night, a good friend was visiting and she suggested we pass the time playing [Go](http://bit.ly/hbUQr). I own a board, but I don't recall ever playing with it. We got the board out and she started to explain how to play. I love games, so you would expect that we had a good time. But no, I fell into a blue funk and things went rapidly downhill. I do not kid when I say that by the time she ended the game in exasperation, I had sucked all the joy out of the room.

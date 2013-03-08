@@ -1,6 +1,7 @@
 ---
 title: The little super-dense singularity of the future
 layout: default
+categories: posterous
 ---
 
 I purchased an unlocked iPhone 5 online from Apple. It arrived yesterday, and this morning I took it into an Apple Store, where they installed a micro-SIM and connected it to my existing wireless account. An hour later I was shooting HD (for some definition of "High Definition") video of my daughter's second piano recital. 
