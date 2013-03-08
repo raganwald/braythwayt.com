@@ -15,7 +15,9 @@ For example, if you're writing PHP, you probably suffer whenever you need to do 
 
 [phpunit]: https://leanpub.com/grumpy-phpunit
 
-Instead, you roll up your sleeve with a series of recipes for making your life better *today*. There's no namby-pamby as-good-as-it-gets "Reading *The Hipster's Guide to JavaScript Framework Architecture* makes me want to be a better programmer" talk. *The Grumpy Programmer's PHPUnit Cookbook* is industrial-strength pain relief for people with PHP migraines.
+Instead, you roll up your sleeve with a series of recipes for making your life better *today*. There's no namby-pamby as-good-as-it-gets "Reading *The Hipster's Guide to JavaScript Framework Architecture* makes me want to be a better programmer" talk.
+
+*The Grumpy Programmer's PHPUnit Cookbook* is industrial-strength pain relief for people with PHP migraines.
 
 > <font size="+2">Most of my writing appeals to the kind of people I call "The few, the proud, the curious."</font>
 
