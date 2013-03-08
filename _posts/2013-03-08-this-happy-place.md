@@ -19,6 +19,8 @@ Instead, you roll up your sleeve with a series of recipes for making your life b
 
 > <font size="+2">Most of my writing appeals to the kind of people I call "The few, the proud, the curious."</font>
 
+<br/>
+
 I understand this and I am happy to say I'm glad that there are pain relievers in the world. I need them too! But part of what makes me happy is a revelation I had a while back: I may not always be in the aspirin business, but I'm not peddling vitamins that may or may not make you a healthier programmer "someday."
 
 No. I'm actually a drug dealer (please supply your own air quotes).
@@ -29,11 +31,9 @@ And when they (and by "they," I mean you!) feel good about whatever it was that 
 
 ---
 
-<center>
 [![I turn lightbulbs on](/assets/images/lightbulb.jpg)](http://society6.com/powerpig/Heres-an-idea_iPhone-Case)
 
 *I carry this everywhere I go. It reminds me what business I'm in.*
-</center>
 
 ---
 
