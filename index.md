@@ -28,7 +28,7 @@ Reg “raganwald” Braithwaite is proof that somewhere, a village is missing it
     {% for post in site.posts %}
       {% unless post.categories contains "posterous" or post.categories contains "homoiconic" %}
         <li>
-    <a href="{{ post.url }}">{{ post.title }}</a> (<span>{{ post.date | date: "%B %e, %Y" }}</span> {{post.categories}})
+    <a href="{{ post.url }}">{{ post.title }}</a> (<span>{{ post.date | date: "%B %e, %Y" }}</span>)
         </li>
       {% endunless %}
     {% endfor %}
@@ -41,7 +41,7 @@ Reg “raganwald” Braithwaite is proof that somewhere, a village is missing it
   <ul>
     {% for post in site.categories.homoiconic %}
         <li>
-    <a href="{{ post.url }}">{{ post.title }}</a> (<span>{{ post.date | date: "%B %e, %Y" }}</span> {{post.categories}})
+    <a href="{{ post.url }}">{{ post.title }}</a> (<span>{{ post.date | date: "%B %e, %Y" }}</span>)
         </li>
     {% endfor %}
   </ul>
@@ -53,7 +53,7 @@ Reg “raganwald” Braithwaite is proof that somewhere, a village is missing it
   <ul>
     {% for post in site.categories.posterous %}
         <li>
-    <a href="{{ post.url }}">{{ post.title }}</a> (<span>{{ post.date | date: "%B %e, %Y" }}</span> {{post.categories}})
+    <a href="{{ post.url }}">{{ post.title }}</a> (<span>{{ post.date | date: "%B %e, %Y" }}</span>)
         </li>
     {% endfor %}
   </ul>
