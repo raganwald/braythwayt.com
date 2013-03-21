@@ -33,7 +33,7 @@ Here's where the road forks. In Ontario, I can commiserate with the client but I
 
 I listen and sympathize and offer a formal written distancing of ourselves from Smith's remarks and naturally promise to be generous with the Fire and Brimstone when Smith pedals his fixie into the office at noon. And if they want Smith off their project, well, that is their right, and we'll do our best to ensure there is no service disruption.
 
-After some time, I will patch thing sup and keep the client and a good employee. And of course I will make sure Smith understands that actions have consequences. But in the end, I want a good client and a good employee, and if someone is to be fired, I want to decide for myself, not to have to make a decision with the cameras rolling and the flash-bulbs popping.
+After some time, I will patch things up and keep the client and a good employee. And of course I will make sure Smith understands that actions have consequences. But in the end, I want a good client and a good employee, and if someone is to be fired, I want to decide for myself, not to have to make a decision with the cameras rolling and the flash-bulbs popping.
 
 I think that not having "at will" employment actually strengthens my hand in this case.
 
