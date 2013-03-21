@@ -1,4 +1,5 @@
 ---
+title: At-Will Employment
 layout: default
 ---
 
@@ -28,7 +29,7 @@ Absolutely not.
 
 "So what are you going to do about it?"
 
-Here's where the road forks. In Ontario, I can commiserate with the client but regrettably, my hands are tied. If Smith hasn't run afoul of the legal standards for employment as set down in statute and case law, I cannot sack him for what he says on Twitter.
+Here's where the road forks. In Ontario, I can commiserate with the client but I tell them: "Regrettably, my hands are tied." If Smith hasn't run afoul of the legal standards for employment as set down in statute and case law, I cannot sack him for what he says on Twitter.
 
 I listen and sympathize and offer a formal written distancing of ourselves from Smith's remarks and naturally promise to be generous with the Fire and Brimstone when Smith pedals his fixie into the office at noon. And if they want Smith off their project, well, that is their right, and we'll do our best to ensure there is no service disruption.
 
