@@ -2,7 +2,9 @@
 layout: default
 ---
 
-Neither [braythwayt.com](braythwayt.com) nor [raganwald.com](http://raganwald.com) support comments. This is a deliberate choice. I believe that discussion benefits from the context of a community. A discussion on Hacker News is a very different thing than a discussion on Reddit, which is a very different thing than a discussion on Facebook, which is again a different thing than a discussion on MetaFilter.
+Neither [braythwayt.com](braythwayt.com) nor [raganwald.com](http://raganwald.com) support comments. This is a deliberate choice.
+
+I believe that discussion benefits from the context of a community. A discussion on Hacker News is a very different thing than a discussion on Reddit, which is a very different thing than a discussion on Facebook, which is again a different thing than a discussion on MetaFilter.
 
 > Whenever you see a smiling child, remember: she's never read a comment in her life, and she's doing just fine.--[Don't Read Comments](https://twitter.com/AvoidComments/status/315138310630682626)
 
