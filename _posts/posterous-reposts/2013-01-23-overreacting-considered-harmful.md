@@ -1,5 +1,5 @@
 ---
-title: "Overreacting" considered harmful
+title: '"Overreacting" considered harmful'
 layout: default
 categories: posterous
 ---
