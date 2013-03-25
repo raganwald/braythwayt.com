@@ -12,11 +12,11 @@ I'm at a conference. I'm one of the few black guys there. A speaker is on stage,
 
 ---
 
-We've just acqui-hired a new, considerably less experienced team, and I'm being told why I will be reporting to their manager instead of the other way around. "Well," the President explains, "I'm concerned about the cultural fit. You see, they're from North Carolina, and I'm not sure how well they'd take direction from someone like you. I don't care personally, but this is a business."
+We've just acqui-hired a new, considerably less experienced team, and I'm being told why I will be reporting to their manager instead of the other way around. 
 
-I protest diplomatically, but the decision has been made. My job is to train my new boss how to do my job.
+"Well," the President explains, "I'm concerned about the cultural fit. You see, they're from North Carolina, and I'm not sure how well they'd take direction from someone like you. I don't care personally, but this is a business."
 
-"Maybe if you prove yourself to him, we can discuss this again. But that's the deal, roll with it."
+I protest diplomatically, but the decision has been made. My job is to train my new boss how to do my job. "Maybe if you prove yourself to him, we can discuss this again. But that's the deal, roll with it."
 
 ---
 
