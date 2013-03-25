@@ -4,9 +4,9 @@ layout: nil
 <?xml version="1.0"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>raganwald.com</title>
-    <link>http://raganwald.com/</link>
-    <atom:link href="http://raganwald.com/rss.xml" rel="self" type="application/rss+xml" />
+    <title>braythwayt.com</title>
+    <link>http://braythwayt.com/</link>
+    <atom:link href="http://braythwayt.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>Your Website</description>
     <language>en-us</language>
     <pubDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
