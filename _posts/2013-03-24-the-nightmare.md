@@ -12,6 +12,8 @@ I'm at a conference. I'm one of the few black guys there. A speaker is on stage,
 
 "Yup," he's laughing, "You definitely want to be on the right end of the whip when Fnording your Foobars!" The audience is laughing, and damn if the fellow to my left isn't elbowing me in the ribs. Isn't THAT funny!
 
+And yeah, no point in saying anything, It'll be another "Isn't HE taking things personally, it isn't offensive he just has a chip on his shoulder" conversations. Who needs that at an event where I'm supposed to be networking?
+
 ---
 
 We've just acqui-hired a new, considerably less experienced team, and I'm being told why I will be reporting to their manager instead of the other way around. 
