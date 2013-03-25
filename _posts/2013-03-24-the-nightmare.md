@@ -8,9 +8,9 @@ I'm lucid: I *know* this is a nightmare, I know I'll wake up with the sheets soa
 
 ---
 
-I'm at a conference. I'm one of the few black guys there. A speaker is on stage, nice guy, enjoyed playing Carcassonne with him a few years back somewhere-or-other. He's talking about Master-Slave replication, and his slide shows a woodcut of a negroe slave being whipped by a white man.
+I'm at a conference. I'm one of the few black guys there. A speaker is on stage, nice guy, enjoyed playing Carcassonne with him a few years back somewhere-or-other. He's talking about Master-Slave replication, and his slide shows a woodcut of a negro slave being whipped by a white man.
 
-"Yup," he's laughing, "You definitely want to be on the right end of the whip when Fnording your Foobars!" The audience is laughing, and damn if the fellow to my left isn't elbowing me in the ribs. Isn't THAT funny!
+"Yup," he's laughing, "You definitely want to be on the right end of the whip when fnording your foobars!" The audience is laughing, and damn if the fellow to my left isn't elbowing me in the ribs. Isn't THAT funny!
 
 And yeah, no point in saying anything, It'll be another "Isn't HE taking things personally, it isn't offensive he just has a chip on his shoulder" conversations. Who needs that at an event where I'm supposed to be networking?
 
