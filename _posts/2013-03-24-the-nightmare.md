@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 I'm having a nightmare. I'm lucid: I *know* this is a nightmare, I know I'll wake up with the sheets soaked in sweat and walk downstairs for a healing piss and glass of water, but right now I can't force myself awake and there's nothing I can do to quell the horror I'm experiencing even as I tell myself this isn't real. Oh God Oh God Oh God.
 
 ---
