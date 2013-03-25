@@ -44,4 +44,4 @@ God Rest Your Soul.
 
 *I wake up, and as the piss roars into the toilet, I think:*
 
-"Well, it could have been worse. I might have dreamt I was a woman in tech."
+"It could have been worse. I might have been a woman in tech."
