@@ -15,11 +15,15 @@ I assure you, most people thought it looked stupid. But some young, rebellious e
 
 <a href="http://www.flickr.com/photos/chatiryworld/337738505/" title="viking boat by chatirygirl, on Flickr"><img src="http://farm1.staticflickr.com/139/337738505_5602452f1e_z.jpg" width="640" height="421" alt="viking boat"></a>
 
-There's a colourful idiom for making a permanent commitment to a battle plan. We often use the expression "burning your bridges," meaning that you cross bridges into enemy territory and burn the bridges behind you. You have cut off your own retreat and must vanquish your enemy or perish. An invasion force burning their boats on the beach is another metaphor that works.
+### burning boats
 
-When you adopt something that pisses mainstream society off, you're burning your bridges. Tee shirts. Jeans. Pierced noses. Tattoos. Long hair. Skinhead. Dreads. Accents. Pants that hang below the buttocks.
+There's a colourful idiom for making a permanent commitment to a battle plan. You invade the enemy's land by water, then burn your boats on the beach. You have cut off your own retreat and must vanquish your enemy or perish. This motivates your troops and hopefully strikes terror into your enemies, who become convinced that you have no intention of backing down.
 
-I think the low-hanging pants are really stupid. But I like them. It's obvious to me that the whole point of those pants is to make me wrinkle my nose in disgust. How is that different than me piercing my ear at a time when men were not allowed to wear anything other than a watch and a tasteful signet ring to the office?
+When you adopt something that pisses mainstream society off, you're burning your boats. You're motivating everyone to close ranks into a real community. You're bonding with each other and expressing your pride. You're defying your enemies and letting them know that you are not going to slink off silently and try to meld into their society.
+
+Tee shirts. Jeans. Pierced noses. Tattoos. Long hair. Skinhead. Dreads. Accents. Pants that hang below the buttocks. All the same thing, really. I personally think the low-hanging pants are really stupid. But I like them anyways!
+
+It's obvious to me that the whole point of those pants is to make me wrinkle my nose in disgust. How is that different than me piercing my ear at a time when men were not allowed to wear anything other than a watch and a tasteful signet ring to the office?
 
 Ok, so black people sounding ghetto. It exists purely because it pisses you off. Everything about it says, "I don't need no stinking approval from mainstream society." And trust me on this one, it isn't a black-white issue. Those folks are too busy pissing their pastors and parents off to worry about what Reddit thinks.
 
