@@ -1,4 +1,5 @@
 ---
+title: Why Are Black People So Ghetto?
 layout: default
 ---
 
