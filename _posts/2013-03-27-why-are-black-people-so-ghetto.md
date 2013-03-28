@@ -1,5 +1,5 @@
 ---
-title: Why Are Black People So Ghetto?
+title: Why do black people talk all ghetto?
 layout: default
 ---
 
