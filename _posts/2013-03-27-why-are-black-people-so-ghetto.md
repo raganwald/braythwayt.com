@@ -7,9 +7,13 @@ layout: default
 
 Well of course, black people don't talk "all ghetto." I spent a few years in Nigeria, and none of the people I met or heard talked "ghetto." Most of them were educated and sounded like they'd graduated en masse from the London School of Economics. You could have some confirmation bias. Perhaps you don't notice the black people who have a standard accent but remember the ones that don't.
 
-But let's focus on the black people that do seem to fit some "ghetto" stereotype, you know, the American ones. Let's squeeze the word "some" in there. Why do some black people talk all ghetto?
+But let's focus on the black people that do seem to fit some "ghetto" stereotype, you know, the American ones. Let's squeeze the word "some" in there. Why do *some* black people talk all ghetto?[^talk]
 
-That's a reasonable question. And it reminds me of a few others. For starters, why do Americans walk around in their undershirts? Yes, those tee shirts everyone wears were once underwear. During a time when men with jobs wore a suit and tie, wearing a tee shirt out of the house was right up there with wearing pyjamas in the street.
+[^talk]: Speaking of talking all ghetto... Isn't "talking all ghetto" also talking all ghetto? I'm not an expert on talking all ghetto, but I'm pretty sure that if I used that expression at the dinner table, my mother would rap my knuckles with the handle of a fork.
+
+That's a reasonable question. And it reminds me of a few others. For starters, why do Americans walk around in their undershirts? Yes, those tee shirts everyone wears were once underwear. During a time when men with jobs wore a suit and tie, wearing a tee shirt out of the house was right up there with wearing pyjamas in the street.[^ties]
+
+[^ties]: Clothing makes no sense whatsoever. Neckties were once bibs worn to the dinner table. Yup, a banker's "power tie" is really an admission that he can't feed himself competently.
 
 I assure you, most people thought it looked stupid. But some young, rebellious element of society wanted to carve themselves an identity by battling with mainstream society.
 
@@ -17,9 +21,11 @@ I assure you, most people thought it looked stupid. But some young, rebellious e
 
 ### burning boats
 
-There's a colourful idiom for making a permanent commitment to a battle plan. You invade the enemy's land by water, then burn your boats on the beach. You have cut off your own retreat and must vanquish your enemy or perish. This motivates your troops and hopefully strikes terror into your enemies, who become convinced that you have no intention of backing down.
+There's a colourful idiom for making a permanent commitment to a battle plan. You invade the enemy's land by water, then burn your boats on the beach.[^bridges] You have cut off your own retreat and must vanquish your enemy or perish. This motivates your troops and hopefully strikes terror into your enemies, who become convinced that you have no intention of backing down.
 
 When you adopt something that pisses mainstream society off, you're burning your boats. You're motivating everyone to close ranks into a real community. You're bonding with each other and expressing your pride. You're defying your enemies and letting them know that you are not going to slink off silently and try to meld into their society.
+
+[^bridges]: Also see [To burn one's bridges](https://en.wiktionary.org/wiki/burn_one%27s_bridges)
 
 Tee shirts. Jeans. Pierced noses. Tattoos. Long hair. Skinhead. Dreads. Accents. Pants that hang below the buttocks. All the same thing, really. I personally think the low-hanging pants are really stupid. But I like them anyways!
 
@@ -32,3 +38,7 @@ So don't take it personally, and don't assume that they are actually stupid or t
 And in a few generations, whatever we consider outlandish today might be mainstream. Remember the tee shirts? The generation that wore them became the boomers that run America today.
 
 Perhaps one day, America's most successful CEO will speak all ghetto and wear pants around his thighs, while you and I will shake our fist at the television and talk about the breakdown of society and a time when buttocks were covered in the office.
+
+---
+
+notes:
