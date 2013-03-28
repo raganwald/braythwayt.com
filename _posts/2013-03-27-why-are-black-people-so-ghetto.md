@@ -3,7 +3,7 @@ title: Why Are Black People So Ghetto?
 layout: default
 ---
 
-> Why do black people talk all ghetto? Are you trying to sound stupid?--*anonymous redditor responding to the question, "What is an offensive question that you have always wanted to ask?"
+> Why do black people talk all ghetto? Are you trying to sound stupid?--Anonymous redditor
 
 Well of course, black people don't talk "all ghetto." I spent a few years in Nigeria, and none of the people I met or heard talked "ghetto." Most of them were educated and sounded like they'd graduated en masse from the London School of Economics. You could have some confirmation bias. Perhaps you don't notice the black people who have a standard accent but remember the ones that don't.
 
