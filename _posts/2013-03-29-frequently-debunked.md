@@ -1,6 +1,7 @@
 ---
 layout: default
-published: false
+published: true
+tags: [noindex]
 ---
 
 > When you jump to the defence of women, you're reinforcing the patriarchy by presuming they're weak and need a man to speak for them.
