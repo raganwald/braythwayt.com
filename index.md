@@ -29,7 +29,7 @@ Reg “raganwald” Braithwaite is proof that somewhere, a village is missing it
 <div class="related">
   <ul>
     {% for post in site.posts %}
-      {% unless post.categories contains "posterous" or post.categories contains "homoiconic"or post.categories contains "noindex" %}
+      {% unless post.categories contains "posterous" or post.categories contains "homoiconic"or post.categories contains "noindex" or post.tags contains "noindex" %}
         <li>
     <a href="{{ post.url }}">{{ post.title }}</a> (<span>{{ post.date | date: "%B %e, %Y" }}</span>)
         </li>
