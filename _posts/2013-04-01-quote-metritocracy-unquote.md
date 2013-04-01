@@ -4,25 +4,25 @@ layout: default
 
 People misuse this word, "meritocracy." Let's be clear about what it means:
 
-> Meritocracy is a political philosophy that holds power should be vested in individuals according to merit. Advancement in such a system is based on perceived intellectual talent measured through examination and/or demonstrated achievement in the field where it is implemented.
+> **Meritocracy** is a political philosophy that holds power should be vested in individuals according to merit. Advancement in such a system is based on perceived intellectual talent measured through examination and/or demonstrated achievement in the field where it is implemented.
 
-Notice that by definition, "meritocracy" is a system based on empirical examination and demonstrated achievement. Sounds good, right? Yes, it does. It's far better than picking leaders at random or nepotism, where we have family lineages.
+Notice that by definition, "meritocracy" is a system based on empirical examination and demonstrated achievement. Sounds good, right? Yes, it does. It's far better than picking leaders at random or having some dictator appoint his drinking buddies.
 
 But having said that...
 
 There is no requirement in the definition above for double-blind studies or other rigorous attempts to isolate individual factors in being successful. Let's take a simple example: Talent for investing in Real Estate. It's pretty hard to observe demonstrated achievement unless someone has already been investing in Real Estate.
 
-We know that Donald Trump is successful investing n Real Estate, and part of why we know that is that his father Fred Trump gave him thirty million dollars to get started in the 1970s. There are millions of other people who didn't belong to the "lucky zygote club," and we'll simply never know whether they have any aptitude for Real Estate.
+We know that Donald Trump is successful investing in Real Estate. The reason we know that? His father Fred Trump gave him thirty million dollars to get started in the 1970s. There are millions of other people who didn't belong to the "lucky zygote club," and we'll simply never know whether they have any aptitude for Real Estate.
 
-The same thing goes for "examination." Sure we examine people and say, "that person knows their stuff." But we don't ask why they know their stuff. How did they get into a good university? Who were their buddies in High School? Did they (as I did) go to one of the few high schools to have its own computer int he 1970s?
+The same thing goes for "examination." Sure we examine people and say, "That person knows their stuff." But we don't ask why they know their stuff. How did they get into a good university? Who were their buddies in High School? Did they (as I did) go to one of the few high schools to have its own computer in the 1970s?
 
 Meritocracy gives us confidence that the people we appoint to lead are actually competent within the constraints of the system, but it says nothing about whether we have a system that identifies and supports all people equally from birth to reach these positions.
 
 That's not a bad thing about the word, it's just a bad thing if we presume that calling something a "meritocracy" means more than what it actually means.
 
-### good at taking tests
+### it's the network
 
-Another thing that meritocracy means is that someone we appoint to lead is good at winning  within the constraints of the game as it is played. Let's stop talking about people for a moment and talk about software. If we say that "operating systems are a meritocracy," what could we possibly mean?
+Another thing that "meritocracy" means is that someone we appoint to lead is good at winning  within the constraints of the game as it is played. Let's stop talking about people for a moment and talk about software. If we say that "Mobile operating systems are a meritocracy," what could we possibly mean?
 
 We know that in practice, network effects are gi-normously important. iOS is popular in large part because there are hundreds of thousands of applications. Applications are written for it because it is popular. Chicken, meet egg. iOS is successful because it is successful.
 
@@ -38,6 +38,12 @@ The important thing to observe is that in any system with a feedback loop, the m
 
 That's still a meritocracy, it's just that instead of being good at technical innovation, they're good at playing the game. We just have to be careful that when we say the word "meritocracy," we are not taking a narrow and wrong view of what it means.
 
-This matters especially when talking about people, of course. A country club is a meritocracy, and if it is full of middle-aged white men whose fathers before them were members of the same club, it doesn't mean we don't have a meritocracy of sorts going on.
+This matters especially when talking about people, of course. A country club can be a meritocracy, and if it is full of middle-aged white men whose fathers before them were members of the same club, it doesn't mean we don't have a meritocracy of sorts going on.
 
 It just means, that in this environment, "meritocracy" doesn't mean that a talented woman of colour born into a lower-middle-class family has the same chance of rising to the top. Meritocracy doesn't guarantee that she will be chosen, just that those chosen will have passed the tests for competence and track record of success.
+
+### meritocracy
+
+So let's be careful when we use the word "meritocracy." If two groups of people each mean different things by the word, we could have a situation where a bunch of successful people with degrees claim that Science, Technology, and Engineering is a meritocracy, while a bunch of disenfranchised people claim that membership in its culture does not reflect the distribution of potential in the general population.
+
+Both could be correct about their claims. And just because the incumbents are correct that their culture is a "meritocracy," it doesn't mean that there aren't any discrimination or equality problems.
