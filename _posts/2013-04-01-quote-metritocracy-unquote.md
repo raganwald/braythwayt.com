@@ -14,7 +14,7 @@ There is no requirement in the definition above for double-blind studies or othe
 
 We know that Donald Trump is successful investing in Real Estate. The reason we know that? His father Fred Trump gave him thirty million dollars to get started in the 1970s. There are millions of other people who didn't belong to the "lucky zygote club," and we'll simply never know whether they have any aptitude for Real Estate.
 
-The same thing goes for "examination." Sure we examine people and say, "That person knows their stuff." But we don't ask why they know their stuff. How did they get into a good university? Who were their buddies in High School? Did they (as I did) go to one of the few high schools to have its own computer in the 1970s?
+The same thing goes for "examination." Sure we examine people and say, "That person knows their stuff." But we don't ask why they know their stuff. How did they get into a good university? Who were their buddies in high school? Did they (as I did) go to one of the few high schools to have its own computer in the 1970s?
 
 Meritocracy gives us confidence that the people we appoint to lead are actually competent within the constraints of the system, but it says nothing about whether we have a system that identifies and supports all people equally from birth to reach these positions.
 
@@ -47,3 +47,7 @@ It just means, that in this environment, "meritocracy" doesn't mean that a talen
 So let's be careful when we use the word "meritocracy." If two groups of people each mean different things by the word, we could have a situation where a bunch of successful people with degrees claim that Science, Technology, and Engineering is a meritocracy, while a bunch of disenfranchised people claim that membership in its culture does not reflect the distribution of potential in the general population.
 
 Both could be correct about their claims. And just because the incumbents are correct that their culture is a "meritocracy," it doesn't mean that there aren't any discrimination or equality problems.
+
+---
+
+notes:
