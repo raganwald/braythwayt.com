@@ -48,6 +48,12 @@ So let's be careful when we use the word "meritocracy." If two groups of people 
 
 Both could be correct about their claims. And just because the incumbents are correct that their culture is a "meritocracy," it doesn't mean that there aren't any discrimination or equality problems.
 
+Broadly speaking:
+
+> Meritocracy optimizes for precision (% true positives). It ignores recall (% false negatives).[^broad]
+
+[^broad]: [twitter.com/jmbroad/status/318860655002284033](https://twitter.com/jmbroad/status/318860655002284033)
+
 ---
 
 notes:
