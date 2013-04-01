@@ -6,7 +6,9 @@ People misuse this word, "meritocracy." Let's be clear about what it means:
 
 > **Meritocracy** is a political philosophy that holds power should be vested in individuals according to merit. Advancement in such a system is based on perceived intellectual talent measured through examination and/or demonstrated achievement in the field where it is implemented.
 
-Notice that by definition, "meritocracy" is a system based on empirical examination and demonstrated achievement. Sounds good, right? Yes, it does. It's far better than picking leaders at random or having some dictator appoint his drinking buddies.
+Notice that by definition, "meritocracy" is a system based on empirical examination and demonstrated achievement. Sounds good, right?
+
+Yes, it does sound good. It's far better than picking leaders at random or having some dictator appoint his drinking buddies.
 
 But having said that...
 
@@ -18,7 +20,7 @@ The same thing goes for "examination." Sure we examine people and say, "That per
 
 Meritocracy gives us confidence that the people we appoint to lead are actually competent within the constraints of the system, but it says nothing about whether we have a system that identifies and supports all people equally from birth to reach these positions.
 
-That's not a bad thing about the word, it's just a bad thing if we presume that calling something a "meritocracy" means more than what it actually means.
+Meritocracy is about avoiding false positives (incompetent people rising or being appointed to the top). That's not a bad thing *per se*, it's just a bad thing if we presume that calling something a "meritocracy" means more than what it actually means.
 
 ### it's the network
 
@@ -44,13 +46,11 @@ It just means, that in this environment, "meritocracy" doesn't mean that a talen
 
 ### meritocracy
 
-So let's be careful when we use the word "meritocracy." If two groups of people each mean different things by the word, we could have a situation where a bunch of successful people with degrees claim that Science, Technology, and Engineering is a meritocracy, while a bunch of disenfranchised people claim that membership in its culture does not reflect the distribution of potential in the general population.
-
-Both could be correct about their claims. And just because the incumbents are correct that their culture is a "meritocracy," it doesn't mean that there aren't any discrimination or equality problems.
+So let's be careful when we use the word "meritocracy." For many fields of endeavour, the incumbents can truthfully claim that their culture is a "meritocracy," but that doesn't mean that there aren't any discrimination or equality problems.
 
 Broadly speaking:
 
-> Meritocracy optimizes for precision (% true positives). It ignores recall (% false negatives).[^broad]
+> Meritocracy optimizes for precision (minimizing false positives). It ignores recall (minimizing false negatives).[^broad]
 
 [^broad]: [twitter.com/jmbroad/status/318860655002284033](https://twitter.com/jmbroad/status/318860655002284033)
 
