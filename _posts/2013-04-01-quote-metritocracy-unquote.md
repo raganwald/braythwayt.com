@@ -29,9 +29,11 @@ Meaning, of course, there are no false positives.
 
 Meanwhile, someone else points out that all of my speakers are old-school Lisp, [SNOBOL], and Smalltalk folks with zero selections from the new schools of Haskell, Python, Node, or whatever.
 
-Their point is that my selection process may not have false positives, but it demonstrates false negatives by passing over people who have something to contribute.
+Their point is that my selection process may not have false positives, but it demonstrates false negatives by passing over a large class of people who have something to contribute.
 
-I retort that it's unfair to send one of my Lispers home to make room for a Pythonista. What am I really saying? That I fear a "false positive" by putting a "less positive" person on stage. And what are you really saying? That by excluding *all* Pythonistas, I am clearly waving a huge false negative flag over the Python community.
+I retort that it's unfair to send one of my Lispers home to make room for a Pythonista. What am I really saying? That I fear a "false positive" by putting a "less positive" person on stage.
+
+And what are they really saying to me? That by excluding *all* Pythonistas, I am clearly waving a huge false negative flag over the Python community.
 
 We both have good points, and we'd find it easier to discuss our concerns if we weren't confusing each other by having two contrary views about the definition of "meritocracy."
 
