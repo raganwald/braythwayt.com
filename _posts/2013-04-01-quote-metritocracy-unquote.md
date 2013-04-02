@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Quote Meritocracy Unquote
 ---
 
 People misuse this word, "meritocracy." Let's be clear about what it means:
@@ -26,7 +27,7 @@ For example, I could put on a conference and if all of the speakers are solid pr
 
 Meaning, of course, there are no false positives.
 
-Meanwhile, someone else points out that all of my speakers are old-school Lisp, Snobol, and Smalltalk folks with zero selections from the new schools of Haskell, Python, Node, or whatever.
+Meanwhile, someone else points out that all of my speakers are old-school Lisp, [SNOBOL], and Smalltalk folks with zero selections from the new schools of Haskell, Python, Node, or whatever.
 
 Their point is that my selection process may not have false positives, but it demonstrates false negatives by passing over people who have something to contribute.
 
@@ -51,3 +52,5 @@ Broadly speaking:
 ---
 
 notes:
+
+[SNOBOL]: ftp://ftp.cs.arizona.edu/snobol/gb.pdf "The Legendary 'Green Book'"
