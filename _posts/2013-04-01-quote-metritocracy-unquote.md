@@ -43,9 +43,11 @@ So let's be careful when we use the word "meritocracy." For many fields of endea
 
 Broadly speaking:
 
-> Meritocracy optimizes for precision (minimizing false positives). It ignores recall (minimizing false negatives).[^broad]
+> Meritocracy optimizes for precision (minimizing false positives). It ignores recall (minimizing false negatives).[^broad][^kb]
 
-[^broad]: As suggested by [twitter.com/jmbroad/status/318860655002284033](https://twitter.com/jmbroad/status/318860655002284033). Another reader suggested reading about [sensitivity and specificity](http://en.wikipedia.org/wiki/Sensitivity_and_specificity), which is related to [type I and type II errors](http://en.wikipedia.org/wiki/Type_I_and_type_II_errors).
+[^broad]: As suggested by [twitter.com/jmbroad/status/318860655002284033](https://twitter.com/jmbroad/status/318860655002284033).
+
+[^kb]: [Karl Bunday](http://learninfreedom.org) suggested reading about [sensitivity and specificity](http://en.wikipedia.org/wiki/Sensitivity_and_specificity), which is related to [type I and type II errors](http://en.wikipedia.org/wiki/Type_I_and_type_II_errors).
 
 ---
 
