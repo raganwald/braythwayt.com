@@ -8,13 +8,9 @@ People misuse this word, "meritocracy." Let's be clear about what it means:
 
 Notice that by definition, "meritocracy" is a system based on empirical examination and demonstrated achievement. Sounds good, right?
 
-Yes, it does sound good. It's far better than picking leaders at random or having some dictator appoint his drinking buddies.
+Yes, it does sound good. It's far better than picking leaders at random or having some dictator appoint his drinking buddies. But having said that, there is no requirement in the definition above for the system to guarantee that everyone has an opportunity to fulfill their potential for success.
 
-But having said that...
-
-There is no requirement in the definition above for double-blind studies or other rigorous attempts to isolate individual factors in being successful. Let's take a simple example: Talent for investing in Real Estate. It's pretty hard to observe demonstrated achievement unless someone has already been investing in Real Estate.
-
-We know that Donald Trump is successful investing in Real Estate. The reason we know that? His father Fred Trump gave him thirty million dollars to get started in the 1970s. There are millions of other people who didn't belong to the "lucky zygote club," and we'll simply never know whether they have any aptitude for Real Estate.
+Let's take a simple example: Real Estate. We know that Donald Trump is successful investing in Real Estate. The reason we know that? His father Fred Trump gave him thirty million dollars to get started in the 1970s, so he has a forty year track record of (mostly) success. There are millions of other people who didn't belong to the "lucky zygote club," and we'll simply never know whether they have any aptitude for Real Estate.
 
 The same thing goes for "examination." Sure we examine people and say, "That person knows their stuff." But we don't ask why they know their stuff. How did they get into a good university? Who were their buddies in high school? Did they (as I did) go to one of the few high schools to have its own computer in the 1970s?
 
@@ -22,31 +18,25 @@ Meritocracy gives us confidence that the people we appoint to lead are actually 
 
 Meritocracy is about avoiding false positives (incompetent people rising or being appointed to the top). That's not a bad thing *per se*, it's just a bad thing if we presume that calling something a "meritocracy" means more than what it actually means.
 
-### it's the network
+### talking past each other
 
-Another thing that "meritocracy" means is that someone we appoint to lead is good at winning  within the constraints of the game as it is played. Let's stop talking about people for a moment and talk about software. If we say that "Mobile operating systems are a meritocracy," what could we possibly mean?
+Quite often, a discussion around this word is unsatisfying because you have one group of people saying that a certain thing is a meritocracy, meaning that none of the people in positions of authority are bozos.
 
-We know that in practice, network effects are gi-normously important. iOS is popular in large part because there are hundreds of thousands of applications. Applications are written for it because it is popular. Chicken, meet egg. iOS is successful because it is successful.
+For example, I could put on a conference and if all of the speakers are solid professionals with years of experience speaking at conferences, I can claim I have chosen them on merit.
 
-Does that mean that the market for operating systems is not a meritocracy? Why would it? We don't have a government that mandates the phone you use. We do not appear to have a Robber Baron making secret deals to impose a tax on competitive operating systems.[^gates]
+Meaning, of course, there are no false positives.
 
-[^gates]: As Bill Gates did before attempting to launder his image by spending his ill gotten gains curing Malaria.
+Meanwhile, someone else points out that all of my speakers are old-school Lisp, Snobol, and Smalltalk folks with zero selections from the new schools of Haskell, Python, Node, or whatever.
 
-We have a free market, and the operating system that provides the most value to consumers sells the most.
+Their point is that my selection process may not have false positives, but it demonstrates false negatives by passing over people who have something to contribute.
 
-Of course, some argue that other factors such as open-ness or architecture are more important than popularity, and that on these measures iOS does not merit its success. In effect, they have a test and claim that by examination it fails. They have one test, the market has another.
+I retort that it's unfair to send one of my Lispers home to make room for a Pythonista. What am I really saying? That I fear a "false positive" by putting a "less positive" person on stage. And what are you really saying? That by excluding *all* Pythonistas, I am clearly waving a huge false negative flag over the Python community.
 
-The important thing to observe is that in any system with a feedback loop, the most successful entities are going to be those that got in on the ground floor and ruthlessly destroy competition early to achieve a dominant position so they can enjoy the network effects. Thereafter, they can cruise on their legacy status for decades or even centuries.
-
-That's still a meritocracy, it's just that instead of being good at technical innovation, they're good at playing the game. We just have to be careful that when we say the word "meritocracy," we are not taking a narrow and wrong view of what it means.
-
-This matters especially when talking about people, of course. A country club can be a meritocracy, and if it is full of middle-aged white men whose fathers before them were members of the same club, it doesn't mean we don't have a meritocracy of sorts going on.
-
-It just means, that in this environment, "meritocracy" doesn't mean that a talented woman of colour born into a lower-middle-class family has the same chance of rising to the top. Meritocracy doesn't guarantee that she will be chosen, just that those chosen will have passed the tests for competence and track record of success.
+We both have good points, and we'd find it easier to discuss our concerns if we weren't confusing each other by having two contrary views about the definition of "meritocracy."
 
 ### meritocracy
 
-So let's be careful when we use the word "meritocracy." For many fields of endeavour, the incumbents can truthfully claim that their culture is a "meritocracy," but that doesn't mean that there aren't any discrimination or equality problems.
+So let's be careful when we use the word "meritocracy." For many fields of endeavour, the incumbents can truthfully claim that their culture is a "meritocracy," and that is a good thing. But that doesn't mean that there aren't also equality of access issues worth discussion.
 
 Broadly speaking:
 
