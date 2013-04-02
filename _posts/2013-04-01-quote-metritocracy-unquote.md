@@ -43,7 +43,7 @@ So let's be careful when we use the word "meritocracy." For many fields of endea
 
 Broadly speaking:
 
-> Meritocracy optimizes for precision (minimizing false positives). It ignores recall (minimizing false negatives).[^broad][^kb]
+> Meritocracy optimizes for precision (minimizing false positives). It ignores recall (minimizing false negatives).[^broad] [^kb]
 
 [^broad]: As suggested by [twitter.com/jmbroad/status/318860655002284033](https://twitter.com/jmbroad/status/318860655002284033).
 
