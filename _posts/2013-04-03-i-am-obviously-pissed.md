@@ -7,11 +7,11 @@ tags: [noindex]
 
 Hey sexist jerkwads, just stop that. It's a shit argument, and you ought to know better.
 
-I won't let you call me a nigger in my presence. I won't let you spout any kind of vile, demeaning, racist crap. Am I a sensitive, delicate creature? Let's rent some time at the nearest Boxing or MMA gym and discuss it.
+I won't let you call me a nigger in my presence. I won't let you spout any kind of vile, demeaning, racist crap. Am I a sensitive, delicate creature? No, and I'm not offended in the way you might think. I'm offended that somehow your body grew into adulthood while your emotions stayed at 30 months of age. As Spock once said, "I object to you."
 
 Some things are just plain wrong. You claim you know about the difference between right and wrong, because you're constantly whining that it's wrong to deprive you of your right to say and do whatever you want.
 
-I know all about that, I raise two children and I remember their time as toddlers vividly. Then they grew up and became sensitive to the whole living amongst fellow humans thing. They learned empathy and compassion.
+I know all about that, I raise two children and I remember their time as toddlers vividly. Toddlers scream bloody murder when they're told that they aren't supposed to do whatever they want, whenever they want. Then they grew up and became sensitive to the whole living amongst fellow humans thing. They learned empathy and compassion.
 
 In the 1950s, men did whatever they wanted and women had to put up with it. They also lived according to a strict set of rules about propriety that involved wearing a suit to work, cutting their hair, and so on. And no, they couldn't say whatever they liked. here were very strict rules about what kind of language was appropriate and what wasn't, where you could use a word like "whore" and where you couldn't.
 
