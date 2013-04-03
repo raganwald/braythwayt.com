@@ -1,5 +1,6 @@
 ---
 layout: default
+tags: [noindex]
 ---
 
 > Apparently, women are sensitive, delicate creatures who must be shielded from coarse language lest they abandon their dreams of becoming a software developer and seek the shelter of being a stay-at-home-mom.--[some random Internet Troll](http://www.globalnerdy.com/2013/04/02/programmers-being-dicks-and-other-related-tales/#comments)

@@ -1,6 +1,7 @@
 ---
 title: Why do black people talk all ghetto?
 layout: default
+tags: [noindex]
 ---
 
 > Why do black people talk all ghetto? Are you trying to sound stupid?--Anonymous redditor
