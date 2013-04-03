@@ -7,7 +7,9 @@ tags: [noindex]
 
 Hey sexist jerkwads, just stop that. It's a shit argument, and you ought to know better.
 
-I won't let you call me a nigger in my presence. I won't let you spout any kind of vile, demeaning, racist crap. Am I a sensitive, delicate creature? No, and I'm not offended in the way you might think. I'm offended that somehow your body grew into adulthood while your emotions stayed at 30 months of age. As Spock once said, "I object to you."
+I won't let you call me a nigger in my presence. I won't let you spout any kind of vile, demeaning, racist crap. Am I a sensitive, delicate creature? No, and I'm not offended in the way you might think.
+
+I'm offended that somehow your body grew into adulthood while your emotions stayed at 30 months of age. As Spock once said, "I object to you." He was talking about some God-like creature that acted without any moral compass. Just like you, except for the God-like powers thing.
 
 Some things are just plain wrong. You claim you know about the difference between right and wrong, because you're constantly whining that it's wrong to deprive you of your right to say and do whatever you want.
 
