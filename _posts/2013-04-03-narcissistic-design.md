@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[![Narcissus](./assets/images/495px-Narcissus-Caravaggio_(1594-96).jpg)](https://en.wikipedia.org/wiki/File:Narcissus-Caravaggio_(1594-96).jpg)
+[![Narcissus](/assets/images/Narcissus-Caravaggio.jpg)](https://en.wikipedia.org/wiki/File:Narcissus-Caravaggio_(1594-96).jpg)
 
 An oft-quoted maxim is to never design for yourself because you aren't representative of your market, therefore you'll design a product only programmers could love, and so on.
 
