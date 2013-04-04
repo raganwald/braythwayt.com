@@ -5,7 +5,8 @@ title: An open letter to Joel Spolsky in response to his post about the Patent P
 
 Joel:
 
-<u>re: <a href="http://www.joelonsoftware.com/items/2013/04/02.html">The Patent Protection Racket</a></u>
+*re: [The Patent Protection Racket](http://www.joelonsoftware.com/items/2013/04/02.html)*  
+  
 
 What can I do to help?
 
