@@ -13,7 +13,7 @@ Popularity rules, and fitness for purpose is secondary. We even make up a little
 
 This is one of the reasons why many experienced programmers spend some time on "social" programming sites like Hacker news, Reddit, or Stack Overflow. In a pop culture, keeping up with the trends is necessary to do your job. You can't design clothes if you spend all your time in a laboratory analyzing fabrics and talking manufacturing techniques, you have to get out in the streets and clubs and cafés and soak up the culture.
 
-[![Pastedgraphic-2](images/PastedGraphic-2_tiff_scaled_501.jpg)](http://getfile8.posterous.com/getfile/files.posterous.com/raganwald/PidTxygdEXuQoCUZc30gavk5jM9c83mnQUtMl7e9BDn02bZ4VQpULTMdZxWx/PastedGraphic-2.tiff.converted.jpg)
+![A bower](/assets/images/posterous/PastedGraphic-2_tiff_scaled_501.jpg)
 
 In a programming pop culture, you have to go to meetups and read blog posts about who makes which decisions to solve what problems. And you can't be deceived by the technology. Programming idioms and libraries and frameworks evolve through Survival of the Fittest all right, but that model gave us Bowerbirds, birds that build elaborate structures that don't do anything except demonstrate its fitness to spend large amounts of time building elaborate structures. Which is attractive, because to succeed we too must build elaborate structures, so maybe some elaborate structure DNA will help us propagate our ideas into the next generation.
 
