@@ -18,7 +18,7 @@ If having plenty of women and men on the team is a value of yours, you are willi
 
 If freedom of speech is a value of yours, you are willing to live with one of your employees making a personal tweet that pisses some people off. You tell people that freedom of expression is your value just as freedom to choose a vendor that censors their employees is theirs.
 
-A word where "doing the right thing" made you richer, more popular, and also morally comfortable would be a world where there effectively was no freedom of choice. That isn't our world.
+A world where "doing the right thing" made you richer, more popular, and also morally comfortable would be a world where there effectively was no freedom of choice. That isn't our world.
 
 Our world is one where the things that give us the most personal satisfaction aren't always the ones that make us rich or famous or popular. We have to sacrifice. We have to make difficult choices. We have to ask ourselves whether we truly value our positions.
 
