@@ -8,7 +8,7 @@ The example he quotes is that they found a perfect engineer who passed all their
 
 What I like about this story is that it plays directly into my Faustian prejudices. I'm glad that he became a billionaire. I'm not in the least surprised that the company he created is well-known for its arrogance. It fits my little world view to think that a company that discriminates can be successful.
 
-I don;t need to make up little stories about how a diverse team can make you more successful, or about how you can pick up talent that other companies overlook because the people are the wrong gender or colour or too short or too old or Canadian or whatever.
+I don't need to make up little stories about how a diverse team can make you more successful, or about how you can pick up talent that other companies overlook because the people are the wrong gender or colour or too short or too old or Canadian or whatever.
 
 To me, the pursuit of money as an end in itself is amoral. You are faced with many, many choices every day that are between some principle you hold and making an extra buck. What makes something a **value** rather than an opinion is that you value it. Meaning, it's worth something to you.
 
