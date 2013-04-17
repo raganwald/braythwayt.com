@@ -38,6 +38,4 @@ This is just my two cents. But I encourage everyone to cut each other--and they 
 
 ---
 
-*postscript provided by [@izs](http://twitter.com/izs):*
-
-[![Fuck. That. Shit.](http://imgs.xkcd.com/comics/dreams.png)](http://xkcd.com/137/)
+*postscript suggested by [@izs](http://twitter.com/izs):* [When did we forget our dreams?](http://xkcd.com/137/)
