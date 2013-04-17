@@ -16,4 +16,4 @@ But at forty-four, you have an identity. To adopt something new, you have to pus
 
 Even if I didn't already have an opinion on these issues, if it concerns the changing impact of technology on entertainment and communications, I'd lean towards betting on whatever the fourteen year-olds think is right.
 
-If it isn't today, it will be.
+If it isn't today, *it will be*. And sooner than we expect.

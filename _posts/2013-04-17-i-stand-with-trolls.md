@@ -34,7 +34,7 @@ How is this a win for society? Or for us? We'll end up with a Twitter full of te
 
 Honestly that takes me back. To life behind the Iron Curtain.
 
-This is just my two cents. But I encourage everyone to cut each other--and they companies that employ us--a little slack. I think we'll all win if we loosen up and take it easy.
+This is just my two cents. But I encourage everyone to cut each other--and the companies that employ us--a little slack. I think we'll all win if we loosen up and take it easy.
 
 ---
 
