@@ -38,4 +38,4 @@ This is just my two cents. But I encourage everyone to cut each other--and they 
 
 ---
 
-*postscript suggested by [@izs](http://twitter.com/izs):* [When did we forget our dreams?](http://xkcd.com/137/)
+*[@izs](http://twitter.com/izs) suggested a worthy postscript:* [When did we forget our dreams?](http://xkcd.com/137/)
