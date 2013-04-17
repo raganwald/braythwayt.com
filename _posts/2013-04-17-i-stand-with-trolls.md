@@ -2,11 +2,11 @@
 layout: default
 ---
 
-I'm a little disturbed about a few recent incidents of people being fired for things they said personally on Twitter. The most recent to pass my attention was a Microsfotie who got a little abrasive in a personal exchange.
+I'm a little disturbed about a few recent incidents of people being fired for things they said personally on Twitter. The most recent to pass my attention was a Microsoftie who got a little abrasive in a personal exchange.
 
-Yes, he said abrasive things. Yes, he works for Microsoft. But whatever happened to the little byline we used to stick in our NNTP .sigs that said "I don't speak for my employer?"
+Yes, he said highly unpopular things. Yes, he works for Microsoft. But whatever happened to the little byline we used to stick in our NNTP .sigs that said "I don't speak for my employer?"
 
-I think it's important to separate these issues. I'm not calling their employers out for firing them. I don't necessarily agree, but I'm not making the call. Instead, I'm calling out the culture of blaming the employer for the mouthiness of their employees in a personal capacity.
+I think it's important to separate these issues. I'm not calling their employers out for firing them. I don't like it, but I'm not responsible for making the call. Instead, I'm calling out *our* culture of blaming the employer for the mouthiness of their employees in a personal capacity.
 
 ![Internet Troll](/assets/images/Internet-Troll.jpg)
 
