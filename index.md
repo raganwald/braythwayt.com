@@ -11,7 +11,7 @@ Reg “raganwald” Braithwaite is proof that somewhere, a village is missing it
 
 ### contact and other resources
 
-* [résumé](/assets/reginald/RegBraithwaite20130425.pdf) (from 2012)
+* [résumé](/assets/reginald/RegBraithwaite20130425.pdf)
 * email: [reg@braythwayt.com](mailto:reg@braythwayt.com)
 * talks and conferences: [lanyrd.com](http://lanyrd.com/profile/raganwald/)
 * [books](http://leanpub.com/u/raganwald)
