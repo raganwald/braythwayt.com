@@ -32,13 +32,13 @@ When a hacker sees the current dynamic, he (note the obsolete pronoun) does not 
 
 It is enough to see the result and he is curious about how it can be disrupted for the same reason he is curious about how a "little language" like Ruby can be so "Worse is Better" that it disrupts the duopoly of Java and C#.
 
-He sees that progress is glacial and that the arguments are going round in circles. He does not think to himself "This is evidence that there is no problem." He does not think to himself, "This is the Universe unfolding as it must." He does not think to himself, "This is proof that nothing can be done."
+He sees that progress is glacial and that the arguments are going round in circles. He does not think to himself, "This is evidence that there is no problem." He does not think to himself, "This is the Universe unfolding as it must." He does not think to himself, "This is proof that nothing can be done."
 
 He thinks to himself, "This is a hard problem." And this is catnip to him. This is his drug, these are where he scores his endorphins. This is an opportunity to change the world. To live a life of consequence. To wrest control of the Universe from the forces of entropy.
 
 ### hackers and programming
 
-No serious hacker (yes, it's a "no true scotsman" reference) is satisfied with the current state of programming. It seems that some people "lack a gene that helps them understand pointers." Or lack some skill to "understand how state changes in a program." Or heaven forbid, "lack the ability to grok lots and lots and lots of parentheses."
+No serious hacker (yes, it's a "no true scotsman" reference) is satisfied with the current state of programming. It is alleged that some people "Lack a gene that helps them understand pointers." Or "Lack some skill to understand how state changes in a program." Or heaven forbid, they "Lack the ability to grok lots and lots and lots of parentheses."
 
 ![Visicalc opened up the world of functional programming to non-programmers](/assets/images/Visicalc.png)
 
@@ -46,19 +46,19 @@ The current state of programming feels like that ridiculous Space Opera, where t
 
 It's said that the most important words a scientist can utter are, "Hmmm, that's odd..." The idea that some people are programmers and some aren't is odd. Another thing that's odd: What's the deal with pair programming?
 
-Some people swear by it, some people swear when you mention it. *How is this not odd?* It's obvious to me that we don't understand pair programming. We understand brainstorming ideas. We understand pair bicycle repair. We understand pair driving in rally racing. But we don't understand pair programming?
+Some people swear by it, some people swear when you mention it. *How is this not odd?* It's obvious to me that we don't understand pair programming. We understand pair brainstorming. We understand pair bicycle repair. We understand pair driving in rally racing. But we don't understand pair programming?
 
-Pair programming is a fertile opportunity for hacking. What is the problem with our tools? What is the problem with the way we program? I don't allow people who succeed with pair programming to convince me it works for the same reason I don't allow companies that hire women to convince me we don't have a gender imbalance in programming. It needs to be hacked.
+Pair programming is a fertile opportunity for hacking. What is the problem with our tools? What is the problem with the way we program? I don't allow people who succeed with pair programming to convince me it works, for the same reason that I don't allow companies that hire women to convince me we don't have a gender imbalance in programming. It needs to be hacked.
 
 There are many other examples of odd things in programming. Test-Driven Development has exactly the same dynamic as pair programming. Some people love it, some hate it. We can't be doing it right. We clearly don't understand it properly. Somebody needs to hack TDD, to completely reinvent it, or maybe to make it obsolete with a new thing that satisfies the same goals.
 
-The way we programmers write programs is stuck in a rut, and it needs to be hacked. 
+The way we programmers write programs is stuck in a rut, and it needs to be hacked.
 
 ### my final words
 
 I raised the issue of changing the world, and I brought up two examples that in some ways seem very different: The cultural exclusion of outsiders and the fact that we have very uneven application of programming.
 
-They're really the same thing. Hacking the system to "bring balance to the gender force" is the same thing as hacking the system so that more people program, and it's the same thing as hacking pair programming so that more people program together, and it's the same thing as hacking the system so that more people do some unspecified thing related to more testing.
+They're really the same thing. Hacking the system to "Bring balance to the gender force" is the same thing as hacking the system so that more people program, and it's the same thing as hacking pair programming so that more people program together, and it's the same thing as hacking the system so that more people do some unspecified thing related to more testing.
 
 Right now the future is *very* unevenly applied in programming. There are little clumps and lumps of programming going on. Meanwhile, software is eating our world. Hacking the forces that clump programming together will bring more brainpower to work on moving humanity forward.
 
