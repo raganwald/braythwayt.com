@@ -62,4 +62,6 @@ And I believe that the hackers are the ones to do it.
 
 I make no value judgments here. You are who you are, and the wonderful, beautiful, and even scary thing about the world is that you are free to choose what you do, what you say, and what you decide is important. I could not, would not ask you to give that up. All I can do is share with you what I see and how I feel.
 
-the rest is up to you.
+The rest is up to you.
+
+([discuss](https://news.ycombinator.com/item?id=5626873))
