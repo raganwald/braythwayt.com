@@ -26,7 +26,7 @@ One of the big issues recently is women. Or people of colour. Or something else,
 
 Hacking is about breaking down those barriers. Hackers treat this paradigm as social damage and invent ways to route around it. That is what we have always done. PCs routed around the institutional control of the mainframe. The web routed around social control of information. [Khan Academy](http://www.khanacademy.org/cs) routes around the institutional control of formal education.
 
-When a hacker sees the current dynamic, he (note the obsolete pronoun) does not need to ask whether the forces excluding women are caused by assholes, by systemic problems, by historical accident, or by genetic predisposition to prefer barbie dolls to math. He sees the result and is curious about how it can be disrupted for the same reason he s curious about how a "little language" like Ruby can be so "Worse is Better" that it disrupts the Duopoly of Java and C#.
+When a hacker sees the current dynamic, he (note the obsolete pronoun) does not need to ask whether the forces excluding women are caused by assholes, by systemic problems, by historical accident, or by genetic predisposition to prefer barbie dolls to math. He sees the result and is curious about how it can be disrupted for the same reason he is curious about how a "little language" like Ruby can be so "Worse is Better" that it disrupts the duopoly of Java and C#.
 
 He sees that progress is glacial and that the arguments are going round in circles. He does not think to himself "This is evidence that there is no problem." He does not think to himself, This is the Universe unfolding as it must." He does not think to himself, "This is proof that nothing can be done."
 
@@ -40,7 +40,7 @@ No serious hacker (yes, it's a "no true scotsman" reference) is satisfied with t
 
 The current state of programming feels like that ridiculous Space Opera, where there are some midi-programmions in our blood, and if you have enough, you can wield emacs. Once again, we see an inside vs. outside culture. People like [Bret Victor](http://worrydream.com/) and [John Resig](http://ejohn.org) are trying to hack this dynamic. They need help, help from *hackers*.
 
-It's said that the most important words a scientist can utter are, "Hmmm, that's odd..." The idea that some people are programmers and some aren't is odd. Another thing that's odd: What's the dal with pair programming?
+It's said that the most important words a scientist can utter are, "Hmmm, that's odd..." The idea that some people are programmers and some aren't is odd. Another thing that's odd: What's the deal with pair programming?
 
 Some people swear by it, some people swear when you mention it. *How is this not odd?* It's obvious to me that we don't understand pair programming. That is broken. We understand brainstorming ideas. We understand pair bicycle repair. We understand pair driving in rally racing. But we don't understand pair programming?
 
