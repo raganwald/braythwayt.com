@@ -24,11 +24,15 @@ One of the big issues recently is women. Or people of colour. Or something else,
 
 ![Grace Hopper](/assets/images/Grace_Hopper.jpg)
 
-Hacking is about breaking down those barriers. Hackers treat this paradigm as social damage and invent ways to route around it. That is what we have always done. PCs routed around the institutional control of the mainframe. The web routed around social control of information. [Khan Academy](http://www.khanacademy.org/cs) routes around the institutional control of formal education.
+Hacking is about breaking down those barriers.
 
-When a hacker sees the current dynamic, he (note the obsolete pronoun) does not need to ask whether the forces excluding women are caused by assholes, by systemic problems, by historical accident, or by genetic predisposition to prefer barbie dolls to math. He sees the result and is curious about how it can be disrupted for the same reason he is curious about how a "little language" like Ruby can be so "Worse is Better" that it disrupts the duopoly of Java and C#.
+Hackers treat the paradigm of "some people are in charge and some people aren't" as *social damage*, and they invent ways to route around it. That is what we have always done. PCs routed around the institutional control of the mainframe. The web routed around social control of information. [Khan Academy](http://www.khanacademy.org/cs) routes around the institutional control of formal education.
 
-He sees that progress is glacial and that the arguments are going round in circles. He does not think to himself "This is evidence that there is no problem." He does not think to himself, This is the Universe unfolding as it must." He does not think to himself, "This is proof that nothing can be done."
+When a hacker sees the current dynamic, he (note the obsolete pronoun) does not need to ask whether the forces excluding women are caused by systemic problems, by historical accident, by assholes, or by genetic predisposition to prefer barbie dolls to math.
+
+It is enough to see the result and he is curious about how it can be disrupted for the same reason he is curious about how a "little language" like Ruby can be so "Worse is Better" that it disrupts the duopoly of Java and C#.
+
+He sees that progress is glacial and that the arguments are going round in circles. He does not think to himself "This is evidence that there is no problem." He does not think to himself, "This is the Universe unfolding as it must." He does not think to himself, "This is proof that nothing can be done."
 
 He thinks to himself, "This is a hard problem." And this is catnip to him. This is his drug, these are where he scores his endorphins. This is an opportunity to change the world. To live a life of consequence. To wrest control of the Universe from the forces of entropy.
 
