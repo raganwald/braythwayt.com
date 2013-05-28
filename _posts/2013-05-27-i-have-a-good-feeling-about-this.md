@@ -1,6 +1,5 @@
 ---
 layout: default
-tags: javascript
 ---
 
 Last Thursday I had the honour of delivering the opening talk (it wasn't a formal "keynote") at [Web Rebels](http://webrebels.org).
