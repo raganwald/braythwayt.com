@@ -1,5 +1,4 @@
 pygments: true
 lsi: false
 safe: true
-markdown: kramdown
 exclude: [config.rb, Gemfile]
