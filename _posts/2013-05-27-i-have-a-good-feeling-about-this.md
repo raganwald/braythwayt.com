@@ -12,8 +12,6 @@ I'm a little obsessed with broadening the reach of programming right now, and on
 
 So as an experiment, I composed the entire presentation on my iPad Mini using [Haiku Deck](http://haikudeck.com). HaikuDeck is very specific: It creates presentations that are picture-heavy, and it tries to be a specific tool with just the right features for creating the one kind of presentation. I think it's great, and it left me wondering if tablets will move us gently away from "all-in-one" applications like Photoshop towards collections of tools.
 
-<iframe src="http://www.haikudeck.com/e/pjz03GUWZb" width="640" height="541" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-
 And as if to underscore this trend, I also started creating virtual posters for my talks using [Phoster](http://phoster.bucketlabs.net), a program for creating, well, posters. Is it page layout software? Is it an image editor? It's certainly lame if you think of it in those terms, buut fine if what you want is a poster.
 
 Here's an example for my talk at [SpainJS](http://spainjs.org):
@@ -55,3 +53,5 @@ The story of programming tooling is far from over. Every which way I look, I see
 I came back from Web Rebels even more excited than I was went I arrived. I'd like to thank the organizers, especially Trygve Lie and Bodil Stokke, and the sponsors, particularly Github and Comoyo.
 
 Next year will probably be even better. Don't miss it.
+
+<iframe src="http://www.haikudeck.com/e/pjz03GUWZb" width="640" height="541" frameborder="0" marginheight="0" marginwidth="0"></iframe>
