@@ -12,13 +12,13 @@ I'm a little obsessed with broadening the reach of programming right now, and on
 
 So as an experiment, I composed the entire presentation on my iPad Mini using [Haiku Deck](http://haikudeck.com). HaikuDeck is very specific: It creates presentations that are picture-heavy, and it tries to be a specific tool with just the right features for creating the one kind of presentation. I think it's great, and it left me wondering if tablets will move us gently away from "all-in-one" applications like Photoshop towards collections of tools.
 
-And as if to underscore this trend, I also started creating virtual posters for my talks using [Phoster](http://phoster.bucketlabs.net), a program for creating, well, posters. Is it page layout software? Is it an image editor? It's certainly lame if you think of it in those terms, buut fine if what you want is a poster.
+I also started creating virtual posters for my talks using [Phoster](http://phoster.bucketlabs.net), a program for creating--well--posters. Is it page layout software? Is it an image editor? It's certainly lame if you think of it in those terms, but fine if all you want is a poster.
 
 Here's an example for my talk at [SpainJS](http://spainjs.org):
 
 ![La Hermosa Vida](/assets/images/LaHermosaVida.png)
 
-Again, a specific tool that has a strong focus and thus is able to provide fewer features but the features it does provide are even *more* valuable than the features you'd find in a general-purpose program if you were trying to do the same thing.
+Again, a specific tool that has a strong focus and thus needs fewer features. And the features it does provide are even *more* valuable than the features you'd find in a general-purpose program, presuming you were trying to do the same thing.
 
 I have been thinking about these programs in the contexts of tablets, but I think what makes them possible isn't the hardware, but rather that we are no longer trapped inside proprietary formats for things like images.
 
@@ -50,7 +50,7 @@ Who knows what apps and services people will create for themselves? I'm excited 
 
 The story of programming tooling is far from over. Every which way I look, I see opportunities to invent new things. Small, focused tools designed for platforms like Firefox OS. Social coding apps that run at global scale. Big Data. Real-time collaboration. Composeable tools. All kinds of new and exciting things are waiting to be invented and/or discovered, and each one represents a sliver of humanity coming on line and creating value through software.
 
-I came back from Web Rebels even more excited than I was went I arrived. I'd like to thank the organizers, especially Trygve Lie and Bodil Stokke, and the sponsors, particularly Github and Comoyo.
+I came back from Web Rebels even more excited than I was when I arrived. I'd like to thank the organizers, especially Trygve Lie and Bodil Stokke, and the sponsors, particularly Github and Comoyo.
 
 Next year will probably be even better. Don't miss it.
 
