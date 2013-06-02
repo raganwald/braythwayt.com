@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Wherein I Tell Steve Ballmer What To Do
 ---
 
 It has been a while since I called up one of the world's richest and most successful businessmen and told him how to run his business, so here's a little something for Steve Ballmer at Microsoft.
