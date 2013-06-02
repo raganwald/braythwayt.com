@@ -9,7 +9,7 @@ It has been a while since I called up one of the world's richest and most succes
 
 You're going to start a startup.
 
-This needs to be stealth, I suggest funding it personally out of one of your tax shelter investment vehicles. Do not tell anyone at Microsoft what you are doing. Hire some indie-looking people, they can be actors or models. Buy Vooza if need be.
+This needs to be stealth, I suggest funding it personally out of one of your tax shelter investment vehicles. Do not tell anyone at Microsoft what you are doing. Hire some indie-looking people, they can be actors or models. Buy [Vooza](http://vooza.com) if need be.
 
 Launch a kickstarter with some great promos and prototypes, but not too great. You're going to boast that you are creating a new phone, you have some prototypes, but need some moolah to get production going in China. Spin a nice tale. Pass one of your talking heads off as an ex-Microsoftie, another as a Googler, make it seem credible.
 
