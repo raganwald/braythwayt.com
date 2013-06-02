@@ -12,7 +12,7 @@ Launch a kickstarter with some great promos and prototypes, but not too great. Y
 
 Meanwhile, I want you to white-label Windows Phone. Rip all your branding out, even the stuff you can find if you do a software tear-down and go snooping resources. Rip it the fuck out and make this look like something an indie group would design.
 
-![Windows Phone](/assets/images/whindows-phone.jpg)
+![Windows Phone](/assets/images/windows-phone.jpg)
 
 People will cotton on to how it looks like Windows Phone, so be up front and say, "We liked some of the design ideas from Windows Phone, but hated X, Y, and Z." Then cut features X, Y, and Z. Any X, Y, and Z will do, but if you want to hit this out of the park, make X, Y, and Z legacy enterprise-y things that the kind of people who buy indie stuff hate reflexively.
 
