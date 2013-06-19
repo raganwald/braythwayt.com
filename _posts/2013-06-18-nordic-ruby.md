@@ -39,6 +39,8 @@ A great conference plugs directly into the things that our day-to-day career dem
 
 When you're engaged with ideas beneath the level of "How can I put this fire out," a lot of other things simply disappear.
 
+[![Patrik](/assets/images/patrik.jpg)](http://www.flickr.com/photos/elabsse/9026034704/)
+
 As an example of this effect, it was only when I sat down to write this that I realized I may have been the only person of colour at the conference. Maybe me and one of the other speakers might have qualified as a "POC." I can't remember, which is unusual: I normally notice whether or not there are other people of colour at a conference.
 
 Was it the robes? Or was it the deeply provocative ideas from people like Katrina Owen and  Chad Fowler? Or was it the generous half-hour breaks between talks that encouraged conversation between attendees rather than an asymmetrical Q&A with the speakers?
@@ -49,7 +51,7 @@ It's not as simple as a mission statement with the right buzzwords, or following
 
 All of those things are good, and may be necessary, but deeper than that is importance of making sure everything is working together to make an experience something that transforms people.
 
-[[Reg at Nordic Ruby](/assets/images/bind-by-contract.jpg)](http://www.flickr.com/photos/elabsse/9026031742/)
+[1[Reg at Nordic Ruby](/assets/images/bind-by-contract.jpg)](http://www.flickr.com/photos/elabsse/9026031742/)
 
 Nordic Ruby was a significant moment in my year. I cannot say if it was the same for everyone, but I can say that several of the attendees talked about presentations that brought them to tears, or provoked them to ask if they were listening to the band playing on the Titanic.
 
