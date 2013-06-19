@@ -61,8 +61,6 @@ In the end, software development is a people activity, and Nordic Ruby stripped 
 
 Thumbs up from me, and I hope to see you there in 2014.
 
-> Transport du courrier, transport de la voix humaine, le transport des images vacillantes - dans ce siècle, comme dans d'autres, nos plus grandes réalisations ont toujours le seul but d'amener mais ensemble.--Antoine de Saint-Exupéry, *Terre des Hommes*
-
 [![Sanor and Katrina](/assets/images/sandor-and-katrina.jpg)](http://www.flickr.com/photos/elabsse/9023807307/)
 
-([more photos](http://www.flickr.com/groups/2270689@N22/pool/))
+> Transport du courrier, transport de la voix humaine, le transport des images vacillantes - dans ce siècle, comme dans d'autres, nos plus grandes réalisations ont toujours le seul but d'amener mais ensemble.--Antoine de Saint-Exupéry, *Terre des Hommes*
