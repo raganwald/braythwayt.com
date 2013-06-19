@@ -10,11 +10,9 @@ Two weeks ago, I found myself travelling 6,348 kilometres from my home in Toront
 
 [^distance]: Amusingly, I flew straight over Stockholm to Helsinki, and doubled back on a connecting flight. In a sense, I actually flew 6,619 km to Helsinki and another 397 back, for a total of over 7,000 km each way!
 
-Nordic Ruby was held at the [Yasuragi Hasseludden][yh], a Japanese (or Japanese-themed) spa in the Swedish archipelago. There is much to say on the subject, but I'd like to approach it in a roundabout way.
+Nordic Ruby was held at the [Yasuragi Hasseludden][yh], a Japanese (or Japanese-themed) spa in the Swedish archipelago. Upon checking in, I was issued some slippers and a blue cotton robe. Walking to my room, I saw many people wearing the exact same robes, some from the conference and others visiting Yasuragi for pleasure. I decided to wear the robe to the conference, and I was not alone.
 
 [yh]: http://www.yasuragi.se
-
-Upon checking in, I was issued some slippers and a blue cotton robe. As I was walking to my room, I saw many people wearing the exact same robes, some from the conference and others visiting Yasuragi for pleasure. I decided to wear the robe to the conference, and I was not alone.
 
 [![Conversation](/assets/images/conversation.jpg)](http://www.flickr.com/photos/elabsse/9023805673/)
 
