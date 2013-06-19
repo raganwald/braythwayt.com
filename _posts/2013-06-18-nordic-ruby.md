@@ -56,7 +56,7 @@ All of those things are good, and may be necessary, but deeper than that is impo
 
 Nordic Ruby was a significant moment in my year. I cannot say if it was the same for everyone, but I can say that several of the attendees talked about presentations that brought them to tears, or provoked them to ask if they were listening to the band playing on the Titanic.
 
-<iframe src="http://player.vimeo.com/video/68478335" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/68478335">Nordic Ruby 2013 Teaser</a> from <a href="http://vimeo.com/langalex">Alexander Lang</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+<iframe src="http://player.vimeo.com/video/68478335" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> 
 
 Long after the amazing technical discussions are forgotten, I will remember "How to Talk to Little Girls." Long after the incredibly smart insights are forgotten, I will remember sharing a beer with someone who had taken the Trans-Siberian Express to come to Nordic Ruby, and sharing a whiskey with someone "gainfully unemployed," who was bound to Berlin to catch up with a friend.
 
