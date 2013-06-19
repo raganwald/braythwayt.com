@@ -3,7 +3,7 @@ layout: default
 tags: noindex
 ---
 
-Two weeks ago, I found myself travelling 6,348 kilometres from my home in Toronto to Stockholm to attend (and speak at) [Nordic Ruby][nr].[^distance]
+Two weeks ago, I found myself travelling 6,348 kilometres from my home in Toronto to Stockholm to attend [Nordic Ruby][nr].[^distance]
 
 [nr]: http://2013.nordicruby.org
 
@@ -51,7 +51,7 @@ It's not as simple as a mission statement with the right buzzwords, or following
 
 All of those things are good, and may be necessary, but deeper than that is importance of making sure everything is working together to make an experience something that transforms people.
 
-[1[Reg at Nordic Ruby](/assets/images/bind-by-contract.jpg)](http://www.flickr.com/photos/elabsse/9026031742/)
+[![Reg at Nordic Ruby](/assets/images/bind-by-contract.jpg)](http://www.flickr.com/photos/elabsse/9026031742/)
 
 Nordic Ruby was a significant moment in my year. I cannot say if it was the same for everyone, but I can say that several of the attendees talked about presentations that brought them to tears, or provoked them to ask if they were listening to the band playing on the Titanic.
 
