@@ -17,7 +17,7 @@ Nordic Ruby was held at the [Yasuragi Hasseludden][yh], a Japanese (or Japanese-
 
 Upon checking in, I was issued some slippers and a blue cotton robe. As I was walking to my room, I saw many people wearing the exact same robes, some from the conference and others visiting Yasuragi for pleasure. I decided to wear the robe to the conference, and I was not alone.
 
-[![Yukatas](/assets/images/yukatas.jpg)](http://www.flickr.com/photos/elabsse/9023807265/)
+[![Conversation](/assets/images/conversation.jpg)](http://www.flickr.com/photos/elabsse/9023805673/)
 
 The business of the robes left a very deep impression on me. Clothing, fashion, and conformity are very deep and powerful parts of our social behaviour. It's very much a part of what makes us human!
 
@@ -29,9 +29,9 @@ Now I don't think the robes are the only reason for this. Anything but: Hosts CJ
 
 The talks were deliberately non-technical. This makes sense for a number of objective reasons, one of which is that other tools such as the web do a far better job of teaching skills than a lecture given from a stage with slides. A deeper reason is that technical talks often divide people, creating binary "like/dislike" or "relevant/irrelevant" schisms.
 
-[![Conversation](/assets/images/conversation.jpg)](http://www.flickr.com/photos/elabsse/9023805673/)
-
 And the deepest reason of all becomes apparent when we ask ourselves what purpose a conference serves. Education? Networking? A few days away from home? For me, conferences are at their best when they address things that are *Important but not Urgent*, those things we keep putting off because something is on fire.
+
+[![Making Friends with the Turtles](/assets/images/making-friends.jpg)](https://twitter.com/jessabean/status/343286787390726145/photo/1)
 
 If you had one extra day to do anything you wanted to do in 2012 but hadn't the time to start, what would you do with those 24 hours? Read a book? Go for lunch with a particularly insightful colleague? Try a new design approach? Scribble out a design for a new tool?
 
