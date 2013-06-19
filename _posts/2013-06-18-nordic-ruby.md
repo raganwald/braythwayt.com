@@ -20,9 +20,9 @@ The business of the robes left a very deep impression on me. Clothing, fashion, 
 
 Dressing identically, as if in a uniform, has strong influence on how we approach and perceive each other. When meeting new people, as at a conference like Nordic Ruby, it breaks barriers down, making it easier to strike up a new conversation or join one in progress.
 
-Of course, if you are forced to wear a dark suit and white shirt for years while getting to know people really well, it takes on an entirely different tone. But for a conference, it worked really, really well.
+Of course, if you are forced to wear a dark suit and white shirt for years while working alongside the same people day after day, it takes on an entirely different tone. But for a conference, it worked, and worked well.
 
-Now I don't think the robes are the only reason for this. Anything but: Hosts CJ and Lilly from [Elabs](http://elabs.se) carefully arranged every aspect of the conference to break down barriers between people and encourage thoughtful, constructive conversation.
+Now I don't think the robes are the only reason for this. Hosts CJ and Lilly from [Elabs](http://elabs.se) carefully arranged every aspect of the conference to break down barriers between people and encourage thoughtful, constructive conversation.
 
 [![Making Friends with the Turtles](/assets/images/making-friends.jpg)](https://twitter.com/jessabean/status/343286787390726145/photo/1)
 
