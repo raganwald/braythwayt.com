@@ -3,13 +3,13 @@ layout: default
 tags: noindex
 ---
 
+![Water](/assets/images/water.png)
+
 Two weeks ago, I found myself travelling 6,348 kilometres from my home in Toronto to Stockholm to attend [Nordic Ruby][nr].[^distance]
 
 [nr]: http://2013.nordicruby.org
 
 [^distance]: Amusingly, I flew straight over Stockholm to Helsinki, and doubled back on a connecting flight. In a sense, I actually flew 6,619 km to Helsinki and another 397 back, for a total of over 7,000 km each way!
-
-![Water](/assets/images/water.png)
 
 Nordic Ruby was held at the [Yasuragi Hasseludden][yh], a Japanese (or Japanese-themed) spa in the Swedish archipelago. There is much to say on the subject, but I'd like to approach it in a roundabout way.
 
@@ -25,11 +25,11 @@ Dressing identically, as if in a uniform, has strong influence on how we approac
 
 Of course, if you are forced to wear a dark suit and white short for years while getting to know people really well, it takes on an entirely different tone. But for a conference, it worked really, really well.
 
-[![Conversation](/assets/images/conversation.jpg)](http://www.flickr.com/photos/elabsse/9023805673/)
-
 Now I don't think the robes are the only reason for this. Anything but: Hosts CJ and Lilly from [Elabs](http://elabs.se) carefully arranged every aspect of the conference to break down barriers between people and encourage thoughtful, constructive conversation.
 
 The talks were deliberately non-technical. This makes sense for a number of objective reasons, one of which is that other tools such as the web do a far better job of teaching skills than a lecture given from a stage with slides. A deeper reason is that technical talks often divide people, creating binary "like/dislike" or "relevant/irrelevant" schisms.
+
+[![Conversation](/assets/images/conversation.jpg)](http://www.flickr.com/photos/elabsse/9023805673/)
 
 And the deepest reason of all becomes apparent when we ask ourselves what purpose a conference serves. Education? Networking? A few days away from home? For me, conferences are at their best when they address things that are *Important but not Urgent*, those things we keep putting off because something is on fire.
 
