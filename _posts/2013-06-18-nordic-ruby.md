@@ -34,9 +34,9 @@ If you had one extra day to do anything you wanted to do in 2012 but hadn't the 
 
 A great conference plugs directly into the things that our day-to-day career demands starve of attention. Entirely new ideas. The emperor of our existing things having no clothes. Sharing experiences with people.
 
-When you're engaged with ideas beneath the level of "How can I put this fire out," a lot of other things simply disappear.
+When you're engaged with ideas much deeper than "How can I put this fire out," a lot of other things simply disappear.
 
-[![Patrik](/assets/images/patrik.jpg)](http://www.flickr.com/photos/elabsse/9026034704/)
+[![Dinner Time](/assets/images/teppanyaki.jpg)](http://www.flickr.com/photos/elabsse/9026033076/)
 
 As an example of this effect, it was only when I sat down to write this that I realized I don't recall whether there were other "people of colour" at the conference. Or other Canadians. Or how many people were about my age. Or a bunch of other things that one notices when one is trying to "fit in" and feel welcomed.
 
@@ -44,7 +44,7 @@ At Nordic Ruby, I felt like I belonged right from the start, so I never found my
 
 Was it the robes? Or the tranquil setting? Or was it the deeply provocative ideas from people like Katrina Owen and  Chad Fowler? Or was it the generous half-hour breaks between talks that encouraged conversation between attendees rather than an asymmetrical Q&A with the speakers?
 
-I think it was a number of things working together in harmony. And therein lies, for me, a deep lesson about people. The way in which we design conferences, companies, clubs, nations, neighbourhoods, families, everything... It matters. Designing, curating, leading, whatever you call it, making intentional choices about how we interact matters.
+I think it was a number of things working together in harmony. And therein lies, for me, a deep lesson about people. The way in which we design conferences, companies, clubs, nations, neighbourhoods, families, everything... It matters. Designing, curating, leading, whatever you call it, making intentional choices about how we interact is important.
 
 [![Sanodr and Katrina](/assets/images/sandor-and-katrina.jpg)](http://www.flickr.com/photos/elabsse/9023807307/)
 
@@ -56,7 +56,7 @@ Nordic Ruby was a significant moment in my year. I cannot say if it was the same
 
 [![Nordic Ruby Teaser Video](/assets/images/teaser.png)](http://vimeo.com/68478335)
 
-Long after the amazing technical discussions are forgotten, I will remember "How to Talk to Little Girls." Long after the incredibly smart insights are forgotten, I will remember sharing a beer with someone who had taken the Trans-Siberian Express to come to Nordic Ruby, and sharing a whiskey with someone "gainfully unemployed," who was bound to Berlin to catch up with a friend.
+Long after the amazing technical discussions are forgotten, I will remember "How to Talk to Little Girls." Long after the incredibly smart insights are forgotten, I will remember sharing a beer with someone who had taken the Trans-Siberian Express to come to Nordic Ruby, and sharing whiskey with a "person of leisure" on their way to Berlin.
 
 In the end, software development is a people activity, and Nordic Ruby stripped away all of the obstacles to connecting with each other as one person to another, regardless of gender, age, colour, or preferred editor.
 
