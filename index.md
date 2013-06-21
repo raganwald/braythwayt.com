@@ -9,22 +9,18 @@ layout: default
 
 Reg “raganwald” Braithwaite is proof that somewhere, a village is missing its idiot. Either that, or a combinatory forest is missing its Idiot Bird, nobody is really sure. His interests include constructing surreal numbers, deconstructing hopelessly egocentric nulls, and celebrating the joy of programming.
 
-### contact and other resources
+### about
 
+* [reg@braythwayt.com](mailto:reg@braythwayt.com)
+* [my technical blog](http://raganwald.com)
 * [résumé](/assets/reginald/RegBraithwaite20130425.pdf)
-* email: [reg@braythwayt.com](mailto:reg@braythwayt.com)
-* talks and conferences: [lanyrd.com](http://lanyrd.com/profile/raganwald/)
 * [books](http://leanpub.com/u/raganwald)
-* <a href="https://twitter.com/raganwald" class="twitter-follow-button" data-show-count="false">Follow @raganwald</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+* [photos](http://www.flickr.com/photos/raganwald/)
+* [slide decks](http://lanyrd.com/profile/raganwald/slides/)
+* [conferences](http://lanyrd.com/profile/raganwald/)
+* [code](http://github.com/raganwald) / [more code](http://github.com/raganwald-deprecated)
 
-### technical essays and code
-
-* [raganwald.com](http://raganwald.com)
-* [active code](http://github.com/raganwald)
-* [deprecated code](http://github.com/raganwald-deprecated)
-
-### other recent essays
+### essays
 
 <div class="related">
   <ul>
@@ -38,25 +34,23 @@ Reg “raganwald” Braithwaite is proof that somewhere, a village is missing it
   </ul>
 </div>
 
-### reposts from homoiconic
+### selected older essays
 
 <div class="related">
   <ul>
     {% for post in site.categories.homoiconic %}
         <li>
-    <a href="{{ post.url }}">{{ post.title }}</a> (<span>{{ post.date | date: "%B %e, %Y" }}</span>)
+    <a href="{{ post.url }}">{{ post.title }}</a>
         </li>
     {% endfor %}
   </ul>
 </div>
 
-### reposts from posterous
-
 <div class="related">
   <ul>
     {% for post in site.categories.posterous %}
         <li>
-    <a href="{{ post.url }}">{{ post.title }}</a> (<span>{{ post.date | date: "%B %e, %Y" }}</span>)
+    <a href="{{ post.url }}">{{ post.title }}</a>
         </li>
     {% endfor %}
   </ul>
