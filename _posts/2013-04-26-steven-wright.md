@@ -3,7 +3,7 @@ title: How to handle yourself in a technical interview
 layout: default
 ---
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/eJCMjJwIGxY" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="http://www.youtube.com/embed/eJCMjJwIGxY" frameborder="0" allowfullscreen="true">   </iframe>
 
 &nbsp;
 

@@ -27,7 +27,7 @@ Sometimes, tools are limited "just because." Microsoft used to peddle a low-end 
 
 The end product wasn't dramatically simpler than Word. It had fewer features, but they didn't really translate into a dramatically less complicated product. Fewer features isn't automatically "simpler," it's just "smaller." I liken it to an automobile. A luxury car may have many, many more features than a less expensive car, but nevertheless it isn't dramatically simpler to drive the less expensive car. It just has fewer gee gaws.
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/VCpPPVvGqTY" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="http://www.youtube.com/embed/VCpPPVvGqTY" frameborder="0" allowfullscreen="true">   </iframe>
 
 If you want to really simplify a car, you have to do something dramatic to disrupt the driving experience. Like a [driverless car](https://en.wikipedia.org/wiki/Google_driverless_car). Simply removing features won't get the job done.
 
