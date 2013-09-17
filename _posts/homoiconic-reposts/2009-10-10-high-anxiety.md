@@ -104,12 +104,12 @@ So that's what I'm going to do.
 > When learning something, there is no substitute for doing it twenty times a day; and that no matter how much you think you have Go figured out, you probably don't. --[randrews](http://news.ycombinator.com/item?id=904913 "Hacker News | When I was eight years old, my father taught me to play Go...")
 <p></p>
 
-> Most who learn the game goes through this set of feelings --[seacreature](http://twitter.com/seacreature/statuses/5201724816 "")  
+> Most who learn the game goes through this set of feelings --[seacreature](http://twitter.com/seacreature/statuses/5201724816)  
 <p></p>
 
 > When I approach a new game, I assume it will take many hundreds (or thousands!) of plays to become truly good at it. I assume that I will play poorly for my first N games -- so, it's best to get them out of the way as quickly as possible. I try to think in terms of, "did I learn something from that loss?" -- if the answer is yes, it was still a worthwhile experience.
 
-> Nothing has ever made me feel more incompetent than trying to play Go --[xshay](http://twitter.com/xshay/statuses/5185887866 "")  
+> Nothing has ever made me feel more incompetent than trying to play Go --[xshay](http://twitter.com/xshay/statuses/5185887866)  
 <p></p>
 
 > I think this is a good lesson for learning anything new. --[Locke](http://news.ycombinator.com/item?id=904987 "Hacker News | I've learned many abstract strategy games.  I play some fairly well, others not ...")  
@@ -118,7 +118,7 @@ So that's what I'm going to do.
 >  I have this kind of anxiety problem all the time, especially when writing new code, because the code I write might be wrong, so I end up just sitting there, not solving the problem, not thinking about the problem, but just staring. --[shrughes](http://news.ycombinator.com/item?id=904851 "Hacker News | I thought it was excellent.  I have this kind of anxiety problem all the time, ...")  
 <p></p>
 
-> Let your conscious mind / ego go and lose first 100 games as fast as possible --[jayturley](http://twitter.com/jayturley/statuses/5203232192 "")
+> Let your conscious mind / ego go and lose first 100 games as fast as possible --[jayturley](http://twitter.com/jayturley/statuses/5203232192)
 <p></p>
 
 ---

@@ -3,9 +3,7 @@ title: My All-Singing, All-Dancing Interview Question
 layout: default
 ---
 
-It is with trepidation, (and this paragraph of terpsichorean rationalization), that I introduce the "All-Singing, All-Dancing Interview Question," as mentioned in my presentation [What We Lost in the Fire: How We Completely Missed Smalltalk's Point](http://www.haikudeck.com/p/2YXMMZkJP5/what-we-lost-in-the-fire):
-
-<iframe src="http://www.haikudeck.com/e/2YXMMZkJP5" width="640" height="511" frameborder="0" marginheight="0" marginwidth="0"></iframe><a href="http://www.haikudeck.com" style="font-family:arial,sans-serif; font-size:8pt;">Created with Haiku Deck, the free presentation app for iPad</a>
+It is with trepidation, (and this paragraph of terpsichorean rationalization), that I introduce the "All-Singing, All-Dancing Interview Question," as mentioned in my presentation [What We Lost in the Fire: How We Completely Missed Smalltalk's Point](http://www.haikudeck.com/p/2YXMMZkJP5/what-we-lost-in-the-fire).
 
 The question is:
 
