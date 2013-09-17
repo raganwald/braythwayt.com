@@ -1,6 +1,6 @@
 ---
 title: Why GitHub must become "All The Things" by twenty-twenty
-layout:default
+layout: default
 tags: [noindex]
 ---
 
