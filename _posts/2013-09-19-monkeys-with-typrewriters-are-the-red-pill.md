@@ -76,3 +76,22 @@ You know the meme: The "red pill" is the one that tells us uncomfortable truths,
 
 ![Morpheus](http://www.expoweekly.com/site/wp-content/uploads/2010/03/Morpheus-Red-or-Blue-Pill-the-matrix-1957140-500-568-440x500.jpg)
 
+For me, the "red pill" of 2013 is the thought that we're just monkeys with typewriters. The blue pill is that we're really special, and writing great books and great software and changing the world is all about smarter monkeys and faster typewriters.
+
+Think about some of the ideas we seem to take for granted:
+
+* Some programmers are 10x or 100x more productive than others, and that matters.
+* Some languages are more expressive or powerul or elegant than others, and that matters.
+* Some code architectures are 10x or 100x less encumbered by tech debt than others, and that matters.
+
+These are just examples. Our assumptions, both stated and unstaed, are that it really matters to use fewer and smarter monkeys. And that it really matters to use faster, more powerful typewriters. I've met people who say that the most important feature of a programming language is that it support static code analysis so that editors can do fancy automatic refactoring, In oher words... Typewriting matters to them, greatly.
+
+But the red pill is that we're monkeys with typewriters, and that while some of those premeses may be true, none of them matter as much as recognizing good work.
+
+Having taken the red pill, I fear that:
+
+* Some programmers are 10x or 100x more productive than others, but that doesn't really matter.
+* Some languages are more expressive or powerul or elegant than others, but that doesn't really matter.
+* Some code architectures are 10x or 100x less encumbered by tech debt than others, but that doesn't really matter.
+
+This is painful to contemplate. I've been blogging since 2004, and my consistent message has been that smarter monkeys matter. My consistent message has been that better typewriters matter. If they don't matter, *maybe I don't matter*.
