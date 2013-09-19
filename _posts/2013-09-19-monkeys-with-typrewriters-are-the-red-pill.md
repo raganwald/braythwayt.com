@@ -20,4 +20,6 @@ So here are my thoughts, laid out with the metaphor I used in my slides.
 
 ## monkeys with typewriters
 
-Imagine that we have a lot of monkeys, a LOT of monkeys. With typewriters. You know how it goes, they randomly bash on the typewriters, and given enough time, they produce the works of Phil Dick and/or Antoni Gaudi.
+Imagine that we have a lot of monkeys, a LOT of monkeys. And typewriters. A lot of typewriters! You know how it goes, they randomly bash on the typewriters, and given enough time, they produce the works of Phil Dick and/or Antoni Gaudi. It's an important exercise to recognize that the number of monkeys needed to randomly recreate, say, a page of Phil Dick's short story "Second Variety" is intractably huge.
+
+But as huge as that number may be, it's actually dwarfed by the size of the real problem with putting monkeys to work generating ideas: The good stuff is buried by the crap. Generating the works of Phil Dick isn't the problem, the problem is *recognizing* the works of Phil Dick amongst the pages of dreck, the pages describing baseball games, and the pages recounting acrimonious exchanges of tweets between trolls and their victims, and everything else that could fit on a page.
