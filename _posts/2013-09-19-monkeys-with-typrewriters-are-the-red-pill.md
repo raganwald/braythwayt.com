@@ -4,6 +4,10 @@ title: Monkeys with Typewriters are the Red Pill
 tags: [noindex]
 ---
 
+(this is a work-in-progress. Please don't post to HN, Reddit, &c.)
+
+---
+
 ### preamble
 
 For the most part, I avoid speaking at conferences. I'm shy and suffer from [Impostor Syndrome][^is]. Watching talks from accomplished people like Sandi Metz or Charles Nutter, I feel very intimidated. I have a real fear that someone will stand up and point out that I have nothing to say and I'm just babbling feel-good platitudes.
@@ -95,3 +99,7 @@ Having taken the red pill, I fear that:
 * Some code architectures are 10x or 100x less encumbered by tech debt than others, but that doesn't really matter.
 
 This is painful to contemplate. I've been blogging since 2004, and my consistent message has been that smarter monkeys matter. My consistent message has been that better typewriters matter. If they don't matter, *maybe I don't matter*.
+
+---
+
+(this is a work-in-progress. Please don't post to HN, Reddit, &c.)
