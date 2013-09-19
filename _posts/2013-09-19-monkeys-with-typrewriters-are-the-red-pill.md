@@ -16,4 +16,8 @@ I can't fault myself for sincerity: If a man suffers from imposter syndrome and 
 
 So here are my thoughts, laid out with the metaphor I used in my slides.
 
+[![Troop](http://farm7.staticflickr.com/6024/5888927678_9b2c9b8e14_b.jpg)](http://www.flickr.com/photos/doug88888/5888927678/)
+
 ## monkeys with typewriters
+
+Imagine that we have a lot of monkeys, a LOT of monkeys. With typewriters. You know how it goes, they randomly bash on the typewriters, and given enough time, they produce the works of Phil Dick and/or Antoni Gaudi.
