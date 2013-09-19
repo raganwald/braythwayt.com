@@ -54,7 +54,7 @@ def andand (p = nil)
     end
   end 
 end
-{% endhighlight}
+{% endhighlight %}
 
 Sure, we don't really have enough monkeys, but the problem of the monkeys isn't really *interesting*. We can breed more monkeys, we can make smarter monkeys, we can make faster typewriters. Just ask Charles Nutter, if your typewriter is holding you back, he has one that isn't broken you can use for free. Inevitably, we get more and more monkey-output with every passing year whether we like it or not.
 
