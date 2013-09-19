@@ -30,7 +30,7 @@ It's an important exercise to recognize that the number of monkeys needed to ran
 
 [![Troop](http://farm7.staticflickr.com/6024/5888927678_9b2c9b8e14_b.jpg)](http://www.flickr.com/photos/doug88888/5888927678/)
 
-Generating the works of Phil Dick isn't the problem, the problem is *recognizing* the works of Phil Dick amongst the pages of dreck, the pages describing baseball games, and the pages recounting acrimonious exchanges of tweets between trolls and their victims, and everything else that could fit on a page.
+**Generating the works of Phil Dick isn't the problem, the problem is *recognizing* the works of Phil Dick amongst the pages of dreck.**
 
 After all, for every page containing:
 
@@ -40,7 +40,7 @@ After all, for every page containing:
 
 > mizu no oto
 
-There are millions, or even billions, containing stuff that is "not even wrong," such as:
+There are millions, or even billions, of pages describing baseball games, pages recounting acrimonious exchanges of tweets between trolls and their victims, and everything else that could fit on a page. There're even pages containing code that is "not even wrong," such as:
 
 {% highlight ruby %}
 def andand (p = nil)
@@ -62,11 +62,17 @@ def andand (p = nil)
 end
 {% endhighlight %}
 
-Sure, we don't really have enough monkeys, but the problem of the monkeys isn't really *interesting*. We can breed more monkeys, we can make smarter monkeys, we can make faster typewriters. Just ask Charles Nutter, if your typewriter is holding you back, he has one that isn't broken you can use for free. Inevitably, we get more and more monkey-output with every passing year whether we like it or not.
+This is the problem: **Recognizing the good stuff**.
+
+Sure, we don't *really* have enough monkeys, but the problem of the monkeys isn't really *interesting*. We can breed more monkeys, we can make smarter monkeys, we can make faster typewriters. Just ask Charles Nutter, if your typewriter is holding you back, he has one that isn't broken you can use for free. Inevitably, we get more and more monkey-output with every passing year whether we like it or not.
 
 But no matter what we do, we still can't sort the good from the bad, the `andand` from the `try`. Think of it this way: This is the "spam vs. ham" problem, a/k/a [Document Classification](https://en.wikipedia.org/wiki/Document_classification).
+
+Classification is the problem, not generation.
 
 ## the ruby-red pill
 
 You know the meme: The "red pill" is the one that tells us uncomfortable truths, but without facing the truth, we are slaves to our illusions. Only by facing the truth can we work to set ourselves free. The red pill is a real Faustian Bargain. If you take the blue pill, you are a slave, but a happy slave. Once you take the red pill, you know you are a slave, and now you must sacrifice and hurt and work to earn true freedom.
+
+![Morpheus](http://www.expoweekly.com/site/wp-content/uploads/2010/03/Morpheus-Red-or-Blue-Pill-the-matrix-1957140-500-568-440x500.jpg)
 
