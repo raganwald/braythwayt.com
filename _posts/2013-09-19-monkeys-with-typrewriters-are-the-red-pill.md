@@ -22,20 +22,22 @@ I can't fault myself for sincerity: If a man suffers from imposter syndrome and 
 
 So here are my thoughts, laid out with the metaphor I used in my slides.
 
-[![Troop](http://farm7.staticflickr.com/6024/5888927678_9b2c9b8e14_b.jpg)](http://www.flickr.com/photos/doug88888/5888927678/)
-
 ## monkeys with typewriters
 
 Imagine that we have  lots of monkeys, lots and lots and LOTS of monkeys. And typewriters. Lots and lots of typewriters! You know how it goes, they randomly bash on the typewriters, and given enough time, they produce the works of Phil Dick and/or Antoni Gaudi.
 
 It's an important exercise to recognize that the number of monkeys needed to randomly recreate, say, a page of Phil Dick's short story "Second Variety" is intractably huge. But as huge as that number may be, it's *dwarfed* by the size of the real problem with putting monkeys to work generating ideas: The good stuff is buried by the crap.
 
+[![Troop](http://farm7.staticflickr.com/6024/5888927678_9b2c9b8e14_b.jpg)](http://www.flickr.com/photos/doug88888/5888927678/)
+
 Generating the works of Phil Dick isn't the problem, the problem is *recognizing* the works of Phil Dick amongst the pages of dreck, the pages describing baseball games, and the pages recounting acrimonious exchanges of tweets between trolls and their victims, and everything else that could fit on a page.
 
 After all, for every page containing:
 
 > Furuike ya 
+
 > kawazu tobikomu 
+
 > mizu no oto
 
 There are millions, or even billions, containing stuff that is "not even wrong," such as:
