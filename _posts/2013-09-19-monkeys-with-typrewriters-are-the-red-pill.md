@@ -88,9 +88,9 @@ Think about some of the ideas we seem to take for granted:
 * Some languages are more expressive or powerul or elegant than others, and that matters.
 * Some code architectures are 10x or 100x less encumbered by tech debt than others, and that matters.
 
-These are just examples. Our assumptions, both stated and unstaed, are that it really matters to use fewer and smarter monkeys. And that it really matters to use faster, more powerful typewriters. I've met people who say that the most important feature of a programming language is that it support static code analysis so that editors can do fancy automatic refactoring, In oher words... Typewriting matters to them, greatly.
+These are just examples. Our cultural assumptions--both stated and unstated--are that it really matters to use fewer and smarter monkeys. And that it really matters to use faster, more powerful typewriters. I've met people who say that the most important feature of a programming language is that it support static code analysis so that editors can do fancy automatic refactoring, In oher words... Typewriting matters to them, greatly.
 
-But the red pill is that we're monkeys with typewriters, and that while some of those premeses may be true, none of them matter as much as recognizing good work.
+But the red pill is that we're monkeys with typewriters, and that while some of those premises may be true, none of them matter as much as recognizing good work.
 
 Having taken the red pill, I fear that:
 
@@ -99,6 +99,8 @@ Having taken the red pill, I fear that:
 * Some code architectures are 10x or 100x less encumbered by tech debt than others, but that doesn't really matter.
 
 This is painful to contemplate. I've been blogging since 2004, and my consistent message has been that smarter monkeys matter. My consistent message has been that better typewriters matter. If they don't matter, *maybe I don't matter*.
+
+*...MORE TO COME...*
 
 ---
 
