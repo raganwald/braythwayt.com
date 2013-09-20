@@ -58,7 +58,7 @@ I like to hammer on a point, and this is a technical blog, so just think about c
 
 And that's how we characterize our White Males "problem." **We're making reasonable decisions in the small, but not getting a good outcome in the large, because we make each small decision in isolation rather than in a larger context.**
 
-[![BaRuCo](https://pbs.twimg.com/media/BUNtBK0IQAA9uqQ.jpg:large)](https://twitter.com/schneems/status/379266660773146624/photo/1)
+[![RagAndMatz](http://farm4.staticflickr.com/3676/9762560416_f502697ae5_b.jpg)](http://www.flickr.com/photos/raganwald/9762560416/])
 
 ### what should we do?
 
