@@ -30,13 +30,15 @@ However, somebody spotted that nearly all of the speakers selected for the confe
 
 I feel a lot of empathy for everyone involved in that fracas. It sucks to look at a conference lineup and get the clear message that the "community" is extremely homogenized, as in "white milk."
 
-And guess what? It just happened *again*:
-
-> The [RubyConf 2013 program](http://rubyconf.org/program) was partially announced yesterday and there was immediate fallout regarding the lack of women speakers. —[Marty Haught](http://martyhaught.com/articles/2013/09/18/rubyconf-2013-cfp-and-diversity/)
-
 It also sucks to be a speaker and be associated with this problem. All you did was live your life and submit a CFP. Or answer an email with the word, "Sure."
 
 And how can it not suck to be an organizer under these circumstances? Here you are doing your best to make sure that the "Ruby Community" is a meritocracy, and you succeed. Then you discover that [merely being a meritocracy is not enough](http://braythwayt.com/2013/04/01/quote-metritocracy-unquote.html).
+
+And guess what? It just happened again:
+
+> The [RubyConf 2013 program](http://rubyconf.org/program) was partially announced yesterday and there was immediate fallout regarding the lack of women speakers. —[Marty Haught](http://martyhaught.com/articles/2013/09/18/rubyconf-2013-cfp-and-diversity/)
+
+It seems we have a problem, a White Males At Conferences Problem. Or if you prefer, a Problem WIth White Males At COnferences Problem. Maybe both.
 
 ### meritorious or meretricious?
 
