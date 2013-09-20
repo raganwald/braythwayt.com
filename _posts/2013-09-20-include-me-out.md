@@ -2,7 +2,7 @@
 layout: default
 ---
 
-**I have decided not to speak at any Ruby-themed conferences in 2014.**
+I have decided not to speak at any Ruby-themed conferences in 2014.
 
 I don't think this is particularly newsworthy. There are plenty of amazing speakers out there, folks like Katrina Owen and Sandi Metz. No conferences are going to be hurting for quality presentations just because I won't be there.
 
