@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Include Me Out
 ---
 
 **I have decided not to speak at any Ruby-themed conferences in 2014.**
@@ -80,7 +81,7 @@ I don't want to be a line in someone else's spreadsheet, with a column for wheth
 
 Mind you, I like that the spreadsheet exists! In the large, I want there to be action and talk and pitchforks and rioting. In the small, I want to personally live a quiet life and not find myself trying to explain to the crowd that I am an outsider and that almost all of my opinions about Ruby and/or Rails are heterodoxy.
 
-So I'm opting out of speaking at Ruby conferences in 2014. It's not like I'm opting out of Ruby or the community, just out of a very narrow activity that I already find stressful.
+So I'm opting out of speaking at Ruby conferences in 2014. It's not like I'm opting out of Ruby or the community, just out of a very narrow activity that I already find stressful. And I can't see this being a negative for anyone, it's not like conferences are going to fail if I don't show up. I'm not that important.
 
 So, please go ahead and put on great conferences. Please go ahead and do as your conscience dictates to help move the community forward. I will be cheering you on... From my comfortable seat over here.
 
