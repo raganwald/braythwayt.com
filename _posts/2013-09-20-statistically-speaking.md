@@ -58,15 +58,15 @@ But if we step back, it seems to many people that the overall diet is off. We ar
 
 I like to hammer on a point, and this is a technical blog, so just think about coding as another instance. Should you code a new feature? Or refactor the old? There's no good way to make that decision on a case-by-case basis, you have to find a way to consider each feature and refactor choice in a larger context. That's why we develop software in sprints or milestones, so that we have a sufficiently large decision context.
 
-And that's how we characterize our White Males "problem." **We're making reasonable decisions in the small, but not getting a good outcome in the large, because we make each small decision in isolation rather than in a larger context.**
-
-[![RagAndMatz](http://farm4.staticflickr.com/3676/9762560416_f502697ae5_b.jpg)](http://www.flickr.com/photos/raganwald/9762560416/])
+And that's how we characterize our White Males "problem." We're making reasonable decisions in the small, but not getting a good outcome in the large, because we make each small decision in isolation rather than in a larger context.
 
 ### what should we do?
 
 At the moment, we have this problem wherein the conference organizers are running business that reward them for serving steak and eggs. This is not their fault, if anything it's our fault: We're the ones buying tickets when we read that so-and-so will be keynoting "BreakfastRuby."
 
 So we madly try to "fix it in post" by imposing negative consequences if they fail to satisfy our larger need for variety and diversity. That seems like a terrible way to fix the problem, but history suggests that you get more progress from action than talk, and it's easier to iterate towards good solutions than it is to try to devise the best strategy before trying anything at all.
+
+[![RagAndMatz](http://farm4.staticflickr.com/3676/9762560416_f502697ae5_b.jpg)](http://www.flickr.com/photos/raganwald/9762560416/])
 
 I know there are people doing an amazing job with this. BaRuCo had what appeared to be diversity in the speaker's lineup and they ran an event for women interested in coding. I was pleased (in hindsight) to get called out for a careless comment about outsourcing in my own talk. That's a sign that **audiences will not put up with any shit**, and I'm proud of the people who spoke to me about the matter.
 
