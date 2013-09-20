@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Include Me Out
 ---
 
 **I have decided not to speak at any Ruby-themed conferences in 2014.**
