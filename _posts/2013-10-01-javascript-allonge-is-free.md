@@ -62,3 +62,7 @@ But if you paid because you felt it was valuable to you, it is still valuable to
 Part of why I believed in myself enough to go throughthe terrors of interviewing for my job is the confidence **you** gave me when you supported my books and told me that the ideas I was tryinmg to share were useful. I can't thank you enough for that.
 
 Be well, and may your ideas multiply upon themselves and spread to the furthest corners of the universe. And [share the book!](https://leanpub.com/javascript-allonge/read)
+
+---
+
+([discuss](https://news.ycombinator.com/item?id=6476337))
