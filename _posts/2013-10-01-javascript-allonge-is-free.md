@@ -59,7 +59,7 @@ Now the book is free, and I'm able to give it away because of those who happily 
 
 But if you paid because you felt it was valuable to you, it is still valuable to you. If you paid because you wanted to encourage me to keep trying to create value, well, *mission accomplished*, I'm now working for a company that is trying its dambdest to help every single programmer on the planet write more software and better software. And you helped me get here:
 
-Part of why I believed in myself enough to go throughthe terrors of interviewing for my job is the confidence **you** gave me when you supported my books and told me that the ideas I was tryinmg to share were useful. I can't thank you enough for that.
+Part of why I believed in myself enough to go through the terrors of interviewing for my job is the confidence **you** gave me when you supported my books and told me that the ideas I was tryinmg to share were useful. I can't thank you enough for that.
 
 Be well, and may your ideas multiply upon themselves and spread to the furthest corners of the universe. And [share the book!](https://leanpub.com/javascript-allonge/read)
 
