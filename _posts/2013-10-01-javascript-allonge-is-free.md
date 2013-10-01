@@ -63,6 +63,4 @@ Part of why I believed in myself enough to go throughthe terrors of interviewing
 
 Be well, and may your ideas multiply upon themselves and spread to the furthest corners of the universe. And [share the book!](https://leanpub.com/javascript-allonge/read)
 
----
-
 ([discuss](https://news.ycombinator.com/item?id=6476337))
