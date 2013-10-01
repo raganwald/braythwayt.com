@@ -25,7 +25,7 @@ Not-so-long-ago, I zigged whilst my employer zagged, and I found myself unemploy
 
 Not picky as in "Does it pay one million dollars?" But picky as in "Would I find myself waking up at four in the morning and hopping online to flesh out an idea concerning work." (As I did five hours ago).
 
-Along the way, I did a lot of writing. It's good for me to write, it helops me clarify my thoughts. Most of my essays are, as Paul Graham would say, attempts to essay or venture out and see how a thought fits in the world. I blogged quite a bit about programming and about the freedom of ideas.
+Along the way, I did a lot of writing. It's good for me to write, it helps me clarify my thoughts. Most of my essays are, as Paul Graham would say, attempts to essay or venture out and see how a thought fits in the world. I blogged quite a bit about programming and about the freedom of ideas.
 
 I even accepted five conference invitations, thinking (correctly) that writing a presentation engages my brain as much as or more so than writing an essay. Conferences are rare for me, I am extremely shy. (I don't attend our Toronto Rails Pub Nights, so most Toronto Rubyists have never met me. Some are suprised to hear that I'm a Canadian!)
 
@@ -45,7 +45,7 @@ I'm a big believer in iteration. So, I started out with an "intentional pivot." 
 
 From the start, *I chose to charge real money*. There is an important idea here that asking for money was a way to force me to write good books and create something valuable up front. I was constantly asking myself, "Am I creating more value with this writing than getting a Ruby gig?" Knowing you are going to ask for money changes the way you write. It was also a way for me to measure my ability to add value after the fact. If a book has free downloads, what does it mean to have 1,000 or 2,000 or 5,000 or even 50,000 readers?
 
-But one paying customer... That's a thing, that's proof that you've created the perception of value. Combine that with a 100%, no-questions-asked, money-back guarantee, and what have you got? A very good idea of whether what you're doing is valuable to people. Furthermore, I wasn't working. So ever paying customer was paving another few inches of "runway," to use the startup metaphor. My readers were busying me time to improve the book and time to find my own next dream to pursue.
+But one paying customer... That's a thing, that's proof that you've created the perception of value. Combine that with a 100%, no-questions-asked, money-back guarantee, and what have you got? A very good idea of whether what you're doing is valuable to people. Furthermore, I wasn't working. So every paying customer was paving another few inches of "runway," to use the startup metaphor. My readers were busying me time to improve the book and time to find my own next dream to pursue.
 
 The book is barely a blip on the publishing scene when we judge JavaScript Allongé against titles like "Get your dream job as a Web Developer in 21 Days!" Those kinds of books sell bythe container-load. But nevertheless, people read it and tell me that it levels them up, and AFAIC that is a success. And as a bonus, I got *my* dream job, and now it's time for me to walk the freedom talk. I'm now working for a company that is trying its dambdest to help every single programmer on the planet write more software and better software. And we give something away, crossing our fingers that more software and better software will be a good thing and that we'll make enough to keep doing what we do.
 
