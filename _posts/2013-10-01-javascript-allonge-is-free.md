@@ -5,13 +5,13 @@ layout: default
 
 Dear friends and readers:
 
-Today I'm very pleased to announce that my book "[JavaScript Allongé](https://leanpub.com/javascript-allonge/read)" is free: It is now licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/deed.en_US). You are free:
+Today I'm very pleased to announce that my book "[JavaScript Allongé](https://leanpub.com/javascript-allonge)" is free: It is now licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/deed.en_US). You are free:
 
 * to **Share**—to copy, distribute and transmit the work
 * to **Remix**—to adapt the work
 * to make commercial use of the work
 
-Read the license yourself for the full details. But the bottom line is, it's free, **free**, **FREE**! Don't just take my word for it, [here's the entire book online](https://leanpub.com/javascript-allonge/read). And here's the [source in markdown](https://github.com/raganwald/javascript-allonge). If you spot a mistake, send me a pull request!
+Read the license yourself for the full details. But the bottom line is, it's free, *free**, **FREE**! Don't just take my word for it, [here's the entire book online](https://leanpub.com/javascript-allonge/read). And here's the [source in markdown](https://github.com/raganwald/javascript-allonge). If you spot a mistake, send me a pull request!
 
 [![JavaScript Allongé](http://i.minus.com/iW2E1A8M5UWe6.jpeg)](https://leanpub.com/javascript-allonge/read)
 
