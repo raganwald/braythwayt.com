@@ -42,6 +42,6 @@ I talk a lot about freedom in other contexts. The freedom to choose to pay money
 
 > The freedom to choose to pay is meaningless without the freedom to choose not to pay
 
-But *the freedom to choose to pay is meaningless without the freedom to choose not to pay*. This is why I make choosing not to pay possible and urge you to choose without feeling guilty. I've already achieved what I wanted to achieve. If I never get another cent, that's fine. You are completely free to decide what it's worth to you, for *your* reasons.
+This is why I make choosing not to pay possible and urge you to choose without feeling guilty. I've already achieved what I wanted to achieve. If I never get another cent, that's fine. You are completely free to decide what it's worth to you, for *your* reasons.
 
 So I am choosing to ask for thirty bucks, that is what I think it is worth, and these are the reasons why I make it available in other ways even though I still think it's worth thirty bucks. If my reasons line up with your reasons, let's do business.
