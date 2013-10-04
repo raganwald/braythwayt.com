@@ -31,11 +31,11 @@ I even accepted five conference invitations, thinking (correctly) that writing a
 
 ![Reg at Nordic Ruby](http://farm4.staticflickr.com/3767/9023803415_37737ca9f2_h.jpg)
 
-A lot of what was on my mind and still is on my mind is how "information wants to be free." I believe that economies that share outperform economies that don't. I believe that information multiplies in value as it spreads. This the other selfish reason that I write: The more I share, the richer we all become. We discussed this idea on [the JavaScript Jabber podcast](http://javascriptjabber.com/070-jsj-book-club-javascript-allonge-with-reginald-braithwaite/) earlier this year.
+A lot of what was on my mind and still is on my mind is how "Information wants to be free." I believe that economies that share outperform economies that don't. I believe that information multiplies in value as it spreads. This the other selfish reason that I write: The more I share, the richer we all become. We discussed this idea on [the JavaScript Jabber podcast](http://javascriptjabber.com/070-jsj-book-club-javascript-allonge-with-reginald-braithwaite/) earlier this year.
 
-I am very committed to this idea of sharing. I campaigned, hard, for a job on the Firefox OS team at Mozilla. I really wanted to work on developer tools for Forefox OS. I believe that bringing another 10,000,000 or 100,000,000 or even 1,000,000,000 online with smart devices is going to be a tremendous opportunity for the world becoming a better place.
+I am very committed to this idea of sharing. I campaigned, hard, for a job on the FirefoxOS team at Mozilla. I really wanted to work on developer tools for Forefox OS. I believe that bringing another ten million or 100 million or even one billion people online with smart devices is going to be a tremendous opportunity for the world becoming a better place.
 
-And not just in terms of "Oh look, 1,000,000,000 more people to join our social gossip-sharing gamified site," but also in terms of there being another 100,000, 1,000,000 or even 10,000,000 new programmers writing programs to solve problems that we can't even imagine as we sip our tasty espresso. How do we help them program? I'm super-stoked by where Mozilla is going with this, and likewise I'm so excited I can barely sit still when I look at what people are doing with things like [Squeak](http://squeak.org/) or [Light Table](http://www.chris-granger.com/2012/04/12/light-table---a-new-ide-concept/).
+And not just in terms of "Oh look, one billion more people to join our social gossip-sharing gamified site," but also in terms of there being another 100,000, one million or even ten million new programmers writing programs to solve problems that we can't even imagine as we sip our tasty espresso. How do we help them program? I'm super-stoked by where Mozilla is going with this, and likewise I'm so excited I can barely sit still when I look at what people are doing with things like [Squeak](http://squeak.org/) or [Light Table](http://www.chris-granger.com/2012/04/12/light-table---a-new-ide-concept/).
 
 ### and so
 
@@ -54,3 +54,5 @@ I believe in this. That's why I write, and that's why I work at [GitHub](https:/
 Part of why I believed in myself enough to go through the terrors of interviewing for my job is the confidence **you the readers** gave me when you supported my books and told me that the ideas I was trying to share were useful. I can't thank you enough for that.
 
 Be well, and may your ideas multiply upon themselves and spread to the furthest corners of the universe. And [share the book!](https://leanpub.com/javascript-allonge/read)
+
+p.s. JavaScript Allongé is "free as in speech," and I make the HTML and Markdown "free as in beer." [Read more about why I still charge $30 for the eBook](http://braythwayt.com/2013/10/04/the-freedom-to-pay-thirty-bucks.html).
