@@ -20,15 +20,15 @@ In conjunction with GitHub, I am also making another edition available online, t
 
 [s]: https://github.com/raganwald/javascript-allonge
 
-So is javaScript Allongé Free as in Coffee?
+So is JavaScript Allongé Free as in Coffee?
 
-Not *pervasively*. In conjunction with LeanPub, I am still selling, for real money, an edition of [JavaScript Allongé][ja] in PDF, iBook, and Kindle formats. It'll cost you a minimum of twenty dollars to buy that edition from me.
+Not *pervasively*. In conjunction with LeanPub, I am still selling, for real money, an edition of [JavaScript Allongé][ja] in PDF, iBook, and Kindle formats. I ask you for thirty bucks to buy that edition from me.
 
 ### what costs thirty bucks?
 
 Now let me be 100% crystal clear. I am not some marketing asshole working for MicroSoft and creating seven editions of Windows so that I can "segment the market" and engage in "price discrimination." All that stuff is based on deception. You really only have one copy of Windows, but you slap some labels on one of the boxes and charge twice as much as the other. Or you turn some features off and charge a little less.
 
-To those people, sans some branding and segmentation, JavaScript Allongé is available for free, therefore I am sending a "pricing signal" that it is worthless. This is not the case.
+To those people, sans some branding and segmentation, JavaScript Allongé is available without paying, therefore I am sending a "pricing signal" that it is worthless to me. That is scarcity thinking, and it is wrong.
 
 In fact, JavaScript Allongé is *freely available*, but it's still worth thirty bucks in my mind, and that's why I ask for thirty bucks.
 
