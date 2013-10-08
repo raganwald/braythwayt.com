@@ -5,13 +5,18 @@ layout: default
 
 Dear friends and readers:
 
-Today I'm very pleased to announce that my book "[JavaScript Allongé](https://leanpub.com/javascript-allonge)" is free: It is now licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/deed.en_US). You are free:
+Today I'm very pleased to announce that my book [JavaScript Allongé](https://leanpub.com/javascript-allonge) is "Free as in Speech:" It is now licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/deed.en_US). That means that you are free:
 
 * to **Share**—to copy, distribute and transmit the work
 * to **Remix**—to adapt the work
 * to make commercial use of the work
 
-Read the license yourself for the full details. But the bottom line is, it's free, *free*, **FREE**! Don't just take my word for it, [here's the entire book online](https://leanpub.com/javascript-allonge/read). And here's the [source in markdown](https://github.com/raganwald/javascript-allonge). If you spot a mistake, send me a pull request!
+Read the license yourself for the full details. In the first draft of this annoucement, I wrote that the book was free. A better way to put it is that *you* are free. It is *unfettered*: I still charge [thirty bucks] for an ebook, and [here's my explanation for why]. But you are free to obtain the book any way you like, free to share the book any way you like, and best of all, you are free to build upon it.
+
+I also made certain specific "editions" of the book free: [You can read the entire book online](https://leanpub.com/javascript-allonge/read). And [the source in markdown](https://github.com/raganwald/javascript-allonge) is on GitHub. From now on, if you spot a mistake, you can [file and issue][issue], or better still, fork it and send me a [pull request][pull]!
+
+[issue]: https://github.com/raganwald/javascript-allonge/issues
+[pull]: https://github.com/raganwald/javascript-allonge/pulls
 
 [![JavaScript Allongé](http://i.minus.com/iW2E1A8M5UWe6.jpeg)](https://leanpub.com/javascript-allonge/read)
 
