@@ -17,9 +17,13 @@ Of course, responding to the email is forbidden, it's a send-only account. That 
 
 Notice: I need to tell them who I am, my Facebook email address, some link to my ad, and the text of the email. Why don't they know all of this stuff? They sent ME the email, they can and should pre-populate all of this stuff in the form.
 
-But no, I have to go to my ads center and figure out the email for the ad. I have to figure out this "Facebook email address" that I never use. And no, I couldn't find it. Silly me, clearly PBKAC. But speaking of artificial intelligence, if I give them the ad url, are they seriously telling me that they can't figure out who placed the ad and how to contact them? If they give me the form url, they can't sort out how to do that while embedding the ad id in it?
+But no, I have to go to my ads center and figure out the email for the ad. I have to figure out this "Facebook email address" that I never use. And no, I couldn't find it. Silly me, clearly [PBKAC](https://en.wikipedia.org/wiki/PEBKAC#Acronyms_and_other_names_for_a_user_error).
 
-Who writes this shit? Who approves it? Who sits down, walks through the user scenario, and says "Feature complete. Ship it!" People who have a long list of priorities and put me at the bottom of the list, what's who. And that's **fine**, they don't call me on the phone in the middle of my day and tell me to switch from Ruby to PHP, I won't tell them how to run an advertising business.
+But speaking of artificial intelligence, if I give them the ad url, are they seriously telling me that they can't figure out who placed the ad and how to contact them? If they give me the form url, they can't sort out how to do that while embedding the ad id in it?
+
+Who writes this shit? Who approves it? Who sits down, walks through the user scenario, and then says "Feature complete. Ship it!"
+
+People who have a long list of priorities, and put me at the bottom of the list, what's who. And that's **fine**, they don't call me on the phone in the middle of my day and tell me to switch from Ruby to PHP, I won't tell them how to run an advertising business.
 
 It probably makes perfect sense for them to set up customer-hostile service to discourage people like me from wasting their time. Just as it makes perfect sense for me to avoid customer dis-service like this. I have long agreed with people who say, *If you aren't buying ads from Facebook, you aren't their customer, you're their product, and that's why you receive shitty treatment.*
 
