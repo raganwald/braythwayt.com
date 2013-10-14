@@ -29,6 +29,6 @@ It probably makes perfect sense for them to set up customer-hostile service to d
 
 Now I know that even if you *are* buying ads, you may be their customer, but you still receive shitty treatment. Perhaps when you are buying ads a million dollars at a time, you get a human being as your sales rep, and their livelihood depends upon your ad spend, and they treat you differently.
 
-![Reddit Ads](http://i.minus.com/ibtLBpqxZfYT3.png)
+<img src="http://i.minus.com/ibtLBpqxZfYT3.png" height="586" width="486"/>
 
 I don't plan to find out. If and when I have a million dollars to spend on advertising, I will also have a marketing team, and they can deal with Facebook. Until then, it's time to advertise on Reddit. I'm going back to dance with the one I brought to the internet writing ball.
