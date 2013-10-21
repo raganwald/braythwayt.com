@@ -1,5 +1,5 @@
 ---
-title: How Come That Copy Of JavaScript Allongé Is So Cheap?
+title: How to buy my book from me
 layout: default
 ---
 
