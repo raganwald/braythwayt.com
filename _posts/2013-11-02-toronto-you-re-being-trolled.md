@@ -23,6 +23,8 @@ And so to Toronto.
 
 ### You've got trolls
 
+![Rob Ford, Troll](/assets/images/robford.jpg)
+
 Toronto is being trolled. Let's review the facts, shall we?
 
 1. "Ford Nation" is angry with City Hall.
