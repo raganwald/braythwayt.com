@@ -7,7 +7,7 @@ Dear Toronto:
 
 Do you ever have this nightmare? You're on the Internet, and you're trying to explain something sensible to someone, and they're heaping abuse on you? And when you start to make headway with a point, they sideslip into something totally irrelevant? And everything that is obviously subjective, is objective to them? And everything obviously objective is subjective to them?
 
-I have this nightmare too, and sometimes during my waking hours. It's called being trolled. The primary characteristic of being trolled is when you are trying to achieve something positive, but the troll is simply trying to disrupt and hijack the conversation.
+I have this nightmare to (sometimes during my waking hours!) It's called **being trolled**. The primary characteristic of being trolled is when you are trying to achieve something positive, but can't make any headway because the other party's agenda is to disrupt and hijack the conversation.
 
 Trolls are toxic. You know that, I know that. We all run into them, like the "Men's Rights" jackasses who want to turn every story of abuse into a debate about how men get raped for their sperm and sued for child support and it's a double standard.
 
@@ -19,13 +19,15 @@ Have you got that person in your mind? Great. Let's review who they are and what
 
 The bottom line is that the troll's agenda is **sabotage**.
 
-And so to Toronto.
+And so to our city: *Toronto, you are being trolled.*
 
 ### You've got trolls
 
 ![Rob Ford, Troll](/assets/images/robford.jpg)
 
-Toronto is being trolled. Let's review the facts, shall we?
+> To Ford Nation, nothing getting done is a job well done.
+
+Let's review the facts, shall we?
 
 1. "Ford Nation" is angry with City Hall.
 2. Ford Nation elected Rob Ford with the overt agenda of disrupting business-as-usual at City Hall.
@@ -42,6 +44,8 @@ Ford Nation cares if he disrupts City Hall. Ford Nation cares if he disrupts Tor
 Ford Nation are the Ontario equivalent of the Tea Party. Peel back the veneer, and you find someone who truly, deeply feels that "Toronto The Good" doesn't work. Who feels that it works for someone else. For downtowners, or liberals, or cyclists, or unionized employees, or something else.
 
 Ford Nation thinks Toronto is all about *them*, and Ford Nation is angry about that. So Ford Nation elects a man who has but one job to do: Troll Toronto. Disrupt. Delay. Distract.
+
+> The primary characteristic of being trolled is when you are trying to achieve something positive, but can't make any headway because the other party's agenda is to disrupt and hijack the conversation.
 
 To Ford Nation, nothing getting done is a job well done.
 
