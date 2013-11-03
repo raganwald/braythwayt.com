@@ -9,7 +9,9 @@ Do you ever have this nightmare? You're on the Internet, and you're trying to ex
 
 I have this nightmare to (sometimes during my waking hours!) It's called **being trolled**. The primary characteristic of being trolled is when you are trying to achieve something positive, but can't make any headway because the other party's agenda is to disrupt and hijack the conversation.
 
-[Trolls are toxic](https://en.wikipedia.org/wiki/Troll_\(Internet\)). You know that, I know that. We all run into them, like the "Men's Rights" jackasses who want to turn every story of abuse into a debate about how men get raped for their sperm and sued for child support and it's a double standard.
+[Trolls are toxic][troll]. You know that, I know that. We all run into them, like the "Men's Rights" jackasses who want to turn every story of abuse into a debate about how men get raped for their sperm and sued for child support and it's a double standard.
+
+[troll]: https://en.wikipedia.org/wiki/Troll_(Internet)
 
 Have you got that person in your mind? Great. Let's review who they are and what they want:
 
