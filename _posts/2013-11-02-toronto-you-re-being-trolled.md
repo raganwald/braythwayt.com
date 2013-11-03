@@ -3,11 +3,11 @@ layout: default
 title: "Dear Toronto: You're Being Trolled"
 ---
 
-Dear Toronto:
+Do you ever have this nightmare?
 
-Do you ever have this nightmare? You're on the Internet, and you're trying to explain something sensible to someone, and they're heaping abuse on you? And when you start to make headway with a point, they sideslip into something totally irrelevant? And everything that is obviously subjective, is objective to them? And everything obviously objective is subjective to them?
+You're on the Internet, and you're trying to explain something sensible to someone, and they're heaping abuse on you? And when you start to make headway with a point, they sideslip into something totally irrelevant? And everything that is obviously subjective, is objective to them? And everything obviously objective is subjective to them?
 
-I have this nightmare to (sometimes during my waking hours!) It's called **being trolled**. The primary characteristic of being trolled is when you are trying to achieve something positive, but can't make any headway because the other party's agenda is to disrupt and hijack the conversation.
+I have this nightmare too: It's called **being trolled**. The primary characteristic of being trolled is when you are trying to achieve something positive, but can't make any headway because the other party's agenda is to disrupt and hijack the conversation.
 
 [Trolls are toxic][troll]. You know that, I know that. We all run into them, like the "Men's Rights" jackasses who want to turn every story of abuse into a debate about how men get raped for their sperm and sued for child support and it's a double standard.
 
@@ -29,9 +29,9 @@ And so to our city: *Toronto, you are being trolled.*
 
 Let's review the facts, shall we?
 
-1. "Ford Nation" is angry with City Hall.
+1. Ford Nation is angry with City Hall.
 2. Ford Nation elected Rob Ford with the overt agenda of disrupting business-as-usual at City Hall.
-3. Debate with Ford Nation is a waste of time, because Ford Nation wins when you waste your time.
+3. Debate with Ford Nation is a waste of time, because Ford Nation wins when you are distracted from getting anything done.
 
 This is why the crack video debate is a massive waste of time! Ford Nation does not care that the Mayor does crack. Ford Nation does not care that the Mayor consorts with violent criminals. Ford Nation does not care that the Mayor rolls into work around noon. Ford Nation does not care that the Mayor used his staff for football duties. Ford Nation does not care that the Mayor looks the TV cameras in the face and lies. Ford Nation does not care that the Mayor cannot delegate or work with people.
 
@@ -39,7 +39,7 @@ When they pretend to be conducting a debate, Ford Nation will say that none of t
 
 Ford Nation does not care that a man elected to lead has no leadership skills. Ford Nation does not care that a man elected to save money hasn't, in fact, saved money. This is because *Ford Nation doesn't really care if he leads or saves the city money*.
 
-Ford Nation cares if he disrupts City Hall. Ford Nation cares if he disrupts Toronto.
+Ford Nation cares if he disrupts City Hall. Ford Nation cares if he delays progress in Toronto. Ford Nation cares if he distracts the city from its work to focus on his behaviour.
 
 Ford Nation are the Ontario equivalent of the Tea Party. Peel back the veneer, and you find someone who truly, deeply feels that "Toronto The Good" doesn't work. Who feels that it works for someone else. For downtowners, or liberals, or cyclists, or unionized employees, or something else.
 
