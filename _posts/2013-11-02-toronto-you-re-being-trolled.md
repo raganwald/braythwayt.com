@@ -54,3 +54,15 @@ And so, all this debate about whether he smokes crack is irrelevant. Suggestions
 Disrupt Toronto, Delay Toronto, and Distract Toronto. All so that the people angry with Toronto can sit back and enjoy a good trolling. And when you make the mistake of trying to reason with them, you're playing into their hands.
 
 Don't do that, Toronto. [Don't feed the trolls](http://rationalwiki.org/wiki/Don't_feed_the_Troll#Treatment).
+
+---
+
+p.s. License:
+
+This post is "Free as in Speech:" It is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/deed.en_US). That means that you are free:
+
+* to **Share**—to copy, distribute and transmit the work
+* to **Remix**—to adapt the work
+* to make commercial use of the work
+
+Provided you follow the licensing rules with respect to attribution.
