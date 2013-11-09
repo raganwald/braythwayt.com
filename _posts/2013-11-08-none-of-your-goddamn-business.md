@@ -6,9 +6,11 @@ I want to go on record as saying this: *What someone consumes on their own perso
 
 I'm cool with judging a person by whether they show up for work at noon. I'm also cool with saying it doesn't matter when they show up for work, as long as they're saving their employer a billion dollars. I'm especially cool with someone saying: **What I do in a private residence is none of your goddamn business.**
 
-It's wrong to lament the government intruding into our private lives while simultaneously praising the press for doing *that exact same thing*. We don't have a public interest in knowing whether someone who has called for stiff jail sentences to be handed to drug addicts happens to do drugs in private. We're *interested*, but I don't think democracy will crumble if we don't have the right to film people when they have a reasonable expectation of privacy and violate that privacy.
+It's wrong to lament the government intruding into our private lives while simultaneously praising the press for doing *that exact same thing*. We don't have a public interest in knowing whether someone who has called for stiff jail sentences to be handed to drug addicts happens to do drugs in private.
 
-Now we both know what and who we're talking about. But if you read a recent blog post of mine, you'll know that I've reserved my greatest criticism for the behaviour of his "supporters," people who are highly non-constructive in both politics and discussion. I think that man made a massive mistake in denying--through lies and misleading technicalities--the existence of a video or of his behaviour.
+We're *interested*, but I don't think democracy will crumble if we don't have the right to film people when they have a reasonable expectation of privacy and violate that privacy.
+
+Now we both know what and who we're talking about. But if you read a recent [blog post](http://braythwayt.com/2013/11/02/toronto-you-re-being-trolled.html "Dear Toronto: You're Being Trolled") of mine, you'll know that I've reserved my greatest criticism for the behaviour of his "supporters," people who are highly non-constructive in both politics and discussion. I think that man made a massive mistake in denying--through lies and misleading technicalities--the existence of a video or of his behaviour.
 
 I honestly think democracy would have been better off had he simply said: "It's none of your goddamn business." Naturally there would have been criticism. Naturally people would have called for a firm statement about his private habits. But that would have been a principled stand.
 
