@@ -1,8 +1,3 @@
----
-layout: default
-title: Wolfram Alpha is (still) Never Wrong
----
-
 *Stephen Wolfram's unnamed minions have created the "Wolfram Language." The [announcement](http://blog.wolframalpha.com/2013/11/13/something-very-big-is-coming-our-most-important-technology-project-yet/) is an excellent example of auto-hagiography. That reminds me of a joke...*
 
 ---
@@ -15,7 +10,7 @@ Ackerman opens Wolfram Alpha in a browser, and while the audience watches on th
 
 The system thinks and thinks for a great while. "Ah" the professor smirks, "stumped it!" At long last, there is a result:
 
-[![](images/Screen_shot_2010-11-17_at_4_20_png_scaled_500.jpg)](http://posterous.com/getfile/files.posterous.com/raganwald/BeyZCIptPrGrc8lKWvRXwD6K4a7zocJHFF8fiAAXTWnTTHV9QYH3mifZx7G1/Screen_shot_2010-11-17_at_4.20.png)
+![Wolfram Alpha](/assets/images/wolfram_alpha.jpg)
 
 "Balderdash," the professor exclaims. "The system has gotten confused. Fly fishing? My father died on New Year's Day, 1998!"
 
@@ -23,8 +18,6 @@ Stephen Wolfram cannot contain himself. He stands up and climbs on stage. "Acker
 
 ** **The answer is almost immediate:
 
-[![](images/PastedGraphic-2_tiff_scaled_500.jpg)](http://posterous.com/getfile/files.posterous.com/raganwald/MmYcZzubvWiaitzyJYRKP0SBkPJCgLA4pz7mDImb1SXW6OoPEfcHDbz8dHp1/PastedGraphic-2.tiff.converted.jpg)
+![Stepfather](/assets/images/stepfather.jpg)
 
 "You see," says Wolfram with satisfaction, "You need to know how to ask the right question. **Your mother's husband died on New Year's Day, 1998. Your father, on the other hand, is fly fishing right now.**"
-
-[Permalink](http://raganwald.posterous.com/wolfram-alpha)
