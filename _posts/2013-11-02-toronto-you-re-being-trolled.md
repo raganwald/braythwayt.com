@@ -43,13 +43,13 @@ Ford Nation cares if he disrupts City Hall. Ford Nation cares if he delays progr
 
 Ford Nation are the Ontario equivalent of the Tea Party. Peel back the veneer, and you find someone who truly, deeply feels that "Toronto The Good" doesn't work. Who feels that it works for someone else. For downtowners, or liberals, or cyclists, or unionized employees, or something else.
 
+Ford Nation thinks Toronto is all about "someone else," not about them. To Ford Nation, Toronto looks down upon the suburbs and taxpayers, and Ford Nation is angry about that. So Ford Nation elects a man who has but one job to do: Troll Toronto. To Ford Nation, nothing getting done is a job well done.
+
+Rob Ford wasn't elected to win respect for taxpayers, Rob Ford was elected to show Ford Nation's disrespect for City Hall.
+
 ![drunk driving](/assets/images/drunk-driving.gif)
 
-Ford Nation thinks Toronto is all about "someone else," not about them. To Ford Nation, Toronto looks down upon the suburbs and taxpayers, and Ford Nation is angry about that. So Ford Nation elects a man who has but one job to do: Troll Toronto. To Ford Nation, nothing getting done is a job well done. Rob Ford wasn't elected to win respect for taxpayers, Rob Ford was elected to show Ford Nation's disrespect for City Hall.
-
-And so, all this debate about whether he smokes crack is irrelevant. Suggestions of rehab are a complete side-show. Rob Ford doesn't need to go to rehab to get elected. He simply needs to do the job he was hired to do:
-
-Disrupt Toronto, Delay Toronto, and Distract Toronto. All so that the people angry with Toronto can sit back and enjoy a good trolling. And when you make the mistake of trying to reason with them, you're playing into their hands.
+And so, all this debate about whether he smokes crack is irrelevant. Suggestions of rehab are a complete side-show. Rob Ford doesn't need to go to rehab to get elected. He simply needs to do the job he was hired to do: Disrupt Toronto, Delay Toronto, and Distract Toronto. All so that the people angry with Toronto can sit back and enjoy a good trolling. And when you make the mistake of trying to reason with them, you're playing into their hands.
 
 Don't do that, Toronto. [Don't feed the trolls](http://rationalwiki.org/wiki/Don't_feed_the_Troll#Treatment).
 
