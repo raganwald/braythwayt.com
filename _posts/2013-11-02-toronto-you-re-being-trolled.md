@@ -21,9 +21,9 @@ Have you got that person in your mind? Great. Let's review who they are and what
 
 The bottom line is that the troll's agenda is **sabotage**. And the Troll's three tactics are to *Disrupt*, to *Delay*, and to *Distract*
 
-And so to our city: *Toronto, you are being trolled.*
-
 ![Rob Ford, Troll](/assets/images/robford.jpg)
+
+And so to our city: *Toronto, you are being trolled.*
 
 Let's review the facts, shall we?
 
@@ -43,7 +43,7 @@ Ford Nation cares if he disrupts City Hall. Ford Nation cares if he delays progr
 
 Ford Nation are the Ontario equivalent of the Tea Party. Peel back the veneer, and you find someone who truly, deeply feels that "Toronto The Good" doesn't work. Who feels that it works for someone else. For downtowners, or liberals, or cyclists, or unionized employees, or something else.
 
-![drunk driving](/asserts/drunk-driving.gif)
+![drunk driving](/asserts/images/drunk-driving.gif)
 
 Ford Nation thinks Toronto is all about "someone else," not about them. To Ford Nation, Toronto looks down upon the suburbs and taxpayers, and Ford Nation is angry about that. So Ford Nation elects a man who has but one job to do: Troll Toronto. To Ford Nation, nothing getting done is a job well done. Rob Ford wasn't elected to win respect for taxpayers, Rob Ford was elected to show Ford Nation's disrespect for City Hall.
 
