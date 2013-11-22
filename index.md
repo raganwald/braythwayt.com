@@ -3,24 +3,13 @@ title: Reginald Braithwaite
 layout: default
 ---
 
-[![copyright (c) 2008 photojunkie](/assets/images/reg_at_meshu.png)](http://www.flickr.com/photos/photojunkie/2510690700)
-
 > At either end of the educational spectrum, there lies a Hacker Class.
 
 Reg “raganwald” Braithwaite is proof that somewhere, a village is missing its idiot. Either that, or a combinatory forest is missing its Idiot Bird, nobody is really sure. His interests include constructing surreal numbers, deconstructing hopelessly egocentric nulls, and celebrating the joy of programming.
 
-### about
+Contact: [reg@braythwayt.com](mailto:reg@braythwayt.com) and [@raganwald](https://twitter.com/raganwald)
 
-* [reg@braythwayt.com](mailto:reg@braythwayt.com)
-* [technical essays](http://raganwald.com)
-* [résumé](/assets/reginald/RegBraithwaite20130425.pdf)
-* [books](http://leanpub.com/u/raganwald)
-* [photos](http://www.flickr.com/photos/raganwald/)
-* [slide decks](http://lanyrd.com/profile/raganwald/slides/)
-* [conferences](http://lanyrd.com/profile/raganwald/)
-* [code](http://github.com/raganwald) / [more code](http://github.com/raganwald-deprecated)
-
-### essays
+### recent non-technical essays
 
 <div class="related">
   <ul>
@@ -33,6 +22,12 @@ Reg “raganwald” Braithwaite is proof that somewhere, a village is missing it
     {% endfor %}
   </ul>
 </div>
+
+### other writing
+
+* [code](http://github.com/raganwald) / [more code](http://github.com/raganwald-deprecated)
+* [technical essays](http://raganwald.com)
+* [books](http://leanpub.com/u/raganwald)
 
 ### selected older essays
 
@@ -55,3 +50,8 @@ Reg “raganwald” Braithwaite is proof that somewhere, a village is missing it
     {% endfor %}
   </ul>
 </div>
+
+### and finally...
+
+* [slide decks](http://lanyrd.com/profile/raganwald/slides/)
+* [conferences](http://lanyrd.com/profile/raganwald/)
