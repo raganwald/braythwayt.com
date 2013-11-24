@@ -11,7 +11,7 @@ Today I'm very pleased to announce that my book [JavaScript Allongé](https://le
 * to **Remix**—to adapt the work
 * to make commercial use of the work
 
-Read the license yourself for the full details. In the first draft of this annoucement, I wrote that the book was free. A better way to put it is that *you* are free. It is *unfettered*: I still charge [thirty bucks] for an ebook, and [here's my explanation for why]. But you are free to obtain the book any way you like, free to share the book any way you like, and best of all, you are free to build upon it.
+Read the license yourself for the full details. In the first draft of this annoucement, I wrote that the book was free. A better way to put it is that *you* are free. It is *unfettered*: I still charge thirty bucks for an ebook, and [here's my explanation why](http://braythwayt.com/2013/10/04/the-freedom-to-pay-thirty-bucks.html). But you are free to obtain the book any way you like, free to share the book any way you like, and best of all, you are free to build upon it.
 
 I also made certain specific "editions" of the book free: [You can read the entire book online](https://leanpub.com/javascript-allonge/read). And [the source in markdown](https://github.com/raganwald/javascript-allonge) is on GitHub. From now on, if you spot a mistake, you can [file and issue][issue], or better still, fork it and send me a [pull request][pull]!
 
