@@ -47,7 +47,9 @@ To almost all of these tire-kickers, doing something that nobody else was doing 
 
 They weren't interested in finding out whether Macintosh would be useful for them. They sorta-kinda-knew it was, but they also knew that their lives would go on just fine without it. Just as your life or my life might go on just fine without writing our next application in Clojure, or without using the [allong.es] JavaScript library.
 
-So why ask about Macintosh? The fact is, they were interested in being able to say to the world that they have an open mind and researched all the possibilities and did their homework and somehow, *somehow*, they had finished up back where they started, using the same damn thing that everyone else used.
+> “Some people are little more than herd animals, flocking together whenever the world becomes uncomfortable … I am not one of those people. If I had a motto, it would probably be Herd thither, me hither.”—Erik Naggum
+
+So why ask about Macintosh? The fact is, they were interested in being able to say to the world that they have an open mind and researched all the possibilities and did their homework and somehow, *somehow*, they had finished up back where they started, using the same damn thing that everyone else used. People like to think of themselves as having open minds, but they also like the safety of the herd.
 
 Just as twitter or reddit or whatever social media might be ablaze with arguments about some new programming language, but in the end, most people are going to carry on doing what everyone else is doing.
 
@@ -81,6 +83,10 @@ But if the argument is CoffeeScript vs JavaScript, you might as well be arguing 
 
 They're going where the herd goes.
 
+([discuss](https://news.ycombinator.com/item?id=6814739))
+
 ---
 
 *Disclaimer: I have no idea what the author of any one article--or any person whatsoever--is thinking. I have no idea whether someone might be a "Going with the herd" person today and "Herd thither, me hither" tomorrow. I don't know whether they're one way with programming languages but another with markets to enter. I really don't know anything at all. This post is simply an excuse to recount an anecdote, that's all.—Reg Braithwaite*
+
+The expression
