@@ -1,9 +1,9 @@
 ---
-title: Herd Thither
+title: Herd Thither, Me Hither
 layout: default
 ---
 
-I read [another one of those "Here's why <NEW SHINY THING> is the unsafe choice" essays][lostechies] today. It trots out the usual arguments:.
+I read [another one of those "Here's why SHINY-THING is the unsafe choice" essays][lostechies] today. It trots out the usual arguments:.
 
 [lostechies]: http://lostechies.com/bradcarleton/2013/10/23/coffeescript-vs-javascript-dog-eat-dog/
 
