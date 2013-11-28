@@ -37,25 +37,19 @@ My friend Anthony and I sold Macintoshes during the dark days when [The Usurper 
 
 [![Macintosh IIfx](/assets/images/iifx.png)](https://en.wikipedia.org/wiki/Macintosh_IIfx "Macintosh IIfx")
 
-In those days, nobody bought Macintoshes. You would think that therefore, Anthony and I would have a lot of free time to bemoan our fate as Mac salespeople, but no: Our days would be full of people requesting proposals to sell them Macintoshes. Our office was besieged by people wanting us to demonstrate the Macintosh and its nifty features.
+In those days, nobody bought Macintoshes. But strangely, our office was besieged by people wanting us to demonstrate the Macintosh and its nifty features.
 
-Did these people buy a Macintosh? No. As I said, nobody was buying Macintoshes. But they would take up a lot of our time asking "What is the benefit of Mac? Why is it superior to Windows? Explain why we should I buy one for each employee." And no matter how interested they seemed, and no matter what we said or did, they would weigh their options and then buy a Windows computer.
+Would these people buy a Macintosh? No. But they would take up a lot of our time asking "What is the benefit of Mac? Why is it superior to Windows? Explain why we should I buy one for each employee." And no matter how interested they seemed, and no matter what we said or did, they would weigh their options... and then buy a Windows computer.
 
-When it came time to make a decision, they would always gives us a very reasonable explanation why Macintosh was great, and they agreed it would be an excellent choice, but something-something-why-they-couldn't-buy, such as "Macintosh is great, but our team can't handle switching," or perhaps "The desktop publishing is fantastic, but words are words no matter what they look like," or even "The company simply won't approve this purchase without more case studies and white papers."
+They agreed that Macintosh was would be an excellent choice, but something-something-why-they-couldn't-buy, such as "Macintosh is great, but our team can't handle switching," or perhaps "The desktop publishing is fantastic, but words are words no matter what they look like," or even "The company simply won't approve this purchase without more case studies and white papers."
 
-Of course, what they really meant:
-
-> Nobody ever got fired for buying a Windows Box.
+What they really meant was, *Nobody ever got fired for buying a Windows Box*.
 
 To almost all of these tire-kickers, doing something that nobody else was doing was all downside risk. If it went wrong, they looked bad for being different. Whereas if they bought a Windows Box and had a shitty experience, well, it was the same shitty experience everyone else was having, so how could they be blamed?
 
-They weren't interested in finding out whether Macintosh would be useful for them. They sorta-kinda-knew it was, but they also knew that their lives would go on just fine without it. Just as your life or my life might go on just fine without writing our next application in Clojure, or without using the [allong.es] JavaScript library.
+They weren't interested in finding out whether Macintosh would be useful for them: They were interested in being able to say to the world that they have an open mind and researched all the possibilities, but somehow, *somehow*, they finished up back where they started, using the same damn thing that everyone else is using.
 
 > “Some people are little more than herd animals, flocking together whenever the world becomes uncomfortable … I am not one of those people. If I had a motto, it would probably be Herd thither, me hither.”—Erik Naggum
-
-So why ask about Macintosh? The fact is, they were interested in being able to say to the world that they have an open mind and researched all the possibilities and did their homework and somehow, *somehow*, they had finished up back where they started, using the same damn thing that everyone else used. People like to think of themselves as having open minds, but they also like the safety of the herd.
-
-Just as twitter or reddit or whatever social media might be ablaze with arguments about some new programming language, but in the end, most people are going to carry on doing what everyone else is doing.
 
 ### Herd thither, me hither
 
@@ -75,7 +69,7 @@ So the easy question to ask is this: "Are you trying to figure out *whether* to 
 
 ### CoffeeScript vs. JavaScript? Or vs ClojureScript?
 
-That same question works just as well for programming today as it did for Macintoshes in the late 80s. If someone asks "Why CoffeeScript," qualify them:
+That same question works just as well for programming today as it did for Macintoshes in 1992. If someone asks "Why CoffeeScript," qualify them:
 
 > Do you mean "Why CoffeeScript instead of JavaScript?"" Or do you mean, "Why CoffeeScript instead of ClojureScript, Dart, TypeScript, or Pajamas?"
 
