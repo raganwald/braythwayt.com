@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Herd Thither, Me Hithe
+title: Herd Thither, Me Hither
 ---
 
 I read [another one of those "Here's why <NEW SHINY THING> is the unsafe choice" essays][lostechies] today. It trots out the usual arguments:.
