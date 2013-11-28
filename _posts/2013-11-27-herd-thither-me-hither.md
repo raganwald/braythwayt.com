@@ -1,5 +1,5 @@
 ---
-title: Herd Thither, Me Hither
+title: Herd Thither, Me Hither (revised)
 layout: default
 ---
 
