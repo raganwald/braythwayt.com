@@ -79,5 +79,3 @@ And yeah, sometimes a "Herd thither, me hither" person will hate significant whi
 But if the argument is CoffeeScript vs JavaScript, you might as well be arguing Macintosh IIfx vs. Compaq 486. The outcome has been decided in advance:
 
 They're going where the herd goes.
-
-(discuss on [proggit](http://www.reddit.com/r/programming/comments/1rnd7u/herd_thither_me_hither/) and [hacker news](https://news.ycombinator.com/item?id=6814739))
