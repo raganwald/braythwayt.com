@@ -27,6 +27,8 @@ You would think that we would have a lot of free time to bemoan our fate as Mac 
 
 Did these people buy? No. But they would take up a lot of our time asking "What is the benefit of Mac? Why is it superior to Windows? Explain why we should I buy one for each employee." And at first, we would answer their questions. We would look at their situations and carefully plan out how they would leverage the Mac to obtain a productivity advantage.
 
+![Macintosh IIfx](/assets/images/iifx.png)
+
 You would think that as salespeople on commission, we would have gotten rich. But no, we were poor, because these people did not buy Macintoshes from us. Or our competition. Was the problem Macintosh? Not really, or at least, not in any technical sense. At the time, for many customers, it was the better choice and those that bought Macintoshes were usually very, very happy.
 
 But very few people bought. What happened to the rest? Why did they demur? Well, when it came time to make a decision, they would always say one of two things, either:
