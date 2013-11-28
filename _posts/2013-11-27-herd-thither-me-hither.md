@@ -45,11 +45,11 @@ And what we discovered was that what they really meant was:
 
 To almost all of these tire-kickers, buying something different was all downside risk with very little upside risk. Now we can find rationalizations for this and talk about network effects and familiarity and the availability of software titles, but please trust me on this one:
 
-**Those are all rationalizations for the simple choice between "Going with the herd" and "Herd thither, me hither."**
+**Those are all rationalizations for the simple choice between "Going with the herd" and "Herd thither, me hither."** Once Anthony and I figured this out, we stopped asking people questions about their situation and their organization, and we started asking people questions about their personal philosophy.
 
-Once Anthony and I figured this out, we stopped asking people questions about their situation and their organization, and we started asking people questions about their personal philosophy. Some people are looking for an edge and like know that you can't do better than everyone else if you do the same thing as everyone else. If someone was of the "Herd thither, me hither," philosophy our job was to explain why Macintosh was a good way to do that.
+Some people are looking for an edge. They know that you can't do better than everyone else if you do the same thing as everyone else. If someone embraced the "Herd thither, me hither" philosophy, our job was to explain why Macintosh was a good way to be hither.
 
-Our competition for the "Herd thither, me hither's" budget wasn't Windows, our competition was the possibility of taking their entire company one a team-building seminar, or launching a new product, or maybe closing the office and outsourcing it.
+In fact, our competition for the "Herd thither, me hither's" budget wasn't Windows, our competition was the possibility of taking their entire company one a team-building seminar, or launching a new product, or maybe closing the office and outsourcing it.
 
 Whereas the "Going with the herd" person wasn't going to buy Macintosh no matter what. The herd used Windows. So we'd try to get them out of our office and over to a competitor as quickly as possible. They were a complete waste of our time, because every part of the conversation with them was based on faulty assumptions.
 
