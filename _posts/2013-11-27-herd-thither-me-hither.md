@@ -3,15 +3,17 @@ layout: default
 title: "Herd Thither, Me Hither"
 ---
 
-I read another one of those "Here's why <NEW SHINY THING> is the unsafe choice" essays today. It trots out the usual arguments:
+I read [another one of those "Here's why <NEW SHINY THING> is the unsafe choice" essays][lostechies] today. It trots out the usual arguments:.
+
+[lostechies]: http://lostechies.com/bradcarleton/2013/10/23/coffeescript-vs-javascript-dog-eat-dog/
 
 1. The new shiny thing doesn't have a mature toolchain.
 2. More people know the old, well-used thing than the new thing.
 3. The upside is uncertain.
 
-There's some damning with faint praise tossed in to let you know that the author is open-minded and not a curmudgeon, of course. And the arguments are not *wrong*, so much as they are *arguments about the wrong things*. Like many essays arguing for or against technologies (including a few of my own), it focuses on the arguments at the expense of the assumptions.
+There's some damning with faint praise tossed in to let you know that the author is open-minded and not a curmudgeon, of course. And the arguments are not *wrong*, so much as they are *irrelevant*. The really interesting thing about any decision whether to switch technologies isn't the technology, ever. It's *whether you want to do what everyone else is doing or not*.
 
-But the really interesting thing about any decision to switch technologies isn't the technology, ever. It's *why you want to change*. Let me retell one of my stock anecdotes (because every blog rant has to have an anecdote, it's a rule, and because people over forty don't learn anything new or accumulate new experiences, therefore they must retell the same stories over and over for the rest of their lives).
+Let me retell one of my stock anecdotes (because every blog rant has to have an anecdote, it's a rule, and because people over forty don't learn anything new or accumulate new experiences, therefore they must retell the same stories over and over for the rest of their lives).
 
 My friend Anthony and I used to sell Macintoshes during the dark days when The Usurper [Prince John][sculley] had cast the [Rightful King][jobs] out of [Albion]. Nobody wanted to buy one (like Joel Spolsky, my "nobody" means "fewer than ten million people" or so).
 
