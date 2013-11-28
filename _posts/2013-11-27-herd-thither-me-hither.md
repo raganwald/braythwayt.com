@@ -80,4 +80,4 @@ But if the argument is CoffeeScript vs JavaScript, you might as well be arguing 
 
 They're going where the herd goes.
 
-([discuss](http://www.reddit.com/r/programming/comments/1rnd7u/herd_thither_me_hither/))
+(discuss on [proggit](http://www.reddit.com/r/programming/comments/1rnd7u/herd_thither_me_hither/) and [hacker news](https://news.ycombinator.com/item?id=6814739))
