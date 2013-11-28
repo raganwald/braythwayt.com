@@ -21,9 +21,9 @@ I'm not going to debunk the arguments. The arguments aren't *convincing*, in the
 
 But if these essays won't change anybody's mind, why do people write them? Why do people read them and debate their contents?
 
-### Why are people so invested in appearing to research a decision?
-
 This is the interesting thing: Why are people so invested in appearing to research a decision, when in reality, they have already made up their minds and their conclusion has been preordained?
+
+### Why CoffeeScript is like a Wicked-Fast Macintosh
 
 Let me retell a story.[^anecdote]
 
@@ -35,7 +35,7 @@ My friend Anthony and I sold Macintoshes during the dark days when [The Usurper 
 [jobs]: https://en.wikipedia.org/wiki/Steve_Jobs "Steve Jobs"
 [Albion]: http://apple.com "Apple"
 
-![Macintosh IIfx](/assets/images/iifx.png)
+[![Macintosh IIfx](/assets/images/iifx.png)](https://en.wikipedia.org/wiki/Macintosh_IIfx "Macintosh IIfx")
 
 In those days, nobody bought Macintoshes. You would think that therefore, Anthony and I would have a lot of free time to bemoan our fate as Mac salespeople, but no: Our days would be full of people requesting proposals to sell them Macintoshes. Our office was besieged by people wanting us to demonstrate the Macintosh and its nifty features.
 
@@ -87,4 +87,4 @@ But if the argument is CoffeeScript vs JavaScript, you might as well be arguing 
 
 They're going where the herd goes.
 
-([discuss](https://news.ycombinator.com/item?id=6814739))
+([discuss](http://www.reddit.com/r/programming/comments/1rnd7u/herd_thither_me_hither/))
