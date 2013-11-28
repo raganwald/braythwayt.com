@@ -49,9 +49,9 @@ To almost all of these tire-kickers, doing something that nobody else was doing 
 
 They weren't interested in finding out whether Macintosh would be useful for them: They were interested in being able to say to the world that they have an open mind and researched all the possibilities, but somehow, *somehow*, they finished up back where they started, using the same damn thing that everyone else is using.
 
-> “Some people are little more than herd animals, flocking together whenever the world becomes uncomfortable … I am not one of those people. If I had a motto, it would probably be Herd thither, me hither.”—Erik Naggum
-
 ### Herd thither, me hither
+
+> “Some people are little more than herd animals, flocking together whenever the world becomes uncomfortable … I am not one of those people. If I had a motto, it would probably be Herd thither, me hither.”—Erik Naggum
 
 I said that "nobody was buying Macintosh." That's not true. Sales at Apple increased from $800 million to $8 billion under John Sculley's management. Anthony and I actually sold a lot of Macintoshes. The trick was, we tried to spend as much time as possible with people who hadn't already decided not to buy a Macintosh. Salespeople call this "qualifying the customer."
 
