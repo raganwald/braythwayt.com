@@ -69,4 +69,6 @@ But if the argument is CoffeeScript vs JavaScript? or Ruby vs. Java? or OCaml vs
 
 They're going where the herd goes.
 
-And God bless them and theirs, may they dwell amongst my competition for ages upon ages hence.
+---
+
+*Disclaimer: I have no idea what the author of any one article--or any person whatsoever--is thinking. I have no idea whether someone might be a "Going with the herd" person today and "Herd thither, me hither" tomorrow. I don't know whether they're one way with programming languages but another with markets to enter. I really don't know anything at all. This post is simply an excuse to recount an anecdote, that's all.—Reg Braithwaite*
