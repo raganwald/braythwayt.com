@@ -3,7 +3,7 @@ title: Herd Thither, Me Hither
 layout: default
 ---
 
-I read [another one of those "Here's why SHINY-THING is the unsafe choice" essays][lostechies] today. It trots out the usual arguments:.
+I read another one of those [Why SHINY-THING is the unsafe choice][lostechies] essays today. It trots out the usual reasonable-sounding arguments:
 
 [lostechies]: http://lostechies.com/bradcarleton/2013/10/23/coffeescript-vs-javascript-dog-eat-dog/
 
@@ -11,7 +11,7 @@ I read [another one of those "Here's why SHINY-THING is the unsafe choice" essay
 2. More people know the old, well-used thing than the new thing.
 3. The upside is uncertain.
 
-There's some damning with faint praise tossed in to let you know that the author is open-minded and not a curmudgeon, of course. And the arguments are not *wrong*, so much as they are *irrelevant*. The really interesting thing about any decision whether to switch technologies isn't the technology, ever. It's *whether you want to do what everyone else is doing or not*.
+There's some damning with faint praise tossed in to let you know that the author is open-minded and not a curmudgeon, of course. *And the arguments are not wrong*, so much as they are *irrelevant*. The really interesting thing about any decision whether to switch technologies isn't the technology, ever. It's *whether you want to do what everyone else is doing or not*.
 
 Let me retell one of my stock anecdotes (because every blog rant has to have an anecdote, it's a rule, and because people over forty don't learn anything new or accumulate new experiences, therefore they must retell the same stories over and over for the rest of their lives).
 
