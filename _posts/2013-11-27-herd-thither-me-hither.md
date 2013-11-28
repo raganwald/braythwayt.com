@@ -11,7 +11,9 @@ I read another one of those [Why 'shiny-thing' is the unsafe choice][lostechies]
 2. More people know the old, well-used thing than the new thing.
 3. The upside is uncertain.
 
-There's some damning with faint praise tossed in to let you know that the author is open-minded and not a curmudgeon, of course. Altogether, it explains succinctly why everyone ought to keep on doing what everyone's already doing. I remember reading essays exactly like this about Ruby back when everyone was using Java, and before that about Java when everyone was writing CGIs in C.
+There's some damning with faint praise tossed in to let you know that the author is open-minded and not a curmudgeon, of course.[^disclaimer] Altogether, it explains succinctly why everyone ought to keep on doing what everyone's already doing. I remember reading essays exactly like this about Ruby back when everyone was using Java, and before that about Java when everyone was writing CGIs in C.
+
+[^disclaimer]: Of course, I have zero idea what the author of any one article--or any person whatsoever--is thinking. I have no idea whether someone might be a "Going with the herd" person today and "Herd thither, me hither" tomorrow. I don't know whether they're one way with programming languages but another with markets to enter. I really don't know anything at all. This post is simply an excuse to recount an anecdote, that's all.
 
 I'm not going to debunk the arguments. The arguments aren't interesting. They aren't really convincing, either. For the most part, people reading the essay have already made up their minds about whether to adopt something that the rest of the world isn't using widely.
 
@@ -84,9 +86,3 @@ But if the argument is CoffeeScript vs JavaScript, you might as well be arguing 
 They're going where the herd goes.
 
 ([discuss](https://news.ycombinator.com/item?id=6814739))
-
----
-
-*Disclaimer: I have no idea what the author of any one article--or any person whatsoever--is thinking. I have no idea whether someone might be a "Going with the herd" person today and "Herd thither, me hither" tomorrow. I don't know whether they're one way with programming languages but another with markets to enter. I really don't know anything at all. This post is simply an excuse to recount an anecdote, that's all.—Reg Braithwaite*
-
-The expression
