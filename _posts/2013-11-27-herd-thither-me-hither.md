@@ -25,15 +25,14 @@ This is the interesting thing: Why are people so invested in appearing to resear
 
 ### Why CoffeeScript is like a Wicked-Fast Macintosh
 
-Let me retell a story.[^anecdote]
+Let me tell you a story: My friend Anthony and I sold Macintoshes during the dark days when [The Usurper Prince John][sculley] ruled [Albion][apple] whilst the [Rightful King][jobs] lived in [exile][NeXT].[^anecdote]
 
-[^anecdote]: Every blog rant has is required to contain exactly one anecdote, it's a rule. And because people over forty don't learn anything new or accumulate new experiences, they are compelled to retell the same anecdotes over and over for the rest of their lives
-
-My friend Anthony and I sold Macintoshes during the dark days when [The Usurper Prince John][sculley] had cast the [Rightful King][jobs] out of [Albion].
+[^anecdote]: Every blog rant has is required to contain exactly one anecdote, it's a rule. And because people over forty don't learn anything new or accumulate new experiences, they are compelled to retell the same anecdotes over and over for the rest of their lives. If you don't want to end up like this, commit to trying new things and going new places.
 
 [sculley]: https://en.wikipedia.org/wiki/John_Sculley "John Sculley III"
 [jobs]: https://en.wikipedia.org/wiki/Steve_Jobs "Steve Jobs"
-[Albion]: http://apple.com "Apple"
+[apple]: http://apple.com "Apple"
+[NeXT]: https://en.wikipedia.org/wiki/NeXT "NeXT Computer"
 
 [![Macintosh IIfx](/assets/images/iifx.png)](https://en.wikipedia.org/wiki/Macintosh_IIfx "Macintosh IIfx")
 
