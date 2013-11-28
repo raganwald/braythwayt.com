@@ -11,13 +11,15 @@ I read another one of those [Why 'shiny-thing' is the unsafe choice][lostechies]
 2. More people know the old, well-used thing than the new thing.
 3. The upside is uncertain.
 
-There's some damning with faint praise tossed in to let you know that the author is open-minded and not a curmudgeon, of course.[^disclaimer] Altogether, it explains succinctly why everyone ought to keep on doing what everyone's already doing. I remember reading essays exactly like this about Ruby back when everyone was using Java, and before that about Java when everyone was writing CGIs in C.
+There's some damning with faint praise tossed in to let you know that the author is open-minded and not a curmudgeon, of course.[^disclaimer]
+
+In sum, it explains why everyone ought to keep on doing what everyone's already doing. I remember reading essays exactly like this about Ruby back when everyone was using Java, and before that about Java when everyone was writing CGIs in C.
 
 [^disclaimer]: Of course, I have zero idea what the author of any one article--or any person whatsoever--is thinking. I have no idea whether someone might be a "Going with the herd" person today and "Herd thither, me hither" tomorrow. I don't know whether they're one way with programming languages but another with markets to enter. I really don't know anything at all. This post is simply an excuse to recount an anecdote, that's all.
 
-I'm not going to debunk the arguments. The arguments aren't interesting. They aren't really convincing, either. For the most part, people reading the essay have already made up their minds about whether to adopt something that the rest of the world isn't using widely.
+I'm not going to debunk the arguments. The arguments aren't *convincing*, in the sense that I don't believe anybody will read the essay and change their mind about using something that isn't already popular. I don't think it's the author's fault: Essays of this general type ("Should you switch from popular thing to shiny thing") have little or no actual impact on people's decisions.
 
-If the arguments aren't changing people's minds, what good are they? What good is they essay? Why do people write these essays? Why do people debate them so fiercely if they have little or no effect on people's actual decisions?
+But if these essays won't change anybody's mind, why do people write them? Why do people read them and debate their contents?
 
 ### Why are people so invested in appearing to research a decision?
 
