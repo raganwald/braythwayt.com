@@ -15,7 +15,9 @@ There's some damning with faint praise tossed in to let you know that the author
 
 Let me retell one of my stock anecdotes (because every blog rant has to have an anecdote, it's a rule, and because people over forty don't learn anything new or accumulate new experiences, therefore they must retell the same stories over and over for the rest of their lives).
 
-My friend Anthony and I used to sell Macintoshes during the dark days when The Usurper [Prince John][sculley] had cast the [Rightful King][jobs] out of [Albion]. Nobody wanted to buy one (like Joel Spolsky, my "nobody" means "fewer than ten million people" or so).
+### Wherein I Reason by Anecdote
+
+My friend Anthony and I used to sell Macintoshes during the dark days when [The Usurper Prince John][sculley] had cast the [Rightful King][jobs] out of [Albion]. Nobody wanted to buy one (like Joel Spolsky, my "nobody" means "fewer than ten million people" or so).
 
 [sculley]: https://en.wikipedia.org/wiki/John_Sculley "John Sculley III"
 [jobs]: https://en.wikipedia.org/wiki/Steve_Jobs "Steve Jobs"
@@ -43,15 +45,15 @@ To almost all of these tire-kickers, buying something different was all downside
 
 **Those are all rationalizations for the simple choice between "Going with the herd" and "Herd thither, me hither."**
 
-Once Anthony and I figured this out, we stopped asking people questions about their situation and their organization, and we started asking people questions about their personal philosophy. Some people are looking for an edge and like sticking out. If someone seemed to be like this, our job was to explain why Macintosh was a good way to do that.
+Once Anthony and I figured this out, we stopped asking people questions about their situation and their organization, and we started asking people questions about their personal philosophy. Some people are looking for an edge and like know that you can't do better than everyone else if you do the same thing as everyone else. If someone was of the "Herd thither, me hither," philosophy our job was to explain why Macintosh was a good way to do that.
 
-Our competition with the "unafraid to stick out" person wasn't Windows, our competition was the possibility of taking their entire company one a team-building seminar, or launching a new product, or maybe closing the office and outsourcing it.
+Our competition for the "Herd thither, me hither's" budget wasn't Windows, our competition was the possibility of taking their entire company one a team-building seminar, or launching a new product, or maybe closing the office and outsourcing it.
 
-Whereas the "fit in with the herd" person wasn't going to buy Macintosh no matter what. So we'd try to get them out of our office and over to a competitor as quickly as possible. They were a complete waste of our time, because every part of the conversation with them was based on faulty assumptions.
+Whereas the "Going with the herd" person wasn't going to buy Macintosh no matter what. The herd used Windows. So we'd try to get them out of our office and over to a competitor as quickly as possible. They were a complete waste of our time, because every part of the conversation with them was based on faulty assumptions.
 
 They weren't interested in finding out whether Macintosh was a benefit, they were interested in being able to say to the world that they have an open mind and researched all the possibilities and did their homework and somehow when they had finished up back where they started, using the same damn thing that everyone else used.
 
-The key question we learned to ask was always this: "What other projects and ideas are you looking at to improve your productivity/results?" The "stick with the herd" person always had a list of "catch up with the herd" ideas. The "herd thither, me hither" person always had a list of things that were all zigs to the herd's zags.
+The key question we learned to ask was always this: "What other projects and ideas are you looking at to improve your productivity/results?" The "Going with the herd" person always had a list of "catch up with the herd" ideas. The "Herd thither, me hither" person always had a list of things that were all zigs to the herd's zags.
 
 ### CoffeeScript vs. JavaScript? Or vs ClojureScript?
 
