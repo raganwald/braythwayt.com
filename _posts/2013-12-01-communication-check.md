@@ -7,6 +7,8 @@ I have recently been reading [The Checklist Manifesto][amazonlink] by Atul Gawan
 
 Checklists are, on the surface, tools for making sure that we do the same thing exactly the same way, every time. Checklists are for practices that can be repeated by rote. Like making hamburgers ("Griddle at 475 degrees? Check!") As such, they seem to have *nothing* to do with software development. Nevertheless, I decided to be curious about checklists. I read the book with an open mind.
 
+![check!](http://braythwayt.com/assets/images/checklist.jpg)
+
 The book *does* begin with the kind of checklists I'm used to. The pre-flight checklist for an aircraft. Then it turned to examples from medicine and construction. Once upon a time, construction was ruled by "Master Builders," highly experienced individuals who understood all of the details of the project and could micro-manage it at every level. Their approach to management was biblical:
 
 > For I am a man under authority, having soldiers under me: and I say to this man, ‘Go,’ and he goeth; and to another, ‘Come,’ and he cometh; and to my servant, ‘Do this,’ and he doeth it.”—"The Centurion and his Servant"
