@@ -49,6 +49,8 @@ This isn't a revolutionary idea. SCRUM practitioners, for example, have a daily 
 
 For example, in construction the emphasis is on bottom-up submittal checklists. Submittal checklists are updated in real time as information is discovered, not scheduled in advance. If a worker discovers a problem, they can create a new item and define who else needs to "sign off" on a solution. There is some discipline: The signoffs have to happen, this isn't a loosey-goosey discussion happening over email or on a wiki. But it isn't a Big Design Up Front plan where all the analysis is done in the analysis phase before any lines of code are written.
 
+### why we need to move beyond "discussions"
+
 Is that distinction too fine? Why can't we have discussions and emails and pair programming and reap the rich rewards of high bandwidth communication in real time? Well, we need submittal checklists for the same reason that we need automated test suites verifying that the physical status of the program is changing in well-defined ways.
 
 Humans make mistakes, especially expert humans under time pressures. Pre-surgery checklists improve medical outlines by ensuring that everything that needs to be done is actually done and not just thought to be done. Submittal checklists make sure that everybody who needs to have input into a decision or situation actually has input into that decision or situation. And not just those who take an interest, or notice. And nobody is "thought to have signed off" until they've actually signed off.
