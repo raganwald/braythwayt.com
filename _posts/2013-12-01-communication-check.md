@@ -39,7 +39,7 @@ This sounds like a typical construction checklist, a list of things to do. But i
 
 A construction checklist defines changes in state of the physical state of construction. A submittal checklist defines things we need to know and the people who need to think about them.
 
-### software is a communication problem
+### software development is a communication problem
 
 Software has also moved beyond the "master builder." We still have a few notable and justifiably admired exceptions, but the industry norm is team of knowledge specialists. A database analyst and a programmer both have an interest in understanding what kinds of queries are made, and how to optimize them, but a solution requires changes to both code and database configuration, so they have to get together and share information.
 
