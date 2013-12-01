@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Communication? Check!
+categories: noindex
 ---
 
 I have recently been reading [The Checklist Manifesto](http://www.amazon.com/gp/product/0312430000/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0312430000&linkCode=as2&tag=raganwald001-20) by Atul Gawande. The idea seems so very simple, so simple that one can be forgiven for assuming that the book consists of a blog post fleshed out to fill a dead tree hardcover because that's what pays the bills. And yes, a shorter version of the material appeared the [The New Yorker](http://www.newyorker.com/reporting/2007/12/10/071210fa_fact_gawande).

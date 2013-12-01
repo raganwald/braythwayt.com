@@ -1,7 +1,6 @@
 ---
 title: Reginald Braithwaite
 layout: default
-categories: noindex
 ---
 
 > At either end of the educational spectrum, there lies a Hacker Class.
