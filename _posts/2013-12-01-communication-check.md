@@ -62,3 +62,5 @@ I'll spare you an observation about the parallels between the doctor-nurse and a
 [![The Checklist Manifesto](http://braythwayt.com/assets/images/TheChecklistManifesto.png)][amazonlink]
 
 [amazonlink]: http://www.amazon.com/gp/product/0312430000/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0312430000&linkCode=as2&tag=raganwald001-20
+
+(discuss on [hacker news](https://news.ycombinator.com/item?id=6829482))
