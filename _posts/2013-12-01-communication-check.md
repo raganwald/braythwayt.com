@@ -3,11 +3,9 @@ layout: default
 title: Communication? Check!
 ---
 
-I have recently been reading [The Checklist Manifesto](http://www.amazon.com/gp/product/0312430000/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0312430000&linkCode=as2&tag=raganwald001-20) by Atul Gawande. (A shorter version of the material appeared the [The New Yorker](http://www.newyorker.com/reporting/2007/12/10/071210fa_fact_gawande).)
+I have recently been reading [The Checklist Manifesto][amazonlink] by Atul Gawande. (A shorter version of the material appeared the [The New Yorker](http://www.newyorker.com/reporting/2007/12/10/071210fa_fact_gawande).)
 
 Checklists are, on the surface, tools for making sure that we do the same thing exactly the same way, every time. Checklists are for practices that can be repeated by rote. Like making hamburgers ("Griddle at 475 degrees? Check!") As such, they seem to have *nothing* to do with software development. Nevertheless, I decided to be curious about checklists. I read the book with an open mind.
-
-![The Checklist Manifesto](http://braythwayt.com/assets/images/TheChecklistManifesto.png)
 
 The book *does* begin with the kind of checklists I'm used to. The pre-flight checklist for an aircraft. Then it turned to examples from medicine and construction. Once upon a time, construction was ruled by "Master Builders," highly experienced individuals who understood all of the details of the project and could micro-manage it at every level. Their approach to management was biblical:
 
@@ -57,4 +55,8 @@ I conjecture that formalizing submittal checklists would help team software deve
 
 I often say that a book is worth reading if there's just one new idea in it. Submittal checklists are just one idea I've gleaned from The Checklist Manifesto. I recommend reading the book with an open mind and paying especial attention to its discussion of complex team activities and of bottom-up management.
 
-I'll spare you an observation about the parallels between the doctor-nurse and architect-programmer relationships. Just [read the book already](http://www.amazon.com/gp/product/0312430000/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0312430000&linkCode=as2&tag=raganwald001-20).
+I'll spare you an observation about the parallels between the doctor-nurse and architect-programmer relationships. Just [read the book already][amazonlink].
+
+[![The Checklist Manifesto](http://braythwayt.com/assets/images/TheChecklistManifesto.png)][amazonlink]
+
+[amazonlink]: http://www.amazon.com/gp/product/0312430000/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0312430000&linkCode=as2&tag=raganwald001-20
