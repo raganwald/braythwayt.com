@@ -27,13 +27,7 @@ The only way to reliably make good decisions is for the specialists to communica
 
 Without a master developer to dictate every detail in advance, and without a single master of all the specialized areas of knowledge, construction is a *communication problem*. And so, it turns out, is medicine. Medicine is a communication problem. Complex fields with interdisciplinary teams are communication problems.
 
-Obviously, a construction schedule--a checklist of things to do--is not a tool for helping specialists communicate with each other.
-
-### software is a communication problem
-
-Software has also moved beyond the "Master Builder." We still have a few notable and justifiably admired exceptions, but the industry norm is team of knowledge specialists. A database analyst and a programmer both have an interest in understanding what kinds of queries are made, and how to optimize them, but a solution requires changes to both code and database configuration, so they have to get together and share information.
-
-Software is a complex field, with teams of specialists that need to communicate. Even if we can't learn from how construction projects schedule construction activities, can we learn something from how construction projects get specialists to communicate?
+Obviously, a construction schedule--a checklist of things changes to make to the physical status of the project--is not a tool for helping specialists communicate with each other.
 
 ### submittal checklists
 
@@ -43,13 +37,21 @@ This sounds like a typical construction checklist, a list of things to do. But i
 
 A construction checklist defines changes in state of the physical state of construction. A submittal checklist defines things we need to know and the people who need to think about them.
 
+### software is a communication problem
+
+Software has also moved beyond the "master builder." We still have a few notable and justifiably admired exceptions, but the industry norm is team of knowledge specialists. A database analyst and a programmer both have an interest in understanding what kinds of queries are made, and how to optimize them, but a solution requires changes to both code and database configuration, so they have to get together and share information.
+
 It's true that software development is a very uncertain complex team activity. It is very hard to manage it with construction checklists. But the *communication* aspect of software development is amenable to structure. Software development benefits from submittal checklists.
 
 This isn't a revolutionary idea. SCRUM practitioners, for example, have a daily "stand-up" meeting and a monthly recalibration with the entire team specifically to encourage communication from the bottom up. But we can still learn from construction.
 
 For example, in construction the emphasis is on bottom-up submittal checklists. Submittal checklists are updated in real time as information is discovered, not scheduled in advance. If a worker discovers a problem, they can create a new item and define who else needs to "sign off" on a solution. There is some discipline: The signoffs have to happen, this isn't a loosey-goosey discussion happening over email or on a wiki. But it isn't a Big Design Up Front plan where all the analysis is done in the analysis phase before any lines of code are written.
 
-I conjecture that formalizing submittal checklists would help team software development, without sticking it in a straightjacket.
+Is that distinction too fine? Why can't we have discussions and emails and pair programming and reap the rich rewards of high bandwidth communication in real time? Well, we need submittal checklists for the same reason that we need automated test suites verifying that the physical status of the program is changing in well-defined ways.
+
+Humans make mistakes, especially expert humans under time pressures. Pre-surgery checklists improve medical outlines by ensuring that everything that needs to be done is actually done and not just thought to be done. Submittal checklists make sure that everybody who needs to have input into a decision or situation actually has input into that decision or situation. And not just those who take an interest, or notice. And nobody is "thought to have signed off" until they've actually signed off.
+
+I conjecture that formalizing submittal checklists would help team software development, without sticking it in a straightjacket. Not top-down workflows, but bottom-up discussions with a touch of ceremony added to ensure that the communication actually happens.
 
 ### read the book!
 
