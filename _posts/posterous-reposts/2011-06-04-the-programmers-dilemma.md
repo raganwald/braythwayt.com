@@ -26,6 +26,6 @@ _The obvious moral of the story is that in the abstract, it's easy to blame the 
 
 _Update: A few people have asked whether this story could just as easily be told about Agile. Methodologies are distinguished by whether they conform to [Theory D or Theory P](http://raganwald.com/2007/06/which-theory-first-evidence.html)._
 
-_Theory D methodologies, like Waterfall, make it easy to assign blame later. With Waterfall, marketing can show that the programmers failed to hit their deadlines, and development can show that marketing changed the scope and failed to properly specify their requirements. __Theory P methodologies like XP and Scrum constantly recalibrate expectations, so if the result is disappointing, you are left blaming the inelasticity of space-time__._
+_Theory D methodologies, like Waterfall, make it easy to assign blame later. With Waterfall, marketing can show that the programmers failed to hit their deadlines, and development can show that marketing changed the scope and failed to properly specify their requirements. **Theory P methodologies like XP and Scrum constantly recalibrate expectations, so if the result is disappointing, you are left blaming the inelasticity of space-time**._
 
 ([Discuss](http://news.ycombinator.com/item?id=2621907))
