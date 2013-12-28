@@ -1,5 +1,6 @@
 ---
 layout: default
+categories: homoiconic
 ---
 
 Hello applicant:
