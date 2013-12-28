@@ -22,11 +22,11 @@ Please don't take this personally, but I need a moment to chuckle. Ok, I'm done.
 
 Just in case you're thinking of referring any of your friends to BigCo, please let them know that if they learned why [S, K, I][3], and [Y][4] are the most important letters in the alphabet, they need not apply. Ever.
 
-To paraphrase Eric Beck, â€œAt either end of the educational spectrum there lies a hacker class.â€ And we are not interested in hackers, even [great hackers][5]. We need those middle of the spectrum folks who are going to live in the suburbs, commute to our offices, and do a decent job for a fair wage week after week, year after year.
+To paraphrase Eric Beck, "At either end of the educational spectrum there lies a hacker class." And we are not interested in hackers, even [great hackers][5]. We need those middle of the spectrum folks who are going to live in the suburbs, commute to our offices, and do a decent job for a fair wage week after week, year after year.
 
 Quite honestly, the very fact that you passed on University tells us something disturbing about you. Quite obviously you aren't stupid. And you knew that people like us would have a problem with your lack of education. But you believed in your heart of hearts that you could make up for this with excellence.
 
-But you know what? That same attitude might have you think â€œIt'll look bad if I quit this job in less than five years, but I'll make up for it.â€ That kind of attitude makes you a little *fearless*. And while we try our best to build a decent working environment, we like our people to be just a little afraid of leaving the nice security blanket we give them.
+But you know what? That same attitude might have you think "It'll look bad if I quit this job in less than five years, but I'll make up for it." That kind of attitude makes you a little *fearless*. And while we try our best to build a decent working environment, we like our people to be just a little afraid of leaving the nice security blanket we give them.
 
 This may come as a surprise to you, but we're looking for people who are looking for us. Of course we know that the educational component of University is a waste. We wouldn't have it any other way.
 
