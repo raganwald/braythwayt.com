@@ -28,10 +28,3 @@ I know that many startups are launched expressly to make their founders stinking
 So just as 2 + 2 = 5 for sufficiently generous values of 2, I am a little-s socialist for sufficiently Libertarian values of "socialism." I cheer whenever a group of people get together and make something of value, whether they do it to flip a company into Google or whether they do it because it just had to be done.
 
 My name is Reginald. And yes, I am a socialist.
-
-
-
-
- 
-
-[Permalink](http://raganwald.posterous.com/hello-my-name-is-reginald-and-i-am-a-socialis)
