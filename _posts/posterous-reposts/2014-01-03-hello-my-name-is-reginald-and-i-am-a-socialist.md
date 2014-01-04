@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "Hello, my name is Reginald and I am a Socialist"
+title: "Hello, my name is Reginald, and I am a Socialist"
 categories: posterous
 ---
 
-Recently, someone expressed surprise that a regular contributor to Hacker News might be opposed to Capitalism..
+Recently, someone expressed surprise that a regular contributor to Hacker News might be opposed to Capitalism.
 
 ![hello](/assets/images/hello.jpg)
 
