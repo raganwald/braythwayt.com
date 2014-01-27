@@ -23,4 +23,6 @@ Back at home, my mother owned her own real estate business. She bought an IBM PC
 
 You can take one look at my experience and see that if I can do it, you can do it, and if you aren't doing it, it's your fault. Environment has nothing to do with accomplishment.
 
+([discuss](https://news.ycombinator.com/item?id=7132181))
+
 [mother]: http://braythwayt.com/posterous/2012/03/29/a-womans-story.html "A Woman's Story"
