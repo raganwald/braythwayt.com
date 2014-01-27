@@ -3,11 +3,11 @@ layout: default
 title: If I can do it, you can do it
 ---
 
-I am, of course, a self-made programmer. I did it, and therefore you can do it. No whining, no complaining about being the wrong colour or the wrong gender or being too poor.
-
 ![No whining](/assets/images/no-whining.jpg)
 
-My mother was a systems analyst in the 1960s when most other people's mothers were homemakers.
+I am, of course, a self-made programmer. I did it, and therefore you can do it. No whining, no complaining about not getting the right start in life.
+
+My [mother] was a systems analyst in the 1960s when most other people's mothers were homemakers.
 
 I played with physical core memory, keypunches, punch tape, and teletype machines before I was ten. I went to a private school called The International School of Ibadan, where the teachers and students valued education and accomplishment in the maths and sciences.
 
@@ -22,3 +22,5 @@ My roommate at St. Andrews was an intelligent young man named Mike. He's now "Dr
 Back at home, my mother owned her own real estate business. She bought an IBM PC and naturally, I had access to it. I played with TI-SCHEME and the GEM environment.
 
 You can take one look at my experience and see that if I can do it, you can do it, and if you aren't doing it, it's your fault. Environment has nothing to do with accomplishment.
+
+[mother]: http://braythwayt.com/posterous/2012/03/29/a-womans-story.html "A Woman's Story"
