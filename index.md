@@ -10,7 +10,7 @@ Reg “raganwald” Braithwaite is proof that somewhere, a village is missing it
 ### about
 
 - He writes a hands-on technical blog called [raganwald.com](http://raganwald.com).
-- He works at [Github](https://github.com/raganwald).
+- He works at [GitHub](https://github.com/raganwald).
 - He has written a few [books](http://leanpub.com/u/raganwald).
 - He speaks at [conferences](http://lanyrd.com/profile/raganwald/).
 
