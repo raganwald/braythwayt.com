@@ -7,7 +7,14 @@ layout: default
 
 Reg “raganwald” Braithwaite is proof that somewhere, a village is missing its idiot. Either that, or a combinatory forest is missing its Idiot Bird, nobody is really sure. His interests include constructing surreal numbers, deconstructing hopelessly egocentric nulls, and celebrating the joy of programming.
 
-Contact: [reg@braythwayt.com](mailto:reg@braythwayt.com) and [@raganwald](https://twitter.com/raganwald)
+### about
+
+- He writes a hands-on technical blog called [raganwald.com](http://raganwald.com).
+- He works at [Github](https://github.com/raganwald).
+- He has written a few [books](http://leanpub.com/u/raganwald).
+- He speaks at [conferences](http://lanyrd.com/profile/raganwald/).
+
+Contact: [reg@braythwayt.com](mailto:reg@braythwayt.com) and [@raganwald](https://twitter.com/raganwald).
 
 ### recent non-technical essays
 
@@ -22,12 +29,6 @@ Contact: [reg@braythwayt.com](mailto:reg@braythwayt.com) and [@raganwald](https:
     {% endfor %}
   </ul>
 </div>
-
-### other writing
-
-* [code](http://github.com/raganwald) / [more code](http://github.com/raganwald-deprecated)
-* [technical essays](http://raganwald.com)
-* [books](http://leanpub.com/u/raganwald)
 
 ### selected older essays
 
@@ -50,8 +51,3 @@ Contact: [reg@braythwayt.com](mailto:reg@braythwayt.com) and [@raganwald](https:
     {% endfor %}
   </ul>
 </div>
-
-### and finally...
-
-* [slide decks](http://lanyrd.com/profile/raganwald/slides/)
-* [conferences](http://lanyrd.com/profile/raganwald/)
