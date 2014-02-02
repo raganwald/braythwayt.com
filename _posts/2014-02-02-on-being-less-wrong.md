@@ -38,10 +38,13 @@ The four beliefs above are wrong, but less wrong than the belief that the moon e
 
 In other words, for the purpose of demonstrating your fitness to belong to your tribe, the four wrong beliefs above are no better than the wrong belief that the moon emits its own light. Provided your beliefs match up with the tribe's beliefs, you can say "We're right, that other tribe is wrong."
 
-If you *really* want to elevate yourself above people who believe that the moon emits its own light, you needn't go out and learn the state-of-the-art in Quantum Electrodynamics. That'll just move you to a different tribe, and you'll still have to argue with the String Theory tribespeople.
+If you *really* want to elevate yourself above people who believe that the moon emits its own light, you needn't go out and learn the state-of-the-art in [quantum electrodynamics]. That'll just move you to a different tribe, and you'll still have to argue with the [string theory] tribespeople.
 
 To truly elevate yourself, you have to do something the people of Waco seem unable to do: You have to say, "This is what I believe, but while it's right enough for my purposes, it's probably wrong. Over time, we are always striving to learn more and evolve and grow as humankind and also personally."
 
 In the end, it isn't being right that matters.
 
 It's the willingness to be wrong.
+
+[quantum electrodynamics]: http://hyperphysics.phy-astr.gsu.edu/hbase/Forces/qed.html
+[string theory]: http://superstringtheory.com/basics/index.html
