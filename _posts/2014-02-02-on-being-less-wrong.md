@@ -46,5 +46,5 @@ In the end, it isn't being right that matters.
 
 It's the willingness to be wrong.
 
-[quantum electrodynamics]: http://hyperphysics.phy-astr.gsu.edu/hbase/Forces/qed.html
+[quantum electrodynamics]: http://www.nobelprize.org/nobel_prizes/physics/laureates/1965/feynman-lecture.html
 [string theory]: http://superstringtheory.com/basics/index.html
