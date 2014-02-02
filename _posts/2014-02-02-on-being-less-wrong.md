@@ -34,7 +34,7 @@ There are many texts for children, enthusiastic amateurs, and physicists going i
 
 [QED]: http://www.amazon.com/gp/product/B00BR40XJ6/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00BR40XJ6&linkCode=as2&tag=raganwald001-20
 
-The four beliefs above are wrong, but less wrong than the belief that the moon emits its own light.  What they have in common with the wrong belief that the moon emits its own light is that if you profess that they are true, you will receive the approval of your community.
+The four beliefs above are wrong, but less wrong than the belief that the moon emits its own light.  What they have in common with other wrong belief is that if you profess "the truth," you receive the approval of your particular tribe.
 
 In other words, for the purpose of demonstrating your fitness to belong to your tribe, the four wrong beliefs above are no better than the wrong belief that the moon emits its own light. Provided your beliefs match up with the tribe's beliefs, you can say "We're right, that other tribe is wrong."
 
