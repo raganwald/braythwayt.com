@@ -1,6 +1,6 @@
 ---
 layout: default
-title: On 'Being Less Wrong'
+title: On being 'Less Wrong'
 ---
 
 I recently saw this news story circulating around some social media again:
