@@ -10,7 +10,7 @@ Author Ted Sturgeon was once asked why he wrote Science Fiction, when anyone cou
 
 For example, recently my friend-at-a-distance (and excellent [author](https://shiprise.dpdcart.com)) Avdi Grim wrote about the dynamic of startups trawling for labour and using the word "passion" to mislead people into thinking that 80+ hour weeks creating the next mobile photo-sharing social network is a noble cause.
 
-Obviously, 90% (or 99% or 99.9%) of the companies looking for "passionate" people are full of shit. And 90% of the people calling themselves passionate programmers aren't really passionate in the true sense of the word. How does Sturgeon's Revelation help us with this? It tells us that *it's ok for 90% of companies and 90% of programmers to be wrong about passion*. This is normal. 90% of everything is crud, including 90% of the beliefs about passion.
+Ninety percent of the companies looking for passionate people *are* full of shit. How does Sturgeon's Revelation help us with this? It tells us that *It's ok for 90% of companies to be crud*. This is normal. 90% of everything is crud, including 90% of the job opportunities.
 
 Someone else pointed out that in his experience, passion is a bad thing for a programmer, that it can be counterproductive and/or ruin lives. I know this to be true, I consider myself a passionate programmer, and it is a very expensive value to hold.
 
