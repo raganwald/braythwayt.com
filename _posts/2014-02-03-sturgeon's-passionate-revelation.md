@@ -20,11 +20,9 @@ I'll say it again: **It's ok for some group of people to be 90% crud**. This is 
 
 ### can passion be used as a hiring filter?
 
-Let's turn to a practical matter. If 90 of the passionate programmers are crud, perhaps we shouldn't hire any passionate programmers? This seems to make sense. If someone's sitting in an interview wearing a "90% chance of crud" tee shirt, why wouldn't you defenestrate them without further delay?
+Let's turn to a practical matter. If 90 of the passionate programmers are crud, perhaps we shouldn't hire any passionate programmers? Let's try it. We advertise for a job with a web form, and we ask programmers whether they are "passionate." If we get 100 responses, of which ten are worth interviewing, and one is worth hiring, what happens if we discard every applicant who answers "Yes" to the question "Are you passionate?"
 
-Let's try it. We advertise for a job with a web form, and we ask programmers whether they are "passionate." We'll make the (unrealistic) assumption that they answer truthfully. If we get 100 responses, of which ten are worth interviewing, and one is worth hiring, what happens if we discard every applicant who answers "Yes" to the question "Are you passionate?"
-
-Well, the more passionate people you have, the more trouble you're in. If 50% of the people answer "yes," You end up with 50 applications. The fifty you threw way contained 45 cruddy people and 5 good people. The fifty that remain contain 45 cruddy people and 5 good people. You just cut your chances of hiring the one good person in half.
+Well, the more passionate people we have, the more trouble we're in. If 50% of the people answer "yes," we end up with 50 applications. The fifty we threw way contained 45 cruddy people and 5 good people. The fifty that remain contain 45 cruddy people and 5 good people. We just cut our chances of hiring the one good person in half.
 
 Of course, people who discriminate aren't trying to cut their chances in half. They're trying to throw away 50 applications and be left with all ten people worth interviewing, or maybe nine good interviews out of fifty resumés. What went wronG?
 
@@ -38,10 +36,14 @@ Here is the bottom line:
 
 We are in an industry where 90% of *everything* is crud. 90% of the programs. 90% of the programmers. 90% of the companies. 90% of the tools. [90% of the books](https://leanpub.com/u/raganwald). 90% of the blogs. It's crud everywhere you look.
 
-When you realize this, you realize that negative indicators like "passionate" or "uses tool-I-don't-respect" or "has funny accent" or "works-for-evil-company" are useless. *The only indicators that matter are the positive indicators, the ones that correlate strongly with being non-crud.*
+When you realize this, you realize that negative indicators like "passionate" or "wrong gender" or "uses tool-I-don't-respect" or "has funny accent" or "works-for-evil-company" are useless. *The only indicators that matter are the positive indicators, the ones that correlate strongly with being non-crud.*<sup>1</sup>
 
 We are entitled to claim that 90% of the companies advertising for passionate people are crud, and we're entitled to claim that 90% of the passionate programmers are crud. But nobody has established that not advertising for passionate programmers correlates with being a good employer, and nobody has established that not being passionate correlates with being a good programmer.
 
 Therefore, Sturgeon's Revelation tells me that "negative" indicators like passion are like Science Fiction. They are uninformative, because 90% of everything is crud.
 
 ([discuss](https://news.ycombinator.com/item?id=7171459))
+
+---
+
+1. Observational bias is another matter, of course. If you only hire people just like you, it's amazing how easy it is to find people just like you who seem to get along with you.
