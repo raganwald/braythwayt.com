@@ -24,7 +24,7 @@ Let's turn to a practical matter. If 90 of the passionate programmers are crud, 
 
 Well, the more passionate people we have, the more trouble we're in. If 50% of the people answer "yes," we end up with 50 applications. The fifty we threw way contained 45 cruddy people and 5 good people. The fifty that remain contain 45 cruddy people and 5 good people. We just cut our chances of hiring the one good person in half.
 
-Of course, people who discriminate aren't trying to cut their chances in half. They're trying to throw away 50 applications and be left with all ten people worth interviewing, or maybe nine good interviews out of fifty resumés. What went wronG?
+Of course, people who discriminate aren't trying to cut their chances in half. They're trying to throw away 50 applications and be left with all ten people worth interviewing, or maybe nine good interviews out of fifty resumés. What went wrong?
 
 What's wrong is this: **The observation that 90% of passionate programmers are crud is not helpful unless you can also say that programmers who aren't passionate are non-crud. And that simply isn't true.**
 
