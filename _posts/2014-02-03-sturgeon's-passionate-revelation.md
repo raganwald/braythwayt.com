@@ -36,7 +36,7 @@ Here is the bottom line:
 
 We are in an industry where 90% of *everything* is crud. 90% of the programs. 90% of the programmers. 90% of the companies. 90% of the tools. [90% of the books](https://leanpub.com/u/raganwald). 90% of the blogs. It's crud everywhere you look.
 
-When you realize this, you realize that negative indicators like "passionate" or "wrong-gender" or "uses tools I don't respect" or "has funny accent" or "works for evil company" are useless. *The only indicators that matter are the positive indicators, the ones that correlate strongly with being non-crud.*<sup>1</sup>
+When you realize this, you realize that negative indicators like "passionate" or "wrong-gender" or "uses tools I don't respect" or "has funny accent" or "works for evil company" are uninformative. *The only indicators that matter are the positive indicators, the ones that correlate strongly with being non-crud.*<sup>1</sup>
 
 We are entitled to claim that 90% of the companies advertising for passionate people are crud, and we're entitled to claim that 90% of the passionate programmers are crud. But nobody has established that not advertising for passionate programmers correlates with being a good employer, and nobody has established that not being passionate correlates with being a good programmer.
 
