@@ -47,3 +47,5 @@ When you realize this, you realize that negative indicators like "passionate" or
 And I'm sorry, we are all entitled to believe that 90% of the companies advertising for passionate people are crud, and we're all entitled to believe that 90% of the passionate programmers are crud. But nobody has established that not advertising for passionate programmers correlates with being a good employer, and nobody has established that not being passionate correlates with being a good programmer.
 
 Therefore, Sturgeon's Revelation tells me that passion is like science fiction: 90% of it is crud, and that's ok.
+
+([discuss](https://news.ycombinator.com/item?id=7171459))
