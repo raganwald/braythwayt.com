@@ -22,15 +22,11 @@ I'll say it again: **It's ok for some group of people to be 90% crud**. This is 
 
 Let's turn to a practical matter. If 90 of the passionate programmers are crud, perhaps we shouldn't hire any passionate programmers? This seems to make sense. If someone's sitting in an interview wearing a "90% chance of crud" tee shirt, why wouldn't you defenestrate them without further delay?
 
-The answer is easily explained with basic statistics. Doctors are reluctant to order tests for rare conditions. The reason is, if a condition is rare, the chance that you have the condition is much lower than the chance that the test will give you a false positive. So the doctor insists that there be other indications pointing to the condition before ordering the test. The doctor only orders the tests when the likelihood of the patient actually having the condition dominates the likelihood of a false positive.
-
-Now in a world where 90% of everything is crud, 90% of the people sitting in every interview are crud whether they're passionate or not. When interviewing, being a good hire is a rare condition! And as such, all tests ("Are they passionate?" "Do they resemble someone I admire, namely me?") are dangerous to take out-of-context.
-
 Let's try it. We advertise for a job with a web form, and we ask programmers whether they are "passionate." We'll make the (unrealistic) assumption that they answer truthfully. If we get 100 responses, of which ten are worth interviewing, and one is worth hiring, what happens if we discard every applicant who answers "Yes" to the question "Are you passionate?"
 
 Well, the more passionate people you have, the more trouble you're in. If 50% of the people answer "yes," You end up with 50 applications. The fifty you threw way contained 45 cruddy people and 5 good people. The fifty that remain contain 45 cruddy people and 5 good people. You just cut your chances of hiring the one good person in half.
 
-Of course, people who discriminate aren't trying to cut their chances in half. They're trying to throw away 50 applications and be left with all ten good people, or maybe 9 good people out of fifty. So what's wrong here?
+Of course, people who discriminate aren't trying to cut their chances in half. They're trying to throw away 50 applications and be left with all ten people worth interviewing, or maybe nine good interviews out of fifty resumés. What went wronG?
 
 What's wrong is this: **The observation that 90% of passionate programmers are crud is not helpful unless you can also say that programmers who aren't passionate are non-crud. And that simply isn't true.**
 
@@ -44,8 +40,8 @@ We are in an industry where 90% of *everything* is crud. 90% of the programs. 90
 
 When you realize this, you realize that negative indicators like "passionate" or "uses tool-I-don't-respect" or "has funny accent" or "works-for-evil-company" are useless. *The only indicators that matter are the positive indicators, the ones that correlate strongly with being non-crud.*
 
-And I'm sorry, we are all entitled to believe that 90% of the companies advertising for passionate people are crud, and we're all entitled to believe that 90% of the passionate programmers are crud. But nobody has established that not advertising for passionate programmers correlates with being a good employer, and nobody has established that not being passionate correlates with being a good programmer.
+We are entitled to claim that 90% of the companies advertising for passionate people are crud, and we're entitled to claim that 90% of the passionate programmers are crud. But nobody has established that not advertising for passionate programmers correlates with being a good employer, and nobody has established that not being passionate correlates with being a good programmer.
 
-Therefore, Sturgeon's Revelation tells me that passion is like science fiction: 90% of it is crud, and that's ok.
+Therefore, Sturgeon's Revelation tells me that passion is like Science Fiction: 90% of it is crud, and that's ok.
 
 ([discuss](https://news.ycombinator.com/item?id=7171459))
