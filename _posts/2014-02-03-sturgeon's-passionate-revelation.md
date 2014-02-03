@@ -2,13 +2,13 @@
 layout: default
 ---
 
-Author Ted Sturgeon was once asked why he wrote Science Fiction, when anyone could see that 90% of the genre was crud. Ted famously replied that "90% of everything is crud." This is now known as "Sturgeon's Revelation," and it's one of the most important insights to carry into any analysis of people and the things we do.
+Author Ted Sturgeon was once asked why he wrote science fiction, when anyone could see that 90% of the genre was crud. Ted famously replied that "90% of everything is crud." This is now known as "Sturgeon's Revelation," and it's one of the most important insights to carry into any analysis of people and the things we do.
 
 > I repeat Sturgeon’s Revelation, which was wrung out of me after twenty years of wearying defense of science fiction against attacks of people who used the worst examples of the field for ammunition, and whose conclusion was that ninety percent of SF is crud.
 >
 > Using the same standards that categorize 90% of science fiction as trash, crud, or crap, it can be argued that 90% of film, literature, consumer goods, etc. are crap. In other words, the claim (or fact) that 90% of science fiction is crap is ultimately uninformative, because science fiction conforms to the same trends of quality as all other artforms.—[Ted Sturgeon](https://en.wikipedia.org/wiki/Sturgeon's_Law)
 
-For example, recently my friend-at-a-distance (and excellent [author](https://shiprise.dpdcart.com)) Avdi Grim wrote about the dynamic of startups trawling for labour and using the word "passion" to mislead people into thinking that 80+ hour weeks creating the next mobile photo-sharing social network is a noble cause.
+For example, recently my friend-at-a-distance (and excellent [author](https://shiprise.dpdcart.com)) Avdi Grimm wrote about the dynamic of startups trawling for labour and using the word "passion" to mislead people into thinking that 80+ hour weeks creating the next mobile photo-sharing social network is a noble cause.
 
 Ninety percent of the companies looking for passionate people *are* full of shit. How does Sturgeon's Revelation help us with this? It tells us that *It's ok for 90% of companies to be crud*. This is normal. 90% of everything is crud, including 90% of the job opportunities.
 
@@ -40,7 +40,7 @@ When you realize this, you realize that negative indicators like "passionate" or
 
 We are entitled to claim that 90% of the companies advertising for passionate people are crud, and we're entitled to claim that 90% of the passionate programmers are crud. But nobody has established that not advertising for passionate programmers correlates with being a good employer, and nobody has established that not being passionate correlates with being a good programmer.
 
-Therefore, Sturgeon's Revelation tells me that "negative" indicators like passion are like Science Fiction. They are uninformative, because 90% of everything is crud.
+Therefore, Sturgeon's Revelation tells me that "negative" indicators like passion are like science fiction. They are uninformative, because 90% of everything is crud.
 
 ([discuss](https://news.ycombinator.com/item?id=7171459))
 
