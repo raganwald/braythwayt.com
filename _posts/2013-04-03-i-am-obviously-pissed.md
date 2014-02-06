@@ -3,7 +3,7 @@ layout: default
 tags: [noindex]
 ---
 
-> Apparently, women are sensitive, delicate creatures who must be shielded from coarse language lest they abandon their dreams of becoming a software developer and seek the shelter of being a stay-at-home-mom.--[some random Internet Troll](http://www.globalnerdy.com/2013/04/02/programmers-being-dicks-and-other-related-tales/#comments)
+> Apparently, women are sensitive, delicate creatures who must be shielded from coarse language lest they abandon their dreams of becoming a software developer and seek the shelter of being a stay-at-home-mom.—[some random Internet Troll](http://www.globalnerdy.com/2013/04/02/programmers-being-dicks-and-other-related-tales/#comments)
 
 Hey sexist jerkwads, just stop that. It's a shit argument, and you ought to know better.
 
@@ -27,10 +27,10 @@ We grew up and realized that with freedom, comes responsibility. You want to sta
 
 In fact, stop talking trash entirely. It isn't really about oppressed people as far as I'm concerned. It's about a professional environment, meaning we act like we are old enough to walk ourselves to school.
 
-And that includes no longer saying girls are icky or any variation of same such as the one I quoted above. And it goes further. Don't talk about someone's library or language in terms that my eight year-old son would recognize from the playground. Engage in thoughtful criticism or buy yourself some diapers to hold your shit. 
+And that includes no longer saying girls are icky or any variation of same such as the one I quoted above. And it goes further. Don't talk about someone's library or language in terms that my eight year-old son would recognize from the playground. Engage in thoughtful criticism or buy yourself some diapers to hold your shit.
 
 If you're an eight year-old, I absolve you of responsibility for comments like the above. But if you're nine or older, you are old enough to know better than to open your mouth and let your entrails run in reverse.
 
 So just stop pretending this is about people being offended, or misandry, or reverse racism, or people with low IQs out-procreating you, or Apple Fanboys, or whatever you and your juvenile delinquent gang are trying to bully this week.
 
-Just look in the mirror and magine you are an adult. Then start acting like one.
+Just look in the mirror and imagine that you are an adult. Then start acting like one.
