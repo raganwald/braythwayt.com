@@ -29,7 +29,7 @@ All good stuff, but don't take my word for it and don't run off and try to do wh
 
 ---
 
-Now onto a related subject: There's a thing where you victimize yourself. You say things somewhat like the narrative above about bad things coming from other people, but instead of also putting those bad things in as narrow and restricted a scope as possible, you go the other way.
+Now onto a related subject: There's a thing where you **victimize** yourself. You say things somewhat like the narrative above about bad things coming from other people, but instead of also putting those bad things in as narrow and restricted a scope as possible, you go the other way.
 
 If someone tweets that such-and-such a conference isn't diverse enough, it's evidence of an ongoing malignant conspiracy to destroy our culture. They're out to get us! (Yes, I do say "our" and "us," I enjoy quite a bit of privilege.) No matter how well off we are in objective fact, we can find a way to feel threatened and victimized by almost anything that seems to run counter to whatever we want to have going on right now.
 
@@ -39,7 +39,7 @@ I speak from experience on this one, "Militant Raganwald" struts around like a S
 
 [^hymen]: Or it's [that you can kill anyone](http://cli.ps/gBAdr)
 
-The problem with victimization is that it is depressing. For us. Seriously, treating ourselves as victims feels like it motivates us to action, and thus it must be associated with action and taking charge. But it isn't associated with action, it's associated with *reaction*, with responding to the choices of others.
+The problem with victimization is that it is depressing. *For us*. Seriously, treating ourselves as victims feels like it motivates us to action, and thus it must be associated with action and taking charge. But it isn't associated with action, it's associated with *reaction*, with responding to the choices of others.
 
 If I am walking in the forest and a wolf attacks me, I may drive it off or even kill it. Too bad for the wolf, I am the master. But note that I did not enter the forest to hunt for wolves, even if the wolf lies dead, it's choices dictated the course of my life, not my choices.
 
@@ -49,7 +49,7 @@ And so it is with perceiving everything as a threat. We may slay all these wolve
 
 Look, I am not saying that if a conference code of conduct makes you feel uncomfortable that you shouldn't speak out, just as I'm not saying that if a conference's lack of code of conduct makes you feel uncomfortable, that you shouldn't speak out.
 
-I';m also not saying that it's a bad thing if you decide that the slaying of wolves (or the cleaning of the Augean Stables) is your purpose in life. Speak up! Act!! be the change you want to see in the world, with my blessing.
+I'm also not saying that it's a bad thing if you decide that the slaying of wolves (or the cleaning of the Augean Stables) is your purpose in life. Speak up! Act!! be the change you want to see in the world, with my blessing.
 
 But I am saying that if you are trying to enjoy the forest for what it is, sometimes it makes sense to learn to avoid the wolves, or live amongst them in peace, or perhaps to see them, note your fear, and then take control of it and to make conscious choices.
 
