@@ -4,8 +4,6 @@ layout: default
 categories: posterous
 ---
 
-_The following words appear in a collection of my blog posts about freedom entitled [Steal This Book!](http://leanpub.com/stealthisbook) Both the book and this post are 100% free-as-in-speech and 100% free-as-in-beer._
-
 A little over sixty years ago, a young, intelligent black woman named Gwen was graduating from Allenby Junior Public School in Toronto. Her teacher provided her with a notice telling her where to attend secondary school the following Autumn, and she carefully carried it to her home on St. Clements Avenue, in an area that was affordable and populated by young, middle-class families. 
 
 Mrs. Lois Barzey hadn't gone to university, but she had high hopes for her daughter Gwen. Lois's father---Gwen's grandfather--- had come to Canada from Barbados specifically to find a better future for his children and grandchildren. Lois's brothers Layson and Leonard had gone to University. Leonard had a Harvard MBA and would later become Ontario's first black Member of Provincial Parliament. Layson was an engineer who had invented techniques for manufacturing colour televisions.
