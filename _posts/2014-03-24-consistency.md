@@ -2,7 +2,9 @@
 layout: default
 ---
 
-Some years back, I went to Ottawa to attend the wedding of a colleague. I had a splendid time, and met some wonderful people. One of them was Brendan Eich. Flash forward to today, and I find that he has been named Mozilla's CEO. I am delighted to offer him and Mozilla my congratulations. I like and admire him and I think the world is a better place with him in it.
+Some years back, I went to Ottawa to attend the wedding of a colleague. I had a splendid time, and met some wonderful people. One of them was Brendan Eich.
+
+Flash forward to today, and I find that he has been named Mozilla's CEO. I am delighted to offer him and Mozilla my congratulations. I like him, I admire him, and I think the world is a better place with him in it.
 
 There has been heat surrounding his choice two years ago to support something that I consider wrong. I empathize with people asking questions about this, as I come down on the socially progressive side of this issue. Let me put it more strongly: We come down on the right side of this issue, and history is on our side.
 
