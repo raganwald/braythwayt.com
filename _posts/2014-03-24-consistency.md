@@ -1,15 +1,14 @@
 ---
 layout: default
-published: false
 ---
 
-Some years back, I went to Ottawa to attend the wedding of a colleague. I had a splendid time, and met some wonderful people. One of them was Brendan Eich. Flash forward to today, and I find that he has been named Mozilla's CEO. I am delighted to offer him and Mozilla my congratulations. I like and admire him and I think the world is a better place with him in it. It's fairly obvious that he's extremely well-qualified to lead Mozilla on their mission.
+Some years back, I went to Ottawa to attend the wedding of a colleague. I had a splendid time, and met some wonderful people. One of them was Brendan Eich. Flash forward to today, and I find that he has been named Mozilla's CEO. I am delighted to offer him and Mozilla my congratulations. I like and admire him and I think the world is a better place with him in it.
 
-There has been some little heat surrounding his choice two years ago to support something that I consider wrong. I empathize with people asking questions about this, as I come down on the socially progressive side of this issue. Let me put it more strongly: I come down on the right side of this issue, and history is on our side.
+There has been heat surrounding his choice two years ago to support something that I consider wrong. I empathize with people asking questions about this, as I come down on the socially progressive side of this issue. Let me put it more strongly: We come down on the right side of this issue, and history is on our side.
 
-Nevertheless, I still like Brendan and think the world is a better place with him in it and think that Mozilla is a better place with him at the helm. And furthermore, I don't have to write an essay explaining my reasoning. My opinion, I'm entitled to it. You may have a different opinion. I empathize with what you're feeling even though I ended up making a different decision.
+Nevertheless, I still like Brendan and think the world is a better place with him in it, and I think that Mozilla is a better place with him at the helm. And furthermore, I don't have to write an essay explaining my reasoning. My opinion, I'm entitled to it. You may have a different opinion. I empathize with what you're feeling even though I ended up making a different decision.
 
-People are entitled to think I'm wrong. Hell, I may even be wrong, it happens. Ask me in a decade, maybe I'll have some new life experiences that lead me to a different point of view. We'll see.
+People are entitled to think I'm wrong about Mozilla even if they agree with my feelings about equality of marriage. Hell, I may even be wrong about Mozilla, it happens. Ask me in a decade, maybe I'll have some new life experiences that lead me to a different point of view. We'll see.
 
 > "I'm not young enough to know everything."--Oscar Wilde
 
@@ -31,7 +30,7 @@ I'm socially progressive, I favour that people's work should be judged by their 
 
 People love to muddy the debate and say that someone's political or social views make them unfit for work in tech. I say this sword has two very unpleasant edges: If I declare that so-and-so should not work in tech because their personal views are not sufficiently inclusive, I grant the world the right to say that *I* cannot work in tech because my views are insufficiently exclusive!
 
-> If I can ask Terry's company to fire them for espousing views that alienate 10-25% of people in tech, why can't Terry ask my company to fire me for espousing views that alienate 25-50% of people in tech?
+> If I can ask Terry's company to fire them for espousing views that alienate 10-25% of people in tech, why can't Terry ask my company to fire me for writing this essay espousing views that alienate 25-50% of people in tech?
 
 I know that what I'm advocating is logically consistent, and I know that many people individually make this argument. The trouble is, we as an industry are *statistically inconsistent* with this stuff. We're too quick to say that women who speak out should never work in tech again, but men who hold offensive views are exercising their freedom of speech.
 
