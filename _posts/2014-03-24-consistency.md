@@ -38,7 +38,7 @@ I know that what I'm advocating is logically consistent, and I know that many pe
 
 What I want us to do is get our act together and get both kinds of consistency right: Let's be logically consistent and apply one single clear standard to the question of people's personal beliefs. And then let's be statistically consistent about how we apply that standard to people in our industry.
 
-I'm not telling you how to feel about anybody's personal choices. I not telling you personally what to do when you face a moral quandry. But I am telling you that I personally value the wall between personal and private life. And I am asking you to consider that without that wall, I would not be able to write essays like this.
+I'm not telling you how to feel about anybody's personal choices. I not telling you personally what to do when you face a moral quandary. But I am telling you that I personally value the wall between personal and employment life. And I am asking you to consider that without that wall, I would not be able to write essays like this.
 
 And I am declaring that we  as an industry and we as a culture are not logically or statistically consistent on this issue. And I am agitating for us in aggregate to get it together and become consistent.
 
