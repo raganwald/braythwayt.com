@@ -36,10 +36,10 @@ People love to muddy the debate and say that someone's political or social views
 
 I know that what I'm advocating is logically consistent, and I know that many people individually make this argument. The trouble is, we as an industry are *statistically inconsistent* with this stuff. We're too quick to say that women who speak out should never work in tech again, but men who hold offensive views are exercising their freedom of speech.
 
-What I want us to do is get our act together and get both kinds of consistency right: Let's be logically consistent and apply one single clear standard to the question of people's personal beliefs. And then let's be statistically consistent about how we apply that standard to people in our industry.
+What I want us to do is get our act together and get both kinds of consistency right: Let's be logically consistent and apply one single clear standard to the question of people's personal beliefs. And then let's be statistically consistent about how we apply that standard to people in our industry, especially with respect to marginalized people calling the industry out.
 
-I'm not telling you how to feel about anybody's personal choices. I not telling you personally what to do when you face a moral quandary. But I am telling you that I personally value the wall between personal and employment life. And I am asking you to consider that without that wall, I would not be able to write essays like this.
+I'm not telling you how to feel about anybody's personal choices, including my own. I not telling you personally what to do when you face a moral quandary. But I am telling you that I personally value the wall between personal and employment life. And I am asking you to consider that without that wall, I would not be able to write essays like this.
 
-And I am declaring that we  as an industry and we as a culture are not logically or statistically consistent on this issue. And I am agitating for us in aggregate to get it together and become consistent.
+And I am declaring that we as an industry and we as a culture are not logically or statistically consistent on this issue. And I am agitating for us in aggregate to get it together and become consistent.
 
 That, I think, is something we can and must fix.
