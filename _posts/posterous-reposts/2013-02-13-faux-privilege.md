@@ -2,6 +2,7 @@
 title: Faux-Privilege vs. Freedom
 layout: default
 categories: posterous
+published: false
 ---
 
 It's a commonplace thing to encounter super-rational people arguing for more personal responsibility and fewer government "handouts." Amazingly, they frame it as a kind of moral issue: We should all be free to do as we wish. Employers need not hire homosexuals, women, or people of colour. There shouldn't be a minimum wage. Taxation is stealing. And so on.

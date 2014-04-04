@@ -2,6 +2,7 @@
 layout: default
 title: "Hello, my name is Reginald, and I am a Socialist"
 categories: posterous
+published: false
 ---
 
 Recently, someone expressed surprise that a regular contributor to Hacker News might be opposed to Capitalism.
