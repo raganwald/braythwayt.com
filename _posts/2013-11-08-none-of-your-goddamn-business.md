@@ -1,5 +1,6 @@
 ---
 layout: default
+published: false
 ---
 
 I want to go on record as saying this: *What someone consumes on their own personal time is their own goddamn business*. If it affects their job performance negatively, we don't need to diagnose the cause, we can observe and criticize the effects.

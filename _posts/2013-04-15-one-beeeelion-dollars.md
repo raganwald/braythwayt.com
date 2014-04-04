@@ -1,5 +1,6 @@
 ---
 layout: default
+published: false
 ---
 
 So last week, I quoted a fellow who became a billionaire. I won't repeat his name here, the salient point is that he *boasts* of the fact that he placed cultural homogeneity above nearly all other factors when hiring. To be specific, if you weren't an almost identical match to the existing team, you weren't hired.

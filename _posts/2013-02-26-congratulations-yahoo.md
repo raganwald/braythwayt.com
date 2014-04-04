@@ -1,6 +1,7 @@
 ---
 title: Congratulations, Yahoo!
 layout: default
+published: false
 ---
 
 Yes, congratulations on issuing the edict (or is it decree?) that *Henceforth, all such persons who attempt to further Yahoo!'s mission and business goals but who fail to do so within such times and places as dictated by Yahoo! management, shall suffer the penalty of walking the plank.* In other words, "Have your ass in an office chair, in our offices, during office hours, or you're gone."[^rumour]

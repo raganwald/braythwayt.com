@@ -1,6 +1,7 @@
 ---
 layout: default
 title: If I can do it, you can do it
+published: false
 ---
 
 ![No whining](/assets/images/no-whining.jpg)

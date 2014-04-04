@@ -1,5 +1,6 @@
 ---
 layout: default
+published: false
 ---
 
 Some years back, I went to Ottawa to attend the wedding of a colleague. I had a splendid time, and met some wonderful people. One of them was Brendan Eich.

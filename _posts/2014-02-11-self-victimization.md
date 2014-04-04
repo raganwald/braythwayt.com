@@ -1,6 +1,7 @@
 ---
 layout: default
 title:  this.victimize()
+published: false
 ---
 
 A while back, I wrote a post called [optimism].

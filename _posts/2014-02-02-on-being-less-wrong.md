@@ -1,6 +1,7 @@
 ---
 layout: default
 title: On being 'Less Wrong'
+published: false
 ---
 
 I recently saw this news story circulating around some social media again:

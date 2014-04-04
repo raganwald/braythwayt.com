@@ -1,5 +1,6 @@
 ---
 layout: default
+published: false
 ---
 
 I have decided not to speak at any Ruby-themed conferences in 2014.

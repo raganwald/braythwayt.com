@@ -1,6 +1,7 @@
 ---
 title: Evangelism and PR in the Developer Community
 layout: default
+published: false
 ---
 
 Dear Sirs:
