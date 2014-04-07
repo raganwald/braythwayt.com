@@ -1,6 +1,7 @@
 ---
 layout: default
 published: false
+published: false
 ---
 
 I have decided not to speak at any Ruby-themed conferences in 2014.
@@ -65,7 +66,7 @@ And that's how we characterize our White Males "problem." We're making reasonabl
 
 ### what should we do?
 
-At the moment, we have this problem wherein the conference organizers are running business that reward them for serving steak and eggs. This is not their fault, if anything it's our fault: We're the ones buying tickets when we read that so-and-so will be keynoting "BreakfastRuby."
+At the moment, we have this problem wherein the conference organizers are running businesses that reward them for serving steak and eggs. This is not their fault, if anything it's our fault: We're the ones buying tickets when we read that so-and-so will be keynoting "BreakfastRuby."
 
 So we madly try to "fix it in post" by imposing negative consequences if they fail to satisfy our larger need for variety and diversity. That seems like a terrible way to fix the problem, but history suggests that you get more progress from action than talk, and it's easier to iterate towards good solutions than it is to try to devise the best strategy before trying anything at all.
 
@@ -79,7 +80,7 @@ I don't really know what to do in the large. I'm not a woman, and although I hav
 
 In the small, I think I'm going to sit on the sidelines while the "Ruby Community" sorts conferences out. I don't particularly want to wake up one day and have someone saying, "BreakfastRuby sucks, they have the same-old, same-old speakers like Raganwald, there's no diversity."
 
-I don't want to be a line in someone else's spreadsheet, with a column for whether I've spoken at other conferences, or been a guest on Ruby Rogues, have written a book on Ruby, &c. 
+I don't want to be a line in someone else's spreadsheet, with a column for whether I've spoken at other conferences, or been a guest on Ruby Rogues, have written a book on Ruby, &c.
 
 Mind you, I like that the spreadsheet exists! In the large, I want there to be action and talk and pitchforks and rioting. In the small, I want to personally live a quiet life and not find myself trying to explain to the crowd that I am an outsider and that almost all of my opinions about Ruby and/or Rails are heterodoxy.
 

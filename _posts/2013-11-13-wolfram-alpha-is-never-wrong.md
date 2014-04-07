@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Wolfram Alpha is (still) Never Wrong
+published: false
 ---
 
 *Stephen Wolfram's unnamed minions have created the "Wolfram Language." The [announcement](http://blog.wolframalpha.com/2013/11/13/something-very-big-is-coming-our-most-important-technology-project-yet/) is an excellent example of auto-hagiography. That reminds me of a joke...*

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Facebook Advertising's Dis-Service
+published: false
 ---
 
 Well, *that* was quick. 24h after I started advertising my book on Facebook, I'm calling it off. The reason being, Facebook's automated customer dis-service.

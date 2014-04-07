@@ -1,6 +1,7 @@
 ---
 layout: default
 published: false
+published: false
 ---
 
 I'm a little disturbed about a few recent incidents of people being fired for things they said personally on Twitter. The most recent to pass my attention was a Microsoftie who got a little abrasive in a personal exchange.

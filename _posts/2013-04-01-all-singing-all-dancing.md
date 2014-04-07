@@ -1,6 +1,7 @@
 ---
 title: My All-Singing, All-Dancing Interview Question
 layout: default
+published: false
 ---
 
 It is with trepidation, (and this paragraph of terpsichorean rationalization), that I introduce the "All-Singing, All-Dancing Interview Question," as mentioned in my presentation [What We Lost in the Fire: How We Completely Missed Smalltalk's Point](http://www.haikudeck.com/p/2YXMMZkJP5/what-we-lost-in-the-fire).
@@ -21,7 +22,7 @@ I haven't asked this of anyone else and I may never do so. I'm a little too emot
 
 ### if i had a blank sheet of paper
 
-You know how people talk about how little progress automobile tech has made compared to information tech? I feel the same way about programming languages and tools. My mother is over seventy. She programmed with punch cards and tape decks. When I was a child, she showed me actual core memory (little ferrite cores strung on conducting filaments). 
+You know how people talk about how little progress automobile tech has made compared to information tech? I feel the same way about programming languages and tools. My mother is over seventy. She programmed with punch cards and tape decks. When I was a child, she showed me actual core memory (little ferrite cores strung on conducting filaments).
 
 And yet, while my iPhone shocks us both with its breathtaking power, languages like Ruby and Python are only a little better than incremental advances over the COBOL of her day. Maybe on order of magnitude better. But I ask you to compare an iPhone to the hard-wired bakelite handset that would have sat on her desk. We are not talking about being one order of magnitude more awesome, people.
 

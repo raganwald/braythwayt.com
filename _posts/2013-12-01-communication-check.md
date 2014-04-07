@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Communication? Check!
+published: false
 ---
 
 I have recently been reading [The Checklist Manifesto][amazonlink] by Atul Gawande. (A shorter version of the material appeared the [The New Yorker](http://www.newyorker.com/reporting/2007/12/10/071210fa_fact_gawande).)

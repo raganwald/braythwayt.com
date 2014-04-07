@@ -1,6 +1,7 @@
 ---
 title: Herd Thither, Me Hither (revised)
 layout: default
+published: false
 ---
 
 I read another one of those [Why 'shiny-thing' is the unsafe choice][lostechies] essays today. It trots out some reasonable-sounding arguments:

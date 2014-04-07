@@ -1,5 +1,6 @@
 ---
 layout: default
+published: false
 ---
 
 Author Ted Sturgeon was once asked why he wrote science fiction, when anyone could see that 90% of the genre was crud. Ted famously replied that "90% of everything is crud." This is now known as "Sturgeon's Revelation," and it's one of the most important insights to carry into any analysis of people and the things we do.

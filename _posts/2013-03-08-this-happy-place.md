@@ -1,5 +1,6 @@
 ---
 layout: default
+published: false
 ---
 
 I just received an email from the nice people at [Leanpub]. To be precise, their computer sent me an email notifying me that the 547th person had just purchased a copy of [JavaScript Allongé][ja]. I'm closing in on 550 readers after three months or so, and that's kind of cool. Thinking about this blogging and book writing journey takes me straight to my happy place.
@@ -13,7 +14,7 @@ Best-sellers in technical books are very much like best sellers in software: The
 
 For example, if you're writing PHP, you probably suffer whenever you need to do anything non-trivial like refactoring. You feel pain. Now.
 
-So when someone like Chris Hartjes comes along with [The Grumpy Programmer's PHPUnit Cookbook][phpunit], you won't find any idle dreaming about someday writing really neat-o code between its virtual covers. There's no namby-pamby as-good-as-it-gets "Reading *The Hipster's Guide to JavaScript Framework Architecture* makes me want to be a better programmer" talk. 
+So when someone like Chris Hartjes comes along with [The Grumpy Programmer's PHPUnit Cookbook][phpunit], you won't find any idle dreaming about someday writing really neat-o code between its virtual covers. There's no namby-pamby as-good-as-it-gets "Reading *The Hipster's Guide to JavaScript Framework Architecture* makes me want to be a better programmer" talk.
 
 Instead, you roll up your sleeves and get to work with a series of recipes for making your life better today. *The Grumpy Programmer's PHPUnit Cookbook* is industrial-strength pain relief for people with PHP migraines.
 

@@ -1,6 +1,7 @@
 ---
 title: "How to buy my book from me"
 layout: default
+published: false
 ---
 
 Le Tan Thanh Tai wrote me to ask:
