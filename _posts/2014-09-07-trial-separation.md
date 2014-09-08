@@ -20,6 +20,8 @@ And that is quite enough. So, here goes. No tweets, no reading twitter, no check
 
 But alas... It is as if I had a friend living in a country that is racist, or dangerous for women, or run by a dystopian oligarchy. I might like my friend very much, but I'm not going to visit them until their environment changes.
 
-I will revisit my feelings on Monday, September 22nd. Until then... [Be Ever Wonderful][1].
+My break starts at the stroke of midnight, tonight. I will revisit my feelings on Monday, September 22nd.
+
+Until then... [Be Ever Wonderful][1].
 
 [1]: https://www.youtube.com/watch?v=hMcfdD5K9Mg
