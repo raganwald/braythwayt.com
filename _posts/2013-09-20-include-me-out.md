@@ -40,7 +40,7 @@ And guess what? It just happened again:
 
 > The [RubyConf 2013 program](http://rubyconf.org/program) was partially announced yesterday and there was immediate fallout regarding the lack of women speakers. —[Marty Haught](http://martyhaught.com/articles/2013/09/18/rubyconf-2013-cfp-and-diversity/)
 
-It seems we have a problem, a White Males At Conferences Problem. Or if you prefer, a Problem WIth White Males At COnferences Problem. Maybe both.
+It seems we have a problem, a White Males At Conferences Problem. Or if you prefer, a Problem WIth White Males At Conferences Problem. Maybe both.
 
 ### meritorious or meretricious?
 

@@ -18,7 +18,7 @@ I want to be clear: I am not saying that Twitter is toxic, or that Reddit is tox
 
 And that is quite enough. So, here goes. No tweets, no reading twitter, no checking various automated searches (like "JavaScript Allonge"), nada. Same for Reddit. `/r/programming` and `/r/javascript`, I <3 the people and discourse there greatly. I value the existance of the people who make those places great.
 
-But alas... It is as if I had a friend living in a country that is racist, or dangerous for women, or run by a dystopian oligarchy. I might like them very much, but I'm not going to visit right now.
+But alas... It is as if I had a friend living in a country that is racist, or dangerous for women, or run by a dystopian oligarchy. I might like my friend very much, but I'm not going to visit them until their environment changes.
 
 I will revisit my feelings on Monday, September 22nd. Until then... [Be Ever Wonderful][1].
 
