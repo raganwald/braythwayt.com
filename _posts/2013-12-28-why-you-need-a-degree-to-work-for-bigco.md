@@ -2,7 +2,7 @@
 layout: default
 categories: homoiconic
 title: Why You Need A Degree To Work For BigCo
-published: false
+published: true
 ---
 
 Hello applicant:

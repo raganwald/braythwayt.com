@@ -1,6 +1,7 @@
 ---
 title: JavaScript Allonge is Free
 layout: default
+published: true
 ---
 
 Dear friends and readers:

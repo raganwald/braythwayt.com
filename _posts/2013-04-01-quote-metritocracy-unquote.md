@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Quote Meritocracy Unquote
-published: false
+published: true
 ---
 
 People misuse this word, "meritocracy." Let's be clear about what it means:
