@@ -23,9 +23,9 @@ Anyhow, my reaction was to snarf the picture from The Onion's tweet:
 
 Now let me say immediately, this tweet is **absolutely** about gender inequalities. But it's also about colour inequalities. And wealth inequalities. And all sorts of other icky problems that the vast majority of people--male, female, white, black, and everything else--would in theory want abolished, but in practice don't want to have to think about right now. Or have uncomfortable feelings about. Or be asked to do something about.
 
-The tweet is actually about this nature of ours to want to make the icky bad feels go away. We're not bad people, but gosh, that bug issue is still open, and I have to pick the kids up by 4:30, and maybe now isn't the best time to have a long talk about the ethics of eating meat.
+The tweet is actually about this nature of ours to want to make the icky bad feels go away. We're not bad people, but gosh, that bug issue is still open, and I have to pick the kids up by 4:30, and maybe now isn't the best time to have a long talk about the ethics of eating meat. Although the picture is of one man, the tweet is about the entire Internet.
 
-Never mind that I'm reading Twitter on a phone manufactured by people who make less in a day than I make when someone clicks the "buy" button for one of my books.
+Never mind that I'm reading Twitter on a phone manufactured by people who make less in a day than I make when someone clicks the "buy" button for one of my books. (More about that from Louis CK, below.)
 
 ### my message to you
 
@@ -33,9 +33,9 @@ Anyhow, that's the back story behind my tweet. And your response was to accuse m
 
 Please reconsider your position. In fact, please reconsider the mental habits that led you to your position. It's true that there are lots of discussions about inequality between genders these days, and passions are running high. You assumed that I was talking about gender inequalities.
 
-And you're right-ish. But not in the sense that I was tweeting about all men, and that somehow all women are absolved of any accusations with respect to wanting to live in a comfortable bubble. Because I was also tweeting about colour and wealth and education and country and access to the Internet and everything else implied by the word "inequality."
+And you're right-ish. But not in the sense that I was tweeting about all men, and that somehow all women are absolved of any accusations with respect to wanting to live in a comfortable bubble. Because I was also tweeting about colour and wealth and education and country and access to the Internet and everything else implied by the word "inequality." 
 
-Furthermore, you didn't just assume that I was criticising the behaviour of men, but that I hate men. This not only wrong, it is symptomatic of some very dangerous mental habits. Critisism is not equal to hate. Colleagues critique each other's work. Friends critique each other's behaviour. If anything, criticism is a sign that you are invested in somebody else's development. It's a kind of optimism about their ability to grow.
+Furthermore, you didn't just assume that I was criticising the behaviour of men, but that I hate men. This not only wrong, it is symptomatic of some very dangerous mental habits. Criticism is not equal to hate. Colleagues critique each other's work. Friends critique each other's behaviour. If anything, criticism is a sign that you are invested in somebody else's development. It's a kind of optimism about their ability to grow.
 
 In fact, I am patronizingly assuming that you will grow and develop. Maybe not from this open letter. But over time, if you hear the same message a few times, and perhaps you hear it from someone you trust, you will think about it a bit.
 
@@ -47,4 +47,6 @@ I want to close with something that worries me greatly. One way to avoid these d
 
 Reality is always complicated and messy and painful and uncomfortable to embrace. Do it anyway. Don't fall into the trap of demonizing people who raise subjects you find annoying.
 
-<iframe width="420" height="315" src="//www.youtube.com/embed/JCS-g3HwXdc" frameborder="0" allowfullscreen></iframe>
+---
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/UVTXFsHYLKA" frameborder="0" allowfullscreen></iframe>
