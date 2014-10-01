@@ -37,7 +37,7 @@ And you're right-ish. But not in the sense that I was tweeting about all men, an
 
 Furthermore, you didn't just assume that I was criticising the behaviour of men, but that I hate men. This not only wrong, it is symptomatic of some very dangerous mental habits. Criticism is not equal to hate. Colleagues critique each other's work. Friends critique each other's behaviour. If anything, criticism is a sign that you are invested in somebody else's development. It's a kind of optimism about their ability to grow.
 
-In fact, I am patronizingly assuming that you will grow and develop. Maybe not from this open letter. But over time, if you hear the same message a few times, and perhaps you hear it from someone you trust, you will think about it a bit.
+In fact, I am patronizingly assuming that you will grow and develop. Maybe not from this open letter. But over time, if you hear the same message a few times, and should you hear it from someone you trust, perhaps you will think about it a bit.
 
 And maybe the next time you see something that is not particularly specific, you won't assume the worst about what it means.
 
