@@ -45,7 +45,9 @@ And maybe the next time you see something that is not particularly specific, you
 
 I want to close with something that worries me greatly. One way to avoid these difficult feels and avoid the hard work of thinking and/or actingis to look the other way. To change the channel. But the other way is to oversimplify. Those people in Ferguson, they're animals, look at their violent behaviour! That guy tweeting, he's a feminist troll. You see what I'm saying: Accusing me of some simple and boolean thing like "misandry" is just another way to run away from the hard work involved in seeing life as it is.
 
-Reality is always complicated and messy and painful and uncomfortable to embrace. Do it anyway. Don't fall into the trap of demonizing people who raise subjects you find annoying.
+Reality is always complicated and messy and painful and uncomfortable to embrace.
+
+Do it anyway. Don't fall into the trap of demonizing people who raise subjects you find annoying.
 
 ---
 
