@@ -1,5 +1,6 @@
 ---
 layout: default
+title: An Open Letter to a Critic
 ---
 
 Today, I saw this tweet from The Onion:
