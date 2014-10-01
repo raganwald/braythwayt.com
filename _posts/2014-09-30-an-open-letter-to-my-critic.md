@@ -21,9 +21,9 @@ Anyhow, my reaction was to snarf the picture from The Onion's tweet:
 
 ![My tweet about inequality](/assets/images/mytweet.png)
 
-Now let me say immediately, this tweet is **absolutely** about gender inequalities. But it's also about colour inequalities. And wealth inequalities. And all sorts of other icky problems that the vast majority of people--male, female, white, black, and everything else--would in theory want abolished, but in practice don't want to have to think about right now. Or have uncomfortable feelings about. Or be asked to do something about.
+Now let me say immediately, this tweet is **absolutely** about gender inequalities. But it's also about colour  problems that the vast majority of people--male, female, white, black, and everything else--would in theory want abolished, but in practice don't want any change to involve them personally. Problems most people don't want to think about. Or have uncomfortable feelings about. Or be asked to do something about.
 
-The tweet is actually about this nature of ours to want to make the icky bad feels go away. We're not bad people, but gosh, that bug issue is still open, and I have to pick the kids up by 4:30, and maybe now isn't the best time to have a long talk about the ethics of eating meat. Although the picture is of one man, the tweet is about the entire Internet.
+The tweet is actually about this nature of ours to want to make the disturbing bad feelings go away. We're not bad people, but gosh, that bug issue is still open, and I have to pick the kids up by 4:30, and maybe now isn't the best time to have a long talk about the ethics of eating meat. Although the picture is of one man, the tweet is about the entire Internet.
 
 Never mind that I'm reading Twitter on a phone manufactured by people who make less in a day than I make when someone clicks the "buy" button for one of my books. (More about that from Louis CK, below.)
 
@@ -39,11 +39,13 @@ Furthermore, you didn't just assume that I was criticising the behaviour of men,
 
 In fact, I am patronizingly assuming that you will grow and develop. Maybe not from this open letter. But over time, if you hear the same message a few times, and should you hear it from someone you trust, perhaps you will think about it a bit.
 
-And maybe the next time you see something that is not particularly specific, you won't assume the worst about what it means.
+And maybe the next time you see something tlike this, you will respond more thoughtfully. Here's why:
 
 ### in closing
 
-I want to close with something that worries me greatly. One way to avoid these difficult feels and avoid the hard work of thinking and/or actingis to look the other way. To change the channel. But the other way is to oversimplify. Those people in Ferguson, they're animals, look at their violent behaviour! That guy tweeting, he's a feminist troll. You see what I'm saying: Accusing me of some simple and boolean thing like "misandry" is just another way to run away from the hard work involved in seeing life as it is.
+One way to avoid the difficult feels and avoid the hard work of thinking and/or acting is to look the other way. To change the channel. That's what most people do.
+
+But the other way is to oversimplify. Those people in Ferguson, they're animals, look at their violent behaviour! That guy tweeting, he's a feminist troll. You see what I'm saying: Accusing me of some simple and boolean thing like "misandry" is just another way to run away from the hard work involved in seeing life as it is.
 
 Reality is always complicated and messy and painful and uncomfortable to embrace.
 
