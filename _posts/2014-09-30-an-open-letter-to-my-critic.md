@@ -15,11 +15,9 @@ So they look the other way and let others decide for them how things will take p
 
 ![Kim Phuc](/assets/images/kim_phuc.jpg)
 
-It's not the only one, of course. There was the news about the massacre in My Lai, and the shootings at Kent State immortalized by CSN&Y:
+It's not the only one, of course. There was the news about the massacre in My Lai, and the shootings at Kent State immortalized by CSN&Y.
 
-<iframe width="420" height="315" src="//www.youtube.com/embed/JCS-g3HwXdc" frameborder="0" allowfullscreen></iframe>
-
-Anyhow, my reaction to the picture in the tweet was to tweet this:
+Anyhow, my reaction was to snarf the picture from The Onion's tweet:
 
 ![My tweet about inequality](/assets/images/mytweet.png)
 
@@ -48,3 +46,5 @@ And maybe the next time you see something that is not particularly specific, you
 I want to close with something that worries me greatly. One way to avoid these difficult feels and avoid the hard work of thinking and/or actingis to look the other way. To change the channel. But the other way is to oversimplify. Those people in Ferguson, they're animals, look at their violent behaviour! That guy tweeting, he's a feminist troll. You see what I'm saying: Accusing me of some simple and boolean thing like "misandry" is just another way to run away from the hard work involved in seeing life as it is.
 
 Reality is always complicated and messy and painful and uncomfortable to embrace. Do it anyway. Don't fall into the trap of demonizing people who raise subjects you find annoying.
+
+<iframe width="420" height="315" src="//www.youtube.com/embed/JCS-g3HwXdc" frameborder="0" allowfullscreen></iframe>
