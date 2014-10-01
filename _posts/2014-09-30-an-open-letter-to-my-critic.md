@@ -2,8 +2,6 @@
 layout: default
 ---
 
-### the back story
-
 Today, I saw this tweet from The Onion:
 
 ![onion image](/assets/images/onion.png)
