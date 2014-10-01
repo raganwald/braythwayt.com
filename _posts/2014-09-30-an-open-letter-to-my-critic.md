@@ -1,6 +1,6 @@
 ---
 layout: default
-title: An Open Letter to a Critic
+title: An open letter to a critic
 ---
 
 Today, I saw this tweet from The Onion:
@@ -33,7 +33,9 @@ Never mind that I'm reading Twitter on a phone manufactured by people who make l
 
 Anyhow, that's the back story behind my tweet. And your response was to accuse me of "misandry."
 
-Please reconsider your position. In fact, please reconsider the mental habits that led you to your position. It's true that there are lots of discussions about inequality between genders these days, and passions are running high. But I didn't single gender out, you did. You assumed. And you're right in a vague sort of way. But not in the sense that I was tweeting about all men, and that somehow all women are absolved of any accusations with respect to wanting to live in a comfortable bubble. Because I was also tweeting about colour and wealth and education and country and access to the Internet and everything else implied by the word "inequality."
+Please reconsider your position. In fact, please reconsider the mental habits that led you to your position. It's true that there are lots of discussions about inequality between genders these days, and passions are running high. You assumed that I was talking about gender inequalities.
+
+And you're right-ish. But not in the sense that I was tweeting about all men, and that somehow all women are absolved of any accusations with respect to wanting to live in a comfortable bubble. Because I was also tweeting about colour and wealth and education and country and access to the Internet and everything else implied by the word "inequality."
 
 Furthermore, you didn't just assume that I was criticising the behaviour of men, but that I hate men. This not only wrong, it is symptomatic of some very dangerous mental habits. Critisism is not equal to hate. Colleagues critique each other's work. Friends critique each other's behaviour. If anything, criticism is a sign that you are invested in somebody else's development. It's a kind of optimism about their ability to grow.
 
