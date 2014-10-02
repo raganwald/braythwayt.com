@@ -21,7 +21,7 @@ Anyhow, my reaction was to snarf the picture from The Onion's tweet:
 
 ![My tweet about inequality](/assets/images/mytweet.png)
 
-Now let me say immediately, this tweet is **absolutely** about gender inequalities. But it's also about colour  problems that the vast majority of people--male, female, white, black, and everything else--would in theory want abolished, but in practice don't want any change to involve them personally. Problems most people don't want to think about. Or have uncomfortable feelings about. Or be asked to do something about.
+Now let me say immediately, this tweet is **absolutely** about gender inequalities. But it's also about colour, wealth, education, and other inequality problems that the vast majority of people--male, female, white, black, and everything else--would in theory want abolished, but in practice don't want any change to involve them personally. Problems most people don't want to think about. Or have uncomfortable feelings about. Or be asked to do something about.
 
 The tweet is actually about this nature of ours to want to make the disturbing bad feelings go away. We're not bad people, but gosh, that bug issue is still open, and I have to pick the kids up by 4:30, and maybe now isn't the best time to have a long talk about the ethics of eating meat. Although the picture is of one man, the tweet is about the entire Internet.
 
