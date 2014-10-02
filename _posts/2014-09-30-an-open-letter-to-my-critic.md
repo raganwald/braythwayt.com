@@ -43,13 +43,13 @@ And maybe the next time you see something tlike this, you will respond more thou
 
 ### in closing
 
-One way to avoid the difficult feels and avoid the hard work of thinking and/or acting is to look the other way. To change the channel. That's what most people do.
+One way to avoid the difficult feels and avoid the hard work of thinking and/or acting is to look the other way. To change the channel. That's what most people do. But the other way is to oversimplify: "Those people in Ferguson, they're animals, look at their violent behaviour!" "That guy tweeting, he's a feminist troll!!"
 
-But the other way is to oversimplify. Those people in Ferguson, they're animals, look at their violent behaviour! That guy tweeting, he's a feminist troll. You see what I'm saying: Accusing me of some simple and boolean thing like "misandry" is just another way to run away from the hard work involved in seeing life as it is.
+You see what I'm saying: Accusing a critic of some simple and boolean thing like "misandry" is just another way to run away from the hard work involved in seeing life as it is, of analyzing the criticism and seeing that some of it may be off-the-mark but that some of it may point to important truths.
 
 Reality is always complicated and messy and painful and uncomfortable to embrace.
 
-Do it anyway. Don't fall into the trap of demonizing people who raise subjects you find annoying.
+Embrace it anyway. Don't fall into the trap of trying to make reality simple and easy. Don't demonize people who raise subjects that you find uncomfortable to face.
 
 ---
 
