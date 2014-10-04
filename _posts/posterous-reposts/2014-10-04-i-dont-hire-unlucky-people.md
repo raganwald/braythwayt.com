@@ -20,7 +20,7 @@ Ernestine nodded. "So," she essayed, "I need to be a lot more selective about th
 
 Ernestine stopped throwing half the resumés away and started treating her job as one of finding that elusive one good person in a hundred. It took time, and she found herself making a lot of adjustments.
 
-[![Resume-writing-tips](images/resume-writing-tips_jpg_scaled_500.jpg)](http://getfile6.posterous.com/getfile/files.posterous.com/raganwald/Yf1y8OQibAQypbIlM6rFMyqKVloRsfTtJ9TnYCCLaONC4z2jLbxfH7RTyevh/resume-writing-tips.jpg.scaled.1000.jpg)
+![Resume-writing-tips](/assets/images/posterous/resume-writing-tips_jpg_scaled_500.jpg)
 
 ### two years later
 
