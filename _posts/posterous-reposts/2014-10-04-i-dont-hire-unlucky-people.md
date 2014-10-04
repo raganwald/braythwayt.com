@@ -4,6 +4,8 @@ title: I don't hire unlucky people
 categories: posterous
 ---
 
+(*This essay frist appeared in April, 2012, on a now-defunct service*)
+
 Bertram Wooster and Ernestine Anderson were staffing up their teams. Bertram was hiring trainees to work in the company's retail stores, Ernestine was hiring software developers to build a new supply chain system for the company's operations. "Bert," Ernestine asked, "I have hundreds of resumés, how do I whittle them down to a handful of calls and a few interviews?"
 
 Bertram smiled. He grabbed a pile of resumés from his desk, then started dealing the resumés out, first one back onto his desk, second into the recycle bin, third onto his desk, fourth into the recycle bin. When he was finished, he had thrown half of the resumés away. "It's simple." Bertram told Ernestine. "Just don't hire anybody who's unlucky."
