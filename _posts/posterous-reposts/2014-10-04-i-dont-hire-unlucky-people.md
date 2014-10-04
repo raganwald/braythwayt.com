@@ -42,7 +42,7 @@ Oscar seemed a little grouchy. "That's a nice story," he said, "but what _specif
 
 "That's true," agreed Ernestine, "And if I had fifty great people, I want to speak to the twenty-five who want to work here before I speak to the twenty-five who aren't sure. But if I have a pile with ninety-nine duds and one good person, I'm more interested in finding that one good person first and deciding whether they want to work here second."
 
-"The problem with filtering people by spelling mistake is that we're making up a little theory about whether a spelling mistake tells us something important about the candidate's abilities. Which would be fine if we didn't have anything else to go by, but we do have something else to go by, we have their resumé and their code samples and we can call them on the phone and talk to them. So I gnore the little theories and go with what really matters."
+"The problem with filtering people by spelling mistake is that we're making up a little theory about whether a spelling mistake tells us something important about the candidate's abilities. Which would be fine if we didn't have anything else to go by, but we do have something else to go by, we have their resumé and their code samples and we can call them on the phone and talk to them. So I ignore the little theories and go with what really matters."
 
 Oscar considered this. "Ok," he continued, "What else?"
 
