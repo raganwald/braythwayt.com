@@ -4,7 +4,7 @@ title: I don't hire unlucky people
 categories: posterous
 ---
 
-(*This essay frist appeared in April, 2012, on a now-defunct service*)
+(*This essay first appeared in April, 2012, on a now-defunct service*)
 
 Bertram Wooster and Ernestine Anderson were staffing up their teams. Bertram was hiring trainees to work in the company's retail stores, Ernestine was hiring software developers to build a new supply chain system for the company's operations. "Bert," Ernestine asked, "I have hundreds of resumés, how do I whittle them down to a handful of calls and a few interviews?"
 
@@ -12,7 +12,7 @@ Bertram smiled. He grabbed a pile of resumés from his desk, then started dealin
 
 Ernestine tried that for a few weeks, throwing half the resumes out and the combing through the remainder looking for qualified applicants. She got nowhere, even if the people looked good on paper, when she talked to them on the phone it was quickly apparent that they weren't capable of writing FizzBuzz. Meanwhile, Bertram was staffing up nicely.
 
-Ernestine decided that the needed a new approach, so she went for coffee with Mark Fidrych to get his advice. Mark was the company's CFO, and she worked closely with him on the company's supply chain. Mark was also an angel investor on the side and he knew a little about the software industry. He nodded sympathetically when she explained that what was working for Bertram wasn't working for her.
+Ernestine decided that she needed a new approach, so she went for coffee with Mark Fidrych to get his advice. Mark was the company's CFO, and she worked closely with him on the company's supply chain. Mark was also an angel investor on the side and he knew a little about the software industry. He nodded sympathetically when she explained that what was working for Bertram wasn't working for her.
 
 "Look," he explained, "The essential difference between your situation and Bert's is that Bert has a lot more qualified people applying for his positions. Sure, there are [klunkers](http://www.klunkerz.com/). But let's say that half of the resumes he gets are decent. If he gets a hundred resumes and throws fifty away blindly, he's still left with twenty-five decent ones on average.
 
