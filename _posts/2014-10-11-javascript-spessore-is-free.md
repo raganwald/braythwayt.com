@@ -41,4 +41,6 @@ JavaScript Spessore will show you how to build JavaScript programs that scale in
 
 Go ahead, [read it for yourself](https://leanpub.com/javascript-spessore/read). After all, it's free.
 
+---
+
 (discuss on [reddit](http://www.reddit.com/r/javascript/comments/2iz12t/javascript_spessore_is_free/))
