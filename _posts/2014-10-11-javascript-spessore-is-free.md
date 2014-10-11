@@ -4,9 +4,11 @@ layout: default
 published: true
 ---
 
+[![JavaScript Spessore](/assets/images/spessore.png)](https://leanpub.com/javascript-spessore/read)
+
 Dear friends and readers:
 
-Today I'm very pleased to announce that [JavaScript Spessore](https://leanpub.com/javascript-spessore) joins [JavaScript Allongé](https://leanpub.com/javascript-allonge): It is now "Free as in Speech." Both are licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/deed.en_US). That means that you are free:
+Today I'm very pleased to announce that [JavaScript Spessore](https://leanpub.com/javascript-spessore) joins [JavaScript Allongé](https://leanpub.com/javascript-allonge): They are both now "Free as in Speech." Both are licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/deed.en_US). That means that you are free:
 
 * to **Share**—to copy, distribute and transmit the work
 * to **Remix**—to adapt the work
@@ -22,8 +24,6 @@ I also made JavaScript Spessore [free to read online](https://leanpub.com/javasc
 
 [issue]: https://github.com/raganwald/javascript-spessore/issues
 [pull]: https://github.com/raganwald/javascript-spessore/pulls
-
-[![JavaScript Spessore](/assets/images/spessore.png)](https://leanpub.com/javascript-spessore/read)
 
 >  Why are you still here? [Why aren't you reading JavaScript Spessore, online, for free?](https://leanpub.com/javascript-spessore/read)
 
