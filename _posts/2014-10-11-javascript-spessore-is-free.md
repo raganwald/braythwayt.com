@@ -31,7 +31,9 @@ I also made JavaScript Spessore [free to read online](https://leanpub.com/javasc
 
 Programming languages are (loosely) defined by their basic activity. In FORTRAN, you program with numbers. In C, you program with pointers. In ML, you program with types. And in JavaScript, you program with functions.
 
-Functions are very interesting building blocks for programs, because they *compose*: It's easy to build a programming style based on making many small things that can be combined and recombined to make bigger things. This is the basis of the vaunted "Unix Philosophy:" Learning to write small utilities and scripts that compose neatly. This is also the JavaScript philosophy: Make small things that can be combined and recombined to make bigger things.
+Functions are very interesting building blocks for programs, because they *compose*: It's easy to build a programming style based on making many small things that can be combined and recombined to make bigger things.
+
+This is the basis of the vaunted "Unix Philosophy:" Write small utilities and scripts that compose neatly. This is also the JavaScript philosophy: Make small things that can be combined and recombined to make bigger things.
 
 Programming with objects can be done in this style, and JavaScript makes it particularly easy to combine and recombine small parts. Classes can be built from traits instead of from superclasses. Objects can delegate and forward behaviour to helpers and meta-objects. Adaptors can be written to change an object's interface without needing to create another class in a hierarchy.
 
