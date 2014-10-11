@@ -40,3 +40,5 @@ Programmig with objects can be done in this style, and JavaScript makes it parti
 JavaScript Spessore will show you how to build JavaScript programs that scale in code, in time, and across a team, using the one technique that has passed the test of time: Objects and metaobjects that have a single responsibility, are decoupled from each other, and can be composed freely.
 
 Go ahead, [read it for yourself](https://leanpub.com/javascript-spessore/read). After all, it's free.
+
+(discuss on [reddit](http://www.reddit.com/r/javascript/comments/2iz12t/javascript_spessore_is_free/))
