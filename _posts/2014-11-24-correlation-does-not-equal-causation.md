@@ -16,6 +16,8 @@ So, are we waisting our time giving computers to children? Should we intone "Cor
 
 No. Although correlation does not equal causation, there is actionable value in the correlation. Consider the possibility that some third factor, "X" is correlated with the *potential* for becoming a good programmer.
 
+### the x-factor
+
 Some kids have lots of X, some an average amount, and some very little.
 
 Many of the good programmers we observe have lots of X *and* had access to computers at an early age. Of course, we don't observe the kids with low X and access to computers, they're too busy doing other things to talk to us about programming.
