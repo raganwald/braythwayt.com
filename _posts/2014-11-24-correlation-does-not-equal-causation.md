@@ -27,10 +27,10 @@ Many of the good programmers we observe have lots of X *and* had access to compu
 
 But there is an interesting group of children who have high X but who don't have access to computers. Giving them access *removes a roadblock* to them achieving their potential.
 
+If we are correct about this "X factor," the correlation between being good at programming and early access need not be causal. It could be that when we give away 100 computers, only five children become good programmers, the five out of a hundred with lots of "X.". But those five children might not have become good programmers without our support.
+
 ![Data General Nova 1220](/assets/images/nova1220.jpg)
 <center><i>my second computer</i><br/></center>
-
-If we are correct about this "X factor," the correlation between being good at programming and early access need not be causal. It could be that when we give away 100 computers, only five children become good programmers, the five out of a hundred with lots of "X.". But those five children might not have become good programmers without our support.
 
 Thus, even though early access to a computer might not cause someone to be a good programmer, not having access prevents it. Providing computers is thus a question of removing roadblocks.
 
