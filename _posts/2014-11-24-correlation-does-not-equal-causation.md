@@ -12,6 +12,9 @@ However, that being true does not mean that giving a child an early start will m
 
 Although there is a *correlation* between an early start and proficiency, there isn't necessarily a strong *causal relationship*.
 
+![IBM 360](/assets/images/ibm360.jpg)
+<center>*my first computer*</center>
+
 So, are we waisting our time giving computers to children? Should we intone "Correlation does not equal causation" in the bored voice of the social cynic? Should we "Move along, nothing to see here?"
 
 No. Although correlation does not equal causation, there is actionable value in the correlation. Consider the possibility that some third factor, "X" is correlated with the *potential* for becoming a good programmer.
@@ -23,6 +26,9 @@ Some kids have lots of X, some an average amount, and some very little.
 Many of the good programmers we observe have lots of X *and* had access to computers at an early age. Of course, we don't observe the kids with low X and access to computers, they're too busy doing other things to talk to us about programming.
 
 But there is an interesting group of children who have high X but who don't have access to computers. Giving them access *removes a roadblock* to them achieving their potential.
+
+![Data General Nova 1220](/assets/images/nova1220.jpg)
+<center>*my second computer*</center>
 
 If we are correct about this "X factor," the correlation between being good at programming and early access need not be causal. It could be that when we give away 100 computers, only five children become good programmers, the five out of a hundred with lots of "X.". But those five children might not have become good programmers without our support.
 
