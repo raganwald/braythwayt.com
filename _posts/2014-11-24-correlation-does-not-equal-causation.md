@@ -15,7 +15,7 @@ Although there is a *correlation* between an early start and proficiency, there 
 ![IBM 360](/assets/images/ibm360.jpg)
 <center><i>my first computer</i></center>
 
-<br/><br/>
+<br/>
 
 So, are we wasting our time giving computers to children? Should we intone "Correlation does not equal causation" in the bored voice of the social cynic? Should we "Move along, nothing to see here?"
 
@@ -34,7 +34,7 @@ If we are correct about this "X factor," the correlation between being good at p
 ![Data General Nova 1220](/assets/images/nova1220.jpg)
 <center><i>my second computer</i></center>
 
-<br/><br/>
+<br/>
 
 Thus, even though early access to a computer might not cause someone to be a good programmer, not having access prevents it. Providing computers is thus a question of removing roadblocks.
 
