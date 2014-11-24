@@ -1,5 +1,6 @@
 ---
 layout: default
+title: "Correlation does not equal Causation"
 ---
 
 *But that doesn't mean that there's nothing to see here, so let's move along.*
