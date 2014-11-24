@@ -8,9 +8,9 @@ A fairly consistent observation is that good programmers (for some definition of
 
 There are good programmers who didn't have an early start, but overall there is a very significant correlation between "good" and "early start."
 
-However, that being true does not mean that giving children an early start will make them good programmers. Lots of kids with access to computers from an early age become good at playing video games, or of complaining to their parents "not this again."
+However, that being true does not mean that giving a child an early start will make them a good programmer. Lots of kids with access to computers from an early age become good at playing video games, or of complaining to their parents "not this again."
 
-Although there is a*correlation* between an early start and proficiency, there isn't necessarily a strong *causal relationship*.
+Although there is a *correlation* between an early start and proficiency, there isn't necessarily a strong *causal relationship*.
 
 So, are we waisting our time giving computers to children? Should we intone "Correlation does not equal causation" in the bored voice of the social cynic? Should we "Move along, nothing to see here?"
 
