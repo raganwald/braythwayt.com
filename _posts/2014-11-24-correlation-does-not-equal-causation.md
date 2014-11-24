@@ -15,7 +15,7 @@ Although there is a *correlation* between an early start and proficiency, there 
 ![IBM 360](/assets/images/ibm360.jpg)
 <center><i>my first computer</i><br/></center>
 
-So, are we waisting our time giving computers to children? Should we intone "Correlation does not equal causation" in the bored voice of the social cynic? Should we "Move along, nothing to see here?"
+So, are we wasting our time giving computers to children? Should we intone "Correlation does not equal causation" in the bored voice of the social cynic? Should we "Move along, nothing to see here?"
 
 No. Although correlation does not equal causation, there is actionable value in the correlation. Consider the possibility that some third factor, "X" is correlated with the *potential* for becoming a good programmer.
 
