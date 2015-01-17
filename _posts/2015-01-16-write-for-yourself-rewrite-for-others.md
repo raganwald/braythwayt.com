@@ -66,7 +66,7 @@ But just like talks, *rewriting* is where you build value for people that actual
 
 And when we have colleagues, we submit a pull request and then get to rewrite the code to be more readable, to match our team's style, to fit better with the code base. All things that add very little value to our personal understanding of the problem, so our urge is to stop doing that as soon as possible and move on to fresh writing.
 
-But if we want to actually deliver value, we need to iterate. To practice. To rewrite. In software, rewriting is how we make value for people. By making small changes that matter to the people that use them, even if they don't represent growth for us as developers.[^2]
+But if we want to actually deliver value, we need to iterate. To practice. To rewrite. In software, rewriting is how we make value for people. By making small changes that matter to the people that use our work, even if making those changes don't represent growth for us as developers.[^2]
 
 [^2]: EcmaScript-6 is incorporating a `class` keyword. This is a classic example of rewriting and refining. It's not a "big idea" like promises or even proxies. It's not very glamerous, the people who don't like OO complain abut it being unecessary, and the people who like OO complain that it ignores recent research. Like most rewriting, it serves its users at the expense of its implementors, who'd probably be just as happy figuring out how to add gradual typing to ES-7.
 
