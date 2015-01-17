@@ -8,15 +8,13 @@ Louis CK gave a moving tribute to the late George Carlin:
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/R37zkizucPU" frameborder="0" allowfullscreen></iframe>
 
-Louis CK talks about how much George Carlin influenced him. At one point when Louis CK was struggling, he was delivering the same fifteen year-old material. Whereas George Carlin  threw out his material *every year* and started fresh with a blank sheet of paper. If a joke was perfect, too bad, it was gone. If it wasn't perfect, too bad, it never would be perfect. George moved on every year.
+At one point when Louis CK was struggling, he was delivering the same fifteen year-old material. Whereas George Carlin  threw out his material *every year* and started fresh with a blank sheet of paper. If a joke was perfect, too bad, it was gone. If it wasn't perfect, too bad, it never would be perfect. George moved on every year.
 
 This constant renewal of material forced George to be constantly observing life, constantly finding insights, and constantly inventing new ways to haack past all of our filters and defenses, using jokes to help us face the uncomfortable, surrelistic, or just plain oddball things we humans do.
 
 Louis CK's career and life changed when he comitted to renewing his act, to throwing his existing jokes out and regularly facing a blank page. He describes this as forcing himself to go deeper into his hopes, fears, and even the things he dreads. Throwing material out and starting fresh. It's very powerful.
 
----
-
-Comedians make observations[^1], wrap them in a joke, then tell the jokes in a performance. Comedians that keep their material for a long time emphasize performance over observation. Comedians that throw their material away emphasize observation. When Louis CK started to throw his material away, he grew as a comic. Not immediately, mind you, it took time. But he grew.
+Comedians make observations,[^1] wrap them in a joke, then tell the jokes in a performance. Comedians that keep their material for a long time emphasize performance over observation. Comedians that throw their material away emphasize observation. When Louis CK started to throw his material away, he grew as a comic. Not immediately, mind you, it took time. But he grew.
 
 [^1]: Some distinguish "telling jokes to create humor" from "using humour to communicate observations." I am speaking of the latter when I use the word "comedy."
 
