@@ -9,13 +9,11 @@ Louis CK paid a moving tribute to the late George Carlin: His story of how Carli
 
 At one point when Louis CK was struggling, he was delivering the same fifteen year-old material. He noticed that George Carlin was not telling fifteen year-old jokes: George threw out his material *every year* and started fresh with a blank sheet of paper.
 
-This constant renewal of material forced George to constantly observe life, to constantly find insights, and to constantly invent new ways to haack past all of our filters and defenses, using jokes to help us face the uncomfortable, surrelistic, or just plain oddball things we humans do.
+This constant renewal of material forced George to constantly observe life, to constantly find insights, and to constantly invent new ways to haack past all of our filters and defenses, using jokes to help us face the uncomfortable, surrelistic, or just plain oddball things we humans do.[^1]
 
-Louis CK's career and life changed when he comitted to renewing his act, to throwing his existing jokes out and regularly facing a blank page. He describes this as forcing himself to go deeper into his hopes, fears, and even the things he dreads. Throwing material out and starting fresh. It's very powerful.
+Louis CK's career and life changed when he comitted to renewing his act, to throwing his existing jokes out and regularly facing a blank page. He describes this as forcing himself to go deeper into his hopes, fears, and even the things he dreads. Throwing material out and starting fresh does more than just improve the material, it improves the comic as a human being. It's very powerful.
 
-Comedians make observations,[^1] wrap them in a joke, then tell the jokes in a performance. Comedians that keep their material for a long time emphasize performance over observation. Comedians that throw their material away emphasize observation. When Louis CK started to throw his material away, he grew as a comic. Not immediately, mind you, it took time. But he grew.
-
-[^1]: Some distinguish "telling jokes to create humor" from "using humour to communicate observations." I am speaking of the latter when I use the word "comedy."
+[^1]: Some distinguish "telling jokes to create humour" from "using humour to communicate observations." I am speaking of the latter when I use the word "comedy."
 
 ### writing
 
