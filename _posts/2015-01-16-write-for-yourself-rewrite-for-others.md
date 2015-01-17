@@ -77,9 +77,9 @@ If we find ourselves doing a lot of rewriting, but rarely push ourselves to writ
 
 Whereas, if we spent a lot of our time inventing the future, but little or no time perfecting the present, we probably need to remember that George Carlin threw his material away every year, not every performance. To maximize the value we create, we need to write *and* to rewrite. And to rewrite again. And again. [And again][history].
 
-It's not glamerous, but it's an inescapable truth: *We write software for ourselves, we rewrite software for others*.
+It's not glamerous, but it's an inescapable truth: **We write software for ourselves, we rewrite software for others**.
 
-(Discuss on [reddit])
+(discuss on [reddit])
 
 ---
 
