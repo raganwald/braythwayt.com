@@ -28,7 +28,7 @@ But really, truly, the big work of writing for me is taking an idea from a glimm
 
 For example, my Webrebels keynote "I have a good feeling about this" took me weeks to prepare, and it was over in forty-three minutes:
 
-<iframe src="//player.vimeo.com/video/76141334" width="500" height="275" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="//player.vimeo.com/video/76141334" width="500" height="275" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><br/>
 
 I never give presentations again, so the peparation isn't amortized over multiple presentations. Furthermore, I haven't been able to refine the presentation, to incioporate feedback, go become more comfortable delivering the talk as a speaker.
 
@@ -42,7 +42,7 @@ By only presenting a talk once, I maximize the observing and writing. I also min
 
 This is a discussion about comedy between Ricky Gervais, Jerry Seinfeld, Chris Rock, and Louis CK. And they talk about repeating the same material. The people who've seen your act before don't usually enjoy seeing the same thing again, but the people who haven't seen the act before get even more out of it, because comedians polish their acts, they remove the bad bits, they move things around.
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/OKY6BGcx37k" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/OKY6BGcx37k" frameborder="0" allowfullscreen></iframe><br/>
 
 Jerry Seinfeld has a different approach. He's a perfectionist. He says he has some material that's several decades old, he's still working on being able to deliver it perfectly, withe the right timing, the right intonation, the right anticipation of the audience' reaction. That doesn't make him better or worse than Louis CK, it makes him different. He emphasizes performance.
 
