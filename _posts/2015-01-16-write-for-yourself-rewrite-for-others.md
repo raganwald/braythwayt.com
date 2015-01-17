@@ -68,7 +68,7 @@ And when we have colleagues, we submit a pull request and then get to rewrite th
 
 But if we want to actually deliver value, we need to iterate. To practice. To rewrite. In software, rewriting is how we make value for people. By making small changes that matter to the people that use them, even if they don't represent growth for us as developers.[^2]
 
-[]^2]: EcmaScript-6 is incorporating a `class` keyword. This is a classic example of rewriting and refining. It's not a "big idea" like promises or even proxies. It's not very glamerous, the people who don't like OO complain abut it being unecessary, and the people who like OO complain that it ignores recent research. Like most rewriting, it serves its users at the expense of its implementors, who'd probably be just as happy figuring out how to add gradual typing to ES-7.
+[^2]: EcmaScript-6 is incorporating a `class` keyword. This is a classic example of rewriting and refining. It's not a "big idea" like promises or even proxies. It's not very glamerous, the people who don't like OO complain abut it being unecessary, and the people who like OO complain that it ignores recent research. Like most rewriting, it serves its users at the expense of its implementors, who'd probably be just as happy figuring out how to add gradual typing to ES-7.
 
 If we find ourselves doing a lot of rewriting, but rarely push ourselves to write software, we probably need to get ourselves to start "throwing your material away." Growth comes from taking risks, from starting with a blank sheet of paper.
 
