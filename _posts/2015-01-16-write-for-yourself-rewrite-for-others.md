@@ -53,7 +53,7 @@ That matters. Better delivery communicates the idea better. That means the audie
 
 To me, giving the same talk multiple times is like "rewriting."[^3] Fixing bugs, moving things around, dropping inessentials.  Rewriting makes writing better. In the case of talks, it makes performance better. Rewriting is a massive win for audiences.
 
-[^3]: In software, people often use the word "rewriting" to refer to a complete rewrite of an entire system. But fo course, it can also refer to rewriting something as small as a single line of code. Or refactoring some code ("I rewrote the way we handle fubars to use the Observer pattern"). In this essay, I am using the word in a broad sense, encompassing revisions, tweaks, refactorings, bug fixings, anything that involves writing some or all of something again.
+[^3]: In software, people often use the word "rewriting" to refer to a complete rewrite of an entire system. But the word "rewrite" can also refer to a rewrite of something as small as a single line of code. Or refactoring some code ("I rewrote the way we handle fubars to use the Observer pattern"). In this essay, I am using the word in a broad sense, encompassing revisions, tweaks, refactorings, bug fixings, anything that involves writing some or all of something again.
 
 *I rewrite for others.*
 
