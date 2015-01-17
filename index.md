@@ -39,11 +39,6 @@ Contact: [reg@braythwayt.com](mailto:reg@braythwayt.com) and [@raganwald](https:
     <a href="{{ post.url }}">{{ post.title }}</a>
         </li>
     {% endfor %}
-  </ul>
-</div>
-
-<div class="related">
-  <ul>
     {% for post in site.categories.posterous %}
         <li>
     <a href="{{ post.url }}">{{ post.title }}</a>
