@@ -43,7 +43,7 @@ This is a discussion about comedy between Ricky Gervais, Jerry Seinfeld, Chris R
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/OKY6BGcx37k" frameborder="0" allowfullscreen></iframe><br/>
 
-Jerry Seinfeld has a different approach. He's a perfectionist. He says he has some material that's several decades old, he's still working on being able to deliver it perfectly, withe the right timing, the right intonation, the right anticipation of the audience' reaction. That doesn't make him better or worse than Louis CK, it makes him different. He emphasizes performance.
+Jerry Seinfeld has a different approach. He's a perfectionist. He says he has some material that's several decades old, he's still working on being able to deliver it perfectly, with the right timing, the right intonation, the right anticipation of the audience' reaction. That doesn't make him better or worse than Louis CK, it makes him different. He emphasizes performance.
 
 With talks, I believe that the audience benefits from speakers that spend more time on performance. Some speakers I know deliver the same talk many times. They are terrific performers. Some excellent speakers—[Denise Jacobs] comes to mind—have given me great feedback on how to be a better speaker. They rarely say anything about my material, but boy do they spot a lot of ways I could improve my delivery.
 
