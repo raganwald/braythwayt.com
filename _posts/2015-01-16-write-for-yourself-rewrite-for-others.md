@@ -66,11 +66,13 @@ But just like talks, *rewriting* is where you build value for people that actual
 
 And when we have colleagues, we submit a pull request and then get to rewrite the code to be more readable, to match our team's style, to fit better with the code base. All things that add very little value to our personal understanding of the problem, so our urge is to stop doing that as soon as possible and move on to fresh writing.
 
-But if we want to actually deliver value, we need to iterate. To practice. To rewrite. In software, rewriting is how we make value for people.
+But if we want to actually deliver value, we need to iterate. To practice. To rewrite. In software, rewriting is how we make value for people. By making small changes that matter to the people that use them, even if they don't represent growth for us as developers.[^2]
 
-Think about a big piece of software you admire. Why is Linux valuable? Not because of the initial insight, but because of its relentless rewriting, the constant flow of contributions. The core idea is done, baked in, long finished. The writing is mostly over. But it's the rewriting that matters.
+[]^2]: EcmaScript-6 is incorporating a `class` keyword. This is a classic example of rewriting and refining. It's not a "big idea" like promises or even proxies. It's not very glamerous, the people who don't like OO complain abut it being unecessary, and the people who like OO complain that it ignores recent research. Like most rewriting, it serves its users at the expense of its implementors, who'd probably be just as happy figuring out how to add gradual typing to ES-7.
 
-JavaScript is incorporating a `class` keyword. This is a classic example of rewriting and refining. It's not a "big idea" like promises or even proxies. It's not very glamerous, the people who don't like OO complain abut it being unecessary, and the peopel who do like OO complain that it ignores recent research. Like most rewriting, it serves its users at teh expense of its implementors, who'd probably be just as happy figuring out how to add gradual typing to ES-7.
+If we find ourselves doing a lot of rewriting, but rarely push ourselves to write software, we probably need to get ourselves to start "throwing your material away." Growth comes from taking risks, from starting with a blank sheet of paper.
+
+Whereas, if we spent a lot of our time inventing the future, but little or no time perfecting the present, we probably need to remember that George Carlin threw his material away every year, not every performance. To maximize the value we create, we need to write *and* to rewrite. Lots of rewriting.
 
 It's not glamerous, but it's an inescapable truth: *We write software for ourselves, we rewrite software for others*.
 
