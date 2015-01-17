@@ -27,7 +27,7 @@ For example, my Webrebels keynote "I have a good feeling about this" took me wee
 
 <iframe src="//player.vimeo.com/video/76141334" width="500" height="275" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><br/>
 
-I never give presentations again, so the peparation time isn't amortized over multiple performances. Furthermore, I can't refine presentations, or incorporate feedback, I don't become more comfortable delivering the talk because I don't give myself a chance to get comfortable.
+I don't give presentations more than once, so the peparation time isn't amortized over multiple performances. Furthermore, I can't refine presentations, or incorporate feedback, I don't become more comfortable delivering the talk because I don't give myself a chance to get comfortable.
 
 I always ad-lib the specific words, I don't work off a script. If something feels awkward, I have to just plow ahead. If you watch the whole thing, you'll see there was a techncial problem with the A/V, a problem I might have been able to prevent in future performances.
 
@@ -76,5 +76,9 @@ If we find ourselves doing a lot of rewriting, but rarely push ourselves to writ
 Whereas, if we spent a lot of our time inventing the future, but little or no time perfecting the present, we probably need to remember that George Carlin threw his material away every year, not every performance. To maximize the value we create, we need to write *and* to rewrite. Lots of rewriting.
 
 It's not glamerous, but it's an inescapable truth: *We write software for ourselves, we rewrite software for others*.
+
+p.s. Speking of rewriting, [here's the history of this essay][history].
+
+[history]: https://github.com/raganwald/braythwayt.com/commits/gh-pages/_posts/2015-01-16-write-for-yourself-rewrite-for-others.md
 
 ---
