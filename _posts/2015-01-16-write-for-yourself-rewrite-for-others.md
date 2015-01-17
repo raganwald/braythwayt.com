@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "Write for Yourself, Rewrite for Others"
-categories: noindex
 ---
 
 ### comedy
