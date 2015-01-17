@@ -7,9 +7,9 @@ Louis CK paid a moving tribute to the late George Carlin: His story of how Carli
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/R37zkizucPU" frameborder="0" allowfullscreen></iframe><br/>
 
-At one point when Louis CK was struggling, he was delivering the same fifteen year-old material. He noticed that George Carlin was not telling fifteen year-old jokes: Carlin threw out his material *every year* and started fresh with a blank sheet of paper.
+At one point when Louis CK was struggling, he was delivering the same fifteen year-old material. He noticed that Carlin was not telling fifteen year-old jokes: Carlin threw out his material *every year* and started fresh with a blank sheet of paper.
 
-This constant renewal of material forced Carlin to constantly observe life, to constantly find insights, and to constantly invent new ways to haack past all of our filters and defenses, using jokes to help us face the uncomfortable, surrelistic, or just plain oddball things we humans do.[^1]
+This constant renewal of material forced Carlin to constantly observe life, to constantly find insights, and to constantly invent new ways to hack past all of our filters and defenses, using jokes to help us face the uncomfortable, surrelistic, or just plain oddball things we humans do.[^1]
 
 Louis CK's career and life changed when he comitted to renewing his act, to throwing his existing jokes out and regularly facing a blank page. He describes this as forcing himself to go deeper into his hopes, fears, and even the things he dreads. Throwing material out and starting fresh does more than just improve the material, it improves the comic as a human being.
 
@@ -19,7 +19,7 @@ It's very powerful.
 
 ### writing
 
-I feel like there is a parallel between comedy and other forms of writing. For me, the main thing in writing something for the first time is the observation, discovering something and working out what it means. Writing about an idea is a way of menifesting it. It's a forcing function that gets me to explore an idea in some reasonable depth.
+I feel like there is a parallel between comedy and other forms of writing. For me, the main thing in writing something for the first time is the observation, discovering something and working out what it means. Writing about an idea is a way of manifesting it. It's a forcing function that gets me to explore an idea in some reasonable depth.
 
 If I share that writing, perhaps as an essay on the internet, perhaps it's a talk I give at a conference, I have an audience who can critique the idea. This forces me to make some reasonable standard of quality. I don't mind being wrong, but I don't want to  embarass myself. An essay might read like stream-of-consciousness, but it shouldn't read like drunken raving.
 
@@ -65,7 +65,7 @@ Writing software is something I very much do for myself. And my selfish toddler 
 
 But just like talks, *rewriting* is where we build value for people that use what we write. It's when we fix bugs, things that usually aren't a major part of the idea, but need to be fixed for someone to use the product. Rewriting is when we clean up algorithms that felt like accidental complexity, so we just slapped something in that worked. But now we make it fast, so we stop thinking about the idea and start thinking about the icky implementation of the idea.
 
-And when we have colleagues, we submit a pull request and then get to rewrite the code to be more readable, to match our team's style, to fit better with the code base. All things that add very little value to our personal understanding of the problem, so our urge is to stop doing that as soon as possible and move on to fresh writing.
+And when we have colleagues, we submit a pull request and then get to rewrite the code to be more readable, to match our team's style, to fit better with the code base. All things that add very little value to our personal understanding of the problem, so our urge is to stop doing that and move on to fresh writing.
 
 But if we want to actually deliver value, we need to iterate. To practice. To rewrite. In software, rewriting is how we make value for people. By making small changes that matter to the people that use our work, even if making those changes don't represent the most growth for ourselves as developers.[^2]
 
@@ -73,9 +73,9 @@ But if we want to actually deliver value, we need to iterate. To practice. To re
 
 ### balance
 
-If we find ourselves doing a lot of rewriting, but rarely push ourselves to write software, we probably need to get ourselves to start "throwing our material away." Growth comes from taking risks, from starting with a blank sheet of paper.
+If we find ourselves doing a lot of rewriting, but rarely push ourselves to write software, we probably need to get ourselves to start "throwing our material away." Growth comes from taking risks, from starting with a blank sheet of paper, from staring at an empty whiteboard.
 
-Whereas, if we spent a lot of our time inventing the future, but little or no time perfecting the present, we probably need to remember that George Carlin threw his material away every year, not every performance. To maximize the value we create, we need to write *and* to rewrite. And to rewrite again. And again. And [again][history].
+Whereas, if we spent a lot of our time inventing the future, but little or no time perfecting the present, we probably need to remember that Carlin threw his material away every year, not every performance. To maximize the value we create, we need to write *and* to rewrite. And to rewrite again. And again. And [again][history].
 
 It's not glamerous, but it's an inescapable truth: *We write software for ourselves, we rewrite software for others*.
 
