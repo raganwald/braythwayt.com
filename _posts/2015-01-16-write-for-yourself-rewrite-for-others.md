@@ -24,11 +24,13 @@ I feel like there is a parallel to writing and rewriting. For me, the main thing
 
 If I share that writing, perhaps as an essay on the internet, perhaps it's a talk I give at a conference, I have an audience who can critique the idea. This forces me to make some reasonable standard of quality. I don't mind being wrong, but I don't want to  embarass myself. An essay might read like stream-of-consciousness, but it shouldn't read like drunken raving.
 
-But really, truly, the big work of writing for me is taking an idea from a glimmer to exposition. That is hard work, I have spent weeks full-time getting a conference talk to flow. But that work is mostly thinking and organizing. For me, a presentation at a conference is just the "tip of the iceberg." This presentation took me weeks to prepare, and it was over in forty-three minutes:
+But really, truly, the big work of writing for me is taking an idea from a glimmer to exposition. That is hard work, I have spent weeks full-time getting a conference talk to flow. But that work is mostly thinking and organizing. For me, the performance part of a presentation at a conference is just the "tip of the iceberg."
+
+For example, my Webrebels keynote "I have a good feeling about this" took me weeks to prepare, and it was over in forty-three minutes:
 
 <iframe src="//player.vimeo.com/video/76141334" width="500" height="275" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-I never gave it again, so that peparation time isn't amortized over multiple presentations. Furthermore, I haven't been able to refine the presentation, to incioporate feedback, go become more comfortable delivering the talk as a speaker.
+I never give presentations again, so the peparation isn't amortized over multiple presentations. Furthermore, I haven't been able to refine the presentation, to incioporate feedback, go become more comfortable delivering the talk as a speaker.
 
 In fact, I ad-libbed the specific words I spoke, which I always do with my talks. I don't work off a script. If something feels awkward, I have to just plow ahead. If you watch the whole thing, you'll see there was a techncial problem with the A/V, a problem I might have been able to prevent in future performances.
 
