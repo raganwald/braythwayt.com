@@ -4,7 +4,7 @@ title: "Write for Yourself, Rewrite for Others"
 tags: noindex
 ---
 
-Louis CK gave a moving tribute to the late George Carlin. The entire tribute is amazing, but his story of how George Carlin influenced him is poignant.
+Louis CK paid a moving tribute to the late George Carlin: His story of how Carlin influenced his life and career is poignant, and it speaks to a very deep truth about the importance of writing.
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/R37zkizucPU" frameborder="0" allowfullscreen></iframe><br/>
 
