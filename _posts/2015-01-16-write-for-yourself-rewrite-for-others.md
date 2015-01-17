@@ -70,6 +70,8 @@ But if we want to actually deliver value, we need to iterate. To practice. To re
 
 [^2]: EcmaScript-6 is incorporating a `class` keyword. This is a classic example of rewriting and refining. It's not a "big idea" like promises or even proxies. It's not very glamerous, the people who don't like OO complain abut it being unecessary, and the people who like OO complain that it ignores recent research. Like most rewriting, it serves its users at the expense of its implementors, who'd probably be just as happy figuring out how to add gradual typing to ES-7.
 
+### balance
+
 If we find ourselves doing a lot of rewriting, but rarely push ourselves to write software, we probably need to get ourselves to start "throwing your material away." Growth comes from taking risks, from starting with a blank sheet of paper.
 
 Whereas, if we spent a lot of our time inventing the future, but little or no time perfecting the present, we probably need to remember that George Carlin threw his material away every year, not every performance. To maximize the value we create, we need to write *and* to rewrite. Lots of rewriting.
