@@ -19,7 +19,7 @@ Comedians make observations,[^1] wrap them in a joke, then tell the jokes in a p
 
 ### writing
 
-I feel like there is a parallel between comedy and other forms of writing. For me, the main thing in writing something for the first time is the observation, discovering something and working ouut what it means. Writing about an idea is a way of menifesting it. It's a forcing function that gets me to explore an idea in some reasonable depth.
+I feel like there is a parallel between comedy and other forms of writing. For me, the main thing in writing something for the first time is the observation, discovering something and working out what it means. Writing about an idea is a way of menifesting it. It's a forcing function that gets me to explore an idea in some reasonable depth.
 
 If I share that writing, perhaps as an essay on the internet, perhaps it's a talk I give at a conference, I have an audience who can critique the idea. This forces me to make some reasonable standard of quality. I don't mind being wrong, but I don't want to  embarass myself. An essay might read like stream-of-consciousness, but it shouldn't read like drunken raving.
 
@@ -67,13 +67,13 @@ But just like talks, *rewriting* is where we build value for people that use wha
 
 And when we have colleagues, we submit a pull request and then get to rewrite the code to be more readable, to match our team's style, to fit better with the code base. All things that add very little value to our personal understanding of the problem, so our urge is to stop doing that as soon as possible and move on to fresh writing.
 
-But if we want to actually deliver value, we need to iterate. To practice. To rewrite. In software, rewriting is how we make value for people. By making small changes that matter to the people that use our work, even if making those changes don't represent growth for us as developers.[^2]
+But if we want to actually deliver value, we need to iterate. To practice. To rewrite. In software, rewriting is how we make value for people. By making small changes that matter to the people that use our work, even if making those changes don't represent the most growth for ourselves as developers.[^2]
 
 [^2]: EcmaScript-6 is incorporating a `class` keyword. This is a classic example of rewriting and refining. It's not a "big idea" like promises or even proxies. It's not very glamerous, the people who don't like OO complain abut it being unecessary, and the people who like OO complain that it ignores recent research. Like most rewriting, it serves its users at the expense of its implementors, who'd probably be just as happy figuring out how to add gradual typing to ES-7.
 
 ### balance
 
-If we find ourselves doing a lot of rewriting, but rarely push ourselves to write software, we probably need to get ourselves to start "throwing your material away." Growth comes from taking risks, from starting with a blank sheet of paper.
+If we find ourselves doing a lot of rewriting, but rarely push ourselves to write software, we probably need to get ourselves to start "throwing our material away." Growth comes from taking risks, from starting with a blank sheet of paper.
 
 Whereas, if we spent a lot of our time inventing the future, but little or no time perfecting the present, we probably need to remember that George Carlin threw his material away every year, not every performance. To maximize the value we create, we need to write *and* to rewrite. Lots of rewriting.
 
