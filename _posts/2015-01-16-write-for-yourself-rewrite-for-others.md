@@ -75,12 +75,10 @@ But if we want to actually deliver value, we need to iterate. To practice. To re
 
 If we find ourselves doing a lot of rewriting, but rarely push ourselves to write software, we probably need to get ourselves to start "throwing our material away." Growth comes from taking risks, from starting with a blank sheet of paper.
 
-Whereas, if we spent a lot of our time inventing the future, but little or no time perfecting the present, we probably need to remember that George Carlin threw his material away every year, not every performance. To maximize the value we create, we need to write *and* to rewrite. And to rewrite again. And again. And again.
+Whereas, if we spent a lot of our time inventing the future, but little or no time perfecting the present, we probably need to remember that George Carlin threw his material away every year, not every performance. To maximize the value we create, we need to write *and* to rewrite. And to rewrite again. And again. [And again][history].
 
 It's not glamerous, but it's an inescapable truth: *We write software for ourselves, we rewrite software for others*.
 
-p.s. Speking of rewriting, [here's the history of this essay][history].
+---
 
 [history]: https://github.com/raganwald/braythwayt.com/commits/gh-pages/_posts/2015-01-16-write-for-yourself-rewrite-for-others.md
-
----
