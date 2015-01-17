@@ -17,9 +17,9 @@ Comedians make observations,[^1] wrap them in a joke, then tell the jokes in a p
 
 [^1]: Some distinguish "telling jokes to create humor" from "using humour to communicate observations." I am speaking of the latter when I use the word "comedy."
 
-### writing and rewriting
+### writing
 
-I feel like there is a parallel to writing and rewriting. For me, the main thing in writing something for the first time is the observation, discovering something and working ouut what it means. Writing about an idea is a way of menifesting it. It's a forcing function that gets me to explore an idea in some reasonable depth.
+I feel like there is a parallel between comedy and other forms of writing. For me, the main thing in writing something for the first time is the observation, discovering something and working ouut what it means. Writing about an idea is a way of menifesting it. It's a forcing function that gets me to explore an idea in some reasonable depth.
 
 If I share that writing, perhaps as an essay on the internet, perhaps it's a talk I give at a conference, I have an audience who can critique the idea. This forces me to make some reasonable standard of quality. I don't mind being wrong, but I don't want to  embarass myself. An essay might read like stream-of-consciousness, but it shouldn't read like drunken raving.
 
@@ -51,7 +51,9 @@ With talks, I believe that the audience benefits from speakers that spend more t
 
 That matters. Better delivery communicates the idea better. That means the audience benefits. Audiences win when speakers are great performers. By performing more, I'd be a better speaker. By iterating over the same talk multiple times, I'd give better talks.
 
-To me, giving the same talk multiple times is like "rewriting." Fixing bugs, moving things around, dropping inessentials.  Rewriting makes writing better. In the case of talks, it makes performance better. Rewriting is a massive win for audiences.
+To me, giving the same talk multiple times is like "rewriting."[^3] Fixing bugs, moving things around, dropping inessentials.  Rewriting makes writing better. In the case of talks, it makes performance better. Rewriting is a massive win for audiences.
+
+[^3]: In software, people often use the word "rewriting" to refer to a complete rewrite of an entire system. But fo course, it can also refer to rewriting something as small as a single line of code. Or refactoring some code ("I rewrote the way we handle fubars to use the Observer pattern"). In this essay, I am using the word in a broad sense, encompassing revisions, tweaks, refactorings, bug fixings, anything that involves writing some or all of something again.
 
 *I rewrite for others.*
 
