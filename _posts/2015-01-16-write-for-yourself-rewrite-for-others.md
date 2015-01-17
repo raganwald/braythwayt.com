@@ -4,11 +4,11 @@ title: "Write for Yourself, Rewrite for Others"
 tags: noindex
 ---
 
-Louis CK gave a moving tribute to the late George Carlin:
+Louis CK gave a moving tribute to the late George Carlin. The entire tribute is amazing, but his story of how George Carlin influenced him is poignant.
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/R37zkizucPU" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/R37zkizucPU" frameborder="0" allowfullscreen></iframe><br/>
 
-At one point when Louis CK was struggling, he was delivering the same fifteen year-old material. Whereas George Carlin  threw out his material *every year* and started fresh with a blank sheet of paper. If a joke was perfect, too bad, it was gone. If it wasn't perfect, too bad, it never would be perfect. George moved on every year.
+At one point when Louis CK was struggling, he was delivering the same fifteen year-old material. He noticed that George Carlin was not telling fifteen year-old jokes: George threw out his material *every year* and started fresh with a blank sheet of paper.
 
 This constant renewal of material forced George to be constantly observing life, constantly finding insights, and constantly inventing new ways to haack past all of our filters and defenses, using jokes to help us face the uncomfortable, surrelistic, or just plain oddball things we humans do.
 
