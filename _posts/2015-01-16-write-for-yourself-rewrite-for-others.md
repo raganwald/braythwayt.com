@@ -27,7 +27,7 @@ But really, truly, the big work of writing for me is taking an idea from a glimm
 
 For example, my Webrebels keynote "I have a good feeling about this" took me weeks to prepare, and it was over in forty-three minutes:
 
-<iframe src="//player.vimeo.com/video/76141334" width="500" height="275" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><br/>
+<iframe src="//player.vimeo.com/video/76141334" width="600" height="330" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><br/>
 
 I don't give presentations more than once, so the peparation time isn't amortized over multiple performances. Furthermore, I can't refine presentations, or incorporate feedback, I don't become more comfortable delivering the talk because I don't give myself a chance to get comfortable.
 
