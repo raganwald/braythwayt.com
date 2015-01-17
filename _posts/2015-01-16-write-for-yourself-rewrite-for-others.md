@@ -39,11 +39,11 @@ By only presenting a talk once, I maximize the observing and writing. I also min
 
 ### rewriting
 
-This is a discussion about comedy between Ricky Gervais, Jerry Seinfeld, Chris Rock, and Louis CK. And they talk about repeating the same material. The people who've seen your act before don't usually enjoy seeing the same thing again, but the people who haven't seen the act before get even more out of it, because comedians polish their acts, they remove the bad bits, they move things around.
+Ricky Gervais, Jerry Seinfeld, Chris Rock, and Louis CK talk about repeating the same material. They agree that people who haven't seen an act before get more out of it than people who saw the first performance, because comedians polish their acts, they remove the bad bits, they move things around.
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/OKY6BGcx37k" frameborder="0" allowfullscreen></iframe><br/>
 
-Jerry Seinfeld has a different approach. He's a perfectionist. He says he has some material that's several decades old, he's still working on being able to deliver it perfectly, with the right timing, the right intonation, the right anticipation of the audience' reaction. That doesn't make him better or worse than Louis CK, it makes him different. He emphasizes performance.
+There's a tension between renewing material and polishing material. Carlin threw away his material every year. Jerry Seinfeld has a different approach, he's a perfectionist. He says he has some material that's several decades old, he's still working on being able to deliver it perfectly, with the right timing, the right intonation, the right anticipation of the audience' reaction. That doesn't make him better or worse than Carlin, it makes him different. He emphasizes performance over observation.
 
 With talks, I believe that the audience benefits from speakers that spend more time on performance. Some speakers I know deliver the same talk many times. They are terrific performers. Some excellent speakers—[Denise Jacobs] comes to mind—have given me great feedback on how to be a better speaker. They rarely say anything about my material, but boy do they spot a lot of ways I could improve my delivery.
 
