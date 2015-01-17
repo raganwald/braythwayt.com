@@ -73,3 +73,5 @@ Think about a big piece of software you admire. Why is Linux valuable? Not becau
 JavaScript is incorporating a `class` keyword. This is a classic example of rewriting and refining. It's not a "big idea" like promises or even proxies. It's not very glamerous, the people who don't like OO complain abut it being unecessary, and the peopel who do like OO complain that it ignores recent research. Like most rewriting, it serves its users at teh expense of its implementors, who'd probably be just as happy figuring out how to add gradual typing to ES-7.
 
 It's not glamerous, but it's an inescapable truth: *We write software for ourselves, we rewrite software for others*.
+
+---
