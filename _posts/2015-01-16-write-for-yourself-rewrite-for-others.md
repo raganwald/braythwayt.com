@@ -7,11 +7,13 @@ Louis CK paid a moving tribute to the late George Carlin: His story of how Carli
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/R37zkizucPU" frameborder="0" allowfullscreen></iframe><br/>
 
-At one point when Louis CK was struggling, he was delivering the same fifteen year-old material. He noticed that George Carlin was not telling fifteen year-old jokes: George threw out his material *every year* and started fresh with a blank sheet of paper.
+At one point when Louis CK was struggling, he was delivering the same fifteen year-old material. He noticed that George Carlin was not telling fifteen year-old jokes: Carlin threw out his material *every year* and started fresh with a blank sheet of paper.
 
-This constant renewal of material forced George to constantly observe life, to constantly find insights, and to constantly invent new ways to haack past all of our filters and defenses, using jokes to help us face the uncomfortable, surrelistic, or just plain oddball things we humans do.[^1]
+This constant renewal of material forced Carlin to constantly observe life, to constantly find insights, and to constantly invent new ways to haack past all of our filters and defenses, using jokes to help us face the uncomfortable, surrelistic, or just plain oddball things we humans do.[^1]
 
-Louis CK's career and life changed when he comitted to renewing his act, to throwing his existing jokes out and regularly facing a blank page. He describes this as forcing himself to go deeper into his hopes, fears, and even the things he dreads. Throwing material out and starting fresh does more than just improve the material, it improves the comic as a human being. It's very powerful.
+Louis CK's career and life changed when he comitted to renewing his act, to throwing his existing jokes out and regularly facing a blank page. He describes this as forcing himself to go deeper into his hopes, fears, and even the things he dreads. Throwing material out and starting fresh does more than just improve the material, it improves the comic as a human being.
+
+It's very powerful.
 
 [^1]: Some distinguish "telling jokes to create humour" from "using humour to communicate observations." I am speaking of the latter when I use the word "comedy."
 
