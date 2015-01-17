@@ -22,7 +22,7 @@ Comedians make observations,[^1] wrap them in a joke, then tell the jokes in a p
 
 I feel like there is a parallel to writing and rewriting. For me, the main thing in writing something for the first time is the observation, discovering something and working ouut what it means. Writing about an idea is a way of menifesting it. It's a forcing function that gets me to explore an idea in some reasonable depth.
 
-If I share that writing, perhaps as an essay on the internet, perhaps it's a talk I give at a conference, I have an audience who can critique the idea. This forces me to make some reasonable standard of quality. I don't mind being wrong, but I don't want to  embarass myself. An essay might read like stream-of-consciousness, but it shouldn't read like drubken raving.
+If I share that writing, perhaps as an essay on the internet, perhaps it's a talk I give at a conference, I have an audience who can critique the idea. This forces me to make some reasonable standard of quality. I don't mind being wrong, but I don't want to  embarass myself. An essay might read like stream-of-consciousness, but it shouldn't read like drunken raving.
 
 But really, truly, the big work of writing for me is taking an idea from a glimmer to exposition. That is hard work, I have spent weeks full-time getting a conference talk to flow. But that work is mostly thinking and organizing. For me, a presentation at a conference is just the "tip of the iceberg." This presentation took me weeks to prepare, and it was over in forty-three minutes:
 
