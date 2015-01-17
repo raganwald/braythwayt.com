@@ -30,9 +30,9 @@ For example, my Webrebels keynote "I have a good feeling about this" took me wee
 
 <iframe src="//player.vimeo.com/video/76141334" width="500" height="275" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><br/>
 
-I never give presentations again, so the peparation isn't amortized over multiple presentations. Furthermore, I haven't been able to refine the presentation, to incioporate feedback, go become more comfortable delivering the talk as a speaker.
+I never give presentations again, so the peparation time isn't amortized over multiple performances. Furthermore, I can't refine presentations, or incorporate feedback, I don't become more comfortable delivering the talk because I don't give myself a chance to get comfortable.
 
-In fact, I ad-libbed the specific words I spoke, which I always do with my talks. I don't work off a script. If something feels awkward, I have to just plow ahead. If you watch the whole thing, you'll see there was a techncial problem with the A/V, a problem I might have been able to prevent in future performances.
+I always ad-lib the specific words, I don't work off a script. If something feels awkward, I have to just plow ahead. If you watch the whole thing, you'll see there was a techncial problem with the A/V, a problem I might have been able to prevent in future performances.
 
 By only presenting a talk once, I maximize the observing and writing. I also minimize the performance. The net result is good for me, because I've grown as a person by going through the writing process. By never giving the same talk twice, I've grown as a person by forcing myself to dig deeper and find things that matter to observe.
 
