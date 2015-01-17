@@ -79,7 +79,7 @@ Whereas, if we spent a lot of our time inventing the future, but little or no ti
 
 It's not glamerous, but it's an inescapable truth: *We write software for ourselves, we rewrite software for others*.
 
-(discuss on [reddit] or [facebook]())
+(discuss on [reddit] or [facebook])
 
 ---
 
