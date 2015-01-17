@@ -10,7 +10,7 @@ Louis CK gave a moving tribute to the late George Carlin. The entire tribute is 
 
 At one point when Louis CK was struggling, he was delivering the same fifteen year-old material. He noticed that George Carlin was not telling fifteen year-old jokes: George threw out his material *every year* and started fresh with a blank sheet of paper.
 
-This constant renewal of material forced George to be constantly observing life, constantly finding insights, and constantly inventing new ways to haack past all of our filters and defenses, using jokes to help us face the uncomfortable, surrelistic, or just plain oddball things we humans do.
+This constant renewal of material forced George to constantly observe life, to constantly find insights, and to constantly invent new ways to haack past all of our filters and defenses, using jokes to help us face the uncomfortable, surrelistic, or just plain oddball things we humans do.
 
 Louis CK's career and life changed when he comitted to renewing his act, to throwing his existing jokes out and regularly facing a blank page. He describes this as forcing himself to go deeper into his hopes, fears, and even the things he dreads. Throwing material out and starting fresh. It's very powerful.
 
