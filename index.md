@@ -21,7 +21,7 @@ Contact: [reg@braythwayt.com](mailto:reg@braythwayt.com) and [@raganwald](https:
 <div class="related">
   <ul>
     {% for post in site.posts %}
-      {% unless post.categories contains "posterous" or post.categories contains "homoiconic"or post.categories contains "noindex" or post.tags contains "noindex" %}
+      {% unless post.categories contains "posterous" or post.categories contains "homoiconic" or post.categories contains "noindex" or post.tags contains "noindex" %}
         <li>
     <a href="{{ post.url }}">{{ post.title }}</a> (<span>{{ post.date | date: "%B %e, %Y" }}</span>)
         </li>

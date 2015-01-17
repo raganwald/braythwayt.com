@@ -1,10 +1,8 @@
 ---
 layout: default
 title: "Write for Yourself, Rewrite for Others"
-categories: noindex
+tags: noindex
 ---
-
-### comedy
 
 Louis CK gave a moving tribute to the late George Carlin:
 
