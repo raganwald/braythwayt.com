@@ -29,7 +29,7 @@ For example, my Webrebels keynote "I have a good feeling about this" took me wee
 
 <iframe src="//player.vimeo.com/video/76141334" width="600" height="330" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><br/>
 
-I don't give presentations more than once, so the peparation time isn't amortized over multiple performances. Furthermore, I can't refine presentations, or incorporate feedback, I don't become more comfortable delivering the talk because I don't give myself a chance to get comfortable.
+I don't give presentations more than once, so the preparation time isn't amortized over multiple performances. Furthermore, I can't refine presentations, or incorporate feedback, I don't become more comfortable delivering the talk because I don't give myself a chance to get comfortable.
 
 I always ad-lib the specific words, I don't work off a script. If something feels awkward, I have to just plow ahead. If you watch the whole thing, you'll see there was a techncial problem with the A/V, a problem I might have been able to prevent in future performances.
 
@@ -69,7 +69,7 @@ And when we have colleagues, we submit a pull request and then get to rewrite th
 
 But if we want to actually deliver value, we need to iterate. To practice. To rewrite. In software, rewriting is how we make value for people. By making small changes that matter to the people that use our work, even if making those changes don't represent the most growth for ourselves as developers.[^2]
 
-[^2]: EcmaScript-6 is incorporating a `class` keyword. This is a classic example of rewriting and refining. It's not a "big idea" like promises or even proxies. It's not very glamerous, the people who don't like OO complain about it being unecessary, and the people who like OO complain that it ignores recent research. Like most rewriting, it serves its users at the expense of its implementors, who'd probably be just as happy figuring out how to add gradual typing to ES-7.
+[^2]: EcmaScript-6 is incorporating a `class` keyword. This is a classic example of rewriting and refining. It's not a "big idea" like promises or even proxies. It's not very glamorous, the people who don't like OO complain about it being unecessary, and the people who like OO complain that it ignores recent research. Like most rewriting, it serves its users at the expense of its implementors, who'd probably be just as happy figuring out how to add gradual typing to ES-7.
 
 ### balance
 
