@@ -69,7 +69,7 @@ And when we have colleagues, we submit a pull request and then get to rewrite th
 
 But if we want to actually deliver value, we need to iterate. To practice. To rewrite. In software, rewriting is how we make value for people. By making small changes that matter to the people that use our work, even if making those changes don't represent the most growth for ourselves as developers.[^2]
 
-[^2]: EcmaScript-6 is incorporating a `class` keyword. This is a classic example of rewriting and refining. It's not a "big idea" like promises or even proxies. It's not very glamorous, the people who don't like OO complain about it being unecessary, and the people who like OO complain that it ignores recent research. Like most rewriting, it serves its users at the expense of its implementors, who'd probably be just as happy figuring out how to add gradual typing to ES-7.
+[^2]: EcmaScript-6 is incorporating a `class` keyword. This is a classic example of rewriting and refining. It's not a "big idea" like promises or even proxies. It's not very hip: the people who don't like OO complain about it being unecessary, and the people who like OO complain that it ignores recent research. Like most rewriting, it serves its users at the expense of its implementors, who'd probably be just as happy figuring out how to add gradual typing to ES-7.
 
 ### balance
 
@@ -77,7 +77,7 @@ If we find ourselves doing a lot of rewriting, but rarely push ourselves to writ
 
 Whereas, if we spent a lot of our time inventing the future, but little or no time perfecting the present, we probably need to remember that Carlin threw his material away every year, not every performance. To maximize the value we create, we need to write *and* to rewrite. And to rewrite again. And again. And [again][history].
 
-It's not glamerous, but it's an inescapable truth: *We write software for ourselves, we rewrite software for others*.
+It's not glamorous, but it's an inescapable truth: *We write software for ourselves, we rewrite software for others*.
 
 (discuss on [reddit], [hacker news], or [facebook])
 
