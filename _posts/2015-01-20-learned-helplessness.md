@@ -35,13 +35,13 @@ In [The Seven Habits of Highly Effective People][7h], Stephen Covey wrote about 
 
 [7h]: http://www.amazon.com/gp/product/1451639619/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1451639619&linkCode=as2&tag=raganwald001-20&linkId=74O4U24KNJVNQP55
 
-![The circles of concern and influence](assets/images/circles.png)
+![The circles of concern and influence](/assets/images/circles.png)
 
 For most people, the circle of concern surrounds and envelops the circle of influence. We care about many more thaings than we believe we can change.
 
 The difference between them represents things we care about, but believe we can't change. This is unhealthy! We worry about such things, but feel helpless to make them better. Covey argued that we need to align the two circles, to learn how to expand our circle of influence, and also to shrink our circle of concern. When the two are in perfect alignment, we are happiest.
 
-![Decaf Espresso](assets/images/decaf-espresso.jpg)
+![Decaf Espresso](/assets/images/decaf-espresso.jpg)
 
 ### what is learned helplessness?
 
