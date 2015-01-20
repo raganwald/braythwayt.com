@@ -2,8 +2,6 @@
 layout: default
 ---
 
-### preamble
-
 There are a few ideas that have helped shape my evolution as a human being. I've written about one, [Learned Optimism] by Dr. Martin Seligman. Today I'm writing about another idea that was also developed by Dr. Seligman, [Learned Helplessness].
 
 [Learned Optimism]: ttp://www.amazon.com/gp/product/B005DB6S7K/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B005DB6S7K&linkCode=as2&tag=raganwald001-20&linkId=Q5XZ45JJQBT2MTWG
