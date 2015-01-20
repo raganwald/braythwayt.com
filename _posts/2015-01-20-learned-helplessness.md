@@ -125,4 +125,9 @@ It's almost paradoxical: Sometimes, we have to accept that we are powerless to e
 
 ![Angela Davis](/assets/images/angela-davis.jpg)
 
-> I'm no longer accepting the things I cannot change... I'm changing things I cannot accept.—Angela Davis
+> I'm no longer accepting the things I cannot change... I'm changing things I cannot accept.
+> —Angela Davis
+
+---
+
+([edit](https://github.com/raganwald/braythwayt.com/edit/gh-pages/_posts/2015-01-20-learned-helplessness.md) this page.)
