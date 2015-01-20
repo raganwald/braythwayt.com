@@ -39,8 +39,6 @@ For most people, the circle of concern surrounds and envelops the circle of infl
 
 The difference between them represents things we care about, but believe we can't change. This is unhealthy! We worry about such things, but feel helpless to make them better. Covey argued that we need to align the two circles, to learn how to expand our circle of influence, and also to shrink our circle of concern. When the two are in perfect alignment, we are happiest.
 
-![Decaf Espresso](/assets/images/decaf-espresso.jpg)
-
 ### what is learned helplessness?
 
 If "helplessness" is the feeling that we cannot control our own happiness, "learned helplessness" is helplessness that is aquired from our environment. Helplessness we learn from our experience.
@@ -58,6 +56,8 @@ For example, say we have a [Prisoner], and we want to induce learned helplessnes
 [Prisoner]: https://en.wikipedia.org/wiki/The_Prisoner
 
 This is far worse than putting them in a prison where it appears that there is no escape. To return to the "circles" exercise, learned helplessness is the process of shrinking our circle of influence, of learning that we have far less influence than we thought.
+
+![Decaf Espresso](/assets/images/decaf-espresso.jpg)
 
 ### unlearning helplessness
 
