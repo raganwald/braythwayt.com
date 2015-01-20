@@ -2,14 +2,12 @@
 layout: default
 ---
 
-There are a few ideas that have helped shape my evolution as a human being. I've written about one, [Learned Optimism] by Dr. Martin Seligman. Today I'm writing about another idea that was also developed by Dr. Seligman, [Learned Helplessness].
+There are a few ideas that have helped shape my evolution as a human being. I've written about one, [Learned Optimism] by Dr. Martin Seligman. Today I'm writing about another idea that was also developed by Dr. Seligman, [Learned Helplessness].[^disclaim]
 
 [Learned Optimism]: https://www.amazon.com/gp/product/B005DB6S7K/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B005DB6S7K&linkCode=as2&tag=raganwald001-20&linkId=Q5XZ45JJQBT2MTWG
 [Learned Helplessness]: https://en.wikipedia.org/wiki/Learned_helplessness
 
-Seligman's research methodology has attracted a great deal of criticism, as it involved electrically shocking animals, and inducing a kind of depression. The resulting "learned helplessness" is so debilitating, that the methodology has been used by others to torture human beings.
-
-Seligman claims that his work was done to help humans *avoid* depression, and that is the spirit in which I encourage learning about Learned Helplessness.
+[^disclaim]: Seligman's research methodology has attracted a great deal of criticism, as it involved electrically shocking animals, and inducing a kind of depression. The resulting "learned helplessness" is so debilitating, that the methodology has been used by others to torture human beings. Seligman claims that his work was done to help humans *avoid* depression, and that is the spirit in which I encourage learning about Learned Helplessness.
 
 ![Decaf Espresso](/assets/images/decaf-espresso.jpg)
 
@@ -83,11 +81,9 @@ There are lots of such things in the world. But the good news is, they learned h
 
 Let's get the big strategy out of the way immediately. Some people and some environments are toxic for we as a person, because they are constantly teaching we to be helpless. It is not our fault that someone we love--a partner, even a parent--has toxic behaviours like arbitrarily offering approval and then snatching it back. Or has a substance abuse problem.
 
-These kinds of behaviours are not only negative to us, but they do not respond to our attempts to fix them. They just don't, and it teaches us to feel helpless. Which makes us depressed and sometimes even suicidal.
+These kinds of behaviours are not only negative to us, but they do not respond to our attempts to fix them, and that teaches us to feel helpless. Which makes us depressed and sometimes even suicidal.
 
-I am not an expert on this subject, but if we recognize that someone we care about is teaching we to feel helpless, stop worrying about how to get them into therapy, and go see someone ourself, about our unhappiness. our mood is something we do have control over, and taking charge of our own happiness teaches we that we ren't helpless after all.
-
-Helpless to change someone else? Yes. But not helpless to change ourself.
+I am not an expert on this subject, but if we recognize that someone we care about is teaching us to feel helpless, we need to stop worrying about how to get them into therapy, and go see someone ourselves, to fix about our unhappiness. Our mood is something we  have control over, and taking charge of our own happiness teaches we that we aren't helpless after all.
 
 Likewise, some environments are toxic to us through no fault of any one person. Good people gathered in a group sometimes do ugly things to people, and if it seems impossible to change a toxic person, that problem pales in comparison to changing a toxic environment.
 
@@ -97,9 +93,7 @@ The net effect again is learned helplessness, the feeling that we are powerless 
 
 They may be good people, we need not crticize them as people. But we need to accept that the behaviour of a single otherwsie-good person, or the behaviour of good people when embedded within a certain kind of environment, can teach us to feel helpless.
 
-When we have people or circumstances that teach us to be helpless, sometimes we have to separate ourselves fromm them. It's often the one thing we really can control.
-
-Rats cannot escape from the scientist's maze. Humans can.
+When we have people or circumstances that teach us to be helpless, sometimes we have to separate ourselves fromm them. It's often the only thing we really can control.
 
 ### strategy number two for unlearning helplessness
 
