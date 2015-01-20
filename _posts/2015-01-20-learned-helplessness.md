@@ -61,31 +61,13 @@ This is far worse than putting them in a prison where it appears that there is n
 
 This is far from an "academic" observation. Humans are not rats in a trap. For one thing, we can observe our own response to stimuli, and then treat ourself with stimuli of our own.
 
-For example, an employee might work for an organization where there is a suggestion box, and wher ethey are encouraged to make suggestions, but the suggestions are never acted upon. After a while, they lose hope and stop making suggestions.
-
-This is learned helplessness.
-
-But all is not lost. The employee can agitate for transparency around the decision-making process. The employee can focus their efforts on activities where they have more control over the outcome. In an extreme case, the employee can move to an organization where the environment ismore receptive to their ideas.
-
-Recognizing that they have become discouraged by the suggestion box, the employee can help themselves unlearn helplessness.
-
-There is no way to ensure that the suggestion box will one day be a positive fixture for the employee. But it is possible to make sure that the suggestion box does not induce depression and pessimism.
-
-*Unlearning helplessness is an important life skill*.
-
 The world is full of stimuli that knowingly or accidentally encourage a feeling of helplessness. It's not just receiving negative stimuli, like reading about unhappy things on Twitter. It's being given an affordance that does not effect change, like tweeting about something bad and not having anything change.
 
 There are lots of such things in the world. But the good news is, they learned helplessness is not inevitable. Armed with the knowledge of what they are, and an honest self-appraisal, we can unlearn our helplessness.
 
 ### strategy number one for unleaarning helplessness
 
-Let's get the big strategy out of the way immediately. Some people and some environments are toxic for we as a person, because they are constantly teaching we to be helpless. It is not our fault that someone we love--a partner, even a parent--has toxic behaviours like arbitrarily offering approval and then snatching it back. Or has a substance abuse problem.
-
-These kinds of behaviours are not only negative to us, but they do not respond to our attempts to fix them, and that teaches us to feel helpless. Which makes us depressed and sometimes even suicidal.
-
-I am not an expert on this subject, but if we recognize that someone we care about is teaching us to feel helpless, we need to stop worrying about how to get them into therapy, and go see someone ourselves, to fix about our unhappiness. Our mood is something we  have control over, and taking charge of our own happiness teaches we that we aren't helpless after all.
-
-Likewise, some environments are toxic to us through no fault of any one person. Good people gathered in a group sometimes do ugly things to people, and if it seems impossible to change a toxic person, that problem pales in comparison to changing a toxic environment.
+Let's get the big strategy out of the way immediately. Some environments are toxic to us through no fault of any one person. Good people gathered in a group sometimes do ugly things to people, and if it seems impossible to change a toxic person, that problem pales in comparison to changing a toxic environment.
 
 The worst such environments for us are the ones full of intelligent people with good intentions. This is like an environment where there are "false affordances." Each person we talk to is trying to help we be happy, but none of the strategies work because the environment as a whole resists every single thing we try.
 
