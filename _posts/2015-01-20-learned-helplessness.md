@@ -125,6 +125,6 @@ Our job is not to lament such things, but to figure out how to avoid becoming em
 
 It's almost paradoxical: Sometimes, we have to accept that we are powerless to effect change, in order to effeect change.
 
-![Angela Davis](images/angela-davis.jpg)
+![Angela Davis](assets/images/angela-davis.jpg)
 
 > I'm no longer accepting the things I cannot change... I'm changing things I cannot accept.—Angela Davis
