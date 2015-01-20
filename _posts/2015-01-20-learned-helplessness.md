@@ -31,7 +31,7 @@ To summarize, "helplessness" is a the feeling that we can't control our own happ
 
 ### the circles of concern and influence
 
-In [The Seven Habits of Highly Effective People][7h], Stephen Covey wrote about a similar mechanism. He proposed the following thougyt exercise: Take a sheet of paper, and draw a venn diagram on it. One circle is our "circle of concern," it represents the things we care about. The other circle is our "circle of influence," the things we believe we can control.
+In [The Seven Habits of Highly Effective People][7h], Stephen Covey wrote about a similar mechanism. He proposed the following thought exercise: Take a sheet of paper, and draw a venn diagram on it. One circle is our "circle of concern," it represents the things we care about. The other circle is our "circle of influence," the things we believe we can control.
 
 [7h]: http://www.amazon.com/gp/product/1451639619/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1451639619&linkCode=as2&tag=raganwald001-20&linkId=74O4U24KNJVNQP55
 
