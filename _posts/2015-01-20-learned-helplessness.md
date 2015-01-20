@@ -69,17 +69,17 @@ There are lots of such things in the world. But the good news is, they learned h
 
 Let's get the big strategy out of the way immediately. Some environments are toxic to us through no fault of any one person. Good people gathered in a group sometimes do ugly things to people, and if it seems impossible to change a toxic person, that problem pales in comparison to changing a toxic environment.
 
-The worst such environments for us are the ones full of intelligent people with good intentions. This is like an environment where there are "false affordances." Each person we talk to is trying to help we be happy, but none of the strategies work because the environment as a whole resists every single thing we try.
+The worst such environments for us are the ones full of intelligent people with good intentions. This is like an environment where there are "false affordances." Each person we talk to is trying to help us be happy, but none of the strategies work because the environment as a whole resists every single thing we try.
 
 The net effect again is learned helplessness, the feeling that we are powerless to effect meaningful change for ourselves or for the environment as a whole.
 
-They may be good people, we need not crticize them as people. But we need to accept that the behaviour of a single otherwsie-good person, or the behaviour of good people when embedded within a certain kind of environment, can teach us to feel helpless.
+They may be good people, we need not criticize them as people. But we need to accept that the behaviour of a single otherwise-good person, or the behaviour of good people when embedded within a certain kind of environment, can teach us to feel helpless.
 
 When we have people or circumstances that teach us to be helpless, sometimes we have to separate ourselves fromm them. It's often the only thing we really can control.
 
 ### strategy number two for unlearning helplessness
 
-Another strategy for "unstucking ourselves" is to adopt Stephen Covey's methodology. Think about our circles of concern and influence, and consciously shring our circle of concern to match our perceived circle of incluence.
+Another strategy for "unstucking ourselves" is to adopt Stephen Covey's methodology. Think about our circles of concern and influence, and consciously shrink our circle of concern to match our perceived circle of incluence.
 
 If we are continually getting shut down on suggestions, stop making suggestions. That's really depressing if we want to help craft the future, but maybe, just maybe, we don't really want to craft the future. Maybe we make suggestions because we perceive that's how to gain approval from our colleagues.
 
