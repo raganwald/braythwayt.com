@@ -33,7 +33,7 @@ In [The Seven Habits of Highly Effective People][7h], Stephen Covey wrote about 
 
 [7h]: http://www.amazon.com/gp/product/1451639619/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1451639619&linkCode=as2&tag=raganwald001-20&linkId=74O4U24KNJVNQP55
 
-![The circles of concern and influence](/assets/images/circles.png)
+![The circles of concern and influence](/assets/images/circles-padding.png)
 
 For most people, the circle of concern surrounds and envelops the circle of influence. We care about many more thaings than we believe we can change.
 
