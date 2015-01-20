@@ -4,7 +4,7 @@ layout: default
 
 There are a few ideas that have helped shape my evolution as a human being. I've written about one, [Learned Optimism] by Dr. Martin Seligman. Today I'm writing about another idea that was also developed by Dr. Seligman, [Learned Helplessness].
 
-[Learned Optimism]: ttp://www.amazon.com/gp/product/B005DB6S7K/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B005DB6S7K&linkCode=as2&tag=raganwald001-20&linkId=Q5XZ45JJQBT2MTWG
+[Learned Optimism]: https://www.amazon.com/gp/product/B005DB6S7K/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B005DB6S7K&linkCode=as2&tag=raganwald001-20&linkId=Q5XZ45JJQBT2MTWG
 [Learned Helplessness]: https://en.wikipedia.org/wiki/Learned_helplessness
 
 Seligman's research methodology has attracted a great deal of criticism, as it involved electrically shocking animals, and inducing a kind of depression. The resulting "learned helplessness" is so debilitating, that the methodology has been used by others to torture human beings.
@@ -33,7 +33,7 @@ To summarize, "helplessness" is a the feeling that we can't control our own happ
 
 In [The Seven Habits of Highly Effective People][7h], Stephen Covey wrote about a similar mechanism. He proposed the following thought exercise: Take a sheet of paper, and draw a venn diagram on it. One circle is our "circle of concern," it represents the things we care about. The other circle is our "circle of influence," the things we believe we can control.
 
-[7h]: http://www.amazon.com/gp/product/1451639619/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1451639619&linkCode=as2&tag=raganwald001-20&linkId=74O4U24KNJVNQP55
+[7h]: https://www.amazon.com/gp/product/1451639619/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1451639619&linkCode=as2&tag=raganwald001-20&linkId=74O4U24KNJVNQP55
 
 ![The circles of concern and influence](/assets/images/circles-padding.png)
 
