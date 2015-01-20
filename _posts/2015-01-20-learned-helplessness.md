@@ -49,7 +49,7 @@ Seligman's research established that helplessness can be learned, primarily by r
 
 To accelerate this process, we provide affordances for control, but teach the subjects that the affordances are unreliable.
 
-<iframe width="600" height="450" src="//www.wetube.com/embed/_WLw5jDOu8M" frameborder="0" allowfullscreen></iframe>
+<iframe width="600" height="450" src="//www.youtube.com/embed/_WLw5jDOu8M" frameborder="0" allowfullscreen></iframe>
 
 For example, say we have a [Prisoner], and we want to induce learned helplessness. In that case, we allow them to hatch escape plots, and even to get started on their escape, but we always catch them after they think they've gotten away, and thus we teach them that no matter how much control it appears they have, they don't really have any control.
 
