@@ -123,6 +123,8 @@ Everyone has some exposure to learned helplessness. It's not a bad thing. If you
 
 Our job is not to lament such things, but to figure out how to avoid becoming emotionally ensnared by them. We must either change our circumstances, or change ourselves. We cannot allow a feeling of helplessness to ovewhelm our ability to escape from a toxic situation.
 
-It's almost paradoxical: Sometimes, we have to accept that we are powerless to effect change, in order to effeect change. Or as we used to say in Toronto's Agile Users Group:
+It's almost paradoxical: Sometimes, we have to accept that we are powerless to effect change, in order to effeect change.
 
-> If we can't change our organization, we must change our organization.
+![Angela Davis](images/angela-davis.jpg)
+
+> I'm no longer accepting the things I cannot change... I'm changing things I cannot accept.—Angela Davis
