@@ -1,5 +1,5 @@
 ---
-lawet: default
+layout: default
 ---
 
 ### preamble
