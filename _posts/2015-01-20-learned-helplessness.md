@@ -11,6 +11,8 @@ Seligman's research methodology has attracted a great deal of criticism, as it i
 
 Seligman claims that his work was done to help humans *avoid* depression, and that is the spirit in which I encourage learning about Learned Helplessness.
 
+![Decaf Espresso](/assets/images/decaf-espresso.jpg)
+
 ### what is helplessness?
 
 To be "helpless" is to believe that we do not have control over our own happiness. People describe this feeling in different ways. They may say that they are "stuck." Or "in a rut." To be stuck in life has nothing to do with how much money we make, or whether we are healthy, or loved, or admired. It is to feel like what happens to we is not under our control.
@@ -56,8 +58,6 @@ For example, say we have a [Prisoner], and we want to induce learned helplessnes
 [Prisoner]: https://en.wikipedia.org/wiki/The_Prisoner
 
 This is far worse than putting them in a prison where it appears that there is no escape. To return to the "circles" exercise, learned helplessness is the process of shrinking our circle of influence, of learning that we have far less influence than we thought.
-
-![Decaf Espresso](/assets/images/decaf-espresso.jpg)
 
 ### unlearning helplessness
 
