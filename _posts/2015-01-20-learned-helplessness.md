@@ -10,9 +10,11 @@ There are a few ideas that have helped shape my evolution as a human being. I've
 
 [^disclaim]: Seligman's research methodology has attracted a great deal of criticism, as it involved electrically shocking animals, and inducing a kind of depression. The resulting "learned helplessness" is so debilitating, that the methodology has been used by others to torture human beings. Seligman claims that his work was done to help humans *avoid* depression, and that is the spirit in which I encourage learning about Learned Helplessness.
 
+[![Everything you do is irrelevant](/assets/images/ftrain.png)](https://twitter.com/ftrain/status/490162232903602177)
+
 ### what is helplessness?
 
-To be "helpless" is to believe that we do not have control over our own happiness. People describe this feeling in different ways. They may say that they are "stuck." Or "in a rut." To be stuck in life has nothing to do with how much money we make, or whether we are healthy, or loved, or admired. It is to feel like what happens to us is not under our control.
+To be "helpless" is to believe that we do not have control over our own happiness. People describe this feeling in different ways. They may say that they are "stuck." Or "in a rut." To be stuck in life has nothing to do with how much money we make, or whether we are healthy, or loved, or admired. It is to feel that what happens to us is not under our control.
 
 Obviously, people feel bad when bad things happen to them. But what surprised me was that how bad we feel is more closely correlated to our feeling of helplessness than the magnitude of the bad thing itself.
 
