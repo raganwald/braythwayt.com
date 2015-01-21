@@ -22,7 +22,7 @@ Obviously, people feel bad when bad things happen to them. But what surprised me
 
 [chouette]: https://en.wikipedia.org/wiki/Backgammon_chouette
 
-> Whereas, I vividly recall being bullied about my colour in primary school. It felt like mo matter what I did, the bullying continued. It was very depressing, and as we can see, that memory has never left me. But what do taunts matter? Very little, even in aggregate. It's not the taunts that hurt a ltttle black boy in 1968, it was the experience of being able to do nothing about them.
+> Whereas, I vividly recall being bullied about my colour in primary school. It felt like no matter what I did, the bullying continued. It was very depressing, and as we can see, that memory has never left me. But what do taunts matter? Very little, even in aggregate. It's not the taunts that hurt a ltttle black boy in 1968, it was the experience of being able to do nothing about them.
 
 To summarize, "helplessness" is a the feeling that we can't control our own happiness. When people feel helpless about bad things that happen to them, it is more depressing and debilitating than the impact of the bad things themselves.
 
