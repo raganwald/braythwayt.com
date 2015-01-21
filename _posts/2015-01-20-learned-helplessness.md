@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Unlearning Helplessness
 ---
 
 There are a few ideas that have helped shape my evolution as a human being. I've written about one, [Learned Optimism] by Dr. Martin Seligman. Today I'm writing about another idea that was also developed by Dr. Seligman, [Learned Helplessness].[^disclaim]
