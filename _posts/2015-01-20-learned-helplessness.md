@@ -100,13 +100,13 @@ His research reveals that if we are pessimists, we can train ourselves to become
 
 > Consider someone who feels "stuck" professionally. They have a job, but feel unable to contribute to anything their team considers important. Their suggestions for new features and initiatives are rebuffed.
 
-> They could be pessimistic and feel that they don't belong on the team (personal), that their career is stalled (general), and that this will continue indefiniately (permanent). In addition, having failed in their attempts to make change, they become afflicted with learned helplessness.
+> They could be pessimistic and feel that they don't belong on the team (personal), that their career is stalled (general), and that this will continue indefinitely (permanent). In addition, having failed in their attempts to make change, they become afflicted with learned helplessness.
 
 > They could also teach themselves to see that perhaps the entire team is stuck (impersonal), that this is not about their entire career but just about what they happen to be doing at work (specific), and that the situation is changing, albeit slowly (temporary).
 
 Helplessness is a very personal feeling. We feel helpless, but we see that others around us are not helpless. Helplessness is also a very general feeling. We feel like we're stuck, not like we can't solve this one thing in our life. And helplessness is a very permanent feeling. If being stuck wont last forever, we aren't helpless, we need only be patient. We feel helpless because we fear that things will not change.
 
-Seligman's tactics for learning optimism are useful for unlearning helplessness. By teacing ourselves to see adverse circumstances as impersonal, specific, and temporary, we unlearn the feeling of helplessness.
+Seligman's tactics for learning optimism are useful for unlearning helplessness. By teaching ourselves to see adverse circumstances as impersonal, specific, and temporary, we unlearn the feeling of helplessness.
 
 [![Change](/assets/images/change.jpg)](https://www.flickr.com/photos/nanagyei/6636632951)
 
