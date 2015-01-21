@@ -42,7 +42,7 @@ The difference between them represents things we care about, but believe we can'
 
 ### what is learned helplessness?
 
-If "helplessness" is the feeling that we cannot control our own happiness, "learned helplessness" is helplessness that is aquired from our environment. Helplessness we learn from our experience.
+If "helplessness" is the feeling that we cannot control our own happiness, "learned helplessness" is helplessness that is aquired from our environment.
 
 > In learned helplessness studies, an animal is repeatedly exposed to an aversive stimulus which it cannot escape. Eventually, the animal stops trying to avoid the stimulus and behaves as if it is helpless to change the situation. When opportunities to escape become available, learned helplessness means the animal does not take any action.--[Wikipedia][Learned Helplessness]
 
@@ -76,15 +76,11 @@ When we have people or circumstances that teach us to be helpless, we need to ch
 
 ### aligning our circles
 
-A strategy for "unstucking ourselves" is to adopt Stephen Covey's methodology. Think about our circles of concern and influence, and consciously shring our circle of concern to match our perceived circle of incluence.
-
-If we are continually getting shut down on suggestions, stop making suggestions. That's really depressing if we want to help craft the future, but maybe, just maybe, we don't really want to craft the future. Maybe we make suggestions because we perceive that's how to gain approval from our colleagues.
-
-If what we really want is approval, we can find other ways to gain approval. Focus our concern on the things that really matter to we, and focus our activities on the things that produce actual results.
+A strategy for "unstucking ourselves" is to adopt Stephen Covey's methodology. Think about our circles of concern and influence, and consciously shrinking our circle of concern to match our perceived circle of influence.
 
 It isn't always a big, bad toxic person in our life, or a big, bad, toxic environment. Sometimes it's that we have misaligned circles of concern and influence, and we are investing our energies in areas where our actions do not make us happier, so *we* are teaching ourselves to be helpless.
 
-The solution is to look hard at what we care about, and to focus on that portion that lies within our control. Sometimes that does mean a catastropic change in our environment, but often the hard work is in self-examination, in recognizing what really matters, and thus changing our behaviour so that our activities are within our circle of influence.
+The solution may be to look hard at what we care about, and to focus on that portion that lies within our control. Sometimes that does mean a catastropic change in our environment, but often the hard work is in self-examination, in recognizing what really matters, and thus changing our behaviour so that our activities are within our circle of influence.
 
 As we do things, and we perceive that those things effect change on things we actually care about, we unlearn our helplessness.
 
