@@ -88,6 +88,8 @@ The solution is to look hard at what we care about, and to focus on that portion
 
 As we do things, and we perceive that those things effect change on things we actually care about, we unlearn our helplessness.
 
+![Pessimism or Optimism](/assets/images/pessimism-or-optimism-small.jpg)
+
 ### optimism and unlearning helplessness
 
 In Learned Optimism,[^optimism] Dr. Seligman talks about how we explain unhappy events to ourselves: Whether we think of them as "personal" or "impersonal," whether we see them as affecting us in a "general" or "specific" way, and whether we consider the unhappy events as "permanent" or "temporary."
@@ -96,7 +98,7 @@ In Learned Optimism,[^optimism] Dr. Seligman talks about how we explain unhappy 
 
 Some people view adverse events as being personal to them, affecting them in a general way, and as being a permanent condition of their life. Dr. Seligman's describes these people as *pessimists*. Other people view adverse events as being impersonal, specific to just one aspect of their life, and temporary. Dr. Seligman's describes those people as *optimists*.
 
-His research reveals that if we are pessimists, we can train ourselves to become optimists through [Cognitive Behavioural Therapy][cbt]. The basic idea is to observe the way we explain adverse events to ourselves, and then consciously re-explain them to ourselves in an optimistic way.[disclaim2] Our goal is to "re-frane" adverse avents as being impersonal--not about us--rather than personal. As specific--just about one thing--rather than general. And as temporary--just right now--rather than permanent.
+His research reveals that if we are pessimists, we can train ourselves to become optimists through [Cognitive Behavioural Therapy][cbt]. The basic idea is to observe the way we explain adverse events to ourselves, and then consciously re-explain them to ourselves in an optimistic way.[^disclaim2] Our goal is to "re-frane" adverse avents as being impersonal--not about us--rather than personal. As specific--just about one thing--rather than general. And as temporary--just right now--rather than permanent.
 
 [cbt]: https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy
 
@@ -111,6 +113,8 @@ His research reveals that if we are pessimists, we can train ourselves to become
 Helplessness is a very personal feeling. We feel helpless, but we see that others around us are not helpless. Helplessness is also a very general feeling. We feel like we're stuck, not like we can't solve this one thing in our life. And helplessness is a very permanent feeling. If being stuck wont last forever, we aren't helpless, we need only be patient. We feel helpless because we fear that things will not change.
 
 Seligman's tactics for learning optimism are useful for unlearning helplessness. By teacing ourselves to see adverse circumstances as impersonal, specific, and temporary, we unleanr the feeling of helplessness.
+
+[![Change](/assets/images/change.jpg)](https://www.flickr.com/photos/nanagyei/6636632951)
 
 ### the vital importance of change
 
