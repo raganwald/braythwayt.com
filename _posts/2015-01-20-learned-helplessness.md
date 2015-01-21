@@ -96,7 +96,7 @@ In Learned Optimism,[^optimism] Dr. Seligman talks about how we explain unhappy 
 
 Some people view adverse events as being personal to them, affecting them in a general way, and as being a permanent condition of their life. Dr. Seligman's describes these people as *pessimists*. Other people view adverse events as being impersonal, specific to just one aspect of their life, and temporary. Dr. Seligman's describes those people as *optimists*.
 
-His research reveals that if we are pessimists, we can train ourselves to become optimists through [Cognitive Behavioural Therapy][cbt]. The basic idea is to observe the way we explain adverse events to ourselves, and then consciously re-explain them to ourselves in an optimistic way.[^disclaim2] Our goal is to "re-frane" adverse avents as being impersonal--not about us--rather than personal. As specific--just about one thing--rather than general. And as temporary--just right now--rather than permanent.
+His research reveals that if we are pessimists, we can train ourselves to become optimists through [Cognitive Behavioural Therapy][cbt]. The basic idea is to observe the way we explain adverse events to ourselves, and then consciously re-explain them to ourselves in an optimistic way.[^disclaim2] Our goal is to "re-frame" adverse avents as being impersonal--not about us--rather than personal. As specific--just about one thing--rather than general. And as temporary--just right now--rather than permanent.
 
 [cbt]: https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy
 
