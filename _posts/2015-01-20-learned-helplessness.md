@@ -118,7 +118,7 @@ Some things in our lives are not going to respond to our attempts to make change
 
 And most things really are temporary. They change on their own. Or we eventually find the right way to fix them. Or we move on and leave them behind. The feeling that our helplessness is permanent is an illusion.
 
-Our job is not to lament our circumstances, but to avoid becoming emotionally ensnared by them. We must either change our circumstances, or change ourselves. We cannot allow the feeling of helplessness to ovewhelm our ability to teach ourselves how to unlearn that feeling of helplessness.
+Our job is not to lament our circumstances, but to avoid becoming emotionally ensnared by them. We must either change our circumstances, or change ourselves. We cannot allow the feeling of helplessness to overwhelm our ability to teach ourselves how to unlearn that feeling of helplessness.
 
 Because ultimately, [*This too shall pass*][t2sp].
 
