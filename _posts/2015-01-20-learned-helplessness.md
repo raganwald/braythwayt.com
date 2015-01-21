@@ -60,7 +60,7 @@ This is far worse than putting them in a prison where it appears that there is n
 
 Some environments are toxic to us through no fault of any one person. Good people gathered in a group sometimes do unfortunate things to people.
 
-The worst such environments for us are the ones full of intelligent people with good intentions. This is like an environment where there are "false affordances." Each person we talk to is trying to help we be happy, but none of the strategies work because the environment as a whole resists every single thing we try.
+The worst such environments for us are the ones full of intelligent people with good intentions. This is like an environment where there are "false affordances." Each person we talk to is trying to help us be happy, but none of the strategies work because the environment as a whole resists every single thing we try.
 
 The net effect is learned helplessness, the feeling that we are powerless to effect meaningful change for ourselves or for the environment as a whole.
 
