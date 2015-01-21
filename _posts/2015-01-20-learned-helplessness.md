@@ -64,7 +64,7 @@ The worst such environments for us are the ones full of intelligent people with 
 
 The net effect is learned helplessness, the feeling that we are powerless to effect meaningful change for ourselves or for the environment as a whole.
 
-They may be good people, we need not crticize them as people. But we need to accept that the behaviour of a single otherwsie-good person, or the behaviour of good people when embedded within a certain kind of environment, can teach us to feel helpless.
+They may be good people, we need not crticize them as people. But we need to accept that the behaviour of a single otherwise-good person, or the behaviour of good people when embedded within a certain kind of environment, can teach us to feel helpless.
 
 When we have people or circumstances that teach us to be helpless, we need to change ourselves, change the environment, or most drastically, separate ourselves from it.
 
