@@ -12,7 +12,7 @@ title: Unlearning Helplessness
 
 ### what is helplessness?
 
-To be "helpless" is to believe that we do not have control over our own happiness. People describe this feeling in different ways. They may say that they are "stuck." Or "in a rut." To be stuck in life has nothing to do with how much money we make, or whether we are healthy, or loved, or admired.
+Sometimes, we feel that bad things happen to us, and we can't prevent them. Or that our attempts to do good things for ourselves are thwarted by forces beyond our control. People describe this feeling in different ways. They may say that they are "stuck." Or "in a rut." To be stuck in life has nothing to do with how much money we make, or whether we are healthy, or loved, or admired.
 
 Helplessness is to feel that what happens to us is not under our control.
 
