@@ -70,6 +70,10 @@ They may be good people, we need not crticize them as people. But we need to acc
 
 When we have people or circumstances that teach us to be helpless, we need to change ourselves, change the environment, or most drastically, separate ourselves from it.
 
+![Angela Davis](/assets/images/angela-davis.jpg)
+
+> I'm no longer accepting the things I cannot change... I'm changing things I cannot accept.<br/>—Angela Davis
+
 ### aligning our circles
 
 A strategy for "unstucking ourselves" is to adopt Stephen Covey's methodology. Think about our circles of concern and influence, and consciously shring our circle of concern to match our perceived circle of incluence.
@@ -121,10 +125,6 @@ Our job is not to lament our circumstances, but to avoid becoming emotionally en
 Because ultimately, [*This too shall pass*][t2sp].
 
 [t2sp]: https://en.wikipedia.org/wiki/This_too_shall_pass
-
-![Angela Davis](/assets/images/angela-davis.jpg)
-
-> I'm no longer accepting the things I cannot change... I'm changing things I cannot accept.<br/>—Angela Davis
 
 ([edit this page](https://github.com/raganwald/braythwayt.com/edit/gh-pages/_posts/2015-01-20-learned-helplessness.md))
 
