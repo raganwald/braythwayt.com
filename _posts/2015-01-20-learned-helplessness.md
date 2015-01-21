@@ -88,7 +88,7 @@ The solution is to look hard at what we care about, and to focus on that portion
 
 As we do things, and we perceive that those things effect change on things we actually care about, we unlearn our helplessness.
 
-![Pessimism or Optimism](/assets/images/pessimism-or-optimism-small.jpg)
+[![Pessimism or Optimism](/assets/images/eventually.jpg)](https://www.flickr.com/photos/quinnanya/3591932941)
 
 ### optimism and unlearning helplessness
 
