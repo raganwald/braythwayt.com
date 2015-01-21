@@ -106,7 +106,7 @@ His research reveals that if we are pessimists, we can train ourselves to become
 
 Helplessness is a very personal feeling. We feel helpless, but we see that others around us are not helpless. Helplessness is also a very general feeling. We feel like we're stuck, not like we can't solve this one thing in our life. And helplessness is a very permanent feeling. If being stuck wont last forever, we aren't helpless, we need only be patient. We feel helpless because we fear that things will not change.
 
-Seligman's tactics for learning optimism are useful for unlearning helplessness. By teacing ourselves to see adverse circumstances as impersonal, specific, and temporary, we unleanr the feeling of helplessness.
+Seligman's tactics for learning optimism are useful for unlearning helplessness. By teacing ourselves to see adverse circumstances as impersonal, specific, and temporary, we unlearn the feeling of helplessness.
 
 [![Change](/assets/images/change.jpg)](https://www.flickr.com/photos/nanagyei/6636632951)
 
