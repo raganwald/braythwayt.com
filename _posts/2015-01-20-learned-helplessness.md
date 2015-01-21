@@ -60,7 +60,7 @@ This is far worse than putting them in a prison where it appears that there is n
 
 Some environments are toxic to us through no fault of any one person. Good people gathered in a group sometimes do unfortunate things to people.
 
-The worst such environments for us are the ones full of intelligent people with good intentions. This is like an environment where there are "false affordances." Each person we talk to is trying to help we be happy, but none of the strategies work because the environment as a whole resists every single thing we try.
+The worst such environments for us are the ones full of intelligent people with good intentions. This is like an environment where there are "false affordances." Each person we talk to is trying to help us be happy, but none of the strategies work because the environment as a whole resists every single thing we try.
 
 The net effect is learned helplessness, the feeling that we are powerless to effect meaningful change for ourselves or for the environment as a whole.
 
@@ -92,7 +92,7 @@ In Learned Optimism,[^optimism] Dr. Seligman talks about how we explain unhappy 
 
 Some people view adverse events as being personal to them, affecting them in a general way, and as being a permanent condition of their life. Dr. Seligman's describes these people as *pessimists*. Other people view adverse events as being impersonal, specific to just one aspect of their life, and temporary. Dr. Seligman's describes those people as *optimists*.
 
-His research reveals that if we are pessimists, we can train ourselves to become optimists through [Cognitive Behavioural Therapy][cbt]. The basic idea is to observe the way we explain adverse events to ourselves, and then consciously re-explain them to ourselves in an optimistic way.[^disclaim2] Our goal is to "re-frane" adverse avents as being impersonal--not about us--rather than personal. As specific--just about one thing--rather than general. And as temporary--just right now--rather than permanent.
+His research reveals that if we are pessimists, we can train ourselves to become optimists through [Cognitive Behavioural Therapy][cbt]. The basic idea is to observe the way we explain adverse events to ourselves, and then consciously re-explain them to ourselves in an optimistic way.[^disclaim2] Our goal is to "re-frame" adverse avents as being impersonal--not about us--rather than personal. As specific--just about one thing--rather than general. And as temporary--just right now--rather than permanent.
 
 [cbt]: https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy
 
