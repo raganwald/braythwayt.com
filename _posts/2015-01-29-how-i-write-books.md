@@ -57,4 +57,6 @@ The tools will continue to evolve, but I believe very strongly that this is the 
 
 Thanks for allowing me to share your question.
 
+---
+
 (Spot a typo? [Edit this page](https://github.com/raganwald/braythwayt.com/edit/gh-pages/_posts/2015-01-29-how-i-write-books.md)!)
