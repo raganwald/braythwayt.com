@@ -48,3 +48,5 @@ That feedback can be obtained in many ways, but it doesn't hurt that LeanPub mak
 Which brings me to a close: My entire workflow revolves around tightening the write -> read -> feedback -> rewrite loop. Text files in [Markdown] format facilitate this. [GitHub Pages] facilitates this. [Pull requests in the browser][web-flow] facilitate this. And [LeanPub] facilitates this. Overall, I think the combination is right for me, and my readers seem happy with the results.
 
 Thanks for allowing me to share your question.
+
+(Spot a typo? [Edit this page](https://github.com/raganwald/braythwayt.com/edit/gh-pages/_posts/2015-01-29-how-i-write-books.md))
