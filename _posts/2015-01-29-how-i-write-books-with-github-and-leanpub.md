@@ -22,7 +22,7 @@ I write [books](https://leanpub.com/u/raganwald), and I write a [technical blog]
 [JavaScript Spessore]: https://leanpub.com/javascript-spessore
 [GitHub Pages]: https://pages.github.com
 
-I would find it very awkward to take material on a one-way trip from a blog post into a professional publishing tool like InDesign, so I have made a conscious decision to use text files in [Markdown] format for everything. I publish. Many successful authors have much higher standards for the format and layout of their books, and I believe they are not satisfied with Markdown. I understand that, but the tradeoff works for me.
+I would find it very awkward to take material on a one-way trip from a blog post into a professional publishing tool like InDesign, so I have made a conscious decision to use text files in [Markdown] format for everything I publish. Many successful authors have much higher standards for the format and layout of their books, and they may not be satisfied with Markdown. I understand that, but the tradeoff works for me.
 
 I pubish the blog posts using [GitHub Pages], and I use Leanpub's GitHub integration to publish my books. Storing things in GitHub has a very big benefit for my blog posts and for my "free" books: Readers can file issues and even submit pull requests to suggest fixes.
 
@@ -42,7 +42,7 @@ GitHub also has enormous support for [making changes right in a web browser and 
 
 ### Leanpub as a Business Tool
 
-From a marketing and sales point of view, I have not tried other approaches, so I cannot comment on whether Leanpub is superior. I do not publish printed works, not do I directly publish through distribtion channels like Amazon. I imagine Leanpub do provide some "walk-in traffic" for my book sales, I have seen spikes when a book of mine or a bundle is featured, but that is not my main motivation for using them.
+From a marketing and sales point of view, I have not tried other approaches, so I cannot comment on whether Leanpub is superior. I do not publish printed works, nor do I directly publish through distribtion channels like Amazon. I imagine Leanpub do provide some "walk-in traffic" for my book sales, I have seen spikes when a book of mine or a bundle is featured, but that is not my main motivation for using them.
 
 ![Rewriting a Blog Post](/assets/images/history.png)
 
