@@ -44,7 +44,7 @@ GitHub also has enormous support for [making changes right in a web browser and 
 
 ### Leanpub as a Business Tool
 
-From a marketing and sales point of view, I have not tried other approaches, so I cannot comment on whether Leanpub is superior. I do not publish printed works, nor do I directly publish through distribtion channels like Amazon. I imagine Leanpub do provide some "walk-in traffic" for my book sales, I have seen spikes when a book of mine or a bundle is featured, but that is not my main motivation for using them.
+From a marketing and sales point of view, I have not tried other approaches, so I cannot comment on whether Leanpub is superior. I do not publish printed works, nor do I directly publish through distribution channels like Amazon. I imagine Leanpub do provide some "walk-in traffic" for my book sales, I have seen spikes when a book of mine or a bundle is featured, but that is not my main motivation for using them.
 
 ![Rewriting a Blog Post](/assets/images/history.png)
 
