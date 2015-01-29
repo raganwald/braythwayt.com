@@ -50,7 +50,7 @@ From a marketing and sales point of view, I have not tried other approaches, so 
 
 What I like most about Leanpub is the "work in progress" model. I tend to rewrite blog posts furiously as I get feedback, and I do the same with books. Getting feedback during the writing process is very valuable to me. Presales don't hurt, obviously. I can tell you that I have abandoned at least two prospective books because the Internet yawned and didn't sign up to be informed when they were published.
 
-That feedback can be obtained in many ways, but it doesn't hurt that Leanpub makes it so easy to put up an unpublished book and get feedback, then publish it a morsel at a time if you decide to go ahead with the project. That's the whole idea behind "lean" publishing: Tighten and accelerate the feedback loop.
+That feedback can be obtained in many ways, but it is a huge bonus that Leanpub makes it easy to put up an unpublished book and get feedback, then publish it a morsel at a time if you decide to go ahead with the project. That's the whole idea behind "lean" publishing: Tighten and accelerate the feedback loop.
 
 ### Closing the Loop
 
