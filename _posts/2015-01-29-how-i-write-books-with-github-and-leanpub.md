@@ -3,7 +3,9 @@ layout: default
 title: "How I Write Books with GitHub and Leanpub"
 ---
 
-Chris wrote to ask:
+[Chris] wrote to ask:
+
+[Chris]: https://twitter.com/thebrannon
 
 > I had a couple of questions about writing and publishing:
 
