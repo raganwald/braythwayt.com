@@ -30,7 +30,7 @@ I pubish the blog posts using [GitHub Pages], and I use Leanpub's GitHub integra
 
 ![A pull request](/assets/images/pullrequest.png)
 
-Again, I find it invaluable that I have the exact same process for both kinds of my writing: Make changes, commit, push upstream. Review pull requests, merge changes.
+Again, I find it invaluable that I have the exact same process for both kinds of my writing: Make changes, commit, push upstream. Review pull requests, merge changes. To me, that's what GitHub is all about: Making it nearly frictionless for people to collaborate on projects.
 
 This workflow is obviously very accessible for programmers who are used to this process for code. But I believe that this process is valuable for all forms of collaboration, and that over time the industry will find ways to refine it to be even more useful for a wide variety of users. For example, GitHub has a specific feature for reviewing changes to prose:
 
