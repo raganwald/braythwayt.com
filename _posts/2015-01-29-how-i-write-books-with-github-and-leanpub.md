@@ -10,14 +10,14 @@ Chris wrote to ask:
 > 1. What software do you use for writing? I’ve read that Sublime Text is the way to fly. I’m new to the markdown process of writing; I’m more at home with Word, but I’m willing to try something new.
 > 2. I’m investigating [Leanpub]. Another alternative would be to take a more DIY approach and use Gumroad. Why did you choose Leanpub? Was it because it’s the best end-to-end option? I know that it also allows you to support a Canadian-based business as an added bonus. Also, I can see the point that, since they are already established, you know that a specific, book-buying audience is visiting the site.
 
-I use [GitHub] and [Leanpub] to publish my books. The combination is unbeatable for my personal needs, and IMO, are a combination that is much bigger than "the sum of its parts."
+I use [GitHub] and [Leanpub] to publish my books. The combination is unbeatable for my personal needs, and IMO, it is a combination that is "much greater than the sum of its parts."
 
 [GitHub]: https://github.com
 [Leanpub]: https://leanpub.com
 
-### why i use github and leanpub
+### Why I use GitHub and Leanpub
 
-I write [books](https://leanpub.com/u/raganwald), and I write a [technical blog](http://raganwald.com). I use the same toolchain for blogging and writing. It is more than a simple matter of convenience, part of how I create my books is to try some of the material out as blog posts. After geeting feedback on the posts, I rework the material and put it into my books. The material from [Greenspunning Predicate and Multiple Dispatch in JavaScript](http://raganwald.com/2014/06/23/multiple-dispatch.html) made its way into my book [JavaScript Spessore].
+I write [books](https://leanpub.com/u/raganwald), and I write a [technical blog](http://raganwald.com). I use the same toolchain for blogging and writing. It is more than a simple matter of convenience, part of how I create my books is to try some of the material out as blog posts. After geeting feedback on the posts, I rework the material and put it into my books. For example, the material from my essay about [Greenspunning Predicate and Multiple Dispatch in JavaScript](http://raganwald.com/2014/06/23/multiple-dispatch.html) made its way into my book [JavaScript Spessore].
 
 [JavaScript Spessore]: https://leanpub.com/javascript-spessore
 [GitHub Pages]: https://pages.github.com
@@ -40,7 +40,7 @@ GitHub also has enormous support for [making changes right in a web browser and 
 
 [web-flow]: https://help.github.com/articles/github-flow-in-the-browser/
 
-### leanpub as a business tool
+### Leanpub as a Business Tool
 
 From a marketing and sales point of view, I have not tried other approaches, so I cannot comment on whether Leanpub is superior. I do not publish printed works, not do I directly publish through distribtion channels like Amazon. I imagine Leanpub do provide some "walk-in traffic" for my book sales, I have seen spikes when a book of mine or a bundle is featured, but that is not my main motivation for using them.
 
@@ -50,7 +50,7 @@ What I like most about Leanpub is the "work in progress" model. I tend to rewrit
 
 That feedback can be obtained in many ways, but it doesn't hurt that Leanpub makes it so easy to put up an unpublished book and get feedback, then publish it a morsel at a time if you decide to go ahead with the project. That's the whole idea behind "lean" publishing: Tighten and accelerate the feedback loop.
 
-### closing the loop
+### Closing the Loop
 
 Which brings me to a close: My entire workflow revolves around tightening the write -> read -> feedback -> rewrite loop. Text files in [Markdown] format facilitate this. Trying material out in my blog using [GitHub Pages] facilitates this. [Pull requests in the browser][web-flow] facilitate this. And [Leanpub] facilitates this. Each piece works with the other pieces to write, be read, obtain feedback, and rewrite.
 
