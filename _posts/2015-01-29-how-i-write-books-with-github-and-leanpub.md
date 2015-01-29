@@ -59,4 +59,4 @@ Thanks for allowing me to share your question.
 
 ---
 
-(Spot a typo? [Edit this page](https://github.com/raganwald/braythwayt.com/edit/gh-pages/_posts/2015-01-29-how-i-write-books.md)!)
+(Spot a typo? [Edit this page](https://github.com/raganwald/braythwayt.com/edit/gh-pages/_posts/2015-01-29-how-i-write-books-with-github-and-leanpub.md)!)
