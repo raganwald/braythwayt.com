@@ -24,9 +24,9 @@ I write [books](https://leanpub.com/u/raganwald), and I write a [technical blog]
 [JavaScript Spessore]: https://leanpub.com/javascript-spessore
 [GitHub Pages]: https://pages.github.com
 
-I would find it very awkward to take material on a one-way trip from a blog post into a professional publishing tool like InDesign, so I have made a conscious decision to use text files in [Markdown] format for everything I publish. Many successful authors have much higher standards for the format and layout of their books, and they may not be satisfied with Markdown. I understand that, but the tradeoff works for me.
+It can be awkward to take material on a one-way trip from a blog post into a professional publishing tool like InDesign: It would be harder to constantly revise and improve the work. Therefore, I have made a conscious decision to use text files in [Markdown] format for everything I publish, end to end. Many successful authors have much higher standards for the format and layout of their books, and they may not be satisfied with Markdown. I understand that, but the tradeoff works for me.
 
-I pubish the blog posts using [GitHub Pages], and I use Leanpub's GitHub integration to publish my books. Storing things in GitHub has a very big benefit for my blog posts and for my "free" books: Readers can file issues and even submit pull requests to suggest fixes.
+The blog is published using [GitHub Pages], and Leanpub's GitHub integration publishes the books. Storing things in GitHub has a very big benefit for blogs and for "free" books: Readers can file issues and even submit pull requests to suggest fixes.
 
 [Markdown]: http://daringfireball.net/projects/markdown/
 
