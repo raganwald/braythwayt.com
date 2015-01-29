@@ -1,5 +1,6 @@
 ---
 layout: default
+title: "How I Write Books with GitHub and Leanpub"
 ---
 
 Chris wrote to ask:
@@ -7,12 +8,12 @@ Chris wrote to ask:
 > I had a couple of questions about writing and publishing:
 
 > 1. What software do you use for writing? I’ve read that Sublime Text is the way to fly. I’m new to the markdown process of writing; I’m more at home with Word, but I’m willing to try something new.
-> 2. I’m investigating [LeanPub]. Another alternative would be to take a more DIY approach and use Gumroad. Why did you choose Leanpub? Was it because it’s the best end-to-end option? I know that it also allows you to support a Canadian-based business as an added bonus. Also, I can see the point that, since they are already established, you know that a specific, book-buying audience is visiting the site.
+> 2. I’m investigating [Leanpub]. Another alternative would be to take a more DIY approach and use Gumroad. Why did you choose Leanpub? Was it because it’s the best end-to-end option? I know that it also allows you to support a Canadian-based business as an added bonus. Also, I can see the point that, since they are already established, you know that a specific, book-buying audience is visiting the site.
 
-I use [GitHub] and [LeanPub] to publish my books. The combination is unbeatable for my personal needs, and IMO, are a combination that is much bigger than "the sum of its parts."
+I use [GitHub] and [Leanpub] to publish my books. The combination is unbeatable for my personal needs, and IMO, are a combination that is much bigger than "the sum of its parts."
 
 [GitHub]: https://github.com
-[LeanPub]: https://leanpub.com
+[Leanpub]: https://leanpub.com
 
 ### why i use github and leanpub
 
@@ -23,7 +24,7 @@ I write [books](https://leanpub.com/u/raganwald), and I write a [technical blog]
 
 I would find it very awkward to take material on a one-way trip from a blog post into a professional publishing tool like InDesign, so I have made a conscious decision to use text files in [Markdown] format for everything. I publish. Many successful authors have much higher standards for the format and layout of their books, and I believe they are not satisfied with Markdown. I understand that, but the tradeoff works for me.
 
-I pubish the blog posts using [GitHub Pages], and I use LeanPub's GitHub integration to publish my books. Storing things in GitHub has a very big benefit for my blog posts and for my "free" books: Readers can file issues and even submit pull requests to suggest fixes.
+I pubish the blog posts using [GitHub Pages], and I use Leanpub's GitHub integration to publish my books. Storing things in GitHub has a very big benefit for my blog posts and for my "free" books: Readers can file issues and even submit pull requests to suggest fixes.
 
 [Markdown]: http://daringfireball.net/projects/markdown/
 
@@ -41,17 +42,17 @@ GitHub also has enormous support for [making changes right in a web browser and 
 
 ### leanpub as a business tool
 
-From a marketing and sales point of view, I have not tried other approaches, so I cannot comment on whether LeanPub is superior. I do not publish printed works, not do I directly publish through distribtion channels like Amazon. I imagine LeanPub do provide some "walk-in traffic" for my book sales, I have seen spikes when a book of mine or a bundle is featured, but that is not my main motivation for using them.
+From a marketing and sales point of view, I have not tried other approaches, so I cannot comment on whether Leanpub is superior. I do not publish printed works, not do I directly publish through distribtion channels like Amazon. I imagine Leanpub do provide some "walk-in traffic" for my book sales, I have seen spikes when a book of mine or a bundle is featured, but that is not my main motivation for using them.
 
 ![Rewriting a Blog Post](/assets/images/history.png)
 
-What I like most about LeanPub is the "work in progress" model. I tend to rewrite blog posts furiously as I get feedback, and I do the same with books. Getting feedback during the writing process is very valuable to me. Presales don't hurt, obviously. I can tell you that I have abandoned at least two prospective books because the Internet yawned and didn't sign up to be informed when they were published.
+What I like most about Leanpub is the "work in progress" model. I tend to rewrite blog posts furiously as I get feedback, and I do the same with books. Getting feedback during the writing process is very valuable to me. Presales don't hurt, obviously. I can tell you that I have abandoned at least two prospective books because the Internet yawned and didn't sign up to be informed when they were published.
 
-That feedback can be obtained in many ways, but it doesn't hurt that LeanPub makes it so easy to put up an unpublished book and get feedback, then publish it a morsel at a time if you decide to go ahead with the project. That's the whole idea behind "lean" publishing: Tighten and accelerate the feedback loop.
+That feedback can be obtained in many ways, but it doesn't hurt that Leanpub makes it so easy to put up an unpublished book and get feedback, then publish it a morsel at a time if you decide to go ahead with the project. That's the whole idea behind "lean" publishing: Tighten and accelerate the feedback loop.
 
 ### closing the loop
 
-Which brings me to a close: My entire workflow revolves around tightening the write -> read -> feedback -> rewrite loop. Text files in [Markdown] format facilitate this. Trying material out in my blog using [GitHub Pages] facilitates this. [Pull requests in the browser][web-flow] facilitate this. And [LeanPub] facilitates this. Each piece works with the other pieces to write, be read, obtain feedback, and rewrite.
+Which brings me to a close: My entire workflow revolves around tightening the write -> read -> feedback -> rewrite loop. Text files in [Markdown] format facilitate this. Trying material out in my blog using [GitHub Pages] facilitates this. [Pull requests in the browser][web-flow] facilitate this. And [Leanpub] facilitates this. Each piece works with the other pieces to write, be read, obtain feedback, and rewrite.
 
 The tools will continue to evolve, but I believe very strongly that this is the right track for me to be on: Tools that facilitate speed of publishing, feedback from the market, and collaboration with readers.
 
