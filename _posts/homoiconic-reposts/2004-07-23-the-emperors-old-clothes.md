@@ -1,5 +1,5 @@
 ---
-title: "The Emeperor's Old Clothes, by C.A.R. Hoare"
+title: "The Emperor's Old Clothes, by C.A.R. Hoare"
 layout: default
 categories: homoiconic
 ---
