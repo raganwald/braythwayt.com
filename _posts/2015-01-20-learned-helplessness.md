@@ -5,7 +5,7 @@ title: Unlearning Helplessness
 
 *There are a few ideas that have helped shape my evolution as a human being. I've written about one, [Learned Optimism] by Dr. Martin Seligman. Today I'm writing about another idea that was also developed by Dr. Seligman, [Learned Helplessness].*[^disclaim]
 
-[Learned Optimism]: https://www.amazon.com/gp/product/B005DB6S7K/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B005DB6S7K&linkCode=as2&tag=raganwald001-20&linkId=Q5XZ45JJQBT2MTWG
+[Learned Optimism]: https://www.amazon.com/gp/product/B005DB6S7K/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B005DB6S7K&linkCode=as2&tag=raganwald001-c20&linkId=Q5XZ45JJQBT2MTWG
 [Learned Helplessness]: https://en.wikipedia.org/wiki/Learned_helplessness
 
 [^disclaim]: Seligman's research methodology has attracted a great deal of criticism, as it involved electrically shocking animals, and inducing a kind of depression. The resulting "learned helplessness" is so debilitating, that the methodology has been used by others to torture human beings. Seligman claims that his work was done to help humans *avoid* depression, and that is the spirit in which I encourage learning about Learned Helplessness.
@@ -68,7 +68,7 @@ The worst such environments for us are the ones full of intelligent people with 
 
 The net effect is learned helplessness, the feeling that we are powerless to effect meaningful change for ourselves or for the environment as a whole.
 
-They may be good people, we need not crticize them as people. But we need to accept that the behaviour of a single otherwise-good person, or the behaviour of good people when embedded within a certain kind of environment, can teach us to feel helpless.
+They may be good people, we need not criticize them as people. But we need to accept that the behaviour of a single otherwise-good person, or the behaviour of good people when embedded within a certain kind of environment, can teach us to feel helpless.
 
 When we have people or circumstances that teach us to be helpless, we need to change ourselves, change the environment, or most drastically, separate ourselves from it.
 
