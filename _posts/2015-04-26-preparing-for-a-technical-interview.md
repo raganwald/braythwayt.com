@@ -1,5 +1,6 @@
 ---
 layout: default
+title: "Preparing for a Technical Interview"
 ---
 
 On Hacker News, "hidro" [asked](https://news.ycombinator.com/item?id=9441500):
