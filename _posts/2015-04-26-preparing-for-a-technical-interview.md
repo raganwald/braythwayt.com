@@ -41,9 +41,11 @@ That turns the pressure up, and is depressing. Far better to accept that intervi
 
 So what about more than one day before the interview? Should you study algorithms? Or language constructs? Or anything else that interviewers seem to ask?
 
-I think not. Or at least, not for the sake of an interview. Instead, discipline yourself to seek out books and blog posts and lectures that are technical. There is a vast difference between learning about [Merge Sort](https://gist.github.com/raganwald/0cabc0f8024e8f78ec69) because you think you may want to use it one day and learning about Merge Sort because you were browsing Glassdoor and heard that Company X likes to ask about it.
+I think not. Or at least, not for the sake of an interview. Instead, discipline yourself to seek out books and blog posts and lectures that are technical. There is a vast difference between learning about [Merge Sort](https://gist.github.com/raganwald/0cabc0f8024e8f78ec69) because you think you may want to use it one day, and learning about Merge Sort because you were browsing Glassdoor and heard that Company X likes to ask about it.
 
-Instead of setting aside an hour a day for practice, I'd say be curious about technical subjects, and when you run into something new—[like generators and iterators when you're reading about infinity](http://raganwald.com/2015/04/24/hilberts-school.html)—pause for a moment to write out some generators and iterators for yourself. This is far more engaging than just reading, and as a pleasant bonus, if you do get asked about generators and iterators, you can always say, "I don't use them a lot, but I read about them in a post on Hacker News about infinity," and you come across as someone who is eager and curious, rather than someone who is trying to game the system by studying things they don't actually know how to use.
+Instead of setting aside an hour a day for practice, I'd say be curious about technical subjects, and when you run into something new—[like generators and iterators when you're reading about infinity](http://raganwald.com/2015/04/24/hilberts-school.html)—pause for a moment to write out some generators and iterators for yourself.
+
+This is far more engaging than just reading, and as a pleasant bonus, if you do get asked about generators and iterators, you can always say, "I don't use them a lot, but I read about them in a post on Hacker News about infinity," and you come across as someone who is eager and curious, rather than someone who is trying to game the system by studying things they don't actually know how to use.
 
 All of this is JM2C, of course. The truth is, nobody really knows how to win this game every time, sometimes the best you can do is to play with dignity and style.
 
