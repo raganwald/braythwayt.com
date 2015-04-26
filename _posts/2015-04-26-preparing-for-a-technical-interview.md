@@ -16,7 +16,7 @@ Trust that they are sincerely looking for the way you approach a problem and tha
 
 (They might actually be doing a bad job of interviewing, but you can’t control that, so don’t worry about it.)
 
-I believe that if today is Sunday, and you have an interview on Monday, there is actually no point in trying to study something today. Whatever you already know, that’s what you know. so what you want to do is be the best possible you in the interview. And studying the night before is counterproductive:
+I believe that if today is Sunday, and you have an interview on Monday, there is actually no point in trying to study something today. Whatever you already know, that’s what you know. What you want to do is be the best possible you in the interview. And studying the night before is counterproductive:
 
 0. It actually reminds you how little you know. When you study something with no particular interview in mind, you get a little boost of endorphins. You learned something! But when you study something the night before, you get the opposite effect: You don't know this! And you might be missing something important! And theres something else you ought to learn! And Oh God, it's one in the morning!
 0. Studying is hard work, and even if you get a good night's sleep after studying, your brain is still trying to integrate what you just "learned" into what you already know for some time, possibly weeks. So you can regurgitate things the next day, but you haven't learned them to the same level. I believe it's better to say, "Oh, yeah, I know *of* Red-Black Trees, but I don't know them" than to display a superficial familiarity based on a night of study. A good interviewer will quickly root out that you dn't know them that well. Better to read about them when there's no interview on the line, and let the knowledge truly soak in.
@@ -35,3 +35,5 @@ I think that if you walk into the interview with a sense that the things you kno
 And further to that, if you accept that no matter what preparation you make, you can't win them all, you will be more relaxed than if you have an idea that there is a right way to interview. Because if you think there is a right way to ask interviewing questions, and there is a right way to study for interviews, then if you aren't offered a job, it's somebody's fault.
 
 That turns the pressure up, and is depressing. Far better to accept that interviews are hit-and-miss, and if you miss, it's no big deal, there's another interview, with another company tomorrow.
+
+Good luck!
