@@ -20,7 +20,7 @@ Trust that they are sincerely looking for the way you approach a problem and tha
 I believe that if today is Sunday, and you have an interview on Monday, there is actually no point in trying to study something today. Whatever you already know, that’s what you know. What you want to do is be the best possible you in the interview. And studying the night before is counterproductive:
 
 0. It actually reminds you how little you know. When you study something with no particular interview in mind, you get a little boost of endorphins. You learned something! But when you study something the night before, you get the opposite effect: You don't know this! And you might be missing something important! And theres something else you ought to learn! And Oh God, it's one in the morning!<br/><br/>
-0. Studying is hard work, and even if you get a good night's sleep after studying, your brain is still trying to integrate what you just "learned" into what you already know for some time, possibly weeks. So you can regurgitate things the next day, but you haven't learned them to the same level.<br/><br/>I believe it's better to say, "Oh, yeah, I know *of* Red-Black Trees, but I don't know them" than to display a superficial familiarity based on a night of study. A good interviewer will quickly root out that you dn't know them that well. Better to read about them when there's no interview on the line, and let the knowledge truly soak in.
+0. Studying is hard work, and even if you get a good night's sleep after studying, your brain is still trying to integrate what you just "learned" into what you already know for some time, possibly weeks. So you can regurgitate things the next day, but you haven't learned them to the same level.<br/><br/>I believe it's better to say, "Oh, yeah, I know *of* Red-Black Trees, but I don't know them," than to display a superficial familiarity based on a night of study. A good interviewer will quickly root out that you don't know them that well. Better to read about them when there's no interview on the line, and let the knowledge truly soak in.
 
 So if you aren't going to study, what are you going to do?
 
@@ -36,5 +36,15 @@ I think that if you walk into the interview with a sense that the things you kno
 And further to that, if you accept that no matter what preparation you make, you can't win them all, you will be more relaxed than if you have an idea that there is a right way to interview. Because if you think there is a right way to ask interviewing questions, and there is a right way to study for interviews, then if you aren't offered a job, it's somebody's fault.
 
 That turns the pressure up, and is depressing. Far better to accept that interviews are hit-and-miss, and if you miss, it's no big deal, there's another interview, with another company tomorrow.
+
+---
+
+So what about more than one day before the interview? Should you study algorithms? Or language constructs? Or anything else that interviewers seem to ask?
+
+I think not. Or at least, not for the sake of an interview. Instead, discipline yourself to seek out books and blog posts and lectures that are technical. There is a vast difference between learning about [Merge Sort](https://gist.github.com/raganwald/0cabc0f8024e8f78ec69) because you think you may want to use it one day and learning about Merge Sort because you were browsing Glassdoor and heard that Company X likes to ask about it.
+
+Instead of setting aside an hour a day for practice, I'd say be curious about techncial subjects, and when you run into something new—[like generators and iterators when you're reading about infinity](http://raganwald.com/2015/04/24/hilberts-school.html)—pause for a moment to write out some generators and iterators for yourself. This is far mroe engaging than just reading, and as a pleasant bonus, if you do get asked about generators and iterators, you can always say, "I don't use them a lot, but I read about them in a post on Hacker News about infinity," and you come across as someone who is eager and curious, rather than someone who is trying to game the system by studying things they don't actually know how to use.
+
+All of this is JM2C, of course. The truth is, nobody really knows how to win this game every time, sometimes the best you can do is to play with dignity and style.
 
 Good luck!
