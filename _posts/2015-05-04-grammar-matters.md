@@ -3,11 +3,9 @@ title: "Grammar. Matters."
 layout: default
 ---
 
-Consider this tweet:
+Consider these two tweets:
 
 ![Comma](/assets/images/comma.png)
-
-And the nearly identical tweet:
 
 ![No Comma](/assets/images/nocomma.png)
 
