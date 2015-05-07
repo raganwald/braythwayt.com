@@ -126,6 +126,12 @@ Our job is not to lament our circumstances, but to avoid becoming emotionally en
 
 Because ultimately, [*This too shall pass*][t2sp].
 
+---
+
+| [hacker news](https://news.ycombinator.com/item?id=9505007) | [edit this page](https://github.com/raganwald/braythwayt.com/edit/gh-pages/_posts/2015-01-20-learned-helplessness.md) |
+
+---
+
 [t2sp]: https://en.wikipedia.org/wiki/This_too_shall_pass
 
 ([edit this page](https://github.com/raganwald/braythwayt.com/edit/gh-pages/_posts/2015-01-20-learned-helplessness.md))
