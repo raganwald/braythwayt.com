@@ -5,7 +5,7 @@ published: false
 
 I just received an email from the nice people at [Leanpub]. To be precise, their computer sent me an email notifying me that the 547th person had just purchased a copy of [JavaScript Allongé][ja]. I'm closing in on 550 readers after three months or so, and that's kind of cool. Thinking about this blogging and book writing journey takes me straight to my happy place.
 
-[ja]: http://leanpub.com/javascript-allonge
+[ja]: http://leanpub.com/javascriptallongesix
 [Leanpub]: http://leanpub.com
 
 Now, it so happens that 550 readers is really trivial by technical book standards. The simple fact is that this book, like most of my writing, appeals to the kind of people I call "The few, the proud, the curious."

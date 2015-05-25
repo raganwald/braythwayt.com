@@ -8,7 +8,7 @@ Well, *that* was quick. 24h after I started advertising my book on Facebook, I'm
 
 ![Email from Facebook](http://i.minus.com/ibd4cIUMinR6iz.png)
 
-I received an email from Facebook notifying me that my ad for [JavaScript Allongé](https://leanpub.com/javascript-allonge) violated their terms of service. It has text covering more than 20% of the image, and that's a no-no. I get the general reason why, text in an image could be used to circumvent spam-filtering.
+I received an email from Facebook notifying me that my ad for [JavaScript Allongé](https://leanpub.com/javascriptallongesix) violated their terms of service. It has text covering more than 20% of the image, and that's a no-no. I get the general reason why, text in an image could be used to circumvent spam-filtering.
 
 Of course, the image in my ad was the cover of the book, and the text in question is the title of the book. Not spam. And clearly, no human looked at this ad before canceling it. So, I guess I need to speak to a human if I want to keep spending money.
 

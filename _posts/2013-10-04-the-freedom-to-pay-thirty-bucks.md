@@ -1,6 +1,6 @@
 ---
 layout: default
-published: true
+published: false
 ---
 
 Earlier this week, I made [JavaScript Allongé][ja] "Free as in Speech." It is now licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/deed.en_US).

@@ -1,7 +1,7 @@
 ---
 title: JavaScript Spessore is Free
 layout: default
-published: true
+published: false
 ---
 
 [![JavaScript Spessore](/assets/images/spessore.png)](https://leanpub.com/javascript-spessore/read)
