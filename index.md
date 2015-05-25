@@ -10,7 +10,8 @@ Reg &ldquo;[raganwald](http://raganwald.com)&rdquo; Braithwaite is proof that so
 ### about
 
 - He writes a hands-on technical blog called [raganwald.com](http://raganwald.com);
-- He works at [GitHub](https://github.com/raganwald);
+- His other works are on [GitHub](https://github.com/raganwald);
+- He works at [PagerDuty](https://pagerduty.com);
 - He has written a few [books](http://leanpub.com/u/raganwald);
 - He speaks at [conferences](http://lanyrd.com/profile/raganwald/).
 
