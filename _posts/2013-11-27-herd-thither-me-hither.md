@@ -41,7 +41,7 @@ In those days, nobody bought Macintoshes. But strangely, our office was besieged
 
 Would these people buy a Macintosh? No. But they would take up a lot of our time asking "What is the benefit of Mac? Why is it superior to Windows? Explain why we should I buy one for each employee." And no matter how interested they seemed, and no matter what we said or did, they would weigh their options... and then buy a Windows computer.
 
-They agreed that Macintosh was would be an excellent choice, but something-something-why-they-couldn't-buy, such as "Macintosh is great, but our team can't handle switching," or perhaps "The desktop publishing is fantastic, but words are words no matter what they look like," or even "The company simply won't approve this purchase without more case studies and white papers."
+They agreed that Macintosh was an excellent choice, but something-something-why-they-couldn't-buy, such as "Macintosh is great, but our team can't handle switching," or perhaps "The desktop publishing is fantastic, but words are words no matter what they look like," or even "The company simply won't approve this purchase without more case studies and white papers."
 
 What they really meant was, *Nobody ever got fired for buying a Windows Box*.
 
