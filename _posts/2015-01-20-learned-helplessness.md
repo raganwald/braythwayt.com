@@ -44,7 +44,7 @@ The difference between them represents things we care about, but believe we can'
 
 ### what is learned helplessness?
 
-If "helplessness" is the feeling that we cannot control our own happiness, "learned helplessness" is helplessness that is aquired from our environment.
+If "helplessness" is the feeling that we cannot control our own happiness, "learned helplessness" is helplessness that is acquired from our environment.
 
 > In learned helplessness studies, an animal is repeatedly exposed to an aversive stimulus which it cannot escape. Eventually, the animal stops trying to avoid the stimulus and behaves as if it is helpless to change the situation. When opportunities to escape become available, learned helplessness means the animal does not take any action.--[Wikipedia][Learned Helplessness]
 
