@@ -19,7 +19,7 @@ I use [GitHub] and [Leanpub] to publish my books. The combination is unbeatable 
 
 ### Why I use GitHub and Leanpub
 
-I write [books](https://leanpub.com/u/raganwald), and I write a [technical blog](http://raganwald.com). I use the same toolchain for blogging and writing. It is more than a simple matter of convenience, part of how I create my books is to try some of the material out as blog posts. After geeting feedback on the posts, I rework the material and put it into my books. For example, the material from my essay about [Greenspunning Predicate and Multiple Dispatch in JavaScript](http://raganwald.com/2014/06/23/multiple-dispatch.html) made its way into my book [JavaScript Spessore].
+I write [books](https://leanpub.com/u/raganwald), and I write a [technical blog](http://raganwald.com). I use the same toolchain for blogging and writing. It is more than a simple matter of convenience, part of how I create my books is to try some of the material out as blog posts. After getting feedback on the posts, I rework the material and put it into my books. For example, the material from my essay about [Greenspunning Predicate and Multiple Dispatch in JavaScript](http://raganwald.com/2014/06/23/multiple-dispatch.html) made its way into my book [JavaScript Spessore].
 
 [JavaScript Spessore]: https://leanpub.com/javascript-spessore
 [GitHub Pages]: https://pages.github.com
