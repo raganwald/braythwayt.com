@@ -25,6 +25,8 @@ I have no trouble distinguishing those who visit /r/programming and /r/javascrip
 
 I don't need to debate whether someone is legally allowed to have a certain type of hateful speech, or whether its effects go beyond merely being "appalling" or "offensive." What I know is this: Choosing to build a for-profit business around hosting such speech is a choice, and choosing whether to support that business is also a choice.
 
+> "Hate is an unpleasant side-effect of hosting unfettered free speech in exactly the same way that cancer is an unpleasant side-effect of selling cigarettes."
+
 The internet has free speech: You host your own web site, or your own forums. Choosing to run a business that hosts certain types of speech has nothing to do with making sure people have a right to speak freely: It's inviting them to speak on your dime, and choosing to make money from their speech and their audience.
 
 So Reddit has made its choice, and now I must make mine.
