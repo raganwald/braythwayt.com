@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "So long, Reddit"
-indexed: false
 ---
 
 Earlier today, I took my children to my great-grandfather's grave in Mount Pleasant Cemetery, Toronto. He doesn't have a big headstone, or a nice spot. But he has a big place in my heart, he came to Canada from Barbados and built two(!) houses for his extended family. he sent his children to school. One of his sons got some patents on television. Another became the first black Member of Provincial Parliament in Ontario.
