@@ -16,7 +16,7 @@ I have been a Redditor on and off since its very beginning. Reddit is a business
 
 These are nice theories to debate. The practical reality is that Reddit seems to have overtaken Stormfront as the world's largest White Supremacy community.[^gawker] And thus, every page view turns into some fraction of a dollar that powers a server that hosts hate.
 
-[^gawker]: [How Reddit Became a Worse Black Hole of Violent Racism than Stormfront](http://gawker.com/how-reddit-became-a-worse-black-hole-of-violent-racism-1690505395)
+[^gawker]: [How Reddit Became a Worse Black Hole of Violent Racism than Stormfront](http://gawker.com/how-reddit-became-a-worse-black-hole-of-violent-racism-1690505395) suggests that Reddit may merely host worse racist content than Stormfront. The exact numbers are not central to my dismay.
 
 Hate for me and my children. Hate for my great-grandparents coming here. Hate that goes beyond talk, and becomes shootings and burning of churches, and "standing your ground" against teenagers. To others, hate is just "disagreement." Or just "appalling talk." Or just "people of colour with thin skins."
 
@@ -45,5 +45,7 @@ I am choosing to stop playing along. I've [removed](https://github.com/raganwald
 [^soon]: A future step is to fiddle some JavaScript so that when people hit raganwald.com from Reddit, they will be redirected to this page. Of course, if someone still cares, they will carry right along to the original content. But I suspect this will produce a lot of downvotes, and that will mean my posts will stop appearing on Reddit.
 
 So I won't.
+
+([discuss](https://news.ycombinator.com/item?id=9872149))
 
 ---
