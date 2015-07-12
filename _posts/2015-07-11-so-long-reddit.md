@@ -3,7 +3,9 @@ layout: default
 title: "So long, Reddit"
 ---
 
-Earlier today, I took my children to my great-grandparent's grave in Mount Pleasant Cemetery, Toronto. They don't have a big headstone, or a nice spot. But they have a big place in my heart: He came to Canada from Barbados, she from Jamaica, and he built two(!) houses for their extended family. They sent their children to school. One of their sons got some patents on television. Another became [the first black Member of Provincial Parliament in Ontario][2].
+Earlier today, I took my children to my great-grandparent's grave in Mount Pleasant Cemetery, Toronto. They don't have a big headstone, or a nice spot. But they have a big place in my heart: He came to Canada from Barbados, she from Jamaica, and he built two(!) houses for their extended family.
+
+They sent their children to school. One of their sons got some patents on television. A daughter went to University after raising a family and taught school in Africa. Another son became [the first black Member of Provincial Parliament in Ontario][2].
 
 [A granddaughter became an early programmer/analyst in Canada][1]. I am her son.
 
