@@ -14,7 +14,9 @@ They sent their children to school. One of their sons got some patents on televi
 
 I have been a Redditor on and off since its very beginning. Reddit is a business. And, it seems, a manifestation of the sincerely held extreme libertarian views of its founders on the subject of free speech.
 
-These are nice theories to debate. The practical reality is that Reddit seems to have overtaken Stormfront as the world's largest White Supremacy community. And thus, every page view turns into some fraction of a dollar that powers a server that hosts hate.
+These are nice theories to debate. The practical reality is that Reddit seems to have overtaken Stormfront as the world's largest White Supremacy community.[^gawker] And thus, every page view turns into some fraction of a dollar that powers a server that hosts hate.
+
+[^gawker]: [How Reddit Became a Worse Black Hole of Violent Racism than Stormfront](http://gawker.com/how-reddit-became-a-worse-black-hole-of-violent-racism-1690505395)
 
 Hate for me and my children. Hate for my great-grandparents coming here. Hate that goes beyond talk, and becomes shootings and burning of churches, and "standing your ground" against teenagers. To others, hate is just "disagreement." Or just "appalling talk." Or just "people of colour with thin skins."
 
