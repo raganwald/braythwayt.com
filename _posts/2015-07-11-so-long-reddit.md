@@ -31,9 +31,9 @@ So Reddit has made its choice, and now I must make mine.
 
 Sometimes, you think about all this and say, "I accept the responsibility, and the benefit I provide outweighs the bad things." And sometimes you say, "No, the benefit does not outweigh the bad things, and I will not play along."
 
-I am choosing to stop playing along. So, when people come to my technical blog from Reddit, I will redirect them here. Of course, if someone still cares, they can carry right along to the original content from here. But I suspect this will produce a lot of downvotes, and that will mean my posts will stop appearing on Reddit.
+I am choosing to stop playing along. Soon, when people come to my technical blog from Reddit, I will redirect them to this page. Of course, if someone still cares, they can carry right along to the original content from here. But I suspect this will produce a lot of downvotes, and that will mean my posts will stop appearing on Reddit.
 
-And my income will certainly go down. But for me personally, that is meaningless in the broader picture. I don't want to make money from lung cancer, so I don't do business with tobacco companies. I don't want to do business with peopel who monetize hate, either.
+And my income will certainly go down. But for me personally, that is meaningless in the broader picture. I don't want to make money from lung cancer, so I don't do business with tobacco companies. I don't want to do business with people who monetize hate, either.
 
 So I won't.
 
