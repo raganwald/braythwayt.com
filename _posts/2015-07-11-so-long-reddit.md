@@ -3,23 +3,26 @@ layout: default
 title: "So long, Reddit"
 ---
 
-Earlier today, I took my children to my great-grandfather's grave in Mount Pleasant Cemetery, Toronto. He doesn't have a big headstone, or a nice spot. But he has a big place in my heart, he came to Canada from Barbados and built two(!) houses for his extended family. he sent his children to school. One of his sons got some patents on television. Another became the first black Member of Provincial Parliament in Ontario.
+Earlier today, I took my children to my great-grandparent's grave in Mount Pleasant Cemetery, Toronto. They don't have a big headstone, or a nice spot. But they has a big place in my heart: He came to Canada from Barbados, she from Jamaica, and he built two(!) houses for their extended family. They sent their children to school. One of their sons got some patents on television. Another became [the first black Member of Provincial Parliament in Ontario][2].
 
 [A granddaughter became an early programmer/analyst in Canada][1]. I am her son.
 
 [1]: http://braythwayt.com/posterous/2012/03/29/a-womans-story.html
+[2]: http://blackhistorycanada.ca/profiles.php?themeid=20&id=14
 
 I have been a Redditor on and off since its very beginning. Reddit is a business. And, it seems, a manifestation of the sincerely held extreme libertarian views of its founders on the subject of free speech.
 
 These are nice theories to debate. The practical reality is that Reddit seems to have overtaken Stormfront as the world's largest White Supremacy community. And thus, every page view turns into some fraction of a dollar that powers a server that hosts hate.
 
-Hate for me and my children. Hate for my great-grandfather coming here. Hate that goes beyond talk, and becomes shootings and burning of churches, and "standing your ground" against teenagers. To others, hate is just "disagreement." Or just "appalling talk." Or just "people of colour with thin skins."
+Hate for me and my children. Hate for my great-grandparents coming here. Hate that goes beyond talk, and becomes shootings and burning of churches, and "standing your ground" against teenagers. To others, hate is just "disagreement." Or just "appalling talk." Or just "people of colour with thin skins."
 
 I grew up worshipping in a historically black church. There's another just down the street from me. There's also a Mosque and a Buddhist Temple, mind you. So when people talk about hate, it may merely be "offensive speech" when you, your children and your neighbours are not the people they want to exterminate.
 
 But it is more than that to me.
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/h4ZyuULy9zs" frameborder="0" allowfullscreen></iframe>
+
+---
 
 I have no trouble distinguishing those who visit /r/programming and /r/javascript from those who inhabit /r/coontown. I like almost everyone I've interacted with on Reddit. But while the inhabitants may be different people, the landlord is the same person, and keeping the lights on in /r/javascript is also keeping the lights on in the Chimpire.
 
