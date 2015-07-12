@@ -1,0 +1,35 @@
+---
+layout: default
+title: "So long, Reddit"
+indexed: false
+---
+
+Earlier today, I took my children to my great-grandfather's grave in Mount Pleasant Cemetery, Toronto. He doesn't have a big headstone, or a nice spot. But he has a big place in my heart, he came to Canada from Barbados and built two(!) houses for his extended family. he sent his children to school. One of his sons got some patents on television. Another became the first black Member of Provincial Parliament in Ontario.
+
+[A granddaughter became an early programmer/analyst in Canada][1]. I am her son.
+
+[1]: http://braythwayt.com/posterous/2012/03/29/a-womans-story.html
+
+I have been a Redditor on and off since its very beginning. Reddit is a business. And, it seems, a manifestation of the sincerely held extreme libertarian views of its founders on the subject of free speech.
+
+These are nice theories to debate. The practical reality is that Reddit seems to have overtaken Stormfront as the world's largest White Supremacy community. And thus, every page view turns into some fraction of a dollar that powers a server that hosts hate.
+
+Hate for me and my children. Hate for my great-grandfather coming here. Hate that goes beyond talk, and becomes shootings and burning of churches, and "standing your ground" against teenagers. To others, hate is just "disagreement." Or just "appalling talk." Or just "people of colour with thin skins." But it is more than that to me.
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/h4ZyuULy9zs" frameborder="0" allowfullscreen></iframe>
+
+I have no trouble distinguishing those who visit /r/programming and /r/javascript from those who inhabit /r/coontown. I like almost everyone I've interacted with on Reddit. But while the inhabitants may be different people, the landlord is the same person, and keeping the lights on in /r/javascript is also keeping the lights on in the Chimpire.
+
+I don't need to debate whether someone is legally allowed to have a certain type of hateful speech, or whether its effects go beyond merely being "appalling" or "offensive." What I know is this: Choosing to build a for-profit business around hosting such speech is a choice, and choosing whether to support that business is also a choice.
+
+The internet has free speech: You host your own web site, or your own forums. Choosing to run a business that hosts certain types of speech has nothing to do with making sure people have a right to speak freely: It's inviting them to speak on your dime, and choosing to make money from their speech and their audience.
+
+So Reddit has made its choice, and now I must make mine.
+
+Sometimes, you think about all this and say, "I accept the responsibility, and the benefit I provide outweighs the bad things." And sometimes you say, "No, the benefit does not outweigh the bad things, and I will not play along."
+
+I am choosing to stop playing along. So, when people come to my technical blog from reddit, I will redirect them here. Of course, if someone still cares, they can carry right along to the original content from here. But I suspect this will produce a lot of downvotes, and that will mean my posts will stop appearing on Reddit.
+
+And my income will certainly go down. But for me personally, that is meaningless in the broader picture. I don't want to make money from lung cancer, or from hate.
+
+---
