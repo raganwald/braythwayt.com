@@ -3,7 +3,7 @@ layout: default
 title: "So long, Reddit"
 ---
 
-Earlier today, I took my children to my great-grandparent's grave in Mount Pleasant Cemetery, Toronto. They don't have a big headstone, or a nice spot. But they have a big place in my heart: He came to Canada from Barbados, she from Jamaica, and he built two(!) houses for their extended family.
+Earlier today, I took my children to my great-grandparents' grave in Mount Pleasant Cemetery, Toronto. They don't have a big headstone, or a nice spot. But they have a big place in my heart: He came to Canada from Barbados, she from Jamaica, and he built two(!) houses for their extended family.
 
 They sent their children to school. One of their sons got some patents on television. A daughter went to University after raising a family and taught school in Africa. Another son became [the first black Member of Provincial Parliament in Ontario][2].
 
@@ -38,9 +38,9 @@ So Reddit has made its choice, and now I must make mine.
 
 Sometimes, you think about all this and say, "I accept the responsibility, and the benefit I provide outweighs the bad things." And sometimes you say, "No, the benefit does not outweigh the bad things, and I will not play along."
 
-I am choosing to stop playing along. Soon, when people come to my technical blog from Reddit, I will redirect them to this page. Of course, if someone still cares, they can carry right along to the original content from here. But I suspect this will produce a lot of downvotes, and that will mean my posts will stop appearing on Reddit.
+I am choosing to stop playing along. I've [removed](https://github.com/raganwald/raganwald.github.com/commit/7189fb3b7cf9c6a776e0f0eecd45ee157cbc2c87) most of the links to reddit discussions from [raganwald.com](http://raganwald.com).[^soon] My income will certainly go down. But for me personally, that is meaningless in the broader picture. I don't want to make money from lung cancer, so I don't do business with tobacco companies. I don't want to do business with people who monetize hate, either.
 
-And my income will certainly go down. But for me personally, that is meaningless in the broader picture. I don't want to make money from lung cancer, so I don't do business with tobacco companies. I don't want to do business with people who monetize hate, either.
+[^soon]: A future step is to fiddle some JavaScript so that when people hit raganwald.com from Reddit, they will be redirected to this page. Of course, if someone still cares, they will carry right along to the original content. But I suspect this will produce a lot of downvotes, and that will mean my posts will stop appearing on Reddit.
 
 So I won't.
 
