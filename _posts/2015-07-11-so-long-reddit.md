@@ -13,7 +13,11 @@ I have been a Redditor on and off since its very beginning. Reddit is a business
 
 These are nice theories to debate. The practical reality is that Reddit seems to have overtaken Stormfront as the world's largest White Supremacy community. And thus, every page view turns into some fraction of a dollar that powers a server that hosts hate.
 
-Hate for me and my children. Hate for my great-grandfather coming here. Hate that goes beyond talk, and becomes shootings and burning of churches, and "standing your ground" against teenagers. To others, hate is just "disagreement." Or just "appalling talk." Or just "people of colour with thin skins." But it is more than that to me.
+Hate for me and my children. Hate for my great-grandfather coming here. Hate that goes beyond talk, and becomes shootings and burning of churches, and "standing your ground" against teenagers. To others, hate is just "disagreement." Or just "appalling talk." Or just "people of colour with thin skins."
+
+I grew up worshipping in a historically black church. There's another just down the street from me. There's also a Mosque and a Buddhist Temple, mind you. So when people talk about hate, it may merely be "offensive speech" when you, your children and your neighbours are not the people they want to exterminate.
+
+But it is more than that to me.
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/h4ZyuULy9zs" frameborder="0" allowfullscreen></iframe>
 
@@ -27,8 +31,10 @@ So Reddit has made its choice, and now I must make mine.
 
 Sometimes, you think about all this and say, "I accept the responsibility, and the benefit I provide outweighs the bad things." And sometimes you say, "No, the benefit does not outweigh the bad things, and I will not play along."
 
-I am choosing to stop playing along. So, when people come to my technical blog from reddit, I will redirect them here. Of course, if someone still cares, they can carry right along to the original content from here. But I suspect this will produce a lot of downvotes, and that will mean my posts will stop appearing on Reddit.
+I am choosing to stop playing along. So, when people come to my technical blog from Reddit, I will redirect them here. Of course, if someone still cares, they can carry right along to the original content from here. But I suspect this will produce a lot of downvotes, and that will mean my posts will stop appearing on Reddit.
 
-And my income will certainly go down. But for me personally, that is meaningless in the broader picture. I don't want to make money from lung cancer, or from hate.
+And my income will certainly go down. But for me personally, that is meaningless in the broader picture. I don't want to make money from lung cancer, so I don't do business with tobacco companies. I don't want to do business with peopel who monetize hate, either.
+
+So I won't.
 
 ---
