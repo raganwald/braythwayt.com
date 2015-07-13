@@ -24,7 +24,7 @@ I grew up worshipping in a historically black church. There's another just down 
 
 But it is more than that to me.
 
-<iframe width="600" height="450" src="https://www.youtube.com/embed/h4ZyuULy9zs" frameborder="0" allowfullscreen></iframe><br/></br>
+<iframe width="600" height="450" src="https://www.youtube.com/embed/h4ZyuULy9zs" frameborder="0" allowfullscreen></iframe><br/><br/>
 
 I have no trouble distinguishing those who visit /r/programming and /r/javascript from those who inhabit /r/coontown. I like almost everyone I've interacted with on Reddit. But while the inhabitants may be different people, the landlord is the same person, and keeping the lights on in /r/javascript is also keeping the lights on in the Chimpire.
 
