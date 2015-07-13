@@ -32,7 +32,9 @@ I don't need to debate whether someone is legally allowed to have a certain type
 
 > "Hate is an unpleasant side-effect of hosting unfettered free speech in exactly the same way that cancer is an unpleasant side-effect of selling cigarettes."
 
-The internet has free speech: You host your own web site, or your own forums. And racists already have lots of their own web sites where they can freely speak their opinions, organize politically, solicit donations, and so forth. It is not like Reddit is the only thing separating the world from a monoculture around respect for human beings. No, Reddit's choice is just that: a choice freely made. Choosing to run a business that hosts certain types of speech has nothing to do with making sure people have a right to speak freely: It's inviting them to speak on your dime, and choosing to make money from their speech and their audience.
+The internet has free speech: You host your own web site, or your own forums. And racists already have lots of their own web sites where they can freely speak their opinions, organize politically, solicit donations, and so forth. It is not like Reddit is the only thing separating the world from a monoculture around respect for human beings.
+
+No, Reddit's choice is just that: a choice freely made. Choosing to run a business that hosts certain types of speech has nothing to do with making sure people have a right to speak freely: It's inviting them to speak on your dime, and choosing to make money from their speech and their audience.
 
 So Reddit has made its choice, and now I must make mine.
 
