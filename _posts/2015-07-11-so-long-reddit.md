@@ -24,9 +24,7 @@ I grew up worshipping in a historically black church. There's another just down 
 
 But it is more than that to me.
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/h4ZyuULy9zs" frameborder="0" allowfullscreen></iframe>
-
----
+<iframe width="600" height="450" src="https://www.youtube.com/embed/h4ZyuULy9zs" frameborder="0" allowfullscreen></iframe><br/></br>
 
 I have no trouble distinguishing those who visit /r/programming and /r/javascript from those who inhabit /r/coontown. I like almost everyone I've interacted with on Reddit. But while the inhabitants may be different people, the landlord is the same person, and keeping the lights on in /r/javascript is also keeping the lights on in the Chimpire.
 
@@ -34,7 +32,7 @@ I don't need to debate whether someone is legally allowed to have a certain type
 
 > "Hate is an unpleasant side-effect of hosting unfettered free speech in exactly the same way that cancer is an unpleasant side-effect of selling cigarettes."
 
-The internet has free speech: You host your own web site, or your own forums. Choosing to run a business that hosts certain types of speech has nothing to do with making sure people have a right to speak freely: It's inviting them to speak on your dime, and choosing to make money from their speech and their audience.
+The internet has free speech: You host your own web site, or your own forums. And racists already have lots of their own web sites where they can freely speak their opinions, organize politically, solicit donations, and so forth. It is not like Reddit is the only thing separating the world from a monoculture around respect for human beings. No, Reddit's choice is just that: a choice freely made. Choosing to run a business that hosts certain types of speech has nothing to do with making sure people have a right to speak freely: It's inviting them to speak on your dime, and choosing to make money from their speech and their audience.
 
 So Reddit has made its choice, and now I must make mine.
 
