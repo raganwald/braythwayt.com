@@ -30,7 +30,9 @@ The fact that it is *possible* to overcome adversity in the face of systemic bia
 
 ### sellco
 
-Consider a hypothetical company, _SellCo_. SellCo sells stuff, and their revenues and profits are directly correlated with the performance of their salespeople. Naturally, they are always hiring, and they receive an equal number of male and female applicants for jobs. Those men that display aptitude are given outside sales positions. Those women that display aptitude are given inside sales positions. Outside sales is more critical, and pays much better. Women are not hired directly into outside sales positions, they must first display prodigious ability as an inside sales person before being considerd for a promotion to outside sales.
+Consider a hypothetical company, _SellCo_: SellCo sells stuff, and their revenues and profits are directly correlated with the performance of their salespeople. Naturally, they are always hiring, and they receive an equal number of male and female applicants for jobs. Those men that display aptitude are given outside sales positions.
+
+Those women that display aptitude are given inside sales positions. Outside sales is more critical, and pays much better. Women are not hired directly into outside sales positions, they must first display prodigious ability as an inside sales person before being considerd for a promotion to outside sales.
 
 This setup does make it possible for women to become successful outside salespeople, but only if they are also successful inside salepeople. It's a related, but not identical skill set. 
 
