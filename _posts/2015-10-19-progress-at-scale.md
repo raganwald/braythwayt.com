@@ -1,7 +1,6 @@
 ---
 title: Making Social Progress at Scale
 layout: default
-tags: [noindex]
 ---
 
 *[Leonard Austin Braithwaite][1], CM OOnt (October 23, 1923 – March 28, 2012) was a lawyer and former politician in Ontario, Canada. He received a Bachelor of Commerce degree from the University of Toronto in 1950. He then received a Masters of Business Administration degree from the Harvard Business School in 1952, and graduated from Osgoode Hall Law School in 1958. He served in the Legislative Assembly of Ontario as a member of the Liberal Party from 1963 to 1975. He was the first Black Canadian to be elected to the Ontario Legislature.*
