@@ -17,7 +17,7 @@ layout: default
 
 ### overcoming adversity for individuals
 
-Leonard, Gwen, and Reginald all overcame systemic colour and class discrimination to become successful in their chosen fields. They did not listen to naysayers who said they couldn't achieve in life. From their example, we can draw the conclusion that it *is* possible to be a success regardless of the colour of your skin or your gender. From examples like [Jodie Foster][5] and [Tim Cook][4], we conclude that the same is true of sexual orientation.
+Leonard, Gwen, and Reginald overcame systemic colour and class discrimination to become successful in their chosen fields. They did not listen to naysayers who said they couldn't achieve in life. From their example, we can draw the conclusion that it *is* possible to be a success regardless of the colour of your skin or your gender. From examples like [Jodie Foster][5] and [Tim Cook][4], we conclude that the same is true of sexual orientation.
 
 [4]: https://en.wikipedia.org/wiki/Tim_Cook
 [5]: https://en.wikipedia.org/wiki/Jodie_Foster
