@@ -4,17 +4,15 @@ layout: default
 tags: [noindex]
 ---
 
-### preamble: leonard braithwaite, gwen lee, and reginald lewis
-
-[Leonard Austin Braithwaite][1], CM OOnt (October 23, 1923 – March 28, 2012) was a lawyer and former politician in Ontario, Canada. He received a Bachelor of Commerce degree from the University of Toronto in 1950. He then received a Masters of Business Administration degree from the Harvard Business School in 1952, and graduated from Osgoode Hall Law School in 1958. He served in the Legislative Assembly of Ontario as a member of the Liberal Party from 1963 to 1975. He was the first Black Canadian to be elected to the Ontario Legislature.
+*[Leonard Austin Braithwaite][1], CM OOnt (October 23, 1923 – March 28, 2012) was a lawyer and former politician in Ontario, Canada. He received a Bachelor of Commerce degree from the University of Toronto in 1950. He then received a Masters of Business Administration degree from the Harvard Business School in 1952, and graduated from Osgoode Hall Law School in 1958. He served in the Legislative Assembly of Ontario as a member of the Liberal Party from 1963 to 1975. He was the first Black Canadian to be elected to the Ontario Legislature.*
 
 [1]: https://en.wikipedia.org/wiki/Leonard_Braithwaite
 
-[Gwendolyn Arlene Lee née Barzey][2] is a retired systems analyst and real estate broker. She was one of the first people of colour to work in the data processing business in Canada.
+*[Arlene Gwendolyn Lee née Barzey][2] is a retired systems analyst and real estate broker. She was one of the first people of colour to work in the data processing business in Canada.*
 
 [2]: http://braythwayt.com/posterous/2012/03/29/a-womans-story.html "A Woman's Story"
 
-[Reginald F. Lewis][3] (December 7, 1942 – January 19, 1993), was an American businessman. He was the richest African-American man in the 1980s. Born in Baltimore, Maryland, he grew up in a middle-class neighborhood. He won a football scholarship to Virginia State College, graduating with a degree in economics in 1965. He graduated from Harvard Law School in 1968 and was a member of Kappa Alpha Psi. In 1992, Forbes listed Lewis among the 400 richest Americans, with a net worth estimated at $400 million. He also was the first African American to build a billion dollar company, Beatrice Foods.
+*[Reginald F. Lewis][3] (December 7, 1942 – January 19, 1993), was an American businessman. He was the richest African-American man in the 1980s. Born in Baltimore, Maryland, he grew up in a middle-class neighborhood. He won a football scholarship to Virginia State College, graduating with a degree in economics in 1965. He graduated from Harvard Law School in 1968 and was a member of Kappa Alpha Psi. In 1992, Forbes listed Lewis among the 400 richest Americans, with a net worth estimated at $400 million. He also was the first African American to build a billion dollar company, Beatrice Foods.*
 
 [3]: https://en.wikipedia.org/wiki/Reginald_Lewis
 
@@ -67,7 +65,9 @@ On the one hand, reasonable people can agree that his statement is true. On the 
 
 When people argue about this point, it's often the case that one person is arguing what is and isn't best for the individual. While the other is arguing what is and isn't best for a larger group, like a conference, or a company, or the Technology Industry, or North American society.
 
-Both people are right by their own objectives, but can be violently disagreeing about what's important and what to do. This explains why people violently resist changing communities. For example, the right thing to do for an individual when submitting a pull request to some open source might be to thicken your skin and not take criticism personally, even if that's what the crtici intended. Anyone who has internalized this heuristic sees no need for the community to adopt a code of conduct around keeping criticism impersonal. And if you value code--just as a salesperson values sales--working on a code of conduct seems to be time not working on code. So the natural impulse is to resist.
+Both people are right by their own objectives, but can be violently disagreeing about what's important and what to do. This explains why people violently resist changing communities.
+
+For example, the right thing to do for an individual when submitting a pull request to some open source might be to thicken your skin and not take criticism personally, even if that's what the critic intended. Anyone who has internalized this heuristic sees no need for the community to adopt a code of conduct around keeping criticism impersonal. And if you value code--just as a salesperson values sales--working on a code of conduct seems to be time not working on code. So the natural impulse is to resist.
 
 I empathize with this response. I don't agree, because I understand that while a code of conduct is uncessary for people who have internalized this strategy, it will draw more contributors and more contributions for the community as a whole. Once again, the best strategy for success for an individual within a community is not neccessarily aligned with the best strategy for the community as a whole.
 
