@@ -36,7 +36,7 @@ Those women that display aptitude are given inside sales positions. Outside sale
 
 This setup does make it possible for women to become successful outside salespeople, but only if they are also successful inside salepeople. It's a related, but not identical skill set. 
 
-If we ask anyone at SellCo about its policies, we might be told that everything is fine. There are no "false positives," everyone in outside sales is productive. There are no allegations of nepotism, of incompetent men being hired. All the women in outside sales are truly exceptional, with an expert grasp of both selling to accountsand in working with inside sales to manage those accounts.
+If we ask anyone at SellCo about its policies, we might be told that everything is fine. There are no "false positives," everyone in outside sales is productive. There are no allegations of nepotism, of incompetent men being hired. All the women in outside sales are truly exceptional, with an expert grasp of both selling to accounts, and of working with inside sales to manage those accounts.
 
 This is "survivor bias," of course. All the great saleswomen who were passed over for being hired directly into outside sales have moved along and work for the competition. And if any woman at SellCo is grumbling about the situation, she's probably "just" an inside salesperson, and not an amazing inside salesperson at that.
 
