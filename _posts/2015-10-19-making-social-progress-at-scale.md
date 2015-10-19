@@ -32,7 +32,7 @@ The fact that it is *possible* to overcome adversity in the face of systemic bia
 
 Consider a hypothetical company, _SellCo_: SellCo sells stuff, and their revenues and profits are directly correlated with the performance of their salespeople. Naturally, they are always hiring, and they receive an equal number of male and female applicants for jobs. Those men that display aptitude are given outside sales positions.
 
-Those women that display aptitude are given inside sales positions. Outside sales is more critical, and pays much better. Women are not hired directly into outside sales positions, they must first display prodigious ability as an inside sales person before being considerd for a promotion to outside sales.
+Those women that display aptitude are given inside sales positions. Outside sales is more critical, and pays much better. Women are not hired directly into outside sales positions, they must first display prodigious ability as an inside sales person before being considered for a promotion to outside sales.
 
 This setup does make it possible for women to become successful outside salespeople, but only if they are also successful inside salepeople. It's a related, but not identical skill set. 
 
@@ -42,7 +42,7 @@ This is "survivor bias," of course. All the great saleswomen who were passed ove
 
 ### career vs. community advice
 
-So what's the best advice for a woman joining the company? It's simple: Shoot the lights out in inside sales, then apply for a job in outside sales, and shoot the lights out there. That's the path to success. What's good for women at SellCo is to focus on sales, not on what's wrong with SellCo's practices.
+So what's the best advice for a woman joining the company? It's simple: Shoot the lights out in inside sales, apply for a job in outside sales, and then shoot the lights out there. That's the path to success. What's good for women at SellCo is to focus on sales, not on what's wrong with SellCo's practices.
 
 This is true of our hypothetical company SellCo, and it's usually true in other systems with a bias problem. The best advice for each individual is to work within the system. And examples like Leonard, Gwen, and Reginald are offered as evidence that working within the system is the path to success.
 
@@ -68,12 +68,12 @@ When people argue about this point, it's often the case that one person is argui
 
 Both people are right by their own objectives, but can be violently disagreeing about what's important and what to do. This explains why people violently resist changing communities.
 
-For example, the right thing to do for an individual when submitting a pull request to some open source might be to thicken your skin and not take criticism personally, even if that's what the critic intended. Anyone who has internalized this heuristic sees no need for the community to adopt a code of conduct around keeping criticism impersonal. And if you value code--just as a salesperson values sales--working on a code of conduct seems to be time not working on code. So the natural impulse is to resist.
+For example, the right thing to do for an individual when submitting a pull request to an open source project might be to thicken their skin and not take criticism personally, even if that's what the critic intended. Anyone who has internalized this heuristic sees no need for the community to adopt a code of conduct around keeping criticism impersonal. And if you value code, working on a code of conduct seems to be time not working on code. So the natural impulse is to resist.
 
 I empathize with this response. I don't agree, because I understand that while a code of conduct is uncessary for people who have internalized this strategy, it will draw more contributors and more contributions for the community as a whole. Once again, the best strategy for success for an individual within a community is not neccessarily aligned with the best strategy for the community as a whole.
 
-So in the end, my advice to people is to decide what matters to them. If it's to write a certain type of program, I suggest you just get started. If it's to get a certain type of job, I suggest you get to work on the necessary qualifications, and then apply. If it's to start a company, well, I suggest you HTFU and get started.
+So in the end, my advice is to decide what matters to you. If it's to write a certain type of program, I suggest you just get started. If it's to get a certain type of job, I suggest you get to work on the necessary qualifications, and then apply. If it's to start a company, well, I suggest you HTFU and get started.
 
-But if what matters to you is that your conference become better, or your company, or your open source community, or our industry, or our society, well, then, I advise you to become an activist. Agitate. Make trouble. Do not play the game. Life is unfair, and will always be unfair, but it can be made *less unfair*. So if that's what you want, well, HTFU and get started on that, too.
+But if what matters to you is that your conference become better, or your company, or your open source community, or our industry, or our society, well, then, I advise you to become an activist. Agitate. Make trouble. Do not settle for playing the game by the rules you are given.
 
-The bottom line is that **the rules for the right thing to do for the individual, do not scale to the right thing to do for the community**. And when people argue about this, see if they aren't simplyarguing two different but valid points of view.
+Life is unfair, and will always be unfair, but it can be made *less unfair*. So if that's what you want, well, HTFU and get started on that, too. The bottom line is that **the rules for the right thing to do for the individual, do not scale to the right thing to do for the community**.
