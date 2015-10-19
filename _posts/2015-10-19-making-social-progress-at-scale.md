@@ -22,7 +22,7 @@ Leonard, Gwen, and Reginald overcame systemic colour and class discrimination to
 [4]: https://en.wikipedia.org/wiki/Tim_Cook
 [5]: https://en.wikipedia.org/wiki/Jodie_Foster
 
-There are probably excellent examples of overcoming adverse systemic bias for other marginal groups. It seems to be the case taht if you want to succeed, the very best strategy is to set about being successful, not to allow discrimination and systemic bias to intimidate you into not even trying.
+There are probably excellent examples of overcoming adverse systemic bias for other marginal groups. It seems to be the case that if you want to succeed, the very best strategy is to set about being successful, not to allow discrimination and systemic bias to intimidate you into not even trying.
 
 However.
 
@@ -72,7 +72,7 @@ For example, the right thing to do for an individual when submitting a pull requ
 
 I empathize with this response. I don't agree, because I understand that while a code of conduct is uncessary for people who have internalized this strategy, it will draw more contributors and more contributions for the community as a whole. Once again, the best strategy for success for an individual within a community is not neccessarily aligned with the best strategy for the community as a whole.
 
-So in the end, my advice to people is to decide what matters to them. If it's to write a certain type of program, I suggest you just get started. If it's to get a certain type of job, I suggest you get to work on teh necessary qualifications, and then apply. If it's to start a company, well, I suggest you HTFU and get started.
+So in the end, my advice to people is to decide what matters to them. If it's to write a certain type of program, I suggest you just get started. If it's to get a certain type of job, I suggest you get to work on the necessary qualifications, and then apply. If it's to start a company, well, I suggest you HTFU and get started.
 
 But if what matters to you is that your conference become better, or your company, or your open source community, or our industry, or our society, well, then, I advise you to become an activist. Agitate. Make trouble. Do not play the game. Life is unfair, and will always be unfair, but it can be made *less unfair*. So if that's what you want, well, HTFU and get started on that, too.
 
