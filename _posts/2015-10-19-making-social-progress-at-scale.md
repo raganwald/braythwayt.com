@@ -46,7 +46,7 @@ So what's the best advice for a woman joining the company? It's simple: Shoot th
 
 This is true of our hypothetical company SellCo, and it's usually true in other systems with a bias problem. The best advice for each individual is to work within the system. And examples like Leonard, Gwen, and Reginald are offered as evidence that working within the system is the path to success.
 
-But what's good for a saleswoman is not necessarily what's good for SellCo. Some women will have outside sales skills, but either not get hired as inside salespeople, or languish as middle-of-the-road inside salespeople. Or quit and work somewhere else that recognizes their ability. Or not work for SellCo in the first place. The net result is that the company does not have the best possible selection of outside salespeople promoting its products and services.
+But what's good for a saleswoman is not necessarily what's good for SellCo. Some women will have outside sales skills, but either do not get hired as inside salespeople, or languish as middle-of-the-road inside salespeople. Or quit and work somewhere else that recognizes their ability. Or not work for SellCo in the first place. The net result is that the company does not have the best possible selection of outside salespeople promoting its products and services.
 
 Likewise, it might be in in individual's best interests to buckle down and succeed in the face of adverse conditions, but not be in the community's best interests to tolerate those adverse conditions. The interests of the community as a whole are often best served by encouraging more people to contribute, and by removing obstacles for contribution.
 
