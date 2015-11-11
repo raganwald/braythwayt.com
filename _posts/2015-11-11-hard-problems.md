@@ -21,11 +21,11 @@ But other choices drag considerably less baggage into the decision. When writing
 
 When we write code, we don't write:
 
-```
+{% highlight language=javascript %}
 for (let blimpFactory = 0; blimpFactory < fartSmell.length; blimpFactory) {
     // ...
 }
-```
+{% endhighlight %}
 
 We know that the thing we're trying to say with our code will be overshadowed by the distraction we've caused with names like `blimpFactory` and `fartSmell`. Good writing, they say, is like a windowpane: It communicates the idea without drawing attention to itself.
 
