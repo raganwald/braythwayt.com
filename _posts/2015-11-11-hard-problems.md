@@ -3,7 +3,7 @@ title: "Names are a problem worth solving"
 layout: default
 ---
 
-> "There are two hard problems in Computer Science: Cache invalidation, and naming things."—Phil Karlton
+> "There are two hard problems in Computer Science: Cache invalidation, and naming things."—[Phil Karlton](http://karlton.hamilton.com)
 
 Naming things is a hard problem, because names are part of the *user interface* for code. Good user interface design is difficult. For example, certain shapes and colours have particular meanings, and those meanings vary from culture to culture.
 
