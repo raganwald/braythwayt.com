@@ -21,7 +21,7 @@ But other choices drag considerably less baggage into the decision. When writing
 
 When we write code, we don't write:
 
-{% highlight language=javascript %}
+{% highlight javascript %}
 for (let blimpFactory = 0; blimpFactory < fartSmell.length; blimpFactory) {
     // ...
 }
