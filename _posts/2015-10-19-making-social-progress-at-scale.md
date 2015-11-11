@@ -4,15 +4,32 @@ layout: default
 tags: [noindex]
 ---
 
-*[Leonard Austin Braithwaite][1], CM OOnt (October 23, 1923 – March 28, 2012) was a lawyer and former politician in Ontario, Canada. He received a Bachelor of Commerce degree from the University of Toronto in 1950. He then received a Masters of Business Administration degree from the Harvard Business School in 1952, and graduated from Osgoode Hall Law School in 1958. He served in the Legislative Assembly of Ontario as a member of the Liberal Party from 1963 to 1975. He was the first Black Canadian to be elected to the Ontario Legislature.*
+We are constanmtly being innundated with evidence that there are powerful systemic biases in our industry and in our society. For example, even if qualified men were to significantly outnumber qualified women, what are the odds that aconference would only have male speakers?[^n2n]
+
+[^n2n]: [Next to none](http://www.laurenbacon.com/how-likely-is-an-all-male-speakers-list-statistically/), actually.
+
+If we accept that this is true, the question becomes, so what should we do about it? I was provoked to write this essay by reading Ed Weissman saying that "life is unfair," and exhorting people (in so many words) to [HTFU] and get on with overcoming their personal adversity through hard work:
+
+[HTFU]: https://www.youtube.com/watch?v=1EY7lYRneHc "Harden the Fuck Up, Australia!"
+
+> Life is unfair, especially in Silicon Valley. It's not about the unfairness, it's about our response to the unfairness. There has never been a better time and a better way to succeed than building software today. It doesn't matter who you are, where you're at, what you're like, what you have, or who you're with. 95% of the battle is what you can do. So go do it.--[edw519 on Hacker News][519]
+
+[519]: https://news.ycombinator.com/item?id=10412732
+
+Reading Ed's words from a positive perspective, I find them inspiring and reflective of my own experience. Three of my personal heroes are Leonard Braithwaite,[^LB], Gwen Lee, [^GL], and Reginald Lewis. [^RL]
+
+
+But I'm also painfully aware that although life *is* unfair, it needn't be *this unfair*, and progress as a society has only been made by people being so dissatisfied with its unfairness that they put aside all thought of their personal gain and became activists.
+
+[^LB]: *[Leonard Austin Braithwaite][1], CM OOnt (October 23, 1923 – March 28, 2012) was a lawyer and former politician in Ontario, Canada. He received a Bachelor of Commerce degree from the University of Toronto in 1950. He then received a Masters of Business Administration degree from the Harvard Business School in 1952, and graduated from Osgoode Hall Law School in 1958. He served in the Legislative Assembly of Ontario as a member of the Liberal Party from 1963 to 1975. He was the first Black Canadian to be elected to the Ontario Legislature.*
 
 [1]: https://en.wikipedia.org/wiki/Leonard_Braithwaite
 
-*[Arlene Gwendolyn Lee née Barzey][2] is a retired systems analyst and real estate broker. She was one of the first people of colour to work in the data processing business in Canada.*
+[^GL]: *[Arlene Gwendolyn Lee née Barzey][2] is a retired systems analyst and real estate broker. She was one of the first people of colour to work in the data processing business in Canada.*
 
 [2]: http://braythwayt.com/posterous/2012/03/29/a-womans-story.html "A Woman's Story"
 
-*[Reginald F. Lewis][3] (December 7, 1942 – January 19, 1993), was an American businessman. He was the richest African-American man in the 1980s. Born in Baltimore, Maryland, he grew up in a middle-class neighborhood. He won a football scholarship to Virginia State College, graduating with a degree in economics in 1965. He graduated from Harvard Law School in 1968 and was a member of Kappa Alpha Psi. In 1992, Forbes listed Lewis among the 400 richest Americans, with a net worth estimated at $400 million. He also was the first African American to build a billion dollar company, Beatrice Foods.*
+[^RL]: *[Reginald F. Lewis][3] (December 7, 1942 – January 19, 1993), was an American businessman. He was the richest African-American man in the 1980s. Born in Baltimore, Maryland, he grew up in a middle-class neighborhood. He won a football scholarship to Virginia State College, graduating with a degree in economics in 1965. He graduated from Harvard Law School in 1968 and was a member of Kappa Alpha Psi. In 1992, Forbes listed Lewis among the 400 richest Americans, with a net worth estimated at $400 million. He also was the first African American to build a billion dollar company, Beatrice Foods.*
 
 [3]: https://en.wikipedia.org/wiki/Reginald_Lewis
 
@@ -55,15 +72,9 @@ The bottom line is that the best strategy for success for an individual within a
 
 ### talking past each other
 
-I was provoked to write this essay by reading Ed Weissman saying that "life is unfair," and exhorting people (in so many words) to [HTFU] and get on with overcoming their personal adversity through hard work:
 
-[HTFU]: https://www.youtube.com/watch?v=1EY7lYRneHc "Harden the Fuck Up, Australia!"
 
-> Life is unfair, especially in Silicon Valley. It's not about the unfairness, it's about our response to the unfairness. There has never been a better time and a better way to succeed than building software today. It doesn't matter who you are, where you're at, what you're like, what you have, or who you're with. 95% of the battle is what you can do. So go do it.--[edw519 on Hacker News][519]
-
-[519]: https://news.ycombinator.com/item?id=10412732
-
-On the one hand, reasonable people can agree that his statement is true. On the other hand, progress as a society has only been made by people being unreasonably dissatisfied with systemic biases that they put aside all thought of their personal gain and became activists. Working to be successful improves your personal lot. Working to remove systemic obstruction improves the lot of people for generations to come.
+Working to be successful improves your personal lot. Working to remove systemic obstruction improves the lot of people for generations to come.
 
 When people argue about this point, it's often the case that one person is arguing what is and isn't best for the individual. While the other is arguing what is and isn't best for a larger group, like a conference, or a company, or the Technology Industry, or North American society.
 
