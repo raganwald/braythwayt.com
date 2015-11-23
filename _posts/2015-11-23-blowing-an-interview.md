@@ -65,6 +65,8 @@ For various social reasons, we often attach a lot of prestige to working with ab
 
 Sometimes this is true. Sometimes, it isn't. The important thing is that **general, abstract knowledge is not the same thing as applied knowledge**.
 
+[![Learn](/assets/images/learn.jpg)](https://www.flickr.com/photos/jakerust/16846023595)
+
 ### the specific lessons I learned
 
 Understanding that "general, abstract knowledge is not the same thing as applied knowledge" can help us have better conversations of all kinds:
