@@ -19,13 +19,15 @@ I packed my discs and cleats[^apple-tandem], and flew down for a day of meetings
 
 I also met with the founders, and we were joined by a representative from the lead investor. After some talk about my background, we turned to the subject of engineering process and culture, my chance to display the value I could bring them. I was enthusiastic and confident as I expounded on my theories about iterative development, the problems with the "glass case plan" anti-pattern, the ways in which software architecture could remove the dependencies that made waterfall process seem necessary, and much more.
 
-When the interviews concluded, I was certain that I had demonstrated why I was the ideal candidate for the role. I had the experience, the knowledge, and the track record to demonstrate my value. Not to mention my friend pulling for me. Unfortunately, I did not get an offer. Instead, I received a polite "thank you, but no thank you" letter.
+When the interviews concluded, I was certain that I had demonstrated why I was the ideal candidate for the role. I had the experience, the knowledge, and the track record to demonstrate my value. Not to mention my friend pulling for me. Unfortunately, I did not get an offer.
+
+Instead, I received a polite "thank you, but no thank you" letter.
 
 ### the bad news
 
-I contacted my friend. What went wrong?
+I contacted my friend. What went wrong? He sighed. "The founders thought you were too theoretical. They got the sense you would be a great coach or evangelist, but lacked the hands-on attitude they were looking for to actually build a team up."
 
-He sighed. "The founders thought you were too theoretical. They got the sense you would be a great coach or evangelist, but lacked the hands-on attitude they were looking for to actually build a team up." I was astounded. Hadn't I written a metric fuck-ton of code at my current company? Didn't I run multiple development meetings, train tech leads on the process, and do an enormous amount of reporting and prediction? Wasn't I working with burn-downs, buffer delats, and other metrics every day?
+I was astounded. Hadn't I written a metric fuck-ton of code at my current company? Didn't I run multiple development meetings, train tech leads on the process, and do an enormous amount of reporting and prediction? Wasn't I working with burn-downs, buffer delats, and other metrics every day?
 
 "Sorry," he said, "I guess that just didn't come across."
 
