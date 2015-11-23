@@ -3,8 +3,6 @@ title: "What I Learned from Blowing An Interview"
 layout: default
 ---
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/WZcb06gvm78?t=1m30s" frameborder="0" allowfullscreen></iframe>
-
 ### background: the interview
 
 Some time ago, I was a development manager with 23 reports spread over four teams. When I joined my current company, they had already made the transition from "smart people in a room" to having a repeatable process. And they had been able to grow from a pair of Waterloo graduates to about forty engineers, half of whom were in my group.
@@ -22,6 +20,8 @@ I also met with the founders, and we were joined by a representative from the le
 When the interviews concluded, I was certain that I had demonstrated why I was the ideal candidate for the role. I had the experience, the knowledge, and the track record to demonstrate my value. Not to mention my friend pulling for me. Unfortunately, I did not get an offer.
 
 Instead, I received a polite "thank you, but no thank you" letter.
+
+[![failure](/assets/images/failure.jpg)](https://www.flickr.com/photos/jeffdjevdet/17134243011)
 
 ### the bad news
 
