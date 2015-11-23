@@ -1,5 +1,5 @@
 ---
-title: "What I Learned from Blowing an Interview"
+title: "What I Learned from Blowing An Interview"
 layout: default
 ---
 
