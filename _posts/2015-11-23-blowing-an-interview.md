@@ -7,7 +7,7 @@ layout: default
 
 Some time ago, I was a development manager with 23 reports spread over four teams.
 
-When I joined the company, they had already made the transition from "smart people in a room" to having a repeatable process. And they had been able to grow from a pair of Waterloo graduates to about forty engineers, half of whom were in my group. After a series of embarrassing schedule SNAFUs, the company had doubled down on process, instituting rigid Big Design Up Front and scheduling weekly reviews of the ubiquitous waterfall GANTT charts. This had helped, but the schedule kept slipping.
+When I joined the company, they had already made the transition from "smart people in a room," to having a repeatable process. And they had been able to grow from a pair of Waterloo graduates to about forty engineers, half of whom were in my group. After a series of embarrassing schedule SNAFUs, the company had doubled down on process, instituting rigid Big Design Up Front and scheduling weekly reviews of the ubiquitous waterfall GANTT charts. This had helped, but the schedule kept slipping.
 
 I had joined to lead a small team, and I brought a different tool, Agile, to the table. After my small team had hit several targets in a row, I was promoted to manage four teams, and with the new approach, the group hit its ship date for the very first time.
 
