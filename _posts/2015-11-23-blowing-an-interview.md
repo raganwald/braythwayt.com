@@ -29,7 +29,7 @@ Instead, I received a polite "thank you, but no thank you" letter.
 
 I contacted my friend. What went wrong? He sighed. "The founders thought you were too theoretical. They got the sense you would be a great coach or evangelist, but lacked the hands-on attitude they were looking for to actually build a team up."
 
-I was astounded. Hadn't I written a metric fuck-ton of code at my current company? Didn't I run multiple development meetings, train tech leads on the process, and do an enormous amount of reporting and prediction? Wasn't I working with burn-downs, buffer delats, and other metrics every day?
+I was astounded. Hadn't I written a metric fuck-ton of code at my current company? Didn't I run multiple development meetings, train tech leads on the process, and do an enormous amount of reporting and prediction? Wasn't I working with burn-downs, buffer-deltas, and other metrics every day?
 
 "Sorry," he said, "I guess that just didn't come across."
 
