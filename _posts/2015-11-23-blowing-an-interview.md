@@ -47,6 +47,8 @@ There were a few more examples, but they all pointed to a problem with the way I
 
 It's tempting to say that I was not listening, that I was not paying attention to the questions I was being asked. But even that is an unnecessary generalization. The specific problem was that I was speaking of broad patterns and forces, when my interlocutors were asking about specific, tangible incidents and tools.
 
+[![Realization](/assets/images/realization.jpg)](https://www.flickr.com/photos/wonderlane/3613473396)
+
 ### the realization
 
 Generalizing has an important role in thinking. When we see a pattern, we look for a root cause. When we find a specific solution to a specific problem, we try to understand how the solution can be adapted to similar problems. This is how we discover and perfect tools of all kinds.
@@ -87,3 +89,5 @@ Failing so spectacularly in an interview shook me to my core. But it taught me a
  > When talking with others, be aware of when they want to understand the specifics, and when they want to understand the general ideas. When explaining specifics, use the general only to support your ideas. And when explaining  the ideas, use specifics only as examples to illustrate the principles.
 
  > Working in the abstract can provide a lot of leverage, but that depends upon a number of factors like adoption of your ideas by others. Working in the specific is when value is realized.
+
+ ---
