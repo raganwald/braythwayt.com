@@ -1,6 +1,6 @@
 ---
 layout: default
-indexed: false
+published: false
 ---
 
 ### background: the interview
