@@ -13,11 +13,13 @@ I had joined to lead a small team, and I brought a different tool, Agile, to the
 
 I was well-regarded within the company, and happy. However, a friend worked for a startup with excellent prospects, and he convinced me that I ought to fly down to Cupertino and interview for the VP of Engineering role. They were growing like crazy, and needed to go beyond "a bunch of smart people in a room." I'd be the most senior non-founder, and it would mean a chance to build the engineering organization.
 
-I packed my discs and cleats[^apple-tandem], and flew down for a day of meetings. The technical interviews went extremely well. I wowed them by using the `explicit` keyword in a C++ coding test, I cracked a few logic puzzles, I found some cycles in some graphs, and otherwise waved the signal that I was a good cultural fit for the technical norms of the time.
+I packed my discs and cleats,[^apple-tandem] and flew down for a day of meetings. The technical interviews went extremely well. I wowed them by using the `explicit` keyword in a C++ coding test, I cracked a few logic puzzles, I found some cycles in some graphs, and otherwise waved the signal that I was a good cultural fit for the technical norms of the time.
 
 [^apple-tandem]: There used to be a regular lunchtime game of pickup Ultimate at the Cupertino library. it was informally known as the "Apple-Tandem" game, presumably because it was founded by engineers from those respective companies. That being said, I never actually met anyone who professed to be from Apple or Tandem.
 
-I also met with the founders, and we were joined by a representative from the lead investor. After some talk about my background, we turned to the subject of engineering process and culture, my chance to display the value I could bring them. I was enthusiastic and confident as I expounded on my theories about iterative development, the problems with the "glass case plan" anti-pattern, the ways in which software architecture could remove the dependencies that made waterfall process seem necessary, and much more.
+I also met with the founders, and we were joined by a representative from the lead investor. After some talk about my background, we turned to the subject of engineering process and culture: This was my chance to display the value I could bring to the company.
+
+I was enthusiastic and confident as I expounded on my theories about iterative development, the problems with the "glass case plan" anti-pattern, the ways in which software architecture could remove the dependencies that made waterfall process seem necessary, and much more.
 
 When the interviews concluded, I was certain that I had demonstrated why I was the ideal candidate for the role. I had the experience, the knowledge, and the track record to demonstrate my value. Not to mention my friend pulling for me. Unfortunately, I did not get an offer.
 
