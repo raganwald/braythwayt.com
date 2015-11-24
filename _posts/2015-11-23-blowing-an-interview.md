@@ -96,4 +96,6 @@ Failing so spectacularly in an interview shook me to my core. But it taught me a
 
  > Working in the abstract can provide a lot of leverage, but that depends upon a number of factors like adoption of your ideas by others. Working in the specific is when value is realized.
 
+ (discuss on [hacker news](https://news.ycombinator.com/item?id=10621410))
+
  ---
