@@ -1,5 +1,5 @@
 ---
-title: "Advice for a Beginner Developer"
+title: "My Advice for a Programming Beginner"
 layout: default
 ---
 
