@@ -19,7 +19,7 @@ I found this question on [Reddit](https://www.reddit.com/r/javascript/comments/3
 
 I see this sentiment all the time. A lot of people are working in the field (be it JavaScript or any other programming community), and do not have a mentor, and feel like they do not have competency. So clearly, this concern is something a lot of people share, and finding a good way forward is important for the community as a whole.
 
-What strikes me about many such questions is that people say they are a “beginner,” but go on to describe *professional* problems. For example, “I am a JS beginner, and I’m having trouble deciding whether to use Gulp, Grunt, Broccoli, Webpack on this project at work.”
+What strikes me about many such questions is that people say they are a “beginner,” but go on to describe *professional* problems. For example, “I am a JS beginner, and I’m having trouble deciding whether to use Gulp, Grunt, Broccoli, or Webpack on this project at work.”
 
 This question above is a good example of that: The author is building a rather large app for an established organization, they are clearly a professional. But they describe issues with understanding JavaScript as well as issues being competent within the profession.
 
