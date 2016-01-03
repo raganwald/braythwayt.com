@@ -3,7 +3,7 @@ title: "My Advice for a Programming Beginner"
 layout: default
 ---
 
-I found this question on Reddit:
+I found this question on [Reddit](https://www.reddit.com/r/javascript/comments/3z9fxz/beginners_dilemma_too_many_patterns_and_tools_out/):
 
 > Hey Guys,
 >
