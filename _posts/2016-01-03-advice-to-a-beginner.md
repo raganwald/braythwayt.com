@@ -53,4 +53,4 @@ Whereas, if you are an inexperienced professional who needs to learn, then focus
 
 It sounds prosaic, but if you are inexperienced, that is perfectly normal. It’s a question of picking up the basics, of being able to ask a question and get lots of answers because you’re asking about something everyone is familiar with. Once you have more experience, you can explore a little outside of the mainstream, you will have the context to understand when a problem you’re solving has a unique requirement that is served by a unique approach.
 
-So... the summary is, **Decide whether you are a student, or inexperienced. If you’e a student, study on the side. If you’re inexperienced, choose a low-risk way to gain experience.**
+So... the summary is, **Decide whether you are a student, or inexperienced. If you’re a student, study on the side. If you’re inexperienced, choose a low-risk way to gain experience.**
