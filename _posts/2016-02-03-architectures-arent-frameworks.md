@@ -14,6 +14,8 @@ An argument I've heard in favour of frameworks is: "If you don't explicitly choo
 
 Having your own ad hoc, informally-specified, bug-ridden, slow implementation of half of a framework is not something to be fervently desired in most cases, but I'd like to explain why I don't feel this argument lines up with my experience.
 
+[![Porco Rosso](/assets/images/porco-rosso-16.png)](https://www.flickr.com/photos/zmz125000/22300206739)
+
 ### what is a framework?
 
 In contemporary programming terms, a framework contains--at a minimum--a collection of libraries that interoperate well, an architecture for organizing the libraries and the code you write, and a mechanism for wiring up your code to the libraries provided by the framework. Other tools such as build pipelines may also be provided.
@@ -33,6 +35,8 @@ So to summarize, the important things about a framework are that it is:
 - An architecture for organizing code;
 - A mechanism for wiring your code to the framework;
 - Where the framework is in control.
+
+[![Porco Rosso](/assets/images/porco-rosso-5.png)](https://www.flickr.com/photos/zmz125000/22473645012)
 
 ### what if you don't use a framework?
 
