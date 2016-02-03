@@ -50,11 +50,13 @@ You'll also need an architecture, but it's not like you need to invent one from 
 
 And naturally, your code interoperates cleanly with the libraries and everything else. After all, you're writing it! By definition it works with everything.
 
-But is what you've written a framework? Or not?.
+But have you would up writing your own framework? Or not?.
 
 [![Porco Rosso](/assets/images/porco-rosso-9.jpg)](https://www.flickr.com/photos/zmz125000/22299416898)
 
-### what makes a framework a framework?
+### what makes a framework, a framework?
+
+
 
 ---
 
