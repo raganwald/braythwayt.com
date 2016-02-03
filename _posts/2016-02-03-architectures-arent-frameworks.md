@@ -64,9 +64,49 @@ This is the rationale behind [Python] having significant whitespace: It is never
 
 [Python]: https://en.wikipedia.org/wiki/Python_(programming_language)
 
+So in what way is writing your own application with libraries not the same thing as writing your own ad-hoc framework? How is it different?
+
 [![Porco Rosso](/assets/images/porco-rosso-9.jpg)](https://www.flickr.com/photos/zmz125000/22299416898)
 
 ### what makes a framework, a framework?
+
+Let's back up and consider how frameworks are made. There are two ways to make a framework: The academic way, and the practical way. In the academic way, you sit down and imagine what application developers need, then set out to make the OneTrueAwesomeFrameworkToRuleThemAll, In the practical way, you write an application, then *extract* the framework from what you have written.
+
+I want to draw attention to the latter method, because from it we can devine whether writing an application necessarily includes writing an ad hoc framework. let's say you write an online store. If you could go through the application and delete any references to your particular store, would what you have left be a framework?
+
+In most cases, the answer is **no**. Extracting a framework from an app starts with removing things specific to the app. But then you have to add stuff. Many of the things you remove, like classes and workflows specific to your business, have to be refactored so that other users of the framework can put their own stuff in. Things must be abstracted. A controller might be one class in your application, but you would need to extract common functionality from it into an abstract superclass to make it work in a framework.
+
+Methods might need to be teased apart and parameterized, decorated, or turned into template methods to permit reuse. Very few applications actually have a working framework inside them, because they weren't written to be generic web applications, or even generic online stores. They were written to do one thing and do that one thing well.
+
+Whereas a framework is--by design--written to assist people do many different things. It is full of extra abstractions and teased apart indirections. That confers a benefit when you are writing an app with a framework. But it exacts a toll if you write your own app to include your own framework, because your app no longer does one thing well. Not only does it include the kitchen sink, but it includes all the indirections necessary for using the framework for kitchens, even if you are building a bedroom.
+
+If your app includes all those indirections and abstractions, you've written your own framework. If not, you haven't.
+
+[![Porco Rosso](/assets/images/porco-rosso-2.jpg)](https://www.flickr.com/photos/zmz125000/22498181971)
+
+### so what's better?
+
+It's a tradeoff: You win if you build an app using a framework, for all the reasons noted: a curated set of libraries, a standard way to do things understood by a community, and you need never waste time worrying about making decisions that don't matter.
+
+You also win if you write an application using good libraries and well-known architectural patterns. You win if you make it do one thing and do that one thing well. While you don't have quite the same ease of choosing libraries, things are still done in a well-understood way, and while you make a number of decisions, you also eliminate a massive amount of indirection and abstraction.
+
+Your app can be simpler and cleaner without a framework.
+
+[![Porco Rosso](/assets/images/valley-of-the-wind-26.jpg)](https://www.flickr.com/photos/zmz125000/22486577991)
+
+### the dark side of application development
+
+So why the warnings about writing ad hoc, informally-specified, bug-ridden, slow implementation of half of a framework? The answer is, *Because of the [inner platform effect]*. Whether intentionally or through overzealously copying the abstractions and APIs of frameworks, many applications end up with a framework inside them. They thus get all the disadvantages of a framework--like extra levels of indirection and unnecessary customizability--coupled with all the disadvantages of writing your own app--like needing to write more code, make more decisions, and not have a community standard way to do anything.
+
+[inner platform effect]: https://en.wikipedia.org/wiki/Inner-platform_effect
+
+[![Porco Rosso](/assets/images/valley-of-the-wind-31.jpg)](https://www.flickr.com/photos/zmz125000/22475579055)
+
+### success in application development
+
+The key to success in writing an application without a framework *is to write an application without a framework*. Have libraries. Have an architecture. Wire things together. But strive to keep it lean and focused. Practice YAGNI ruthlessly and view with deep prejudice any extra abstraction or customizability "just in case we need it." Do not embrace wild convention-over-configuration in a custom app. Do not build elaborate class hierarchies just so that a new widget can be written in one line of code.
+
+Just write your app.
 
 ---
 
