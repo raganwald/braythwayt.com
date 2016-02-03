@@ -4,7 +4,7 @@ layout: default
 tags: [noindex]
 ---
 
-[![Howl's Moving Castle](/assets/images/howl.png)](https://www.flickr.com/photos/zmz125000/22499638891)
+[![Howl's Moving Castle](/assets/images/howl-4.png)](https://www.flickr.com/photos/zmz125000/22499638891)
 
 One of the big questions to answer before starting any programming application is: *Should we use a framework?*
 
@@ -36,7 +36,9 @@ So to summarize, the important things about a framework are that it is:
 
 ### what if you don't use a framework?
 
-If you don't use a framework, don't you always end up with a framework? Don't all applications have a collection of libraries that interoperate well, an architecture, and mechanism for wiring your code to the libraries? So therefore, don't you always get a framework, but sometimes you get the pain and suffering of libraries that don't interoperate well, or a poor architecture?
+If you don't use a framework, don't you always end up with a framework? Won't you wind up building "an ad hoc, informally-specified, bug-ridden, slow implementation of half of a framework?"
+
+Don't all applications have a collection of libraries that interoperate well, an architecture, and mechanism for wiring your code to the libraries? So therefore, don't you always get a framework, but sometimes you get the pain and suffering of libraries that don't interoperate well, or a poor architecture?
 
 I don't think this is the case. When you set out to write an application without a framework, you certainly need libraries (It's quite rare to build most of an application entirely bespoke). And yes, you may need to do some research to discover which ones work best in concert. That being said, there are certain well-known collections of complementary libraries, and some libraries consist of components that are all written to work together, like [Backbone.js](https://en.wikipedia.org/wiki/Backbone.js).
 
