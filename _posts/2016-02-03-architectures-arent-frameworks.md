@@ -96,7 +96,9 @@ Your app can be simpler and cleaner without a framework.
 
 ### the dark side of application development
 
-So why the warnings about writing ad hoc, informally-specified, bug-ridden, slow implementation of half of a framework? The answer is, *Because of the [inner platform effect]*. Whether intentionally or through overzealously copying the abstractions and APIs of frameworks, many applications end up with a framework inside them. They thus get all the disadvantages of a framework--like extra levels of indirection and unnecessary customizability--coupled with all the disadvantages of writing your own app--like needing to write more code, make more decisions, and not have a community standard way to do anything.
+So why the warnings about writing ad hoc, informally-specified, bug-ridden, slow implementation of half of a framework? The answer is, *Because of the [inner platform effect]*. Whether intentionally or through overzealously copying the abstractions and APIs of frameworks, many applications end up with a framework inside them.
+
+They thus get all the disadvantages of a framework--like extra levels of indirection and unnecessary customizability--coupled with all the disadvantages of writing your own app--like needing to write more code, make more decisions, and not have a community standard way to do anything.
 
 [inner platform effect]: https://en.wikipedia.org/wiki/Inner-platform_effect
 
@@ -104,7 +106,11 @@ So why the warnings about writing ad hoc, informally-specified, bug-ridden, slow
 
 ### success in application development
 
-The key to success in writing an application without a framework *is to write an application without a framework*. Have libraries. Have an architecture. Wire things together. But strive to keep it lean and focused. Practice YAGNI ruthlessly and view with deep prejudice any extra abstraction or customizability "just in case we need it." Do not embrace wild convention-over-configuration in a custom app. Do not build elaborate class hierarchies just so that a new widget can be written in one line of code.
+The key to success in writing an application without a framework *is to write an application without a framework*.
+
+Have libraries. Have an architecture. Wire things together. But strive to keep it lean and focused. Practice YAGNI ruthlessly and view with deep prejudice any extra abstraction or customizability "just in case we need it."
+
+Do not embrace wild convention-over-configuration in a custom app. Do not build elaborate class hierarchies just so that a new widget can be written in one line of code.
 
 Just write your app.
 
