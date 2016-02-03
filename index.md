@@ -9,14 +9,30 @@ Reg &ldquo;raganwald&rdquo; Braithwaite is proof that somewhere, a combinatory f
 
 His other works are on [GitHub](https://github.com/raganwald) and [Leanpub](http://leanpub.com/u/raganwald), you can follow him on Twitter as [@raganwald](https://twitter.com/raganwald), and from time to time he speaks at [conferences](http://lanyrd.com/profile/raganwald/). His email is [reg@braythwayt.com](mailto:reg@braythwayt.com), although most of it falls into the spam filter black hole.
 
-### recent non-technical essays
+### 2016 essays
 
 <div class="related">
   <ul>
     {% for post in site.posts %}
-      {% unless post.categories contains "posterous" or post.categories contains "homoiconic" or post.categories contains "noindex" or post.tags contains "noindex" %}
+      {% capture postyear %}{{post.date | date: '%Y'}}{% endcapture %}
+      {% unless post.tags contains "noindex" or postyear != "2016" %}
         <li>
-    <a href="{{ post.url }}">{{ post.title }}</a> (<span>{{ post.date | date: "%B %e, %Y" }}</span>)
+          <a href="{{ post.url }}">{{ post.title }}</a>
+        </li>
+      {% endunless %}
+    {% endfor %}
+  </ul>
+</div>
+
+### 2015 essays
+
+<div class="related">
+  <ul>
+    {% for post in site.posts %}
+      {% capture postyear %}{{post.date | date: '%Y'}}{% endcapture %}
+      {% unless post.tags contains "noindex" or postyear != "2015" %}
+        <li>
+          <a href="{{ post.url }}">{{ post.title }}</a>
         </li>
       {% endunless %}
     {% endfor %}
