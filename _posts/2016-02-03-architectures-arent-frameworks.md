@@ -18,11 +18,11 @@ Having your own ad hoc, informally-specified, bug-ridden, slow implementation of
 
 In contemporary programming terms, a framework contains--at a minimum--a collection of libraries that interoperate well, an architecture for organizing the libraries and the code you write, and a mechanism for wiring up your code to the libraries provided by the framework. Other tools such as build pipelines may also be provided.
 
-In addition to these things we can observe, framework architectures typically are organized around the framework doing most of the work, and calling out to your code where necessary. For example, in Ruby on Rails you write controllers, and Rails invokes your controllers. Everything you write conforms to an API provided by the framework and is, in essence, subservient to its design.
+In addition to these things we can observe, framework architectures typically are organized around the framework doing most of the work, and calling out to your code where necessary. In [Ruby on Rails](https://en.wikipedia.org/wiki/Ruby_on_Rails), you write controllers, and Rails invokes your controllers. Everything you write conforms to an API provided by the framework and is, in essence, subservient to its design.
 
 The benefits of choosing a good framework include an assurance that the libraries provided all work together seamlessly, and a standard way to do many things. When a large number of people embrace the framework, you benefit to some degree from having a consistent way to solve certain problems.[^folder]
 
-[^folder]: For example, in Rails, controller class files go in the "controllers" folder, which is inside the "app" folder by default. Since almost all Rails apps are organized this way, when a Rails programmer starts work on a new app, they know exactly where to find controller files.
+[^folder]: For example, in [Rails][Ruby on Rails], controller class files go in the "controllers" folder, which is inside the "app" folder by default. Since almost all Rails apps are organized this way, when a Rails programmer starts work on a new app, they know exactly where to find controller files.
 
 So to summarize, the important things about a framework are that it is:
 
