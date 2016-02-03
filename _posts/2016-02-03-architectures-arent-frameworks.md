@@ -36,7 +36,7 @@ So to summarize, the important things about a framework are that it is:
 - A mechanism for wiring your code to the framework;
 - Where the framework is in control.
 
-[![Porco Rosso](/assets/images/porco-rosso-5.jpg)](https://www.flickr.com/photos/zmz125000/22473645012)
+[![Porco Rosso](/assets/images/porco-rosso-7.jpg)](https://www.flickr.com/photos/zmz125000/22473736582)
 
 ### what if you don't use a framework?
 
@@ -52,11 +52,21 @@ And naturally, your code interoperates cleanly with the libraries and everything
 
 But have you would up writing your own framework? Or not?.
 
+[![Porco Rosso](/assets/images/porco-rosso-5.jpg)](https://www.flickr.com/photos/zmz125000/22473645012)
+
+### so far, they sound the same
+
+Up to this point, what you get from working with a framework sounds just like what you get writing an app with libraries. The differences are ostensibly that with a framework, a lot of decisions are made for you, and with libraries, you get to do some awesome wonderful customization that most people don't need, so why bother?
+
+There is merit to this. Let's forget about the effort of writing the code for a moment. There are decisions that matter, and decisions that don't. One of the benefits of a framework is that it makes a lot of decisions for you. If those decisions don't matter, you've saved yourself a tremendous amount of time by not having to think about them. If you're on a team, you've saved the team a tremendous amount of time by not debating them.
+
+This is the rationale behind [Python] having significant whitespace: It is never a good idea to spend time arguing about how to indent code, and whether the braces go on one line or the next. So having a language enforce one right way to do it means you spend all your time thinking about things that matter.
+
+[Python]: https://en.wikipedia.org/wiki/Python_(programming_language)
+
 [![Porco Rosso](/assets/images/porco-rosso-9.jpg)](https://www.flickr.com/photos/zmz125000/22299416898)
 
 ### what makes a framework, a framework?
-
-
 
 ---
 
