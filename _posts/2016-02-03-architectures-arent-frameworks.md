@@ -93,7 +93,13 @@ No.
 
 When we set out to write an application without a framework, we certainly need libraries (It's quite rare to build most of an application entirely bespoke). And yes, we may need to do some research to discover which ones work best in concert. That being said, there are certain well-known collections of complementary libraries, and some libraries consist of components that are all written to work together, like [Backbone.js](https://en.wikipedia.org/wiki/Backbone.js).
 
-We'll also need an architecture, but it's not like we need to invent one from scratch, and that nobody else will understand it. If we have Models, Views, Controllers, and View Models, everyone knows what you're doing, why, and how to work with it. We've had variations on MVC since at least 1982. The same goes for a hexagonal or other architecture: There are well-known patterns of architecture for organizing applications, and choosing one that programmers will understand is hardly the most daunting challenge we will face.
+We'll also need an architecture, but it's not like we need to invent one from scratch, and that nobody else will understand it. If we have Models, Views, Controllers, and View Models, everyone knows what you're doing, why, and how to work with it.
+
+We've had variations on [MVC] since at least 1982. The same goes for [hexagonal], [naked objects], or other architectures: There are well-known patterns of architecture for organizing applications, and choosing one that programmers will understand is hardly the most daunting challenge we will face.
+
+[hexagonal]: http://www.c2.com/cgi/wiki?HexagonalArchitecture
+[MVC]: https://en.wikipedia.org/wiki/Model–view–controller
+[naked objects]: http://www.c2.com/cgi/wiki?TheNakedObjectsFramework
 
 And naturally, our code interoperates cleanly with the libraries and everything else. After all, you're writing it! By definition it works with everything.
 
@@ -111,13 +117,13 @@ It's a tradeoff: We win if we build an app using a framework, for all the reason
 
 We also win if we write an application using good libraries and well-known architectural patterns. We win if we make it do one thing and do that one thing well. While we don't have quite the same ease of choosing libraries, things are still done in a well-understood way, and while we make a number of decisions, we also eliminate a massive amount of indirection and abstraction.
 
-Wer app can be simpler and cleaner without a framework.
+Our app can be simpler and cleaner without a framework.
 
 [![Porco Rosso](/assets/images/valley-of-the-wind-26.jpg)](https://www.flickr.com/photos/zmz125000/22486577991)
 
 ### the dark side of application development
 
-So why the warnings about writing ad hoc, informally-specified, bug-ridden, slow implementation of half of a framework? The answer is, *Because of the [inner platform effect]*. Whether intentionally or through overzealously copying the abstractions and APIs of frameworks, many applications end up with a framework inside them.
+So why the warnings about writing ad hoc, informally-specified, bug-ridden, slow implementation of half of a framework? *Because of the [inner platform effect]*. Whether intentionally or through overzealously copying the abstractions and APIs of frameworks, many applications end up with a framework inside them.
 
 They thus get all the disadvantages of a framework--like extra levels of indirection and unnecessary customizability--coupled with all the disadvantages of writing our own app--like needing to write more code, make more decisions, and not have a community standard way to do anything.
 
@@ -133,7 +139,7 @@ Have libraries. Have an architecture. Wire things together. But strive to keep i
 
 Do not embrace wild convention-over-configuration in a custom app. Do not build elaborate class hierarchies just so that a new widget can be written in one line of code.
 
-Just write our app.
+Just write the app.
 
 [![Porco Rosso](/assets/images/porco-rosso-9.jpg)](https://www.flickr.com/photos/zmz125000/22299416898)
 
