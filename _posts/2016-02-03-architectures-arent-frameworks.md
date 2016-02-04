@@ -140,8 +140,8 @@ Do not embrace wild convention-over-configuration in a custom app. Do not build 
 
 Just write the app.
 
-[![Porco Rosso](/assets/images/porco-rosso-9.jpg)](https://www.flickr.com/photos/zmz125000/22299416898)
-
 ---
+
+[![Porco Rosso](/assets/images/porco-rosso-9.jpg)](https://www.flickr.com/photos/zmz125000/22299416898)
 
 ### notes
