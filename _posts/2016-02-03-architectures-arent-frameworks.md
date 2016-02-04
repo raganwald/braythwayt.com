@@ -74,7 +74,7 @@ By design, Rails must handle every possible error, every possible thing a contro
 
 Controller methods are complex, obviously. But the way in which Rails is wired up to controller methods in applications must, by design, handle all of the complexity of every application that could ever be written in Rails.
 
-That flexibility comes at a cost: The framework must introduce "magic," a/k/a indirection and abstraction. And this happens everywhere that the framework calls our code.
+That flexibility comes at a cost: The framework must introduce "magic," a/k/a indirection and abstraction. And this happens everywhere that the framework calls our code. It's not just how it calls a controller method: It's in how models have lifecycle methods, how there are multiple ways to observe changes, how you can decorate methods, everything.
 
 Notice that this is not the case with libraries. Our code calls library functions and methods, and since we are in charge, the complexity of dealing with our particular needs is in our code. Thus, library code is considerably simpler than the complexity of framework code.
 
