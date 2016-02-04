@@ -1,7 +1,6 @@
 ---
 title: "Must every application contain an ad hoc, informally-specified, bug-ridden, slow implementation of half of a framework?"
 layout: default
-tags: [noindex]
 ---
 
 [![Howl's Moving Castle](/assets/images/howl-4.png)](https://www.flickr.com/photos/zmz125000/22499638891)
