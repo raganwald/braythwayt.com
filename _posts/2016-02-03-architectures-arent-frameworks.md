@@ -154,4 +154,9 @@ Just write the app.
 
 [![Porco Rosso](/assets/images/porco-rosso-9.jpg)](https://www.flickr.com/photos/zmz125000/22299416898)
 
+### other reading
+
+0. [Don't Let Architecture Astronauts Scare You](http://www.joelonsoftware.com/articles/fog0000000018.html)
+0. [Why I No Longer Use MVC Frameworks](http://www.infoq.com/articles/no-more-mvc-frameworks)
+
 ### notes
