@@ -10,9 +10,9 @@ You may have encountered this variation on [Greenspun's Tenth Rule](https://en.w
 
 > Every sufficiently complicated in-house application contains an ad hoc, informally-specified, bug-ridden, slow implementation of half of a framework.
 
-The thinking behind this quip is that if you're setting out to write a non-trivial application, you'll wind up with a framework any ways, so why not explicitly pick a good one up front rather than accidentally creating your own your own ad hoc, informally-specified, bug-ridden, slow implementation of half of a framework in an effort to do without?
+The thinking behind this quip is that if we're setting out to write a non-trivial application, we'll wind up with a framework anyways, so why not explicitly pick a good one up front rather than accidentally creating our own your own ad hoc, informally-specified, bug-ridden, slow implementation of half of a framework in an effort to do without?
 
-I believe that while writing an application without a framework sometimes does result in writing your own framework f indifferent (or worse) quality, it needn't. We just need to be aware of what a framework provides, and if we choose not to use a famework, we should consciously choose to do without some of what it provides.
+I believe that while writing an application without a framework sometimes does result in writing your own framework of indifferent (or worse) quality, it needn't. We just need to be aware of what a framework provides, and if we choose not to use a famework, we should consciously choose to do without some of what it provides.
 
 [![Porco Rosso](/assets/images/porco-rosso-16.jpg)](https://www.flickr.com/photos/zmz125000/22300206739)
 
