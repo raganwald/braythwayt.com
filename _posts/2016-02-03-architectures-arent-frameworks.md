@@ -30,13 +30,13 @@ There is merit to this. Let's forget about the effort of writing the code for a 
 
 [Python]: https://en.wikipedia.org/wiki/Python_(programming_language)
 
-[^folder]: For example, in [Rails][Ruby on Rails], controller class files go in the "controllers" folder, which is inside the "app" folder by default. Since almost all Rails apps are organized this way, when a Rails programmer starts work on a new app, they know exactly where to find controller files.
+[^folder]: In [Rails][Ruby on Rails], controller class files go in the "controllers" folder, which is inside the "app" folder by default. Since almost all Rails apps are organized this way, when a Rails programmer starts work on a new app, they know exactly where to find controller files.
 
-So to summarize, the important things about a framework are that it is:
+To summarize, the important things about a framework are that it is:
 
 - A collection of libraries;
 - That interoperate well;
-- And an architecture for organizing code
+- And an architecture for organizing code.
 
 [![Porco Rosso](/assets/images/porco-rosso-7.jpg)](https://www.flickr.com/photos/zmz125000/22473736582)
 
@@ -46,18 +46,20 @@ In addition to these things we can observe, framework architectures typically ar
 
 [Ruby on Rails]: https://en.wikipedia.org/wiki/Ruby_on_Rails
 
-This is an important point, because by design, frameworks are intended to be used by a staggeringly diverse number of different applications, each with its own unique requirements and behaviour.[^diverse] The intersection between the design of the framework being in control and the framework needing support a widely diverse set of applications drives an important characteristic of frameworks: They introduce abstraction layers and indirection.
+This is an important point, because by design, frameworks are intended to be used by a staggeringly diverse number of different applications, each with its own unique requirements and behaviour.[^diverse]
+
+The intersection between the design of the framework being in control, and the framework needing to support a widely diverse set of applications drives an important characteristic of frameworks: They introduce abstraction layers and indirection.
 
 > Frameworks introduce abstraction layers and indirection.
 
-[^diverse]: For example, although [Ruby on Rails](https://en.wikipedia.org/wiki/Ruby_on_Rails) was created to power [Basecamp], an application to help teams coördinate their work on projects, but it also powers applications as diverse as [GitHub] and [PagerDuty], applications with completely different needs.
+[^diverse]: Although [Ruby on Rails](https://en.wikipedia.org/wiki/Ruby_on_Rails) was created to power [Basecamp], an application to help teams coördinate their work on projects, but it also powers applications as diverse as [GitHub] and [PagerDuty], applications with completely different needs.
 
 [Basecamp]: https://basecamp.com
 [GitHub]: https://github.com
 [Ruby on Rails]: https://en.wikipedia.org/wiki/Ruby_on_Rails\
 [PagerDuty]: https://pagerduty.com
 
-Let's consider what happens when a framework like Rails calls one of our controller methods. Rails is fixed code, it is the same for every application from a mom-and-pop site that registers children for summer camp to GitHUb. But Rails must work for every one of our controller methods and for every controller method in every controller class in every Rails application.
+Let's consider what happens when a framework like Rails calls one of our controller methods. Rails is fixed code, it is the same for every application from a mom-and-pop site that registers children for summer camp to [GitHub]. But Rails must work for every one of our controller methods and for every controller method in every controller class in every Rails application.
 
 {% highlight ruby %}
 class SomeController < ApplicationController
@@ -79,7 +81,7 @@ Notice that this is not the case with libraries. Our code calls library function
 
 In sum, when a framework calls our code, it must handle the complexity of handling all application needs by introducing abstraction and indirection into the API between the framework and our code. When a library is called by our code, it provides a simpler, more direct API, and we are responsible for handling our particular needs.
 
-[![Porco Rosso](/assets/images/howl-3.jpg)](https://www.flickr.com/photos/zmz125000/22488616645)
+[![Porco Rosso](/assets/images/howl-3.png)](https://www.flickr.com/photos/zmz125000/22488616645)
 
 ### what if we don't use a framework?
 
