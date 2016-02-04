@@ -128,7 +128,7 @@ So why the warnings about writing ad hoc, informally-specified, bug-ridden, slow
 
 The point of a framework is to be extremely flexible and to minimize the amount of code you write. Although few people set out to write a framework for many different applications written by many different teams, most people know that the needs of their application will change over time, so they try to accomodate at least two people: Themselves now, and themselves in the future.
 
-If they also try to minimize the amount of code they will write in the future, they organize their architecture around a big chunk of relatively static code that calls out to smaller pieces of code to be written later. Now they are writing a framework.
+If they also try to minimize the amount of code they will write in the future, they will organize their architecture around relatively static code that calls out to smaller pieces of code to be written later. Now they are writing a framework.
 
 And they get all the disadvantages of a framework--like extra levels of indirection and unnecessary customizability--coupled with all the disadvantages of writing their own app--like needing to write more code, make more decisions, and not have a community standard way to do anything.
 
