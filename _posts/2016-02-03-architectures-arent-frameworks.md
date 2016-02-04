@@ -112,11 +112,9 @@ If our architecture is economical with its abstractions and indirections, if it 
 
 ### so, what's better? framework? or no framework?
 
-It's a tradeoff: We win if we build an app using a framework, for all the reasons noted: a curated set of libraries, a standard way to do things understood by a community, and we need never waste time worrying about making decisions that don't matter.
+It's a tradeoff: *We win if we build an app using a framework*, for all the reasons noted: a curated set of libraries, a standard way to do things understood by a community, and we need never waste time worrying about making decisions that don't matter.
 
-We also win if we write an application using good libraries and well-known architectural patterns. We win if we make it do one thing and do that one thing well. While we don't have quite the same ease of choosing libraries, things are still done in a well-understood way, and while we make a number of decisions, we also eliminate a massive amount of indirection and abstraction.
-
-Our app can be simpler and cleaner without a framework.
+*We also win if we write an application using good libraries, well-known architectural patterns, and without introducing unnecessary indirection and abstraction*. We win if we make it do one thing and do that one thing well. Our app can be simpler and cleaner without a framework.
 
 [![Porco Rosso](/assets/images/valley-of-the-wind-26.jpg)](https://www.flickr.com/photos/zmz125000/22486577991)
 
