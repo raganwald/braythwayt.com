@@ -3,7 +3,7 @@ title: "Application developers, we need to have a talk"
 layout: default
 ---
 
-[![Howl's Moving Castle](/assets/images/howl-4.png)](https://www.flickr.com/photos/zmz125000/22499638891)
+[![Howl's Moving Castle](/assets/images/real-howl.jpg)](https://www.flickr.com/photos/schoukah/11972966156)
 
 You may have encountered this variation on [Greenspun's Tenth Rule](https://en.wikipedia.org/wiki/Greenspun's_tenth_rule):
 
@@ -14,8 +14,6 @@ Meaning, all applications of a certain size inevitably contain a framework. Some
 This leads people to reason that if we're setting out to write a non-trivial application, we'll wind up with a framework anyways, so why not explicitly pick a good one up front? Why accidentally create our own ad hoc, informally-specified, bug-ridden, slow implementation of half of a framework in an effort to do without?
 
 But I believe that while writing an application without a framework sometimes does result in writing our own framework of indifferent (or worse) quality, it needn't. We just need to be aware of what a framework provides, and if we choose not to use a famework, we should consciously choose to do without some of what it provides.
-
-[![Porco Rosso](/assets/images/porco-rosso-16.jpg)](https://www.flickr.com/photos/zmz125000/22300206739)
 
 ### what is a framework?
 
@@ -36,8 +34,6 @@ To summarize, the important things about a framework are that it is:
 - A collection of libraries;
 - That interoperate well;
 - And an architecture for organizing code.
-
-[![Porco Rosso](/assets/images/howl-3.png)](https://www.flickr.com/photos/zmz125000/22488616645)
 
 ### how does a framework organize responsibilities?
 
@@ -84,8 +80,6 @@ Notice that this is not the case with libraries. Our code calls library function
 
 In sum, when a framework calls our code, it must handle the complexity of handling all application needs by introducing abstraction and indirection into the API between the framework and our code. When a library is called by our code, it provides a simpler, more direct API, and we are responsible for handling our particular needs.
 
-[![Porco Rosso](/assets/images/porco-rosso-7.jpg)](https://www.flickr.com/photos/zmz125000/22473736582)
-
 ### what if we don't use a framework?
 
 If we don't use a framework, don't we always end up with a framework? Won't we wind up building "An ad hoc, informally-specified, bug-ridden, slow implementation of half of a framework?"
@@ -112,15 +106,11 @@ The answer can be found by looking at the way our code is hooked up within our a
 
 If our architecture is economical with its abstractions and indirections, if it uses them to create cohesion without coupling and to separate responsibilities without introducing extra code to handle phantom responsibilities, we have not created a framework.
 
-[![Porco Rosso](/assets/images/valley-of-the-wind-31.jpg)](https://www.flickr.com/photos/zmz125000/22475579055)
-
 ### so, what's better? framework? or no framework?
 
 It's a tradeoff: *We win if we build an app using a framework*, for all the reasons noted: a curated set of libraries, a standard way to do things understood by a community, and we need never waste time worrying about making decisions that don't matter.
 
 *We also win if we write an application using good libraries, well-known architectural patterns, and without introducing unnecessary indirection and abstraction*. We win if we make it do one thing and do that one thing well. Our app can be simpler and cleaner without a framework.
-
-[![Porco Rosso](/assets/images/valley-of-the-wind-26.jpg)](https://www.flickr.com/photos/zmz125000/22486577991)
 
 ### the dark side of application development
 
@@ -134,8 +124,6 @@ And they get all the disadvantages of a framework--like extra levels of indirect
 
 [inner platform effect]: https://en.wikipedia.org/wiki/Inner-platform_effect
 
-[![Porco Rosso](/assets/images/porco-rosso-2.jpg)](https://www.flickr.com/photos/zmz125000/22498181971)
-
 ### success in application development
 
 The key to success in writing an application without a framework *is to write an application without a framework*.
@@ -147,8 +135,6 @@ Do not embrace wild convention-over-configuration in a custom app. Do not build 
 Just write the app.
 
 ---
-
-[![Porco Rosso](/assets/images/porco-rosso-9.jpg)](https://www.flickr.com/photos/zmz125000/22299416898)
 
 ### other reading
 
