@@ -6,13 +6,13 @@ tags: [noindex]
 
 [![Howl's Moving Castle](/assets/images/howl-4.png)](https://www.flickr.com/photos/zmz125000/22499638891)
 
-*Should we use a framework?* is the one of the first questions to answer before swriting an application.  An argument in favour of frameworks is, "If you don't explicitly choose a framework, you will end up with your own proprietary in-house framework."
-
-Or as nerds of a certain age might joke:
+You may have encountered this variation on [Greenspun's Tenth Rule](https://en.wikipedia.org/wiki/Greenspun's_tenth_rule):
 
 > Every sufficiently complicated in-house application contains an ad hoc, informally-specified, bug-ridden, slow implementation of half of a framework.
 
-Having your own ad hoc, informally-specified, bug-ridden, slow implementation of half of a framework is not something to be fervently desired in most cases, but I'd like to explain why I don't feel this argument lines up with my experience.
+The thinking behind this quip is that if you're setting out to write a non-trivial application, you'll wind up with a framework any ways, so why not explicitly pick a good one up front rather than accidentally creating your own your own ad hoc, informally-specified, bug-ridden, slow implementation of half of a framework in an effort to do without?
+
+I believe that while writing an application without a framework sometimes does result in writing your own framework f indifferent (or worse) quality, it needn't. We just need to be aware of what a framework provides, and if we choose not to use a famework, we should consciously choose to do without some of what it provides.
 
 [![Porco Rosso](/assets/images/porco-rosso-16.jpg)](https://www.flickr.com/photos/zmz125000/22300206739)
 
