@@ -1,5 +1,5 @@
 ---
-title: "Every sufficiently complicated in-house application contains an ad hoc, informally-specified, bug-ridden, slow implementation of half of a framework."
+title: "Must every sufficiently complicated in-house application contain an ad hoc, informally-specified, bug-ridden, slow implementation of half of a framework?"
 layout: default
 tags: [noindex]
 ---
