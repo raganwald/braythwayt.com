@@ -1,5 +1,5 @@
 ---
-title: "Must every application contain an ad hoc, informally-specified, bug-ridden, slow implementation of half of a framework?"
+title: "Application developers, we need to have a talk"
 layout: default
 ---
 
