@@ -1,4 +1,5 @@
 ---
+title: "Programming is a Pop Culture"
 layout: default
 categories: posterous
 ---
