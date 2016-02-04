@@ -47,7 +47,7 @@ The intersection between the design of the framework being in control, and the f
 
 > Frameworks introduce abstraction layers and indirection.
 
-[^diverse]: Although [Ruby on Rails](https://en.wikipedia.org/wiki/Ruby_on_Rails) was created to power [Basecamp], an application to help teams coördinate their work on projects, but it also powers applications as diverse as [GitHub] and [PagerDuty], applications with completely different needs.
+[^diverse]: [Ruby on Rails](https://en.wikipedia.org/wiki/Ruby_on_Rails) was created to power [Basecamp], an application to help teams coördinate their work on projects. But it also powers applications as diverse as [GitHub] and [PagerDuty], code bases with completely different needs.
 
 [Basecamp]: https://basecamp.com
 [GitHub]: https://github.com
