@@ -37,7 +37,7 @@ To summarize, the important things about a framework are that it is:
 - That interoperate well;
 - And an architecture for organizing code.
 
-[![Porco Rosso](/assets/images/porco-rosso-7.jpg)](https://www.flickr.com/photos/zmz125000/22473736582)
+[![Porco Rosso](/assets/images/howl-3.png)](https://www.flickr.com/photos/zmz125000/22488616645)
 
 ### how does a framework organize responsibilities?
 
@@ -80,7 +80,7 @@ Notice that this is not the case with libraries. Our code calls library function
 
 In sum, when a framework calls our code, it must handle the complexity of handling all application needs by introducing abstraction and indirection into the API between the framework and our code. When a library is called by our code, it provides a simpler, more direct API, and we are responsible for handling our particular needs.
 
-[![Porco Rosso](/assets/images/howl-3.png)](https://www.flickr.com/photos/zmz125000/22488616645)
+[![Porco Rosso](/assets/images/porco-rosso-7.jpg)](https://www.flickr.com/photos/zmz125000/22473736582)
 
 ### what if we don't use a framework?
 
@@ -108,7 +108,7 @@ The answer can be found by looking at the way our code is hooked up within our a
 
 If our architecture is economical with its abstractions and indirections, if it uses them to create cohesion without coupling and to separate responsibilities without introducing extra code to handle phantom responsibilities, we have not created a framework.
 
-[![Porco Rosso](/assets/images/porco-rosso-2.jpg)](https://www.flickr.com/photos/zmz125000/22498181971)
+[![Porco Rosso](/assets/images/valley-of-the-wind-31.jpg)](https://www.flickr.com/photos/zmz125000/22475579055)
 
 ### so, what's better? framework? or no framework?
 
@@ -128,7 +128,7 @@ They thus get all the disadvantages of a framework--like extra levels of indirec
 
 [inner platform effect]: https://en.wikipedia.org/wiki/Inner-platform_effect
 
-[![Porco Rosso](/assets/images/valley-of-the-wind-31.jpg)](https://www.flickr.com/photos/zmz125000/22475579055)
+[![Porco Rosso](/assets/images/porco-rosso-2.jpg)](https://www.flickr.com/photos/zmz125000/22498181971)
 
 ### success in application development
 
