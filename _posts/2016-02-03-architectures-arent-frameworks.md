@@ -1,5 +1,5 @@
 ---
-title: "Must every sufficiently complicated in-house application contain an ad hoc, informally-specified, bug-ridden, slow implementation of half of a framework?"
+title: "Must every application contain an ad hoc, informally-specified, bug-ridden, slow implementation of half of a framework?"
 layout: default
 tags: [noindex]
 ---
@@ -8,7 +8,7 @@ tags: [noindex]
 
 You may have encountered this variation on [Greenspun's Tenth Rule](https://en.wikipedia.org/wiki/Greenspun's_tenth_rule):
 
-> Every sufficiently complicated in-house application contains an ad hoc, informally-specified, bug-ridden, slow implementation of half of a framework.
+> Every sufficiently complicated application contains an ad hoc, informally-specified, bug-ridden, slow implementation of half of a framework.
 
 Meaning, all applications of a certain size inevitably contain a framework. Some are explicitly built on a robust, high-performance and feature-complete framework, and the rest end up with crud.
 
