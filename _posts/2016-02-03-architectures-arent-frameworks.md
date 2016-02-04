@@ -140,6 +140,10 @@ Just write the app.
 
 ---
 
+(discuss on [hacker news](https://news.ycombinator.com/item?id=11035010))
+
+---
+
 [![Porco Rosso](/assets/images/porco-rosso-9.jpg)](https://www.flickr.com/photos/zmz125000/22299416898)
 
 ### notes
