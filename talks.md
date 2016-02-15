@@ -1,11 +1,9 @@
 ---
-title: Reginald Braithwaite's Conference Talks
+title: Reginald Braithwaite's Selected Conference Talks
 layout: default
 ---
 
 > At either end of the educational spectrum, there lies a Hacker Class.
-
-Reg &ldquo;raganwald&rdquo; Braithwaite is proof that somewhere, a combinatory forest is missing its Idiot Bird. His interests include constructing surreal numbers, deconstructing hopelessly egocentric nulls, and celebrating the joy of programming. He is the author of [JavaScript Allongé](https://leanpub.com/javascriptallongesix), [CoffeeScript Ristretto](https://leanpub.com/coffeescript-ristretto) and [raganwald.com](http://raganwald.com). He develops user experiences at [PagerDuty](https://pagerduty.com).
 
 ### 2016
 

@@ -13,6 +13,8 @@ Reg &ldquo;raganwald&rdquo; Braithwaite is proof that somewhere, a combinatory f
 
 <p><i><small><a href="https://vimeo.com/76141334">I have a good feeling about this - Why tooling is poised to make the jump to hyperspace</a> from <a href="https://vimeo.com/webrebels/videos">Web Rebels Conference</a> on <a href="https://vimeo.com">Vimeo</a>.</small></i></p>
 
+(You can watch more of his talks [here](http:/talks.html))
+
 ---
 
 His other works are on [GitHub](https://github.com/raganwald) and [Leanpub](http://leanpub.com/u/raganwald), you can follow him on Twitter as [@raganwald](https://twitter.com/raganwald), and from time to time he speaks at [conferences](http://lanyrd.com/profile/raganwald/). His email is [reg@braythwayt.com](mailto:reg@braythwayt.com), although most of it falls into the spam filter black hole.
