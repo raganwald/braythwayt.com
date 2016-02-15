@@ -11,7 +11,7 @@ Reg &ldquo;raganwald&rdquo; Braithwaite is proof that somewhere, a combinatory f
 
 <iframe src="https://player.vimeo.com/video/76141334" width="600" height="337" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-(You can watch more talks [here](http://talks.html))
+(You can watch more talks [here](http://braythwayt.com/talks.html))
 
 ---
 
