@@ -18,6 +18,7 @@ Reg &ldquo;raganwald&rdquo; Braithwaite is proof that somewhere, a combinatory f
 <iframe width="600" height="337" src="https://www.youtube.com/embed/hp7sgLVepF8" frameborder="0" allowfullscreen></iframe>
 
 [The Art of the JavaScript Metaobject Protocol: Duck Typing, Compatibility, and the Adaptor Pattern](http://www.youtube.com/watch?v=hp7sgLVepF8) from [Nordic JS](http://nordicjs.com).
+
 ---
 
 <iframe src="https://player.vimeo.com/video/97408202" width="600" height="337" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
@@ -46,9 +47,10 @@ Reg &ldquo;raganwald&rdquo; Braithwaite is proof that somewhere, a combinatory f
 
 <iframe src="https://player.vimeo.com/video/76141334" width="600" height="337" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-<p><i><small><a href="https://vimeo.com/76141334">I have a good feeling about this - Why tooling is poised to make the jump to hyperspace</a> from <a href="https://vimeo.com/webrebels/videos">Web Rebels Conference</a>.</small></i></p>
-
+<p><a href="https://vimeo.com/76141334">I have a good feeling about this - Why tooling is poised to make the jump to hyperspace</a> from <a href="https://vimeo.com/webrebels/videos">Web Rebels Conference</a>.</small></i>
 ### 2012
+
+---
 
 <iframe src="https://player.vimeo.com/video/53265664" width="600" height="337" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
@@ -62,6 +64,6 @@ Reg &ldquo;raganwald&rdquo; Braithwaite is proof that somewhere, a combinatory f
 
 ---
 
-<iframe src="https://player.vimeo.com/video/22957263" width="500" height="313" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/22957263" width="600" height="337" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 <p><a href="https://vimeo.com/22957263">Reginald Braithwaite calls &quot;Bullshit&quot; (Technologic Dec 2010)</a> from <a href="https://vimeo.com/user6029958">Unspace Interactive</a>.</p>
