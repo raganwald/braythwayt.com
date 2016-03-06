@@ -9,13 +9,13 @@ layout: default
 
 <iframe src="https://player.vimeo.com/video/153097877" width="600" height="337" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-<p><a href="https://vimeo.com/153097877">JavaScript Combinators, the &ldquo;Six&rdquo; Edition - Reginald Braithwaite</a> from <a href="https://vimeo.com/ndcconferences">NDC Conferences</a>.</p>
+<p><a href="https://vimeo.com/153097877">JavaScript Combinators, the &ldquo;Six&rdquo; Edition</a> from <a href="https://vimeo.com/ndcconferences">NDC Conferences</a>.</p>
 
 ---
 
 <iframe src="https://player.vimeo.com/video/157132267" width="600" height="337" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-<p><a href="https://vimeo.com/157132267">&ldquo;First-Class Commands:&rdquo; An unexpectedly fertile design pattern - Reginald Braithwaite</a> from <a href="https://vimeo.com/ndcconferences">NDC Conferences</a>.</p>
+<p><a href="https://vimeo.com/157132267">&ldquo;First-Class Commands:&rdquo; An unexpectedly fertile design pattern</a> from <a href="https://vimeo.com/ndcconferences">NDC Conferences</a>.</p>
 
 ### 2014
 
