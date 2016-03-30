@@ -13,6 +13,8 @@ The short--and incomplete--answer is, *It not ncessesarily racist to discuss fac
 
 The proper follow-up is, *It is racist to use statistics--whether true or false--to socially engineer injustice.*
 
+[![Child's Face in Black and White](/assets/images/child-face.jpg)](https://www.flickr.com/photos/offbit2010/5331401261)
+
 ### "justice is, at its core, equal treatment for all"
 
 The second statement is really the crux of the matter. The moral issue is not actually about facts or race, it's about **justice**.
