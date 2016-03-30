@@ -3,13 +3,9 @@ title: "Racism is Injustice"
 layout: default
 ---
 
-*WARNING: Unfinished!!!*
-
----
-
 [![Child's Face in Black and White](/assets/images/child-face.jpg)](https://www.flickr.com/photos/offbit2010/5331401261)
 
-About once a year I encounter some variation on this question: “Is it racist to believe and/or discuss facts about the performance of blacks versus whites on standardized tests?" A related question is, "Is it racist to point out the disparity between conviction and arrest statistics between blacks and whites?" Both engender a lot of discussion.
+About once a year I encounter some variation on this question: “*Is it racist to believe and/or discuss facts about the performance of blacks versus whites on standardized tests?*" Or a related question, "*Is it racist to point out the disparity between conviction and arrest statistics between blacks and whites?*"
 
 The short--and incomplete--answer is, *It not necessarily racist to discuss facts*.
 
@@ -17,7 +13,7 @@ The proper follow-up is, *It is racist to use statistics--whether true or false-
 
 ### "justice is, at its core, equal treatment for all"
 
-The second statement is really the crux of the matter. The moral issue is not actually about facts or race, it's about **justice**.
+The central moral issue is not about facts or race, the central moral issue is about **justice**.
 
 Justice is, at its core, equal treatment for all. Justice is not imposing consequences on individuals based on statistical evidence about classes to which they belong. For example, let us consider crime:
 
@@ -31,7 +27,7 @@ So we have this system where we investigate the crimes, and the outcomes might b
 
 Now what about the 90 men who did it? Well, the sword of justice cuts both ways. Because of the expense and aggravation of a trial, for ten cases the prosecutors cut a plea bargain with them, and they got a reduced sentence for manslaughter or something. In six cases they went to trial and for one reason or another they were declared innocent. And most egregiously, in three cases no charges were brought at all because of some slip-up like improper handling of evidence, or obtaining a confession without informing them of their rights.
 
-### "when we as a society value justice, we willingly pay the cost for it"
+### "when we value justice, we willingly pay the cost for it"
 
 So because of our sense of justice and busy courts and smart lawyers, of the 90 people we know did it, nineteen of them really don't get the full "punishment," and so if you are a completely amoral person, you might think that this is terrible, because if you lock them all up, you're wrong 10% of the time, but if you investigate everyone, you're wrong 20% of the time.
 
