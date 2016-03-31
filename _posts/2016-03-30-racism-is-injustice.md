@@ -1,5 +1,5 @@
 ---
-title: "Racism is Injustice"
+title: "Racism is Socially Engineered Injustice"
 layout: default
 ---
 
@@ -21,7 +21,7 @@ The central moral issue is not about facts or race, the central moral issue is a
 
 ---
 
-### crime and punishment
+### "innocent people in jail are an injustice"
 
 ---
 
@@ -105,7 +105,7 @@ That's justice.
 
 ---
 
-### the facts
+### "racism is socially engineered injustice"
 
 ---
 
@@ -119,7 +119,7 @@ And so it is with racism. If someone chooses to be unjust against people on acco
 
 And of course, some people will weasel out and say they aren't socially engineering anything, they're just quoting facts. But facts are always quoted in context, and with intent, and can be judged by a person's choice of what they choose to quote in a particular context, and by what outcome they're hoping to obtain. And if the outcome is more injustice on account of race, then that person is engaging in racist rhetoric, even if they're doing it with facts.
 
-A fact about races is not in and of itself racist. A fact about races used to socially engineer injustice is racist.
+A fact about races is not in and of itself racist. A fact about races used to socially engineer injustice is racist. Because racism is socially engineered injustice.
 
 ---
 
