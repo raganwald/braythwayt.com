@@ -7,9 +7,9 @@ layout: default
 
 About once a year, I encounter some variation on this question: “*Is it racist to believe and/or discuss facts about the performance of blacks versus whites on standardized tests?*" Or a related question, "*Is it racist to point out the disparity between conviction and arrest statistics between blacks and whites?*"
 
-The short--and incomplete--answer is, *It not necessarily racist to discuss facts*.
+The short--and incomplete--answer is, **It not necessarily racist to discuss facts**.
 
-The proper follow-up is, *It is racist to use statistics--whether true or false--to socially engineer injustice.*
+The proper follow-up is, **It is racist to use statistics--whether true or false--to socially engineer injustice and m,ember sof a particular race.**
 
 ### "justice is, at its core, equal treatment for all"
 
@@ -65,7 +65,7 @@ So we need a strategy for maximizing our returns for our investment of time. Her
 
 Why do we have this strategy? Because we only want to interview CS graduates, and this seems to be the easiest way to maximize the number of CS graduates we interview.
 
-Of course, this is ridiculous! What we can actually do is, *ask each person if they're a CS graduate*. If they are, we interview them. If they aren't, we ask the next person. If we go by skin colour, we're being unjust, because we don't interview any red people, and we only interview a few yellow people, and we spent a lot of time interviewing green people who weren't even CS grads, but they were green, so we interviewed them.
+Of course, this is ridiculous! What we can actually do is, **We can ask each person if they're a CS graduate**. If they are, we interview them. If they aren't, we ask the next person. If we go by skin colour, we're being unjust, because we don't interview any red people, and we only interview a few yellow people, and we spent a lot of time interviewing green people who weren't even CS grads, but they were green, so we interviewed them.
 
 We're running an unjust company, because we are not giving every person an equal opportunity. Not interviewing red people is no different than locking people up without investigation or trial. Asking these hypothetical students if they have a CS degree is the moral equivalent of giving every accused person a fair trial.
 
@@ -79,9 +79,9 @@ And instead of testing those attributes directly, they will try to infer them fr
 
 So logically, it's cheaper to try to draw these inferences than to test for what we're seeking. But just because it's cheaper doesn't mean it's just. It means we're locking up ten innocent people instead of one, because there are candidates who have the qualities we're seeking, and we're denying them the opportunity to prove themselves.
 
-The thing for employing people extends through all of life.
+This idea around employing people extends through all of life. Denying people opportunities because of their skin colour is unjust. And that's what racism is: Being unjust on account of "race."
 
-Like the quote says, justice is the idea that we’d much rather be wrong about guilty people than be wrong about innocent people. So if we think that, statistically, a black person is more likely to be a thug than a white person, then we would rather treat each black person with courtesy and be disappointed form time to time, than treat each black person with contempt and mistreat a good person from time to time.
+So even if we think that, statistically, a black person is more likely to be a thug than a white person, then a just person would rather treat each black person with courtesy and be disappointed from time to time, than treat each black person with contempt and mistreat a good person from time to time.
 
 That's justice.
 
