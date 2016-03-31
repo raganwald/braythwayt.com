@@ -135,6 +135,8 @@ A fact about races is not in and of itself racist. A fact about races used to so
 
 ### postscript
 
+---
+
 > I am cognizant of the interrelatedness of all communities and states. I cannot sit idly by in Atlanta and not be concerned about what happens in Birmingham. Injustice anywhere is a threat to justice everywhere. We are caught in an inescapable network of mutuality, tied in a single garment of destiny.
 
 --Dr. Martin Luther King, "Letter from a Birmingham Jail"
