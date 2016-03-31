@@ -31,6 +31,8 @@ And we do away with a lot of pesky trials and nonsense about whether evidence is
 
 Those ten innocent people in jail are an injustice.
 
+[![Prison Window](/assets/images/prison-window.jpg)](https://www.flickr.com/photos/-jvl-/7962594326)
+
 So we have this system where we investigate the crimes, and the outcomes might be that for those ten innocent people, for eight of the cases we didn't charge them at all. And in the ninth case, we charged them but they were found innocent in court, and in the tenth case, we convicted an innocent person. And that one innocent person in jail is still a terrible thing, but we think that's better than ten innocent people in jail.
 
 Now what about the 90 people who did it? Well, the sword of justice cuts both ways. Because of the expense and aggravation of a trial, for ten cases the prosecutors cut a plea bargain with them, and they got a reduced sentence for manslaughter or something. In six cases they went to trial and for one reason or another they were declared innocent.
