@@ -27,13 +27,15 @@ Those ten innocent men in jail are an injustice.
 
 So we have this system where we investigate the crimes, and the outcomes might be that for those ten innocent men, for eight of the cases we didn't charge them at all. And in the ninth case, we charged him but he was found innocent in court, and in the tenth case, we convicted an innocent man. And that one innocent man in jail is still a terrible thing, but we think that's better than ten innocent men in jail.
 
-Now what about the 90 men who did it? Well, the sword of justice cuts both ways. Because of the expense and aggravation of a trial, for ten cases the prosecutors cut a plea bargain with them, and they got a reduced sentence for manslaughter or something. In six cases they went to trial and for one reason or another they were declared innocent. And most egregiously, in three cases no charges were brought at all because of some slip-up like improper handling of evidence, or obtaining a confession without informing them of their rights.
+Now what about the 90 men who did it? Well, the sword of justice cuts both ways. Because of the expense and aggravation of a trial, for ten cases the prosecutors cut a plea bargain with them, and they got a reduced sentence for manslaughter or something. In six cases they went to trial and for one reason or another they were declared innocent.
+
+And most egregiously, in three cases no charges were brought at all because of some slip-up like improper handling of evidence, or obtaining a confession without informing them of their rights.
 
 ### "when we value justice, we willingly pay the cost for it"
 
 So because of our sense of justice and busy courts and smart lawyers, of the 90 people we know did it, nineteen of them really don't get the full "punishment," and so if you are a completely amoral person, you might think that this is terrible, because if you lock them all up, you're wrong 10% of the time, but if you investigate everyone, you're wrong 20% of the time.
 
-Justice is the idea that we'd much rather be wrong about guilty people than be wrong about innocent people.
+Justice is the idea that we'd much rather give opportunity to bad people people than to deny opportunity to good people.
 
 I can't tell you whether to value justice personally, all I can do is explain how it works, and explain that when we as a society value justice, we willingly pay the cost for it. Those nineteen guilty men who got reduced or no sentences are the cost we pay for having just one wrongly convicted man instead of ten. All of the things we value in society have some cost, to us personally, to society as a whole, or both.[^value]
 
@@ -47,27 +49,25 @@ Let's make up another scenario, one less violent. I will over-simplify. We go to
 
 | Colour | %age of CS graduates |
 |:-------|---------------------:|
-| Black  | 10%                  |
-| White  | 40%                  |
-| Yellow | 80%                  |
+| Red    | 10%                  |
+| Yellow | 20%                  |
+| Green  | 40%                  |
 
-(I have no idea how to measure "whiteness," "blackness," or the awful term "yellowness," but we're talking about racism, so we have to put ourselves into racist shoes.)
-
-Now we run a company, and we want to hire CS grads[^degree], so we go to a job fair at the school. And what we do is, we set up a booth and we ask people to interview for jobs at our company.. Now here's the thing, we can only interview so many people per hour, and there are more students than we can handle.
+Now we run a company, and we want to hire CS grads[^degree], so we go to a job fair at the school. And what we do is, we set up a booth and we ask people to interview for jobs at our company. Now here's the thing, we can only interview so many people per hour, and there are more students than we can handle.
 
 [^degree]: Which in and of itself betrays some problems with justice, but we'll leave that for another day.
 
 So we need a strategy for maximizing our returns for our investment of time. Here it is:
 
-0. If there's a yellow person available, interview them.
-0. If there's no yellow person available, interview a white person.
-0. Don't interview black people at all, because you might be busy when a yellow or white person becomes available.
+0. If there's a green person available, interview them.
+0. If there's no green person available, interview a yellow person.
+0. Don't interview red people at all, because you might be busy when a green or yellow person becomes available.
 
 Why do we have this strategy? Because we only want to interview CS graduates, and this seems to be the easiest way to maximize the number of CS graduates we interview.
 
-Of course, this is ridiculous! What we can actually do is, *ask each person if they're a CS graduate*. If they are, we interview them. If they aren't, we ask the next person. If we go by skin colour, we're being unjust, because we don't talk to any black people, and we only talk to a few white people, and we actually talk to some yellow people who weren't even CS grads, but they were yellow, so we talked to them.
+Of course, this is ridiculous! What we can actually do is, *ask each person if they're a CS graduate*. If they are, we interview them. If they aren't, we ask the next person. If we go by skin colour, we're being unjust, because we don't interview any red people, and we only interview a few yellow people, and we spent a lot of time interviewing green people who weren't even CS grads, but they were green, so we interviewed them.
 
-We're running an unjust company, because we are not giving every person an equal opportunity. Not interviewing black people is no different than locking men up without investigation or trial. Asking these hypothetical students if they have a CS degree is the moral equivalent of giving every accused person a fair trial.
+We're running an unjust company, because we are not giving every person an equal opportunity. Not interviewing red people is no different than locking people up without investigation or trial. Asking these hypothetical students if they have a CS degree is the moral equivalent of giving every accused person a fair trial.
 
 [![Scales of Justice - Frabkfurt Version](/assets/images/scales.jpg)](https://www.flickr.com/photos/mikecogh/8035396680)
 
