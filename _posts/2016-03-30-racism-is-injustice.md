@@ -107,7 +107,7 @@ That's justice.
 
 So back to "facts," such as the distribution of intelligence as correlated with so-called "race." We live in a world that is unjust *now*. If someone tries to use these facts to maintain that status quo, yes, that is racist. It is also unjust. If someone goes further and tries to use those facts to *increase* the injustice in our world, yes, that is also racist. And it is even more unjust.
 
-They may not say they are racist, they may not even think they are racist. They may think in terms of "justice," in terms of consequences for choices. They may think that since the largest source of violence against black people is other black people, than black people should not complain about violence from police officers or white people who "fear for their safety."
+They may not say they are racist, they may not even think they are racist. They may think in terms of "justice," in terms of consequences for choices. They may think that since the largest source of violence against black people is other black people, then black people should not complain about violence from police officers or white people who "fear for their safety."
 
 But if you impose consequences on every black person for the actions of the most violent black people, you might as well imprison every married person for the actions of those who killed their spouses. Or deny an interview to every red CS graduate for the choice of the other red students to go into dentistry. It's the same injustice.
 
