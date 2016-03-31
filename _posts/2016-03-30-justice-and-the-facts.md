@@ -53,7 +53,7 @@ Let's make up another scenario, one less violent. I will over-simplify. We go to
 | Yellow | 20%                  |
 | Green  | 40%                  |
 
-Now we run a company, and we want to hire CS grads[^degree], so we go to a job fair at the school. And what we do is, we set up a booth and we ask people to interview for jobs at our company. Now here's the thing, we can only interview so many people per hour, and there are more students than we can handle.
+Now we run a company, and we want to hire CS grads,[^degree] so we go to a job fair at the school. And what we do is, we set up a booth and we ask people to interview for jobs at our company. We can only interview so many people per hour, and there are more students than we can handle.
 
 [^degree]: Which in and of itself betrays some problems with justice, but we'll leave that for another day.
 
