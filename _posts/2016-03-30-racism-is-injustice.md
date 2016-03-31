@@ -15,17 +15,15 @@ The proper follow-up is:
 
 > It is racist to use statistics--whether true or false--to socially engineer injustice against members of a particular race.
 
----
-
-### "justice is, at its core, equal treatment for all"
-
----
-
 The central moral issue is not about facts or race, the central moral issue is about "justice."
 
-Justice is, at its core, equal treatment for all. Justice is not imposing consequences on individuals based on statistical evidence about classes to which they belong.
+**Justice is, at its core, equal treatment for all**. Justice is not imposing consequences on individuals based on statistical evidence about classes to which they belong.
 
-Consider a crime:
+---
+
+### crime and punishment
+
+---
 
 When someone is murdered in their home, it’s nearly always a partner who has done it. It would be a tremendous savings of time and money if we just locked their partner up on the spot, and we’d nearly always be right.
 
