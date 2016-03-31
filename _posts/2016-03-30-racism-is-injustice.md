@@ -147,7 +147,7 @@ A fact about races is not in and of itself racist. A fact about races used to so
 
 ---
 
-This ispublished from a GitHub repository. You can [file an issue](https://github.com/raganwald/braythwayt.com/issues) to raise a point, or even [edit this page](https://github.com/raganwald/braythwayt.com/edit/gh-pages/_posts/2016-03-30-racism-is-injustice.md).
+This is published from a GitHub repository. You can [file an issue](https://github.com/raganwald/braythwayt.com/issues) to raise a point, or even [edit this page](https://github.com/raganwald/braythwayt.com/edit/gh-pages/_posts/2016-03-30-racism-is-injustice.md).
 
 ---
 
