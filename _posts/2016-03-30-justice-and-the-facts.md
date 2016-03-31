@@ -13,21 +13,21 @@ The proper follow-up is, *It is racist to use statistics--whether true or false-
 
 ### "justice is, at its core, equal treatment for all"
 
-The central moral issue is not about facts or race, the central moral issue is about **justice**.
+The central moral issue is not about facts or race, the central moral issue is about "justice."
 
 Justice is, at its core, equal treatment for all. Justice is not imposing consequences on individuals based on statistical evidence about classes to which they belong. For example, let us consider crime:
 
-When a woman is murdered, it’s nearly always a male partner who has done it. If we find a woman murdered in her home, it would be a tremendous savings of time and money if we just locked their male partner up on the spot, and we’d nearly always be right.
+When someone is murdered in their home, it’s nearly always a partner who has done it. If we find a person murdered in their home, it would be a tremendous savings of time and money if we just locked their partner up on the spot, and we’d nearly always be right.
 
-We don't need the actual statistics on hand. For the sake of argument, let's say that out of every ten women who have male partners, who are murdered in their homes, their partner is guilty nine times. Only one of those ten male partners is innocent. So if there are 100 women murdered, and we lock up 100 men, just lock 'em up, we're right 90% of the time.
+We don't need the actual statistics on hand. For the sake of argument, let's say that out of every ten such murders, their partner is guilty nine times. Only one of those ten partners is innocent. So if there are 100 people murdered, and we lock up 100 partners, just lock 'em up, we're right 90% of the time.
 
-And we do away with a lot of pesky trials and nonsense about whether evidence is the fruit of the poisoned tree, and haranguing tech companies to unlock their phones so we can see if they plotted with another lover to collect on the insurance money. But every tenth time, an innocent man goes to jail, and we decided a long time ago--correctly, in my opinion--that this is a terrible thing to lock up innocent people 10% of the time just to save ourselves a lot of trouble.
+And we do away with a lot of pesky trials and nonsense about whether evidence is the fruit of the poisoned tree, and haranguing tech companies to unlock their phones so we can see if they plotted with another lover to collect on the insurance money. But every tenth time, an innocent person goes to jail, and we decided a long time ago--correctly, in my opinion--that this is a terrible thing to lock up innocent people 10% of the time just to save ourselves a lot of trouble.
 
-Those ten innocent men in jail are an injustice.
+Those ten innocent people in jail are an injustice.
 
-So we have this system where we investigate the crimes, and the outcomes might be that for those ten innocent men, for eight of the cases we didn't charge them at all. And in the ninth case, we charged him but he was found innocent in court, and in the tenth case, we convicted an innocent man. And that one innocent man in jail is still a terrible thing, but we think that's better than ten innocent men in jail.
+So we have this system where we investigate the crimes, and the outcomes might be that for those ten innocent people, for eight of the cases we didn't charge them at all. And in the ninth case, we charged them but they were found innocent in court, and in the tenth case, we convicted an innocent person. And that one innocent person in jail is still a terrible thing, but we think that's better than ten innocent people in jail.
 
-Now what about the 90 men who did it? Well, the sword of justice cuts both ways. Because of the expense and aggravation of a trial, for ten cases the prosecutors cut a plea bargain with them, and they got a reduced sentence for manslaughter or something. In six cases they went to trial and for one reason or another they were declared innocent.
+Now what about the 90 people who did it? Well, the sword of justice cuts both ways. Because of the expense and aggravation of a trial, for ten cases the prosecutors cut a plea bargain with them, and they got a reduced sentence for manslaughter or something. In six cases they went to trial and for one reason or another they were declared innocent.
 
 And most egregiously, in three cases no charges were brought at all because of some slip-up like improper handling of evidence, or obtaining a confession without informing them of their rights.
 
@@ -35,9 +35,9 @@ And most egregiously, in three cases no charges were brought at all because of s
 
 So because of our sense of justice and busy courts and smart lawyers, of the 90 people we know did it, nineteen of them really don't get the full "punishment," and so if you are a completely amoral person, you might think that this is terrible, because if you lock them all up, you're wrong 10% of the time, but if you investigate everyone, you're wrong 20% of the time.
 
-Justice is the idea that we'd much rather give opportunity to bad people people than to deny opportunity to good people.
+Justice is the idea that we'd much rather give opportunity to bad people people than to deny opportunity to good people. So we'd rather free guilty people than imprison innocent people.
 
-I can't tell you whether to value justice personally, all I can do is explain how it works, and explain that when we as a society value justice, we willingly pay the cost for it. Those nineteen guilty men who got reduced or no sentences are the cost we pay for having just one wrongly convicted man instead of ten. All of the things we value in society have some cost, to us personally, to society as a whole, or both.[^value]
+I can't tell you whether to value justice personally, all I can do is explain how it works, and explain that when we as a society value justice, we willingly pay the cost for it. Those nineteen guilty people who got reduced or no sentences are the cost we pay for having just one wrongly convicted man instead of ten. All of the things we value in society have some cost, to us personally, to society as a whole, or both.[^value]
 
 [^value]: Now, I can't tell you whether to personally value justice. Not everybody does. And if you don't, I disagree, but I understand. What I'm going to do is explain why racism is unjust. I'm going to say that racism is incompatible with justice. And some people will sincerely think, "so what?" I'm not going to try to explain why justice matters *and* explain why racism is unjust. I'm going to explain why racism is unjust, and you will need to read another essay to sort out why justice is valuable.
 
@@ -77,7 +77,7 @@ In the end, some companies decide that you really do need to interview people to
 
 And instead of testing those attributes directly, they will try to infer them from things like, well, skin colour. Or gender. Or ethnic heritage. And there may be all sorts of statistics explaining why a randomly selected person with a certain set of attributes is more likely to be X or Y than a randomly selected person with another set of attributes.
 
-So logically, it's cheaper to try to draw these inferences than to test for what we're seeking. But just because it's cheaper doesn't mean it's just. It means we're locking up ten innocent men instead of one, because there are candidates who have the qualities we're seeking, and we're denying them the opportunity to prove themselves.
+So logically, it's cheaper to try to draw these inferences than to test for what we're seeking. But just because it's cheaper doesn't mean it's just. It means we're locking up ten innocent people instead of one, because there are candidates who have the qualities we're seeking, and we're denying them the opportunity to prove themselves.
 
 The thing for employing people extends through all of life.
 
