@@ -43,7 +43,7 @@ And most egregiously, in three cases no charges were brought at all because of s
 
 ---
 
-So because of our sense of justice and busy courts and smart lawyers, of the 90 people we know did it, nineteen of them really don't get the full "punishment," and so if you are a completely amoral person, you might think that this is terrible, because if you lock them all up, you're wrong 10% of the time, but if you investigate everyone, you're wrong 20% of the time.
+So because of our sense of justice and busy courts and smart lawyers, of the ninety people we know did it, nineteen of them really don't get the full "punishment," and so if you are a completely amoral person, you might think that this is terrible, because if you lock them all up, you're wrong 10% of the time, but if you investigate everyone, you're wrong 20% of the time.
 
 Justice is the idea that we'd much rather give opportunity to bad  people than to deny opportunity to good people. So we'd rather free guilty people than imprison innocent people.
 
