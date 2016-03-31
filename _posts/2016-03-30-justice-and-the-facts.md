@@ -79,11 +79,17 @@ And instead of testing those attributes directly, they will try to infer them fr
 
 So logically, it's cheaper to try to draw these inferences than to test for what we're seeking. But just because it's cheaper doesn't mean it's just. It means we're locking up ten innocent men instead of one, because there are candidates who have the qualities we're seeking, and we're denying them the opportunity to prove themselves.
 
-### so back to the facts
+The thing for employing people extends through all of life.
+
+Like the quote says, justice is the idea that we’d much rather be wrong about guilty people than be wrong about innocent people. So if we think that, statistically, a black person is more likely to be a thug than a white person, then we would rather treat each black person with courtesy and be disappointed form time to time, than treat each black person with contempt and mistreat a good person from time to time.
+
+That's justice.
+
+> "justice is the idea that we’d much rather be wrong about guilty people than be wrong about innocent people."
 
 So back to "facts," such as the distribution of intelligence as correlated with so-called "race." We live in a world that is unjust *now*. If someone tries to use these facts to maintain that status quo, yes, that is racist. It is also unjust. If someone goes further and tries to use those facts to *increase* the injustice in our world, yes, that is also racist. And it is even more unjust.
 
-Now some people don't particularly care about justice. They want the cheapest thing for them, justice be damned. Consider someone who says, "I want to do away with the right to remain silent and the right to a lawyer and the right to privacy and anything else that interferes with the police speedily arresting and convicting people of crimes." If they want those things for ideological reasons, they are unjust for ideological reasons. If they want those things so they can pay fewer taxes, or so that there are fewer criminals on the street, they are unjust for selfish reasons. It's still unjust.
+Now some people don't particularly care about justice. They want the cheapest and easiest thing for them, justice be damned. Consider someone who says, "I want to do away with the right to remain silent and the right to a lawyer and the right to privacy and anything else that interferes with the police speedily arresting and convicting people of crimes." If they want those things for ideological reasons, they are unjust for ideological reasons. If they want those things so they can pay fewer taxes, or so that there are fewer criminals on the street, they are unjust for selfish reasons. It's still unjust.
 
 And so it is with racism. If someone chooses to be unjust against people on account of their race, that is racist. It doesn't matter if they want this for ideological or selfish reasons. And if they take "facts" and debate them and disseminate them and troll people with them and engage in rhetoric on account of them for the express purpose of maintaining or increasing injustice, that is a racist way to use these "facts."
 
