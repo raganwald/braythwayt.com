@@ -117,7 +117,7 @@ And so it is with racism. If someone chooses to be unjust against people on acco
 
 And of course, some people will weasel out and say they aren't socially engineering anything, they're just quoting facts.
 
-But facts are always quoted in context, and with intent, and can be judged by a person's choice of what they choose to quote in a particular context, and by what outcome they're hoping to obtain. And if the outcome is injustice on account of race, then that person is engaging in racist rhetoric, even if they're doing it with facts.
+But people choose which facts to quote, and which to omit. They choose when to quote them, and when to remain silent. Facts are always quoted in context, and with intent. We might not be able to say a fact is racist, but sometimes, we can say that the totality of a person's choice to quote a fact is racist.
 
 A fact about races is not in and of itself racist. A fact about races used to socially engineer injustice is racist. Because racism is socially engineered injustice.
 
