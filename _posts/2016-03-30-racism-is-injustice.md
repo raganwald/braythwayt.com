@@ -109,11 +109,15 @@ So back to "facts," such as the distribution of intelligence as correlated with 
 
 Now some people don't particularly care about justice. They want the cheapest and easiest thing for them, justice be damned.
 
-Consider someone who says, "I want to do away with the right to remain silent and the right to a lawyer and the right to privacy and anything else that interferes with the police speedily arresting and convicting people of crimes." If they want those things for ideological reasons, they are unjust for ideological reasons. If they want those things so they can pay fewer taxes, or so that there are fewer criminals on the street, they are unjust for selfish reasons. It's still unjust.
+Consider someone who says, "I want to do away with the right to remain silent and the right to a lawyer and the right to privacy and anything else that interferes with the police speedily arresting and convicting people of crimes."
+
+If they want those things for ideological reasons, they are unjust for ideological reasons. If they want those things so they can pay fewer taxes, or so that there are fewer criminals on the street, they are unjust for selfish reasons. It's still unjust.
 
 And so it is with racism. If someone chooses to be unjust against people on account of their race, that is racist. It doesn't matter if they want this for ideological or selfish reasons. And if they take "facts" and debate them and disseminate them and troll people with them and engage in rhetoric on account of them for the express purpose of maintaining or increasing injustice, that is a racist way to use these "facts."
 
-And of course, some people will weasel out and say they aren't socially engineering anything, they're just quoting facts. But facts are always quoted in context, and with intent, and can be judged by a person's choice of what they choose to quote in a particular context, and by what outcome they're hoping to obtain. And if the outcome is more injustice on account of race, then that person is engaging in racist rhetoric, even if they're doing it with facts.
+And of course, some people will weasel out and say they aren't socially engineering anything, they're just quoting facts.
+
+But facts are always quoted in context, and with intent, and can be judged by a person's choice of what they choose to quote in a particular context, and by what outcome they're hoping to obtain. And if the outcome is more injustice on account of race, then that person is engaging in racist rhetoric, even if they're doing it with facts.
 
 A fact about races is not in and of itself racist. A fact about races used to socially engineer injustice is racist. Because racism is socially engineered injustice.
 
