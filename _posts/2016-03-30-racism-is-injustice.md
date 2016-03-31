@@ -95,7 +95,7 @@ So logically, it's cheaper to try to draw these inferences than to test for what
 
 This idea around employing people extends through all of life. Denying people opportunities because of their skin colour is unjust. And that's what racism is: Being unjust on account of "race."
 
-So even if we think that, statistically, a black person is more likely to be a thug than a white person, then a just person would rather treat each black person with courtesy and be disappointed from time to time, than treat each black person with contempt and mistreat a good person from time to time.
+So even if they think that, statistically, a black person is more likely to be a thug than a white person, a just person would rather treat each black person with courtesy and be disappointed from time to time, than treat each black person with contempt and mistreat a good person from time to time.
 
 That's justice.
 
