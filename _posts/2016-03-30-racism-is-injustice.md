@@ -81,7 +81,7 @@ Why do we have this strategy? Because we only want to interview CS graduates, an
 
 Of course, this is ridiculous! What we can actually do is, **We can ask each person if they're a CS graduate**. If they are, we interview them. If they aren't, we ask the next person. If we go by skin colour, we're being unjust, because we don't interview any red people, and we only interview a few yellow people, and we spent a lot of time interviewing green people who weren't even CS grads, but they were green, so we interviewed them.
 
-We're running an unjust company, because we are not giving every person an equal opportunity. Not interviewing red people is no different than locking people up without investigation or trial. Asking these hypothetical students if they have a CS degree is the moral equivalent of giving every accused person a fair trial.
+We're running an unjust company, because we are not giving every person an equal opportunity. Not interviewing red people is like locking people up without investigation or trial. Asking these hypothetical students if they have a CS degree is the moral equivalent of giving every accused person a fair trial.
 
 [![Scales of Justice - Frabkfurt Version](/assets/images/scales.jpg)](https://www.flickr.com/photos/mikecogh/8035396680)
 
