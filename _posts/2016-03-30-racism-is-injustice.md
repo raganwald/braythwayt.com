@@ -19,13 +19,15 @@ The proper follow-up is:
 
 ### "justice is, at its core, equal treatment for all"
 
+---
+
 The central moral issue is not about facts or race, the central moral issue is about "justice."
 
 Justice is, at its core, equal treatment for all. Justice is not imposing consequences on individuals based on statistical evidence about classes to which they belong.
 
 Consider a crime:
 
-When someone is murdered in their home, it’s nearly always a partner who has done it. If we find a person murdered in their home, it would be a tremendous savings of time and money if we just locked their partner up on the spot, and we’d nearly always be right.
+When someone is murdered in their home, it’s nearly always a partner who has done it. It would be a tremendous savings of time and money if we just locked their partner up on the spot, and we’d nearly always be right.
 
 We don't need the actual statistics on hand. For the sake of argument, let's say that out of every ten such murders, their partner is guilty nine times. Only one of those ten partners is innocent. So if there are 100 people murdered, and we lock up 100 partners, just lock 'em up, we're right 90% of the time.
 
@@ -45,6 +47,8 @@ And most egregiously, in three cases no charges were brought at all because of s
 
 ### "when we value justice, we willingly pay the cost for it"
 
+---
+
 So because of our sense of justice and busy courts and smart lawyers, of the 90 people we know did it, nineteen of them really don't get the full "punishment," and so if you are a completely amoral person, you might think that this is terrible, because if you lock them all up, you're wrong 10% of the time, but if you investigate everyone, you're wrong 20% of the time.
 
 Justice is the idea that we'd much rather give opportunity to bad people people than to deny opportunity to good people. So we'd rather free guilty people than imprison innocent people.
@@ -55,7 +59,11 @@ I can't tell you whether to value justice personally, all I can do is explain ho
 
 Now to "facts" about race and intelligence, or crime, or anything else.
 
+---
+
 ### "running an unjust company"
+
+---
 
 Let's make up another scenario, one less violent. I will over-simplify. We go to various universities, and we count the number of people of each colour, and figure out how many people of each colour graduate with a degree in CS. The statistics work out to:
 
@@ -100,6 +108,8 @@ That's justice.
 ---
 
 ### the facts
+
+---
 
 So back to "facts," such as the distribution of intelligence as correlated with so-called "race." We live in a world that is unjust *now*. If someone tries to use these facts to maintain that status quo, yes, that is racist. It is also unjust. If someone goes further and tries to use those facts to *increase* the injustice in our world, yes, that is also racist. And it is even more unjust.
 
