@@ -7,9 +7,13 @@ layout: default
 
 About once a year, I encounter some variation on this question: “*Is it racist to believe and/or discuss facts about the performance of blacks versus whites on standardized tests?*" Or a related question, "*Is it racist to point out the disparity between conviction and arrest statistics between blacks and whites?*"
 
-The short--and incomplete--answer is, **It not necessarily racist to discuss facts**.
+The short--and incomplete--answer is:
 
-The proper follow-up is, **It is racist to use statistics--whether true or false--to socially engineer injustice against members of a particular race.**
+> It not necessarily racist to discuss facts.
+
+The proper follow-up is:
+
+> It is racist to use statistics--whether true or false--to socially engineer injustice against members of a particular race.
 
 ### "justice is, at its core, equal treatment for all"
 
