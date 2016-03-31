@@ -57,7 +57,9 @@ I can't tell you whether to value justice personally, all I can do is explain ho
 
 ---
 
-Let's make up another scenario. We run a company that hires CS grads.[^degree] Naturally, we go to various universities, and being numbers people, we count the number of people of each colour, and figure out how many people of each colour graduate with a degree in CS. The statistics work out to:
+Let's make up another scenario. We run a company that hires CS grads.[^degree] Naturally, we go to various universities, and being numbers people, we count the number of people of each colour, and figure out how many people of each colour graduate with a degree in CS.
+
+The statistics work out to be:
 
 | Colour | %age of CS graduates |
 |:-------|---------------------:|
@@ -65,7 +67,7 @@ Let's make up another scenario. We run a company that hires CS grads.[^degree] N
 | Yellow | 20%                  |
 | Red    | 10%                  |
 
-One day we go to a university job fair. And what we do is, we set up a booth and we ask people to interview for jobs at our company. We can only interview so many people per hour, and there are more students than we can handle.
+One day we go to a university job fair. We set up a booth and we ask people to interview for jobs at our company. We can only interview so many people per hour, and there are more students than we can handle.
 
 [^degree]: Which in and of itself betrays some problems with justice, but we'll leave that for another day.
 
