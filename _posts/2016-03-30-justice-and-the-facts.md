@@ -17,9 +17,11 @@ The central moral issue is not about facts or race, the central moral issue is a
 
 Justice is, at its core, equal treatment for all. Justice is not imposing consequences on individuals based on statistical evidence about classes to which they belong. For example, let us consider crime:
 
-When a woman is murdered, it’s nearly always a male partner who has done it. If we find a woman murdered in her home, it would be a tremendous savings of time and money if we just locked their male partner up on the spot, and we’d nearly always be right. We don't need the actual statistics on hand. For the sake of argument's say that out of every ten women who have male partners, who are murdered in their homes, their partner is guilty nine times. Only one of those ten male partners is innocent.
+When a woman is murdered, it’s nearly always a male partner who has done it. If we find a woman murdered in her home, it would be a tremendous savings of time and money if we just locked their male partner up on the spot, and we’d nearly always be right.
 
-So if there are 100 women murdered, and we lock up 100 men, just lock 'em up, we're right 90% of the time, and we do away with a lot of pesky trials and nonsense about whether evidence is the fruit of the poisoned tree, and haranguing tech companies to unlock their phones so we can see if they plotted with another lover to collect on the insurance money. But every tenth time, an innocent man goes to jail, and we decided a long time ago--correctly, in my opinion--that this is a terrible thing to lock up innocent people 10% of the time just to save ourselves a lot of trouble.
+We don't need the actual statistics on hand. For the sake of argument, let's say that out of every ten women who have male partners, who are murdered in their homes, their partner is guilty nine times. Only one of those ten male partners is innocent. So if there are 100 women murdered, and we lock up 100 men, just lock 'em up, we're right 90% of the time.
+
+And we do away with a lot of pesky trials and nonsense about whether evidence is the fruit of the poisoned tree, and haranguing tech companies to unlock their phones so we can see if they plotted with another lover to collect on the insurance money. But every tenth time, an innocent man goes to jail, and we decided a long time ago--correctly, in my opinion--that this is a terrible thing to lock up innocent people 10% of the time just to save ourselves a lot of trouble.
 
 Those ten innocent men in jail are an injustice.
 
