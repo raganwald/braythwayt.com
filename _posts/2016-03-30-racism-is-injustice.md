@@ -19,11 +19,7 @@ The central moral issue is not about facts or race, the central moral issue is a
 
 **Justice is, at its core, equal treatment for all**. Justice is not imposing consequences on individuals based on statistical evidence about classes to which they belong.
 
----
-
-### "innocent people in jail are an injustice"
-
----
+Consider crime:
 
 When someone is murdered in their home, it’s nearly always a partner who has done it. It would be a tremendous savings of time and money if we just locked their partner up on the spot, and we’d nearly always be right.
 
@@ -54,8 +50,6 @@ Justice is the idea that we'd much rather give opportunity to bad people people 
 I can't tell you whether to value justice personally, all I can do is explain how it works, and explain that when we as a society value justice, we willingly pay the cost for it. Those nineteen guilty people who got reduced or no sentences are the cost we pay for having just one wrongly convicted man instead of ten. All of the things we value in society have some cost, to us personally, to society as a whole, or both.[^value]
 
 [^value]: Now, I can't tell you whether to personally value justice. Not everybody does. And if you don't, I disagree, but I understand. What I'm going to do is explain why racism is unjust. I'm going to say that racism is incompatible with justice. And some people will sincerely think, "so what?" I'm not going to try to explain why justice matters *and* explain why racism is unjust. I'm going to explain why racism is unjust, and you will need to read another essay to sort out why justice is valuable.
-
-Now to "facts" about race and intelligence, or crime, or anything else.
 
 ---
 
