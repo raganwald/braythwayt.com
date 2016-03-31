@@ -9,7 +9,7 @@ About once a year, I encounter some variation on this question: “*Is it racist
 
 The short--and incomplete--answer is, **It not necessarily racist to discuss facts**.
 
-The proper follow-up is, **It is racist to use statistics--whether true or false--to socially engineer injustice and m,ember sof a particular race.**
+The proper follow-up is, **It is racist to use statistics--whether true or false--to socially engineer injustice against members of a particular race.**
 
 ### "justice is, at its core, equal treatment for all"
 
