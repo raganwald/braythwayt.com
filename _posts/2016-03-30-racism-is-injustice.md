@@ -45,7 +45,7 @@ And most egregiously, in three cases no charges were brought at all because of s
 
 So because of our sense of justice and busy courts and smart lawyers, of the 90 people we know did it, nineteen of them really don't get the full "punishment," and so if you are a completely amoral person, you might think that this is terrible, because if you lock them all up, you're wrong 10% of the time, but if you investigate everyone, you're wrong 20% of the time.
 
-Justice is the idea that we'd much rather give opportunity to bad people people than to deny opportunity to good people. So we'd rather free guilty people than imprison innocent people.
+Justice is the idea that we'd much rather give opportunity to bad  people than to deny opportunity to good people. So we'd rather free guilty people than imprison innocent people.
 
 I can't tell you whether to value justice personally, all I can do is explain how it works, and explain that when we as a society value justice, we willingly pay the cost for it. Those nineteen guilty people who got reduced or no sentences are the cost we pay for having just one wrongly convicted man instead of ten. All of the things we value in society have some cost, to us personally, to society as a whole, or both.[^value]
 
