@@ -47,7 +47,7 @@ So because of our sense of justice and busy courts and smart lawyers, of the 90 
 
 Justice is the idea that we'd much rather give opportunity to bad  people than to deny opportunity to good people. So we'd rather free guilty people than imprison innocent people.
 
-I can't tell you whether to value justice personally, all I can do is explain how it works, and explain that when we as a society value justice, we willingly pay the cost for it. Those nineteen guilty people who got reduced or no sentences are the cost we pay for having just one wrongly convicted man instead of ten. All of the things we value in society have some cost, to us personally, to society as a whole, or both.[^value]
+I can't tell you whether to value justice personally, all I can do is explain how it works, and explain that when we as a society value justice, we willingly pay the cost for it. Those nineteen guilty people who got reduced or no sentences are the cost we pay for having just one wrongly convicted person instead of ten. All of the things we value in society have some cost, to us personally, to society as a whole, or both.[^value]
 
 [^value]: Now, I can't tell you whether to personally value justice. Not everybody does. And if you don't, I disagree, but I understand. What I'm going to do is explain why racism is unjust. I'm going to say that racism is incompatible with justice. And some people will sincerely think, "so what?" I'm not going to try to explain why justice matters *and* explain why racism is unjust. I'm going to explain why racism is unjust, and you will need to read another essay to sort out why justice is valuable.
 
