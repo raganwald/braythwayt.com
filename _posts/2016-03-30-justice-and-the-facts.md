@@ -5,7 +5,7 @@ layout: default
 
 [![Child's Face in Black and White](/assets/images/child-face.jpg)](https://www.flickr.com/photos/offbit2010/5331401261)
 
-About once a year I encounter some variation on this question: “*Is it racist to believe and/or discuss facts about the performance of blacks versus whites on standardized tests?*" Or a related question, "*Is it racist to point out the disparity between conviction and arrest statistics between blacks and whites?*"
+About once a year, I encounter some variation on this question: “*Is it racist to believe and/or discuss facts about the performance of blacks versus whites on standardized tests?*" Or a related question, "*Is it racist to point out the disparity between conviction and arrest statistics between blacks and whites?*"
 
 The short--and incomplete--answer is, *It not necessarily racist to discuss facts*.
 
