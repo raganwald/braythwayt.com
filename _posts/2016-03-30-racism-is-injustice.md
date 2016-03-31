@@ -17,7 +17,7 @@ The proper follow-up is:
 
 The central moral issue is not about facts or race, the central moral issue is about "justice."
 
-**Justice is, at its core, equal treatment for all**. And that includes, "Not imposing consequences on individuals based solely on statistical evidence about classes to which they belong."
+**Justice is, at its core, equal treatment for all**. And that includes, "Not imposing consequences on individuals based solely on what we may believe to be statistically true about classes to which they belong."
 
 Consider crime:
 
