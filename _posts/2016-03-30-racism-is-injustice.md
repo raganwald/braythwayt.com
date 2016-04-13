@@ -25,13 +25,17 @@ When someone is murdered in their home, it’s nearly always a partner who has d
 
 We don't need the actual statistics on hand. For the sake of argument, let's say that out of every ten such murders, their partner is guilty nine times. Only one of those ten partners is innocent. So if there are 100 people murdered, and we lock up 100 partners, just lock 'em up, we're right 90% of the time.
 
-And we do away with a lot of pesky trials and nonsense about whether evidence is the fruit of the poisoned tree, and haranguing tech companies to unlock their phones so we can see if they plotted with another lover to collect on the insurance money. But every tenth time, an innocent person goes to jail, and we decided a long time ago--correctly, in my opinion--that this is a terrible thing to lock up innocent people 10% of the time just to save ourselves a lot of trouble.
+And we do away with a lot of pesky trials and nonsense about whether evidence is the fruit of the poisoned tree, and haranguing tech companies to unlock their phones so we can see if they plotted with another lover to collect on the insurance money.
+
+But if we lock up the partners without trial, every tenth time an innocent person will go to jail. And we decided a long time ago--correctly, in my opinion--that is a terrible thing to lock up innocent people 10% of the time just to save ourselves a lot of trouble.
 
 Those ten innocent people in jail are an injustice.
 
+They're an injustice because we never looked at any evidence whasoever they they were guilty. We locked them up strictly because it was convenient for us to assume that they were guilty. And we now abhor this practice.
+
 [![Prison Window](/assets/images/prison-window.jpg)](https://www.flickr.com/photos/-jvl-/7962594326)
 
-So we have this system where we investigate the crimes, and the outcomes might be that for those ten innocent people, for eight of the cases we didn't charge them at all. And in the ninth case, we charged them but they were found innocent in court, and in the tenth case, we convicted an innocent person. And that one innocent person in jail is still a terrible thing, but we think that's better than ten innocent people in jail.
+So we built this system where we investigate the crimes, and the outcome of such an investigation might have been that for those ten innocent people, for eight of the cases we didn't charge them at all. And in the ninth case, we charged the partner but they were found innocent in court, and in the tenth case, we convicted an innocent person. And that one innocent person in jail is still a terrible thing, but we think that's better than ten innocent people in jail.
 
 Now what about the ninety people who actually did it? Well, the sword of justice cuts both ways. Because of the expense and aggravation of a trial, for ten cases the prosecutors cut a plea bargain with them, and they got a reduced sentence for manslaughter. In six other cases, they went to trial and for one reason or another they were declared innocent.
 
