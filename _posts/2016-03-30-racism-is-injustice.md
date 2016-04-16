@@ -31,7 +31,7 @@ But if we lock up the partners without trial, every tenth time an innocent perso
 
 Those ten innocent people in jail are an injustice.
 
-They're an injustice because we never looked at any evidence whasoever they they were guilty. We locked them up strictly because it was convenient for us to assume that they were guilty. And we now abhor this practice.
+They're an injustice because we never looked at any evidence whatsoever regarding their guilt. We locked them up strictly because it was convenient for us to assume that they were guilty. And we now abhor this practice.
 
 [![Prison Window](/assets/images/prison-window.jpg)](https://www.flickr.com/photos/-jvl-/7962594326)
 
