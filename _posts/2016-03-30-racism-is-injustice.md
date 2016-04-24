@@ -11,7 +11,7 @@ The short--and incomplete--answer is:
 
 > It not necessarily racist to discuss facts.
 
-The proper follow-up is:
+The correct follow-up is:
 
 > It is racist to use facts to socially engineer injustice against members of a particular race.
 
