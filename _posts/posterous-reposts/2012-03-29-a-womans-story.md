@@ -10,7 +10,7 @@ Mrs. Lois Barzey hadn't gone to university, but she had high hopes for her daugh
 
 Lois read the notice and was dumbfounded. Gwen was being sent across town to a trade school, the kind of place that taught young women how to sew, cook, and type while it taught young men how to repair automobiles or pour concrete.
 
-![North_toronto_collegiate_institute](/assets/images/NTCI.jpg)
+![North Toronto Collegiate Institute](/assets/images/NTCI.jpg)
 
 The next day, Lois visited the principal's office. Why, Lois wanted to know, wasn't Gwen going to North Toronto Collegiate, the academic school located a few blocks away. Didn't she have the necessary marks? Had Gwen somehow failed school? The principal was soothing. Gwen would be happier in a trade school, she would learn a trade that would be useful to her in the years before she started her family. Lois argued, but got nowhere. The decision had been made.
 
@@ -18,7 +18,11 @@ Lois was not easily deterred. A few days later, she was back in the principal's 
 
 So the following September, Gwen went to North Toronto, played first violin in its storied orchestra, and nutured a lifelong passion for music and dance. In time she graduated, and attended the University of Toronto, the first woman in her family to do so.
 
+---
+
 ![Graduation, 1959](/assets/images/graduation.jpg)
+
+---
 
 Like many young women, Gwen attended regular dances. At one such event, she noticed a fellow who she described as the best dancer there, by far. His name was Charles, he was white, he was tall, and he reminded her of Fred Astaire. He was athletic as well, he was a ski bum of sorts, working and skiing out west all winter and returning to Ontario for the summer.
 
@@ -47,7 +51,13 @@ Computer Programming. Empire Life had purchased a computer from International Bu
 
 They tried various other questions, questions from other tests, questions they used for more advanced candidates. Gwen answered as best she could. The men were amazed. To their credit, once they became convinced that she hadn't faked her results, they knew she would be a great hire. They recommended her for training as a programmer analyst, the most senior position being filled. She completed the training and became one of the first women to program computers in Canada. Gwen would go on to lead a number of large computerization projects in the insurance industry as well as for the City of Toronto.
 
-Today she is retired, and like most retirees, she asks her [son](http://braythwayt.com) to help her with computers. She likes her Mac and runs a small business buying and selling books on line. What does she have to say about the difficulties she faced breaking into a male-dominated industry?
+---
+
+![Arlene Gwendolyn Lee, 2016](/assets/images/gwen 2016.jpg)
+
+---
+
+Today Gwen is retired, and like most retirees, she asks her [son](http://braythwayt.com) to help her with computers. She likes her Mac and runs a small business buying and selling books on line. What does she have to say about the difficulties she faced breaking into a male-dominated industry?
 
 "I had it easy. The computer didn't care that I was a woman or that I was black. Most women had it much harder."
 
