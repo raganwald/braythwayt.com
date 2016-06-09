@@ -53,7 +53,7 @@ They tried various other questions, questions from other tests, questions they u
 
 ---
 
-![Arlene Gwendolyn Lee, 2016](/assets/images/gwen 2016.jpg)
+![Arlene Gwendolyn Lee, 2016](/assets/images/gwen-lee-2016.jpg)
 
 ---
 
