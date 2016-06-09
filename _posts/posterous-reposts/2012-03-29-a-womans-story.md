@@ -57,7 +57,7 @@ They tried various other questions, questions from other tests, questions they u
 
 ---
 
-Today Gwen is retired, and like most retirees, she asks her [son](http://braythwayt.com) to help her with computers. She likes her Mac and runs a small business buying and selling books on line. What does she have to say about the difficulties she faced breaking into a male-dominated industry?
+Gwen has now retired, and like most retirees, she asks her [son](http://braythwayt.com) to help her with computers. She likes her Mac and runs a small business buying and selling books on line. What does she have to say about the difficulties she faced breaking into a male-dominated industry?
 
 "I had it easy. The computer didn't care that I was a woman or that I was black. Most women had it much harder."
 
