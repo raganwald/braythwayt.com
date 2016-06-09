@@ -18,7 +18,7 @@ Lois was not easily deterred. A few days later, she was back in the principal's 
 
 So the following September, Gwen went to North Toronto, played first violin in its storied orchestra, and nutured a lifelong passion for music and dance. In time she graduated, and attended the University of Toronto, the first woman in her family to do so.
 
-![Graduation, 1959](/assets/images/graduation.jpeg)
+![Graduation, 1959](/assets/images/graduation.jpg)
 
 Like many young women, Gwen attended regular dances. At one such event, she noticed a fellow who she described as the best dancer there, by far. His name was Charles, he was white, he was tall, and he reminded her of Fred Astaire. He was athletic as well, he was a ski bum of sorts, working and skiing out west all winter and returning to Ontario for the summer.
 
