@@ -7,6 +7,12 @@ layout: default
 
 ### 2016
 
+<iframe width="600" height="337" src="https://www.youtube.com/embed/8xjntzo-mYc" frameborder="0" allowfullscreen></iframe>
+
+[Optimism](https://www.youtube.com/watch?v=8xjntzo-mYc) from [Nordic Ruby](nordicruby.org)
+
+---
+
 <iframe src="https://player.vimeo.com/video/153097877" width="600" height="337" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 <p><a href="https://vimeo.com/153097877">JavaScript Combinators, the &ldquo;Six&rdquo; Edition</a> from <a href="https://vimeo.com/ndcconferences">NDC Conferences</a>.</p>
