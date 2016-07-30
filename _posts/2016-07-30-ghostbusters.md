@@ -25,11 +25,11 @@ This is as it should be. Ghostbusters is light and fun. It's like pop music. If 
 
 But here's what actually happened today. I went to the movie with my eleven year-old son. He is too young to know that girls are icky. I do not let him hang out on Reddit for you to tell him how wrong it is for him to enjoy a movie with women in leading roles. He has seen the original with me and he liked it.
 
-This afternoon, I have him the choice of Ghostbusters or Star Trek, and he chose to see Ghostbusters. So we went, we saw, we had a good time. I laughed enough to enjoy myself. I nodded at the cameos. Yes, it's formulaic. And what, the original wasn't an SNL skit expanded into a movie? Come on.
+This afternoon, I gave him the choice of Ghostbusters or Star Trek, and he chose to see Ghostbusters. So we went, we saw, we had a good time. I laughed enough to enjoy myself. I nodded at the cameos. Yes, it's formulaic. And what, the original wasn't an SNL skit expanded into a movie? Come on.
 
 My son laughed and laughed. He told me he wanted a proton whatsis. He clutched my arm at points. We ate popcorn and slurped sugar water.
 
-At the end of the day, it was the old family movie formula. The kids have a great time, and the moviemakers throw in a few things for the adults to nod at s we don't get bored out of our skulls. It was light, clean fun.
+At the end of the day, it was the old family movie formula. The kids have a great time, and the moviemakers throw in a few things for the adults to nod at, so we wouldn't get bored out of our skulls. It was light, clean fun.
 
 ### "Ghostbusters" hasn't ruined the original
 
@@ -47,7 +47,7 @@ But even if you do not like it, so what? Are you on a crusade to save the movie-
 
 Come on, we both know that you're really worried that the studio thinks your demographic is no longer the most important thing in the world. So you have this idea that if they won't chase your spending dollars, you might bully them into cancelling the next female-led project for fear of another backlash.
 
-This is also nonsense. In fact, it is jackassery. If you stopped and looked at Hollywood for a clear moment, you'd see that they turn out junk on a steady basis, without rhyme or reason. They usually get it wrong. If you did absolutely nothing at all, the odds are that the movie would quietly close. Thats what most comedies do, good or bad. They come, they go, they make their money on rentals and sales after the fact.
+This is also nonsense. In fact, it is jackassery. If you stopped and looked at Hollywood for a clear moment, you'd see that they turn out junk on a steady basis, without rhyme or reason. They usually get it wrong. If you did absolutely nothing at all, the odds are that the movie would quietly close. That's what most comedies do, good or bad. They come, they go, they make their money on rentals and sales after the fact.
 
 But no, you have to organize your protest and your ballot-stuffing on IMDB and what-not, and everybody notices this, and now you are trying to Streisand Effect the thing. Which is deeply ironic, because you are the sort of person who laughs when companies ineptly Streisand Effect themselves with lawsuits.
 
