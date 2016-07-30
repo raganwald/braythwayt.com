@@ -1,5 +1,5 @@
 ---
-title: "An Open Letter to the Ghostbusters Haters"
+title: "My Open Letter to the Ghostbusters Haters"
 layout: default
 ---
 
