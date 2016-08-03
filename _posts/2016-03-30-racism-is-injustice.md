@@ -91,7 +91,7 @@ We're running an unjust company, because we are not giving every person an equal
   <a href="https://www.flickr.com/photos/mikecogh/8035396680">
       <img src="/assets/images/scales.jpg" alt="Scales of Justice - Frankfurt Version">
   </a>
-  <figcaption>Photo by Michael Coghlan, [www.blogtrepreneur.com/media-justice](www.blogtrepreneur.com/media-justice)</figcaption>
+  <figcaption><small>Photo by Michael Coghlan, <a href="http://www.blogtrepreneur.com/media-justice">www.blogtrepreneur.com/media-justice</a></small></figcaption>
 </figure>
 
 Now this seems very simple, all you have to do is ask people if they have a CS degree. That's easy. If you value justice, asking people a question instead of going by the colour of their skin is a pretty cheap price to pay. But in real life, justice often costs more. For example, what if everyone claims to have a CS degree, but some people without a CS degree turn out to be ok programmers, and some people with a CS degree turn out to be terrible, and some people lie, and, and, and...
