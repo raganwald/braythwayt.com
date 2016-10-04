@@ -9,7 +9,7 @@ Reg &ldquo;raganwald&rdquo; Braithwaite is proof that somewhere, a combinatory f
 
 ---
 
-<iframe src="https://player.vimeo.com/video/76141334" width="600" height="337" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe width="600" height="337" src="https://www.youtube.com/embed/wYPp4nG7qw4" frameborder="0" allowfullscreen></iframe>
 
 (You can watch more talks [here](http://braythwayt.com/talks.html))
 
