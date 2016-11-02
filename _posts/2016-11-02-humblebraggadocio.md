@@ -51,6 +51,8 @@ I'll close with the celebrated words of Richard Hamming:
 - What is the most important problem in your area of competence?
 - Why aren't they the same?
 
+---
+
 ### post-postscript
 
 Also, in case it isn't a well-known fact, being cold-contacted by a recruiter from a large company does not actually mean that you are considered a prized prospect for employment. It just means that your name and email address has been hoovered up by a giant, automated recruiting machine.
