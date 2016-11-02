@@ -6,9 +6,9 @@ published: true
 
 [![PagerDuty People](/assets/images/pdpeople.jpg)][PagerDuty]
 
-Dear N———:
+Dear N—:
 
-Thank you for reaching out to see how my career is going, and to open the door for investigating opportunities with G———. I am pleased to hear that I have come to your attention.
+Thank you for reaching out to see how my career is going, and to open the door for investigating opportunities with G—. I am pleased to hear that I have come to your attention.
 
 Once upon a time, G was much smaller than it is today. Its place in the technology firmament was not secure. Its people and investors were making risky bets on the future of the industry, and there was a sense of adventure, of making the future rather than preparing for it.
 
