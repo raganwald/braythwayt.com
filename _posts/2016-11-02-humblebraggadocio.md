@@ -12,7 +12,7 @@ Thank you for reaching out to see how my career is going, and to open the door f
 
 Once upon a time, G was much smaller than it is today. Its place in the technology firmament was not secure. Its people and investors were making risky bets on the future of the industry, and there was a sense of adventure, of making the future rather than preparing for it.
 
-I am in a very fortunate place right now. I work with [PagerDuty], a company that, while insanely modest by G's standards, is also trying its hardest to invent the future.
+I am in a very fortunate place right now. I work with [PagerDuty], a company that--while insanely modest by G's standards--is also trying its hardest to invent the future.
 
 Everyone (and alas, every-*thing*) is connected to IT operations. Keeping those operations running smoothly is the key to keeping just about every business running, whether it is an old-line company running its internal systems, or a feisty innovator attempting to disrupt an old-line industry.
 
