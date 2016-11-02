@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Thank You!
+title: A Humblebraggadocious Letter
 published: true
 ---
 
@@ -32,3 +32,17 @@ Warm personal regards,
 Reginald Braithwaite
 
 [PagerDuty]: https://www.pagerduty.com/careers/
+
+---
+
+### postscript
+
+For much of my life, I could not honestly write a letter like this. For most of my life, I have been interested in self-fulfillment the way people watch TED talks: For the vicarious thrill of engaging with climbing Maslow's Hierarchy of Needs, but without the plan, intent, or means to work my way up from shelter and safety. This is not a bad thing in and of itself. Most people are not so fortunate, and it is an act of ignorance and arrogance to believe that there are things more urgent and important than working on interesting problems with people you like.
+
+But if you should look at your life one day and realize you have a chance to work your way towards being able to write a letter like this, why not do so? You needn't have the crashingly poor taste to humblebrag about it, you can just do it for its own reward.
+
+I'll close with the celebrated words of Richard Hamming:
+
+- What are you working on right now?
+- What is the most important problem in your area of competence?
+- Why aren't they the same?
