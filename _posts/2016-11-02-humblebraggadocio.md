@@ -18,7 +18,7 @@ Everyone (and alas, every-*thing*) is connected to IT operations. Keeping those 
 
 And that makes PagerDuty such an exciting product, and such an exciting company.
 
-It is deeply satisfying to work at the nexus of lean product development and engineering for high availability at scale. I work with a great team, in a wonderful culture, and its also deeply satisfying to be a part (no matter how modest) of growing our team and culture so that we continue to be a great place to work in the future.
+It is deeply satisfying to work at the nexus of lean product development and engineering for high availability at scale. I work with a great team, in a wonderful culture, and it is also deeply satisfying to be a part (no matter how modest) of growing our team and culture so that we continue to be a great place to work in the future.
 
 I know that opportunities with G are prized. There is the chance to work with outstanding people on mind-bogglingly hard problems. And rumor has it that my pay would at least double were things to work out. That matters, I have children, and while money is just a number, financial security for them is no trifling consideration.
 
