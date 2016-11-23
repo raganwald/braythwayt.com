@@ -8,13 +8,15 @@ Programming has often been described as a _craft_, something that is learned inf
 
 Crafts are held out as being distinct from engineering disciplines. Engineering is roughly considered a combination of empirical science referring to the materials, and a body of knowledge about practices. Engineering disciplines are characterized by extensive standardized formal study, conformance to best practices, and regulation.
 
-There is something there in both possibilities, but I think Alan Kay has some insight into programming. His suggestion is that programming is a _Pop Culture_, because it spreads much, much faster than mentorship, education or formal study spread. Programming certain spreads quickly and without pause for deliberation: The programming language BASIC became popular because Dartmouth had it on a computer system. General Electric franchised that system and sold a lot of computers, with BASIC piggybacking on top. Once BASIC spread "in the wild," it became popular because it was popular.
+There is something there in both possibilities, but I think Alan Kay has some insight into programming. His suggestion is that programming is a _Pop Culture_, because it spreads much, much faster than mentorship, education or formal study spread.
+
+Programming certainly spreads quickly, and without pause for deliberation: The programming language BASIC became popular because Dartmouth had it on a computer system. General Electric franchised that system and sold a lot of computers, with BASIC piggybacking on top. Once BASIC spread "in the wild," it became popular because it was popular.
 
 Many things in programming are like that. Why do you use `CamelCase` in JavaScript but `underscores_in_ruby`? Because everyone else does, and that's the language's "style." This may be a trivial point when naming things, but this cultural phenomenon spreads to the XMLification of everything in Java the Billboard Hot 100 for testing frameworks in Ruby, and practically every other question of programming architecture and style.
 
 Popularity rules, and fitness for purpose is secondary. We even make up a little rationalization about this: "Our code must be easy to read for the next programmer, so we pick idioms that will be familiar." That would make stellar sense if idioms are forever, but they aren't. They come and go like trends in pop music, and Ruby Archeologists can accurately date a business application by examining its gemspec file.
 
-This is one of the reasons why many experienced programmers spend some time on "social" programming sites like Hacker news, Reddit, or Stack Overflow. In a pop culture, keeping up with the trends is necessary to do your job. You can't design clothes if you spend all your time in a laboratory analyzing fabrics and talking manufacturing techniques, you have to get out in the streets and clubs and cafés and soak up the culture.
+This is one of the reasons why many experienced programmers spend some time on "social" programming sites like Hacker News, Reddit, or Stack Overflow. In a pop culture, keeping up with the trends is necessary to do your job. You can't design clothes if you spend all your time in a laboratory analyzing fabrics and talking manufacturing techniques, you have to get out in the streets and clubs and cafés and soak up the culture.
 
 ![A bower](/assets/images/posterous/PastedGraphic-2_tiff_scaled_501.jpg)
 
