@@ -6,10 +6,6 @@ published: true
 
 [![Mechanism Macro](/assets/images/watch-mechanism.jpg)](https://www.flickr.com/photos/see-through-the-eye-of-g/4278744230)
 
-*Mechanism Macro, © 2010 GollyGForce, [Some rights reserved][cc-by-2.0]*
-
----
-
 Alice and Bob and Carol and David work together. Their manager, Edwina, suggests they give lunch-and-learn talks to help level the team up.
 
 ### Alice and Bob and Carol
@@ -39,6 +35,10 @@ A few days later, David gives a talk about [Impostor Syndrome][is], and about ho
 David also points out that when we judge ourselves in relation to other people's self-selected competences, we underrate our own overall competence. David closes with an aphorism: *Impostor syndrome is when you compare other people's highlight reel, to your bloopers*.
 
 Alice and Bob and Carol have a good laugh, and agree that David gave a very fine talk, and that it was the most useful lunch-and-learn yet.
+
+---
+
+Photo credit: Mechanism Macro, © 2010 GollyGForce, [Some rights reserved][cc-by-2.0]
 
 [ja]: http://leanpub.com/javascriptallongesix
 [lsd]: https://en.wikipedia.org/wiki/Lean_software_development
