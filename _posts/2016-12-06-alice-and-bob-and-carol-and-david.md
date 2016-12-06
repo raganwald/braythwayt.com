@@ -22,11 +22,11 @@ David is last, he has become very depressed at how awesome Alice and Bob and Car
 
 So David procrastinates and procrastinates, until Edwina asks him why he hasn't given a lunch-and-learn. He confesses that he doesn't think he knows anything that the others don't already know, and better. Edwina listens, then makes a suggestion.
 
-A few days later, David gives a talk about [Impostor Syndrome], and about how it can prevent you from even trying to do your best. he explains that when we judge other people by the subjects that they choose to display, we tend to overrate their overall competence. And that when we judge ourselves in relation to other people's self-selected competences, we tend to underrate our own overall competence.
+A few days later, David gives a talk about [Impostor Syndrome][is], and about how it can prevent you from even trying to do your best. he explains that when we judge other people by the subjects that they choose to display, we tend to overrate their overall competence. And that when we judge ourselves in relation to other people's self-selected competences, we tend to underrate our own overall competence.
 
 David closes with an aphorism: *Impostor syndrome is when you compare other people's highlight reel, to your bloopers*. Alice and Bob and Carol have a good laugh, and agree that David gave a very fine talk, and that it was the most useful lunch-and-learn yet.
 
 [ja]: http://leanpub.com/javascriptallongesix
 [lsd]: https://en.wikipedia.org/wiki/Lean_software_development
-[Impostor Syndrome]: https://en.wikipedia.org/wiki/Impostor_syndrome
+[is]: https://en.wikipedia.org/wiki/Impostor_syndrome
 [cc-by-2.0]: https://creativecommons.org/licenses/by/2.0/
