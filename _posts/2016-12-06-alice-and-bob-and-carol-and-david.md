@@ -28,7 +28,9 @@ Alice and Carol and David think to themselves, "I need to level up to understand
 
 ### David
 
-David is last, he has become very depressed at how awesome Alice and Bob and Carol seem to be, and given how much more experienced they are, how much smarter they are, and how much more thoroughly they understand development, he's certain that there is nothing he can share that they won't already know.
+David is last to present.
+
+He has become very depressed at how awesome Alice and Bob and Carol seem to be. Given how much more experienced they are, how much smarter they are, and how much more thoroughly they understand development, David's certain that there is nothing he can share that they won't already know.
 
 So David procrastinates and procrastinates, until Edwina asks him why he hasn't given a lunch-and-learn. He confesses that he doesn't think he knows anything that the others don't already know, and better. Edwina listens, then makes a suggestion.
 
