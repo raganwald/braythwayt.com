@@ -18,9 +18,9 @@ Bob is second, he has just finished reading [JavaScript Allongé][ja], and he wa
 
 Alice and Carol and David think to themselves, "I need to level up to be as smart as Bob."
 
-Carol is third, she used to work for a company that put a lot of effort into [Lean Software Development][lsd], and she finds it interesting, so she gives a little history of lean and gives over the seven principles. Alice and Bob and David have worked with Agile before, but Lean's principles and reasoning are new to them.
+Carol is third, she used to work for a company that put a lot of effort into [Lean Software Development][lsd], and she finds it interesting. Carol gives a little history of Lean, and goes over its seven principles. Alice and Bob and David have worked with Agile before, but Lean's principles and reasoning are new to them.
 
-Alice and Carol and David think to themselves, "I need to level up to understand development as well as Carol."
+Alice and Carol and David think to themselves, "I need to level up to understand software development as well as Carol."
 
 ### David
 
