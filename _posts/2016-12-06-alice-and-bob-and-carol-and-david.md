@@ -4,7 +4,7 @@ title: A Story about Alice and Bob and Carol and David
 published: true
 ---
 
-[![Mechanism Macro](/assets/images/watch-mechanism.jpg)](https://www.flickr.com/photos/see-through-the-eye-of-g/4278744230)
+[![Mechanism Macro](/assets/images/watch-mechanism.jpg)][mm]
 
 Alice and Bob and Carol and David work together. Their manager, Edwina, suggests they give lunch-and-learn talks to help level the team up.
 
@@ -38,9 +38,10 @@ Alice and Bob and Carol have a good laugh, and agree that David gave a very fine
 
 ---
 
-Photo credit: Mechanism Macro, © 2010 GollyGForce, [Some rights reserved][cc-by-2.0]
+Photo credit: [Mechanism Macro][mm], © 2010 GollyGForce, [Some rights reserved][cc-by-2.0]
 
 [ja]: http://leanpub.com/javascriptallongesix
 [lsd]: https://en.wikipedia.org/wiki/Lean_software_development
 [is]: https://en.wikipedia.org/wiki/Impostor_syndrome
 [cc-by-2.0]: https://creativecommons.org/licenses/by/2.0/
+[mm]: https://www.flickr.com/photos/see-through-the-eye-of-g/4278744230
