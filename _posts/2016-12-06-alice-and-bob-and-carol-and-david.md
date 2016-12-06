@@ -1,6 +1,6 @@
 ---
 layout: default
-title: A Story about Alice and Bob and Carol and David
+title: A story about Alice and Bob and Carol and David
 published: true
 ---
 
