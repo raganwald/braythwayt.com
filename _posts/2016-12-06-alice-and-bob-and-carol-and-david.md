@@ -12,6 +12,8 @@ published: true
 
 Alice and Bob and Carol and David work together. Their manager, Edwina, suggests they give lunch-and-learn talks to help level the team up.
 
+### Alice and Bob and Carol
+
 Alice is first, she has done a lot of work with testing lately, so she talks about some new testing frameworks and gives some tips based on her experience. Bob and Carol and David know a little about testing, but not as much as Alice appears to know.
 
 Bob and Carol and David think to themselves, "I need to level up to be as experienced as Alice."
@@ -23,6 +25,8 @@ Alice and Carol and David think to themselves, "I need to level up to be as smar
 Carol is third, she used to work for a company that put a lot of effort into [Lean Software Development][lsd], and she finds it interesting, so she gives a little history of lean and gives over the seven principles. Alice and Bob and David have worked with Agile before, but Lean's principles and reasoning are new to them.
 
 Alice and Carol and David think to themselves, "I need to level up to understand development as well as Carol."
+
+### David
 
 David is last, he has become very depressed at how awesome Alice and Bob and Carol seem to be, and given how much more experienced they are, how much smarter they are, and how much more thoroughly they understand development, he's certain that there is nothing he can share that they won't already know.
 
