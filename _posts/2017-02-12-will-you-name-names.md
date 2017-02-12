@@ -86,4 +86,8 @@ The whole world is watching.
 
 ---
 
-*Also of interest:* [A US-born NASA scientist was detained at the border until he unlocked his phone](http://www.theverge.com/2017/2/12/14583124/nasa-sidd-bikkannavar-detained-cbp-phone-search-trump-travel-ban)
+*Also of interest:*
+
+- [A US-born NASA scientist was detained at the border until he unlocked his phone](http://www.theverge.com/2017/2/12/14583124/nasa-sidd-bikkannavar-detained-cbp-phone-search-trump-travel-ban)
+- [Canadian denied entry to U.S. after being questioned on mosque connections](http://www.cbc.ca/news/canada/montreal/another-canadian-citizen-refused-entry-united-states-border-1.3976230)
+- [Canadian woman turned away from U.S. border after questions about religion, Trump](http://www.cbc.ca/news/canada/montreal/canadian-woman-turned-away-from-u-s-border-after-questions-about-religion-trump-1.3972019)
