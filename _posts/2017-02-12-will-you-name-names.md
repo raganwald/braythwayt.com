@@ -34,7 +34,7 @@ You may decide to give informed consent, but they didn't, and by turning over th
 
 Did I say you are turning your friends' private information over to a foreign government? Yes I did. But that's not all. Thanks to intelligence agreements between the ["five eyes"][5e], you are also turning that information over to three other foreign governments, and to Canada's government.
 
-[5e](https://en.wikipedia.org/wiki/Five_Eyes)
+[5e]: https://en.wikipedia.org/wiki/Five_Eyes
 
 Turning your personal information over to Justin Trudeau seems benign if you like the centrist things he says. And he has said many positive things about Canada's inclusiveness and diversity. So perhaps you trust him, and it is your right to choose to place your trust in your Prime Minister.
 
