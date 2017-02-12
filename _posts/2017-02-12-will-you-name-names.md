@@ -40,7 +40,7 @@ Did I say you are turning your friends' private information over to a foreign go
 
 Turning your personal information over to Justin Trudeau seems benign if you like the centrist things he says. And he has said many positive things about Canada's inclusiveness and diversity. So perhaps you trust him, and it is your right to choose to place your trust in your Prime Minister.
 
-But have your friends consented to trust the Canadian Prime Minister? What if one of them is old enough to remember his father suspending civil rights, arresting and detaining hundreds of people in the [October Crisis]?
+But have your friends consented to trust the Canadian Prime Minister? What if one of them is old enough to remember Trudeau's father suspending civil rights, arresting and detaining hundreds of people in the [October Crisis]?
 
 [October Crisis]: https://en.wikipedia.org/wiki/October_Crisis
 
@@ -60,11 +60,13 @@ Before you go, ask your friends and family about their feelings. If you cannot o
 
 ### what i am not asking you to do
 
-I believe that it is a civil obligation to refuse to comply with your country's unjust laws, but it is easier still to avoid going places with unjust laws. If you choose to go to another place, it's difficult to complain about them enforcing a law you knew about in advance.
+I believe that it is a civil obligation to refuse to comply with your country's unjust laws.
+
+But that being said, many people can choose not to visit places with unjust laws. If you choose to go to another place, it's difficult to complain about their laws that you knew about in advance.
 
 So:
 
-I am not asking you to break any law or laws of another country.
+I am not asking you to break the laws of another country.
 
 I am not asking you to obstruct law enforcement in another country.
 
