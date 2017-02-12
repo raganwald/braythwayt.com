@@ -76,6 +76,8 @@ And by writing this blog post, I am doing my best to ensure that when you give y
 
 ### so
 
-Now that you have read what I have written, let me ask you: Should you be asked by a US border officer to consent to "[Name Names]," will you give or withhold that consent?
+Now that you have read what I have written, let me ask you: Should you be asked by a US border officer to "[Name Names]," will you give your consent?
 
 [name names]: https://en.wikipedia.org/wiki/McCarthyism "McCarthyism"
+
+The whole world is watching.
