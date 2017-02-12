@@ -6,6 +6,8 @@ published: true
 
 Recently, officers staffing the US border have been asking Canadian citizens to turn over their email and social media passwords before entering the US. Not all citizens, so far, just those who have Muslim roots. But in theory they could ask anyone, and if we are to take the current administration seriously, they soon will.
 
+![flags](/assets/images/UsCanadaFlag.jpg)
+
 ### will you comply?
 
 If you cross into the US, you may be asked to hand over your own social media passwords and email password, not to mention unlock your devices and give them complete access. They may go into another room. In that other room, they may use hardware and software to vacuum up _everything_ while you wait.
