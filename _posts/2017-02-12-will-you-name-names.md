@@ -4,19 +4,21 @@ title: When your turn comes, will you "Name Names?"
 published: true
 ---
 
-Recently, officers staffing the US border have been asking Canadian citizens to turn over their email and social media passwords before entering the US. Not all citizens, so far, just those who have Muslim roots. But in theory they could ask anyone, and if we are to take the current administration seriously, they soon will.
+Recently, officers staffing the US border have been asking Canadian citizens to turn over their email and social media passwords before entering the US.
+
+Not all citizens. So far, just those who have Muslim roots. But they could ask anyone, and if we are to take the current administration seriously, they will soon ask *everyone*.
 
 ![flags](/assets/images/UsCanadaFlag.jpg)
 
-### will you comply?
+### will you give consent?
 
 If you cross into the US, you may be asked to hand over your own social media passwords and email password, not to mention unlock your devices and give them complete access. They may go into another room. In that other room, they may use hardware and software to vacuum up _everything_ while you wait.
 
-At this moment, you have a legal right to decline. If you decline, you may be turned away, ruining your business trip, vacation, or reunion with loved ones. But at this time, they will not force you.
+At this moment, you have a legal right to decline. If you decline, you may be turned away, ruining your business trip, vacation, or reunion with loved ones. But at this time, they will not legally compel you.
 
-Will you comply?
+Will you give your consent to this?
 
-Good question. If you haven't already done so, perhaps you should consider what, exactly, you are complying with. After all, if you are to give your consent, you should give your _informed consent_.
+Good question. If you haven't already thought this through, perhaps you should consider what, exactly, you are complying with. After all, if you are to give your consent, you should give your _informed consent_.
 
 [![LG G4 Disassembly](/assets/images/LG-G4-disassembly.jpg)](http://www.mobile-t-mobile.com)
 
