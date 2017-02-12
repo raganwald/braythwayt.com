@@ -40,15 +40,11 @@ Did I say you are turning your friends' private information over to a foreign go
 
 Turning your personal information over to Justin Trudeau seems benign if you like the centrist things he says. And he has said many positive things about Canada's inclusiveness and diversity. So perhaps you trust him, and it is your right to choose to place your trust in your Prime Minister.
 
-But have your friends consented to trust the Canadian Prime Minister? What if one of them is old enough to remember Trudeau's father suspending civil rights, arresting and detaining hundreds of people in the [October Crisis]?
-
-[October Crisis]: https://en.wikipedia.org/wiki/October_Crisis
-
-What if one of your friends worries that governments change, just as the US government changes. Perhaps they fear a future in which Russia, with nobody left to stand up to them, interferes in Canada's election to replace Trudeau with [Kelly Leitch]?
+But have your friends consented to trust this and every Canadian Prime Minister? Perhaps they fear a future in which Russia, with nobody left to stand up to them, interferes in Canada's election to replace Trudeau with [Kelly Leitch]?
 
 [Kelly Leitch]: https://en.wikipedia.org/wiki/Kellie_Leitch
 
-How would your friends feel about their private or friends-only messages and posts being screened by a future Prime Minister Leitch for unspecified violations of "Canadian Values?" Using softare helpfully provided by Putin's regime?
+How would your friends feel about their private or friends-only messages and posts being screened by a future Prime Minister Leitch for unspecified violations of "Canadian Values?" Using software helpfully provided by Putin's regime?
 
 When you consent to turning over your personal correspondence to a US border officer today, you are consenting to turning everybody you know's personal information over to every US, Canadian, Australian, New Zealander, and English government, in perpetuity.
 
