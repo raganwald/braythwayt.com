@@ -64,13 +64,13 @@ But that being said, many people can choose not to visit places with unjust laws
 
 So:
 
-I am not asking you to break the laws of another country.
+- I am not asking you to break the laws of another country.
 
-I am not asking you to obstruct law enforcement in another country.
+- I am not asking you to obstruct law enforcement in another country.
 
-I am not asking you to set up fake accounts or otherwise lie to law enforcement in another country.
+- I am not asking you to set up fake accounts or otherwise lie to law enforcement in another country.
 
-I am not asking you to voice your disapproval of the choices another country makes about its borders.
+- I am not asking you to voice your disapproval of the choices another country makes about its borders.
 
 I am simply asking you, when given a choice that another country has offered you of their own free will, to ensure that everyone affected by your consent, has given their informed consent.
 
