@@ -83,3 +83,7 @@ Now that you have read what I have written, let me ask you: Should you be asked 
 [name names]: https://en.wikipedia.org/wiki/McCarthyism "McCarthyism"
 
 The whole world is watching.
+
+---
+
+*Also of interest:* [A US-born NASA scientist was detained at the border until he unlocked his phone](http://www.theverge.com/2017/2/12/14583124/nasa-sidd-bikkannavar-detained-cbp-phone-search-trump-travel-ban)
