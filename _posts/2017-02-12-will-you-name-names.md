@@ -48,6 +48,8 @@ What if one of your friends worries that governments change, just as the US gove
 
 [Kelly Leitch]: https://en.wikipedia.org/wiki/Kellie_Leitch
 
+How would your friends feel about their private or friends-only messages and posts being screened by a future Prime Minister Leitch for unspecified violations of "Canadian Values?" Using softare helpfully provided by Putin's regime?
+
 When you consent to turning over your personal correspondence to a US border officer today, you are consenting to turning everybody you know's personal information over to every US, Canadian, Australian, New Zealander, and English government, in perpetuity.
 
 Do your friends and contacts give their consent to this?
