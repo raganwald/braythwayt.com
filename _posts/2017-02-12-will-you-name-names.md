@@ -50,6 +50,8 @@ When you consent to turning over your personal correspondence to a US border off
 
 Do your friends and contacts give their consent to this?
 
+[![border agent and device](/assets/images/borderagent-phone.png)](https://www.eff.org/deeplinks/2017/02/border-security-overreach-continues-dhs-wants-social-media-login-information)
+
 ### what i'm asking you to do
 
 If you wish to turn your own personal information over, that is your right and your choice. But I urge you to consider whether you have a moral obligation not to turn your friends' information over without their consent,
