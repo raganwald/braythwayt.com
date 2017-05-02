@@ -8,11 +8,13 @@ published: true
 
 There's a video going around of Yes reüniting for one night to play at their induction into the Rock and Roll Hall of Fame. Geddy Lee is playing bass, since Chris Squire passed away in 2015.
 
-I have a little story about Chris, and while it ought to begin in 1973 or so with "Roundabout" playing on Q107 every night at midnight during my high school years with Mike Szarka and Peter Berrevoets, I will start with something that happened forty years after I first heard Yes' music.
+I have a little story about Chris, and while it ought to begin in 1973 or so with "Roundabout" playing on Q107 every night at midnight during my high school years, I will start with something that happened forty years after I first heard Yes' music.
 
 ![Web Rebels](/assets/images/web-rebels.jpg)
 
-In 2013, I spoke at WebRebels, a programming conference. The experience literally changed my life in many ways.
+In 2013, I spoke at [Web Rebels], a programming conference. The experience literally changed my life in many ways.
+
+[Web Rebels]: https://www.webrebels.org
 
 I have spoken about how I was thinking about getting a job at GitHub, and part of why I accepted an offer to speak there was that I had heard several GitHubbers were going to be there. It was an opportunity to meet them and hopefully learn what the company and people were really like, show them what I was really into, and see if there was a "click."
 
