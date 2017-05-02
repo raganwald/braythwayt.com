@@ -8,7 +8,7 @@ published: true
 
 There's a video going around of Yes reüniting for one night to play at their induction into the Rock and Roll Hall of Fame. Geddy Lee is playing bass, since Chris Squire passed away in 2015.
 
-I have a little story about Chris, and while it ought to begin in 1973 or so with "Roundabout" playing on Q107 every night at midnight during my high school years, I will start with something that happened forty years after I first heard Yes' music.
+I have a little story about Chris, and while it could begin in 1973 or so with "Roundabout" playing on Q107 every night at midnight during my high school years, this story happened forty years later.
 
 ![Web Rebels](/assets/images/web-rebels.jpg)
 
