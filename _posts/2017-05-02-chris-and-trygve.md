@@ -1,6 +1,6 @@
 ---
 layout: default
-title: A moment in Oslo with Chris Squire and Trygve Lie
+title: A moment in Oslo with Chris and Trygve
 published: true
 ---
 
@@ -18,11 +18,11 @@ I have spoken about how I was thinking about getting a job at GitHub, and part o
 
 What I haven't spoken of was that I was struggling with my mood, and it took a massive effort just to get on the plane. Trygve Lie had made a tremendous effort go get me to Norway, and once there, he and the other organizers and volunteers bent over backwards to make me feel comfortable.
 
-![Coffee at Tim Wendelboe](/assets/images/tim-wendelboe.jpg)
-
 He invited me out for some music, and such was my struggle that I declined, something that is incredibly out of character for me. I didn't explain, but I always suspected he understood.
 
-Oslo was serene for me. I did some socializing by sheer force, and I also spent a lot of time near the venue just sitting in the sun or walking by a little canal that ran near the venue.
+![Coffee at Tim Wendelboe](/assets/images/tim-wendelboe.jpg)
+
+Oslo was serene for me. I did some socializing by sheer force, and I also spent a lot of time near the venue just sitting in the sun, or drinking coffee, or walking by a little canal that ran near the venue.
 
 When it was time to return to Canada, I hopped on a train to the airport... And discovered that I'd left my passport in my room. Trygve Lie gallantly brought it to the airport for me personally, and I made my flight with moments to spare.
 
