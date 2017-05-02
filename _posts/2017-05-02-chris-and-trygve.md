@@ -38,7 +38,7 @@ I looked at him, I look at his granddaughter. And for once, I said nothing. He w
 
 It doesn't feel like a grand revelation, but when I stood in that Oslo airport and saw what Chris Squire had become, I felt good. He was playing music. He had family he cared about. He didn't ask anyone to treat him like a music superstar. He was walking through an airport without needing to be whisked around by security. He had freedom. He was comfortable in his own skin.
 
-What I saw was something *right*, a person comfortable in their own skin. And the example he set moved me. Obviously, Chris didn't actually do anything for me explicitly. Nor did he do anything special. These little encounters and the lessons we draw from them often reflect who we are and how we see the world.
+What I saw was something *right*. And the example he set moved me. Obviously, Chris didn't actually do anything for me explicitly. Nor did he do anything special. These little encounters and the lessons we draw from them often reflect who we are and how we see the world.
 
 They serve as Rorschach inkblots: What we see in them is what we see in ourselves. And looking back, I saw myself getting better.
 
