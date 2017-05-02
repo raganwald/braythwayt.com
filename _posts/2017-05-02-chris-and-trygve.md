@@ -1,6 +1,6 @@
 ---
 layout: default
-title: A moment in Oslo with Chris and Trygve
+title: One moment in Oslo
 published: true
 ---
 
