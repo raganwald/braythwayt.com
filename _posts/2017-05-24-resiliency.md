@@ -34,9 +34,9 @@ I then demonstrated a thing where for big requests, the web app would break a re
 
 So for my demo, I triggered an action that would produce two chunks. And behind the scenes, I introduced some randomness such that each chunk had a 50% chance of failing. In reality, well-formed requests fail infrequently, but it can happen, especially when internet connectivity is suspect. So it's an important feature.
 
-But the important failure was my failure to do basic math. If there are two chunks with a 50% chance of either failing, and I want to demonstrate how the UX handles partial success, there is only a 50% chance that my demo will work the first time. I really needed to kick things off with eight or sixteen chunks to be safe.
+But the important failure was my failure to do basic math. If there are two chunks with a 50% chance of either failing, and I want to demonstrate how the UX handles partial success, there is only a 50% chance that my demo will work the first time. And no, it did _not_ work the first time.
 
-Oops!
+I had to try it again, and it took enormous coördination to move the mouse with one hand, while standing on one foot and kicking myself with the other. Luckily, I was not trying to chew gum at the time. I did get it work as planned, but now I had two hiccups. Oh well, on to the big finale.
 
 ---
 
@@ -44,9 +44,7 @@ Oops!
 
 ### the finalé
 
-I had to try it again, and it took enormous coördination to move the mouse with one hand, while standing on one foot and kicking myself with the other. Luckily, I was not trying to chew gum at the time.
-
-Well, I did get it to show itself off, but now I had two hiccups. Oh well, on to the big finale. I had another feature that involved being able to cancel certain types of long-running operations. You know, like when you accidentally start copying the contents of your entire hard drive to a folder on your network server.
+I had another feature that involved being able to cancel certain types of long-running operations. You know, like when you accidentally start copying the contents of your entire hard drive to a folder on your network server.
 
 There was some code that put up a dialog box with a cancel button, and as befits the "hack" status, the cancel button closed the dialog, and I had some code that canceled the operation when it detected that the dialogue was dismissed. This was a mistake! It worked like a charm in my testing, but what I didn't know was that there was all sorts of JavaScript asynchronicity involved in the route from mouse click to button press to dialogue close to the code observing the dialogue box's status, to cancelling the concurrent task.
 
