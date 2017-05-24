@@ -72,7 +72,7 @@ It's emotionally draining to give a demo, even a successful one. I hurts to have
 
 So instead of trying to be perfect, instead of never taking chances, or trying to avoid ever failing under the spotlight, we should seek to be **resilient**, and weather the storms, and rebuild when our code breaks.
 
-This lesson I learned, and keep learning, is this: A strong, supportive culture—like we have at [PagerDuty]—helps us bounce back. It doesn't mean we won't screw up in a demo, or check in some code that causes a SEV-1 one day, but it does mean that people will support us and work with us and drag us back from your embarrassment and support our "feels."
+This lesson I learned, and keep learning, is this: A strong, supportive culture—like we have at [PagerDuty]—helps us bounce back. It doesn't mean we won't screw up in a demo, or check in some code that causes a SEV-1 one day, but it does mean that people will support us and work with us and drag us back from our embarrassment and support our "feels."
 
 That culture, that support for us when we are vulnerable, is the foundation of our resiliency. And as noted above...
 
