@@ -45,6 +45,12 @@ But the important failure was my failure to do basic math. If there are two chun
 
 Oops!
 
+---
+
+[![Photo by Kevin Megens / Artibite](/assets/images/nudge.jpg)](https://www.flickr.com/photos/artibite/16943393862)
+
+### the finalé
+
 I had to try it again, and it took enormous coördination to move the mouse with one hand, while standing on one foot and kicking myself with the other. Luckily, I was not trying to chew gum at the time.
 
 Well, I did get it to show itself off, but now I had two hiccups. Oh well, on to the big finale. I had another feature that involved being able to cancel certain types of long-running operations. You know, like when you accidentally start copying the contents of your entire hard drive to a folder on your network server.
