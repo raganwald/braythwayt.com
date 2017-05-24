@@ -11,7 +11,7 @@ At [PagerDuty], we have a monthly "Hack Day," where everyone can spend a day wor
 
 ---
 
-[![Photo by Kevin Megens / Artibite](/assets/images/windy.jpg)](https://www.flickr.com/photos/artibite/16943739191)
+[![Photo by Kevin Megens / Artibite](/assets/images/balloons.jpg)](https://www.flickr.com/photos/artibite/16757272310)
 
 After the hacks are done, we have a little "demo" ceremony, everyone gets five minutes in front of the company to show what they've done. Yes, it's "Show & Tell" for adults. And like a really good classroom full of nice kids, the audience is incredibly supportive, especially to first-timers and new Dutonians. I really don't have enough words to describe how positive the culture feels to me.
 
@@ -25,9 +25,9 @@ Then it was my turn, and I don't know if I looked like I was barely keeping a gr
 
 ---
 
-[![Photo by Kevin Megens / Artibite](/assets/images/balloons.jpg)](https://www.flickr.com/photos/artibite/16757272310)
+[![Photo by Kevin Megens / Artibite](/assets/images/windy.jpg)](https://www.flickr.com/photos/artibite/16943739191)
 
-### the demo
+### demonstrating my hack
 
 Now, I pride myself on "Giving Good Demo." I have experience in sales and public speaking and since I'm demonstrating something I care about in a personal way, the enthusiasm flows freely. But I can't help feeling a little pressure. With every good demo, I feel like the expectation that the next one will be as good, or even better, mounts. And I was following such great work! How could I compare?
 
@@ -47,7 +47,7 @@ Oops!
 
 ---
 
-[![Photo by Kevin Megens / Artibite](/assets/images/nudge.jpg)](https://www.flickr.com/photos/artibite/16943393862)
+[![Photo by Kevin Megens / Artibite](/assets/images/books.jpg)](https://www.flickr.com/photos/artibite/16918772026)
 
 ### the finalé
 
@@ -67,7 +67,7 @@ Ouch.
 
 ---
 
-[![Photo by Kevin Megens / Artibite](/assets/images/books.jpg)](https://www.flickr.com/photos/artibite/16918772026)
+[![Photo by Kevin Megens / Artibite](/assets/images/nudge.jpg)](https://www.flickr.com/photos/artibite/16943393862)
 
 ### the lesson learned
 
