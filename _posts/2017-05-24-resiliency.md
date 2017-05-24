@@ -15,9 +15,9 @@ At [PagerDuty], we have a monthly "Hack Day," where everyone can spend a day wor
 
 After the hacks are done, we have a little "demo" ceremony, everyone gets five minutes in front of the company to show what they've done. Yes, it's "Show & Tell" for adults. And like a really good classroom full of nice kids, the audience is incredibly supportive, especially to first-timers and new Dutonians. I really don't have enough words to describe how positive the culture feels to me.
 
-After the demos are done, there's a little voting thing and some of the hacks are chosen as "winners." If your hack is picked, I think you get a trophy of some kind. For the record, I don't think I've won one yet. We also huddle a bit and ask ourselves if any of the hacks deserve to either go straight into production, or go into our product pipeline to get some further tweaking and become full-fledged product features.
+After the demos are done, the company huddles a bit and we ask ourselves if any of the hacks deserve to either go straight into production, or go into our product pipeline to get some further tweaking and become full-fledged product features.[^me]
 
-I know for a fact that at least one of my "hacks" is in production, but I'll be that if you don't work in PagerDuty engineering (and likely even if you do) you have no idea what it is. It's something that "just works" and nobody will notice it unless we remove it.
+[^me]: At least one of my "hacks" is in production, but if you don't work in PagerDuty engineering (and likely even if you do) you have no idea what it is. It's something that "just works" and nobody will notice it unless we remove it.
 
 So that's our "hack day" structure, and last Friday we worked on our hacks. We usually demo them on the following Monday, but that was a Canadian holiday, so we demo'd them yesterday. My colleagues on my team demo'd four very fine new features, and honestly I can't wait until they are in production. It's great stuff!
 
