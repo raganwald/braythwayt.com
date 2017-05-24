@@ -21,23 +21,17 @@ I know for a fact that at least one of my "hacks" is in production, but I'll be 
 
 So that's our "hack day" structure, and last Friday we worked on our hacks. We usually demo them on the following Monday, but that was a Canadian holiday, so we demo'd them yesterday. My colleagues on my team demo'd four very fine new features, and honestly I can't wait until they are in production. It's great stuff!
 
-Then it was my turn, and I don't know if I looked like I was barely keeping a grip on my sanity as I walked up the the podium, but I felt like I was going to deconstruct into emotions connected by tendons and neurons in real time.
-
 ---
 
 [![Photo by Kevin Megens / Artibite](/assets/images/windy.jpg)](https://www.flickr.com/photos/artibite/16943739191)
 
 ### demonstrating my hack
 
-Now, I pride myself on "Giving Good Demo." I have experience in sales and public speaking and since I'm demonstrating something I care about in a personal way, the enthusiasm flows freely. But I can't help feeling a little pressure. With every good demo, I feel like the expectation that the next one will be as good, or even better, mounts. And I was following such great work! How could I compare?
+I pride myself on "Giving Good Demo." I have experience in sales and public speaking and since I'm demonstrating something I care about in a personal way, the enthusiasm flows freely. But I can't help feeling a little pressure. With every good demo, I feel like the expectation that the next one will be as good, or even better, mounts. And I was following such great work! How could I compare?
 
-Controlling my fear, I walked to the podium and plugged in my computer. And... The screen did not work properly as it did for everyone else. I got some horrible VGA-resolution situation. I made light of things with a joke while a colleague opened up screen preferences and got it sorted.
+I walked to the podium. And... The screen did not work properly, I got some horrible VGA-resolution situation. I made light of things with a joke while a colleague opened up screen preferences and got it sorted. Not a great start, but onwards.
 
-Not a great start, but onwards.
-
-I then demonstrated something that had to do with failure handling. I won't bore you with the exact feature, but it was along these lines: Our web client sends requests and updates to our API through asynchronous requests, same as just about every other modern web app. And the back end, while much more complex than a simple database-backed Rails stack, behaves as if the request either succeeds or fails, atomically. It does not partially succeed or partially fail.
-
-I was doing a thing where for big requests, the web app would break a request up into chunks, and send them all asynchronously to the API. This parallelism has some tradeoffs, and the team and I want to explore whether this is, overall, a big win. The UX problem to solve was that up to that moment, all requests either succeeded or failed. Now I was introducing the possibility that if a single action resulted in multiple "chunks," some might succeed and some might fail.
+I then demonstrated a thing where for big requests, the web app would break a request up into chunks, and send them all asynchronously to the API. This parallelism has some tradeoffs, and the team and I want to explore whether this is, overall, a big win. The UX problem to solve was that up to that moment, all requests either succeeded or failed. Now I was introducing the possibility that if a single action resulted in multiple "chunks," some might succeed and some might fail.
 
 So for my demo, I triggered an action that would produce two chunks. And behind the scenes, I introduced some randomness such that each chunk had a 50% chance of failing. In reality, well-formed requests fail infrequently, but it can happen, especially when internet connectivity is suspect. So it's an important feature.
 
