@@ -71,18 +71,22 @@ Ouch.
 
 ### the lesson learned
 
-Now, there is a lesson to be learned about AV projectors and some OS X settings that make it just work when plugged in. And a greater lesson, a meta-lesson, about doing dry runs before the event to check things like AV settings.
+Now, there is a lesson to be learned about AV projectors, and settings, and about doing dry runs before the event. There's another lesson about basic mathematics, and probability. And yes, there's a lesson about race conditions.[^race]
 
-There's another lesson about basic freaking mathematics, and maybe practicing the demo a few times if probability is involved. But basic math. Yes, basic math.
+[^race]: Actually, race conditions are hard, frameworks are finicky, and sometimes the best way to find a bug is to demo the software in front of a crowd. So maybe there's no lesson about race conditions.
 
-And yes, there's a lesson about race conditions. Actually, although that was the most embarrassing thing, I don't know if there's a lesson there. Race conditions are hard, frameworks are finicky, and sometimes the best way to find a bug is to demo the software in front of a crowd. The "demo gods" are capricious, and one day the smile upon you, and another they cast you down.
+But lessons or not, the "demo gods" are capricious, and one day the smile upon you, and another they cast you down. Being better just means having them smile more often. But we can never be perfect.
 
-You just have to be **resilient**, and come back to work and not start questioning whether you belong.
+It's emotionally draining to give a demo, even a successful one. I hurts to have a demo go wrong in front of people you care about. I hurt, you hurt. When you feel trepidation before going on stage, are not alone. We all feel it, even those of us with "experience" and a "blog" and invitations to fly around the world to stand on stage in front of people. *You are not alone.*
 
-So to me, this is the lesson, and it's why I'm writing and sharing this: _It's emotionally draining to give a demo, even a successful one. Yes, it hurts to have a demo go wrong in front of people you care about. I hurt, you hurt. When you feel trepidation before going on stage, are not alone. We all feel it, even those of us with "experience" and a "blog" and invitations to fly around the world to stand on stage in front of people._ **You are not alone.**
+So instead of trying to be perfect, instead of never taking chances, or trying to avoid ever failing under the spotlight, we should seek to be **resilient**, and weather the storms, and rebuild when our code breaks. _Resiliency is more important than perfection_.
 
-And the big lesson I learned, and keep learning, is this: _Resiliency is more important than perfection_. A strong, supportive culture—like we have at [PagerDuty]—helps you bounce back. It doesn't mean you won't screw up in a demo, or check in some code that causes a SEV-1 one day, but it does mean that people will support you and work with you and drag you back from your embarrassment and support your "feels."
+This lesson I learned, and keep learning, is this: A strong, supportive culture—like we have at [PagerDuty]—helps us bounce back. It doesn't mean we won't screw up in a demo, or check in some code that causes a SEV-1 one day, but it does mean that people will support us and work with us and drag us back from your embarrassment and support our "feels."
 
-And that's what really matters. Social resiliency. Emotional resiliency. Get that right, and while you still have to do a lot of other stuff well, you now have a safety net, you have a way back from the woods.
+That culture, that support for us when we are vulnerable, is the foundation of our resiliency. And as noted above...
 
-Resiliency is more important than perfection.
+> Resiliency is more important than perfection.
+
+---
+
+### notes
