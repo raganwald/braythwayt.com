@@ -44,7 +44,7 @@ I had to try it again, and it took enormous coördination to move the mouse with
 
 ### the finalé
 
-I had another feature that involved being able to cancel certain types of long-running operations. You know, like when you accidentally start copying the contents of your entire hard drive to a folder on your network server.
+I had another feature that involved being able to cancel certain types of long-running operations. You know, like when we accidentally start copying the contents of your entire hard drive to a folder on our network server.
 
 There was some code that put up a dialog box with a cancel button, and as befits the "hack" status, the cancel button closed the dialog, and I had some code that canceled the operation when it detected that the dialogue was dismissed. This was a mistake! It worked like a charm in my testing, but what I didn't know was that there was all sorts of JavaScript asynchronicity involved in the route from mouse click to button press to dialogue close to the code observing the dialogue box's status, to cancelling the concurrent task.
 
@@ -66,9 +66,9 @@ Now, there is a lesson to be learned about AV projectors, and settings, and abou
 
 [^race]: Actually, race conditions are hard, frameworks are finicky, and sometimes the best way to find a bug is to demo the software in front of a crowd. So maybe there's no lesson about race conditions.
 
-But lessons or not, the "demo gods" are capricious. One day they smile upon you, and another they cast you down. Being better just means having them smile more often. But we can never be perfect.
+But lessons or not, the "demo gods" are capricious. One day they smile upon us, and another they cast us down. Being better just means having them smile more often. But we can never be perfect.
 
-It's emotionally draining to give a demo, even a successful one. I hurts to have a demo go wrong in front of people you care about. I hurt, you hurt. When you feel trepidation before going on stage, are not alone. We all feel it, even those of us with "experience" and a "blog" and invitations to fly around the world to stand on stage in front of people. *You are not alone.*
+It's emotionally draining to give a demo, even a successful one. It hurts to have a demo go wrong in front of people we care about. I hurt, you hurt. When we feel trepidation before going on stage, we are not alone. We all feel it, even those of us with "experience" and a "blog" and invitations to fly around the world to stand on stage in front of people. *We are not alone.*
 
 So instead of trying to be perfect, instead of never taking chances, or trying to avoid ever failing under the spotlight, we should seek to be **resilient**, and weather the storms, and rebuild when our code breaks.
 
