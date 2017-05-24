@@ -52,7 +52,7 @@ I look forward to discussing the exact race condition mechanism at the next [Emb
 
 [EmberTO Meetup]: https://www.meetup.com/Toronto-Ember-JS-Meetup/
 
-I never noticed this before, because when testing, I tested. I didn't stand there delivering patter about the importance of being able to cancel operations. I just canceled them. So.when I clicked the button, my feature...
+I never noticed this before, because when testing, I tested. I didn't stand there delivering patter about the importance of being able to cancel operations. I just canceled them. So when I clicked the button, my feature...
 
 Just. Didn't. Work. In front of the entire company!
 
