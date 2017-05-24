@@ -69,7 +69,7 @@ Now, there is a lesson to be learned about AV projectors, and settings, and abou
 
 [^race]: Actually, race conditions are hard, frameworks are finicky, and sometimes the best way to find a bug is to demo the software in front of a crowd. So maybe there's no lesson about race conditions.
 
-But lessons or not, the "demo gods" are capricious, and one day the smile upon you, and another they cast you down. Being better just means having them smile more often. But we can never be perfect.
+But lessons or not, the "demo gods" are capricious. One day they smile upon you, and another they cast you down. Being better just means having them smile more often. But we can never be perfect.
 
 It's emotionally draining to give a demo, even a successful one. I hurts to have a demo go wrong in front of people you care about. I hurt, you hurt. When you feel trepidation before going on stage, are not alone. We all feel it, even those of us with "experience" and a "blog" and invitations to fly around the world to stand on stage in front of people. *You are not alone.*
 
