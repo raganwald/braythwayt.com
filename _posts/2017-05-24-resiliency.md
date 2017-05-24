@@ -79,7 +79,7 @@ But lessons or not, the "demo gods" are capricious, and one day the smile upon y
 
 It's emotionally draining to give a demo, even a successful one. I hurts to have a demo go wrong in front of people you care about. I hurt, you hurt. When you feel trepidation before going on stage, are not alone. We all feel it, even those of us with "experience" and a "blog" and invitations to fly around the world to stand on stage in front of people. *You are not alone.*
 
-So instead of trying to be perfect, instead of never taking chances, or trying to avoid ever failing under the spotlight, we should seek to be **resilient**, and weather the storms, and rebuild when our code breaks. _Resiliency is more important than perfection_.
+So instead of trying to be perfect, instead of never taking chances, or trying to avoid ever failing under the spotlight, we should seek to be **resilient**, and weather the storms, and rebuild when our code breaks.
 
 This lesson I learned, and keep learning, is this: A strong, supportive culture—like we have at [PagerDuty]—helps us bounce back. It doesn't mean we won't screw up in a demo, or check in some code that causes a SEV-1 one day, but it does mean that people will support us and work with us and drag us back from your embarrassment and support our "feels."
 
