@@ -1,7 +1,6 @@
 ---
 layout: default
 published: true
-taks: [noindex]
 ---
 
 At [PagerDuty], we have a monthly "Hack Day," where everyone can spend a day working on something of their own choice. Obviously, lots of the "hacks" are features, but some are internal tools, and some are really great ways to make the company a better place that have nothing to do with software. Ask any Dutonian about the post-it notes, for example.[^post-it]
