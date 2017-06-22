@@ -63,9 +63,10 @@ layout: default
 
 ---
 
-<iframe src="https://player.vimeo.com/video/76141334" width="600" height="337" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe width="600" height="337" src="https://www.youtube.com/embed/Re2SKhaK73I" frameborder="0" allowfullscreen></iframe>
 
-<p><a href="https://vimeo.com/76141334">I have a good feeling about this - Why tooling is poised to make the jump to hyperspace</a> from <a href="https://vimeo.com/webrebels/videos">Web Rebels Conference</a>.</p>
+
+<p><a href="https://youtube.com/watch?v=Re2SKhaK73I">I have a good feeling about this - Why tooling is poised to make the jump to hyperspace</a> from <a href="https://www.webrebels.org/">Web Rebels Conference</a>.</p>
 
 ### 2012
 
