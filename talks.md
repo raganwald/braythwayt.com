@@ -5,15 +5,27 @@ layout: default
 
 > At either end of the educational spectrum, there lies a Hacker Class.
 
+### 2017
+
+<iframe src="https://channel9.msdn.com/Events/NDC/NDC-Oslo-2017/BRK10/player" width="600" height="337" allowFullScreen frameBorder="0"></iframe>
+
+[Optimism and the Growth Mindset](https://channel9.msdn.com/Events/NDC/NDC-Oslo-2017/BRK10) from NDC Oslo.
+
+---
+
 ### 2016
 
 <iframe width="600" height="337" src="https://www.youtube.com/embed/wYPp4nG7qw4" frameborder="0" allowfullscreen></iframe>
 
 [Optimism II](https://www.youtube.com/watch?v=wYPp4nG7qw4) from [DevDay](http://devday.pl)
 
+---
+
 <iframe width="600" height="337" src="https://www.youtube.com/embed/3t75HPU2c44" frameborder="0" allowfullscreen></iframe>
 
 [JavaScript Combinators](https://www.youtube.com/watch?v=3t75HPU2c44) from [DevDay](http://devday.pl)
+
+---
 
 <iframe width="600" height="337" src="https://www.youtube.com/embed/8xjntzo-mYc" frameborder="0" allowfullscreen></iframe>
 
@@ -30,6 +42,8 @@ layout: default
 <iframe src="https://player.vimeo.com/video/157132267" width="600" height="337" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 <p><a href="https://vimeo.com/157132267">&ldquo;First-Class Commands:&rdquo; An unexpectedly fertile design pattern</a> from <a href="https://vimeo.com/ndcconferences">NDC Conferences</a>.</p>
+
+---
 
 ### 2014
 
@@ -55,6 +69,8 @@ layout: default
 
 [Invent the future, don't recreate the past](http://www.youtube.com/watch?v=uYcAjr2J_rU) from [Future JS](http://fullstackfest.com)
 
+---
+
 ### 2013
 
 <iframe width="600" height="337" src="https://www.youtube.com/embed/arsK-CN5YDg" frameborder="0" allowfullscreen></iframe>
@@ -68,11 +84,15 @@ layout: default
 
 <p><a href="https://youtube.com/watch?v=Re2SKhaK73I">I have a good feeling about this - Why tooling is poised to make the jump to hyperspace</a> from <a href="https://www.webrebels.org/">Web Rebels Conference</a>.</p>
 
+---
+
 ### 2012
 
 <iframe src="https://player.vimeo.com/video/53265664" width="600" height="337" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 <p><a href="https://vimeo.com/53265664">The Rebellion Imperative</a> from <a href="https://vimeo.com/user4280938">&Oslash;redev Conference</a>.</p>
+
+---
 
 ### 2010
 
