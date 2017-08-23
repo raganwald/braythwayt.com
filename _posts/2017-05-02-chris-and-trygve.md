@@ -28,9 +28,9 @@ Oslo was serene for me. I did some socializing by sheer force, and I also spent 
 
 When it was time to return to Canada, I hopped on a train to the airport... And discovered that I'd left my passport in my room. Trygve gallantly brought it to the airport for me personally, and I made my flight with moments to spare.
 
-But thanks to the delay, I found myself in line behind Chris Squire and a few staff from a tour date he had played. He was with an adolescent girl, perhaps a granddaughter. Chris had aged, of course.
+But thanks to the delay, I found myself in line behind Chris Squire and a few staff from a tour date he had played. He was with an adolescent girl, perhaps a granddaughter. I noticed that he was at ease, and casually polite with the staff behind the counter. There was nothing condescending in his tone.
 
-As a boy, I admired the tall, trim bassist with the flowing hair. Now I was looking at an old man who had become rotund. He wore sandals of a type common to people with circulation problems. He was, in other words, looking exactly his age. He was polite, and when finished, he turned and we made eye contact.
+Chris had aged, of course. As a boy, I admired the tall, trim bassist with the flowing hair. Now I was looking at an old man who had become rotund. He wore sandals of a type common to people with circulation problems. He was, in other words, looking exactly his age. He was polite, and when finished, he turned and we made eye contact.
 
 I looked at him, I look at his granddaughter. And for once, I said nothing. He was living his life, I was living mine. He didn't need me to say anything, not even "thank you." So I didn't. He went on his way, and I never saw him again. He retired in 2015 after struggling with leukemia, and died shortly thereafter.
 
@@ -38,13 +38,13 @@ I looked at him, I look at his granddaughter. And for once, I said nothing. He w
 
 It doesn't feel like a grand revelation, but when I stood in that Oslo airport and saw what Chris Squire had become, I felt good. He was playing music. He had family he cared about. He didn't ask anyone to treat him like a music superstar. He was walking through an airport without needing to be whisked around by security. He had freedom. He was comfortable in his own skin.
 
-What I saw was something *right*. And the example he set moved me. Obviously, Chris didn't actually do anything for me explicitly. Nor did he do anything special. These little encounters and the lessons we draw from them often reflect who we are and how we see the world.
+What I saw was something *right*. And the example he set moved me. Obviously, Chris didn't actually do anything for me explicitly. Nor did he do anything special. He was himself, I was myself. These little encounters and the lessons we draw from them often reflect who we are and how we see the world.
 
 They serve as Rorschach inkblots: What we see in them is what we see in ourselves. And looking back, I saw myself getting better.
 
-So here I am today, and reflecting on that encounter with Chris Squire, I want to send out a big, public thank you to Trygve and everyone who goes out of their way to be, well, nice.
+So here I am today, and reflecting on that encounter with Chris Squire, I want to send out a big, public thank you to Chris, Trygve and everyone who goes out of their way to be, well, nice.
 
-It isn't always obvious when you're helping someone get up off the ground to stand on their own two feet, but the help matters just the same.
+It isn't always obvious when by just being you, you're helping someone else get up off the ground and stand on their own two feet. But your help matters just the same.
 
 Thank you Trygve. And Chris? I'll never forget you.
 
