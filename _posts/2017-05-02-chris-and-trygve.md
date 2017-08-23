@@ -18,7 +18,7 @@ In 2013, I spoke at [Web Rebels], a programming conference. The experience liter
 
 I have spoken in the past about how I was thinking about getting a job at a company called GitHub, and part of why I accepted an offer to speak there was that I had heard several "GitHubbers" were going to be there. It was an opportunity to meet them and hopefully learn what the company and people were really like, show them what I was really into, and see if there was a "click."
 
-What I haven't spoken of was that I was struggling with my mood, and it took a massive effort just to get on the plane. WebRebels was organized by a wonderful man named Trygve Lie, and Trygve had made a tremendous effort go get me to Norway, and once there, he and the other organizers and volunteers bent over backwards to make me feel comfortable.
+What I haven't spoken of was that I was struggling with my mood, and it took a massive effort just to get on the plane. WebRebels was organized by a wonderful man named Trygve Lie, and Trygve had made a tremendous effort go get me to Norway. Once there, he and the other organizers and volunteers bent over backwards to make me feel comfortable.
 
 He invited me out for some music, and such was my struggle that I declined, something that is incredibly out of character for me. I didn't explain, but I always suspected he understood.
 
