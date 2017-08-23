@@ -30,9 +30,9 @@ When it was time to return to Canada, I hopped on a train to the airport... And 
 
 But thanks to the delay, I found myself in line behind Chris Squire and a few staff from a tour date he had played. He was with an adolescent girl, perhaps a granddaughter. I noticed that he was at ease, and casually polite with the staff behind the counter. There was nothing condescending in his tone.
 
-Chris had aged, of course. As a boy, I admired the tall, trim bassist with the flowing hair. Now I was looking at an old man who had become rotund. He wore sandals of a type common to people with circulation problems. He was, in other words, looking exactly his age. He was polite, and when finished, he turned and we made eye contact.
+Chris had aged, of course. As a boy, I admired the tall, trim bassist with the flowing hair. Now I was looking at an old man who had become rotund. He wore sandals of a type common to people with circulation problems. He was, in other words, looking exactly his age. When he finished at teh counter, he turned, and we made eye contact.
 
-I looked at him, I look at his granddaughter. And for once, I said nothing. He was living his life, I was living mine. He didn't need me to say anything, not even "thank you." So I didn't. He went on his way, and I never saw him again. He retired in 2015 after struggling with leukemia, and died shortly thereafter.
+I looked at him, I looked at his granddaughter. And for once, I said nothing. He was living his life, I was living mine. He didn't need me to say anything, not even "thank you." So I didn't. He went on his way, and I never saw him again. He retired in 2015 after struggling with leukemia, and died shortly thereafter.
 
 ![Chris Squire](/assets/images/chris-squire-2.jpg)
 
