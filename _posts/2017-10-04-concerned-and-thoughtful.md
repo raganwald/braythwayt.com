@@ -22,11 +22,11 @@ title: "I am a concerned, thoughtful person. As are you."
 
 "I am a good person, with good thoughts, I am not one of the bad guys. So even though I am making arguments without the slightest effort to make those arguments fit within the framework of observed reality outside of my bubble, I have good intentions and it would be wrong to criticize me for not caring enough to look outside of my own thoughts.
 
-"Because I am a concerned, thoughtful person, you should discuss my thoughtful arguments as if they did not ignore the weight of evidence and history. You should signal to the world that they are worthy ideas, encouraging the world to think that they must clearly be aligned with reality and evidence and history, for are you nit a thoughtful, educated person? And are you not discussing my arguments as if they were sensible and in accordance with all observed reality and historical record?
+"Because I am a concerned, thoughtful person, and because you discuss my thoughtful arguments as if they did not ignore the weight of evidence and history, you signal to the world that they are worthy ideas, encouraging the world to think that they must clearly be aligned with reality and evidence and history.
 
-"And because I am a thoughtful, concerned person, and because you are debating with me in a thoughtful, respectful manner, and thus we signal to the world that these ideas are matters of conjecture or opinion that do not fly in the face of observed facts or history or bodies of knowledge constructed by persons knowledgable in the subject.
+"Are you not also a concerned, thoughtful, educated person? And are you not discussing my arguments as if they were sensible and in accordance with all observed reality and historical record?
 
-"And thus, then if our talking of these ideas in reasonable, thoughtful ways should delay or obstruct change, if this perpetuates terrible outcomes, that is of no matter, for we are only talking, it is not our responsibility to concern ourselves with the question of whether discussing ideas with concerned, thoughtful people has any impact on actual people's actual lives.
+"And thus, if our talking of these ideas in reasonable, thoughtful ways should delay or obstruct change, if this perpetuates terrible outcomes, that is of no matter, for we are only talking, it is not our responsibility to concern ourselves with the question of whether discussing ideas with concerned, thoughtful people has any impact on actual people's actual lives.
 
 [![Discussions on the stairs](/assets/images/discussionstairs.jpg)](https://www.flickr.com/photos/edgarjansen/34229996274)
 
