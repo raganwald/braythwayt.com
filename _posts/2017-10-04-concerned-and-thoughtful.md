@@ -14,11 +14,14 @@ title: "I am a concerned, thoughtful person. As are you."
 
 "Reasonable people can just talk the thing through, as if none of the ideas we are discussing have ever been tried before, and explain why they shouldn't even be attempted, even if they have been applied successfully for decades elsewhere.
 
-"I am a concerned, thoughtful person, and I have given this a lot of concerned thought, so much so that I have not looked at the world outside my concerned thoughts. I hope you can tell by the concerned, thoughtful way I discuss this matter that you should engage me in a concerned, thoughtful discussion, because I clearly deserve your good faith efforts to debate by ideas on their own merits, and not dismissing them out of hand just because they fly in the face of the actual facts anyone can see if they open their eyes.
+"I am a concerned, thoughtful person, and I have given this a lot of concerned thought, so much so that I have not looked at the world outside my concerned thoughts. I hope you can tell by the concerned, thoughtful way I discuss this matter that you should engage me in a concerned, thoughtful discussion.
+
+"I clearly deserve your good faith efforts to debate by ideas on their own merits, and not dismissing them out of hand just because they fly in the face of the actual facts anyone can see if they open their eyes.
 
 [![Edith Cresson et Christian Pierret](/assets/images/edith.jpg)](https://www.flickr.com/photos/christianpierret/5260955250)
 
-"I am a good person, with good thoughts, I am not one of the bad guys. So even though I am making arguments without the slightest effort to make those arguments fit within the framework of observed reality outside of my bubble.
+"I am a good person, with good thoughts, I am not one of the bad guys. So even though I am making arguments without the slightest effort to make those arguments fit within the framework of observed reality outside of my bubble, I have good intentions and it would be wrong to criticize me for not caring enough to look outside of my own thoughts.
+
 "Because I am a concerned, thoughtful person, you should discuss my thoughtful arguments as if they did not ignore the weight of evidence and history. You should signal to the world that they are worthy ideas, encouraging the world to think that they must clearly be aligned with reality and evidence and history, for are you nit a thoughtful, educated person? And are you not discussing my arguments as if they were sensible and in accordance with all observed reality and historical record?
 
 "And because I am a thoughtful, concerned person, and because you are debating with me in a thoughtful, respectful manner, and thus we signal to the world that these ideas are matters of conjecture or opinion that do not fly in the face of observed facts or history or bodies of knowledge constructed by persons knowledgable in the subject.
