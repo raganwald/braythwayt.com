@@ -41,7 +41,7 @@ As a matter of fact, the kind of University we like discourages you from dreamin
 
 [It's not you, it's us][9]. The plain fact is, you wouldn't be happy here. So buck up, look around, and see if you can get yourself into something a little more early stage. Consider starting your own company.
 
-Because [quite honestly][10]? I'd read your business plan any day. Your rÃ©sumÃ© would look better on top of a funding proposal than under a cover letter.
+Because [quite honestly][10]? I'd read your business plan any day. Your résumé would look better on top of a funding proposal, than under a cover letter.
 
 Good luck out there.
 
