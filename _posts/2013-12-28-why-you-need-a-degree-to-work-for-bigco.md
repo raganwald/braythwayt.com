@@ -49,7 +49,7 @@ Good luck out there.
 
 (*This originally appeared in July of 2005*)
 
- [1]: http://raganwald.github.com/2005/07/why-you-need-degree-to-work-for-bigco.html "permanent link"
+ [1]: http://raganwald.github.com/2005/07/why-you-need-degree-to-work-for-bigco.html
  [2]: http://www.everything2.com/index.pl?node=obvious
  [3]: http://en.wikipedia.org/wiki/SKI_combinator_calculus
  [4]: http://raganwald.github.com/2007/02/but-y-would-i-want-to-do-thing-like.html
