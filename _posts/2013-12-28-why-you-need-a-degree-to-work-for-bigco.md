@@ -54,7 +54,6 @@ Good luck out there.
  [3]: http://en.wikipedia.org/wiki/SKI_combinator_calculus
  [4]: http://raganwald.github.com/2007/02/but-y-would-i-want-to-do-thing-like.html
  [5]: http://www.paulgraham.com/gh.html
- []: http://cagle.msnbc.com/working/060424/lester.gif
  [7]: http://www.media.mit.edu/cogmac/
  [8]: http://www.google.com/corporate/history.html
  [9]: http://www.seinfeldscripts.com/TheLipReader.htm
