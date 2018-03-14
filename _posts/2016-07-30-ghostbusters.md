@@ -17,7 +17,7 @@ If they tried to make this like the original, it would be a tepid remake. It cou
 
 I'm glad they didn't do that.
 
-So they did a reboot. It's new Ghostbusters. They have a new style of comedy that I don't find quite as funny because... Hold on to your nice-guy fedora... Because I no longer watch SNL every week and I my idea of comedy is still stuck on the style and rhythm of the comedy of the 1970s and 1980s.
+So they did a reboot. It's new Ghostbusters. They have a new style of comedy that I don't find quite as funny because... Hold on to your nice-guy fedora... Because I no longer watch SNL every week and my idea of comedy is still stuck on the style and rhythm of the comedy of the 1970s and 1980s.
 
 This is as it should be. Ghostbusters is light and fun. It's like pop music. If today's pop stars choose to cover the songs of my youth, they're supposed to do it in today's style. And I'm supposed to grumble that singers today are all autotune and dance moves. And yell at kids to get off my lawn.
 
