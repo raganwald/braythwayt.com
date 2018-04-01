@@ -42,7 +42,7 @@ You know, Computer Science is just like Mathematics, it's very black and white
 
 **post scriptum**
 
-While I'm not as smart as [Bill Gosper](https://en.wikipedia.org/wiki/Bill_Gosper), on Friday I deliver a [working super-linear implementation](http://recursiveuniver.se) based on Quad Trees. Unfortunately, it requires space proportional to the information complexity of the history of the pattern's evolution, and while it is an excellent performer for highly regular patterns, it crashes my computer for irregular methuselahs like the [rabbits](http://www.ericweisstein.com/encyclopedias/life/Rabbits.html).
+While I'm not as smart as [Bill Gosper](https://en.wikipedia.org/wiki/Bill_Gosper), on Friday I deliver a [working super-linear implementation](http://recursiveuniverse.github.com) based on Quad Trees. Unfortunately, it requires space proportional to the information complexity of the history of the pattern's evolution, and while it is an excellent performer for highly regular patterns, it crashes my computer for irregular methuselahs like the [rabbits](http://www.ericweisstein.com/encyclopedias/life/Rabbits.html).
 
 Next week is going to be a doozy!
 

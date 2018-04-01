@@ -1,6 +1,6 @@
 ## Symmetry in a Penrose-tiled universe
 
-On [Hacker News](http://news.ycombinator.com), I read that Adam P. Goucher has discovered a glider in a five-state cellular automaton on a Penrose tiling. This is fascinating! If you've seen my code for [HashLife](http://recursiveuniver.se), you know that I'm interested in Conway's Game of Life. To put it in a few words, Adam discovered a pattern that 'moves' indefinitely across the universe.
+On [Hacker News](http://news.ycombinator.com), I read that Adam P. Goucher has discovered a glider in a five-state cellular automaton on a Penrose tiling. This is fascinating! If you've seen my code for [HashLife](http://recursiveuniverse.github.com), you know that I'm interested in Conway's Game of Life. To put it in a few words, Adam discovered a pattern that 'moves' indefinitely across the universe.
 
 ![5769443414959725426](images/5769443414959725426.png)
 
