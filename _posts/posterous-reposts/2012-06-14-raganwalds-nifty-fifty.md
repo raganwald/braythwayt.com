@@ -13,3 +13,7 @@ I started posting essays on the internet in 2004, and I became a blogger a year 
 I can't think of a better present to receive from anyone, anywhere, and at any time than that simple feeling of being wanted. So now that it's my birthday, I will emulate the Hobbit custom and give you all the best present I've ever received: Know that I value and cherish you and the way you make me feel.
 
 Thank you.
+
+---
+
+*Update 2018-06-14:* [The original Hacker News comments](https://news.ycombinator.com/item?id=4111519).
