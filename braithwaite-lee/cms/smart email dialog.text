@@ -1,0 +1,1 @@
+CMS can send letters and mail merges via email. CMS verifies the email addresses and warns users if problems are detected. CMS also reformats letters for email, removing superfluous address headers.

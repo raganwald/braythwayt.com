@@ -1,0 +1,1 @@
+This shows a tag being applied to a selection of contacts. There is a many-many relationship between tags and contacts, allowing users to define permanent views over the entire data set.
