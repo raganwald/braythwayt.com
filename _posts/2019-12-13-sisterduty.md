@@ -9,7 +9,7 @@ Last Friday--December 6th--was the 30th anniversary of the [École Polytechnique
 
 [École Polytechnique massacre]: https://en.wikipedia.org/wiki/École_Polytechnique_massacre
 
-![Plaque at École Polytechnique commemorating victims of the massacre](/assets/images/1989-12-06.html)
+![Plaque at École Polytechnique commemorating victims of the massacre](/assets/images/1989-12-06.jpg)
 
 As part of the event a few Dutonians were invited to share their story of overcoming the hurdles placed in the way of women who make "non-traditional" career choices. I was also invited, not to speak of my life, but to share [My Mother's Story].
 
