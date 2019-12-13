@@ -31,10 +31,12 @@ How many stories do we not hear about women whose families do not support their 
 
 How many stories do we not hear about women who wish to take up a career in STEM, but find their way barred because they didn't get the right kind of education, and it is extraordinarily difficult to overcome lacking the precise degree from the right kind of institution to obtain an entry-level position?
 
-At PagerDuty, as with all inclusive and equitable organizations, we have the privilege of working with extraordinarily competent women, women who have outstanding skills in their chosen profession, women who "Get Things Done," women who lead and inspire and help everyone around them be better.
+At PagerDuty, as with all inclusive and equitable organizations, we have the privilege of working with extraordinary  women, women who have outstanding skills in their chosen profession, women who "Get Things Done," women who lead and inspire and help everyone around them be better.
 
 Their stories are all amazing and deserve to be told. They are stories of heroism, of triumph.
 
 But until our society and our industry fully embrace inclusion and equity, there will continue to be stories of women who never got a chance to show us their pluck and determination. We may not hear them. They are not pleasant stories. They are not inspiring. They don't make us feel good. They are stories of pathos and loss, not heroism and triumph.
 
 But those stories matter, and if we wish to truly honour the victims of December 6, 1989 we must think of **all** the stories women have to tell, not just the inspirational stories.
+
+Those stories are all around us. We can start by listening, and according them the same attention that we accord to the stories of those who overcame.
