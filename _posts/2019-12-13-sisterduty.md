@@ -11,9 +11,9 @@ Last Friday--December 6th--was the 30th anniversary of the [École Polytechnique
 
 ![Plaque at École Polytechnique commemorating victims of the massacre](/assets/images/1989-12-06.jpg)
 
-As part of the event a few Dutonians were invited to share their story of overcoming the hurdles placed in the way of women who make "non-traditional" career choices. I was also invited, not to speak of my life, but to share [My Mother's Story].
+As part of the event a few Dutonians were invited to share their story of overcoming the hurdles placed in the way of women who make "non-traditional" career choices. I was also invited, not to speak of my life, but to share [my mother's story].
 
-[My Mother's Story]: http://braythwayt.com/posterous/2012/03/29/a-womans-story.html
+[my mother's story]: http://braythwayt.com/posterous/2012/03/29/a-womans-story.html
 
 Such stories are stories of overcoming obstacles with pluck and determination. And they are also stories of being enabled to overcome obstacles with a combination of circumstances and support.
 
@@ -21,7 +21,9 @@ In my mother's case, she became a systems analyst very much because of her deter
 
 Her road to using that determination included her family demanding that she be allowed to have an academic education. Her road to using that determination included taking up a career in data processing when it was very new, and there were opportunities for people to join the field without experience.
 
-But for every woman with a story like my mother's, how many stories do we not hear about women who were not fortunate enough to be born in an economically advanced country?
+But for every woman with a story like my mother's, how many stories do we not hear about women without the benefit of circumstance and support?
+
+How many stories do we not hear about women who were not fortunate enough to be born in an economically advanced country?
 
 How many stories do we not hear about women who despite being born in an economically advanced countries, did not grow up with access to an academic education nearby?
 
