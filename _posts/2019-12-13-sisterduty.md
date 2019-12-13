@@ -39,4 +39,4 @@ But until our society and our industry fully embrace inclusion and equity, there
 
 But those stories matter, and if we wish to truly honour the victims of December 6, 1989 we must think of **all** the stories women have to tell, not just the inspirational stories.
 
-Those stories are all around us. We can start by listening, and according them the same attention that we accord to the stories of those who overcame.
+Those stories are all around us. We can start by listening, and granting them the same attention that we pay to the stories of those who overcame.
