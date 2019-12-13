@@ -2,7 +2,6 @@
 layout: default
 published: true
 title: "Sisterduty"
-tags: noindex
 ---
 
 Last Friday--December 6th--was the 30th anniversary of the [École Polytechnique massacre]. PagerDuty marked the anniversary with an event of observance and respect for the victims, women who were murdered because they wanted to be engineers, murdered by a man who could not tolerate women making their own career choices.
