@@ -10,13 +10,13 @@ Last Friday--December 6th--was the 30th anniversary of the [École Polytechnique
 
 ![Plaque at École Polytechnique commemorating victims of the massacre](/assets/images/1989-12-06.jpg)
 
-As part of the event a few Dutonians were invited to share their story of overcoming the hurdles placed in the way of women who make "non-traditional" career choices. I was also invited, not to speak of my life, but to share [my mother's story].
+As part of the event, a few Dutonians were invited to share their story of overcoming the hurdles placed in the way of women who make "non-traditional" career choices. I was also invited, not to speak of my life, but to share [my mother's story].
 
 [my mother's story]: http://braythwayt.com/posterous/2012/03/29/a-womans-story.html
 
-Such stories are stories of overcoming obstacles with pluck and determination. And they are also stories of being enabled to overcome obstacles with a combination of circumstances and support.
+Such stories are stories of overcoming obstacles with pluck and determination. And they are also stories of being enabled to overcome obstacles with a combination of circumstances and support. In my mother's case, she became a systems analyst very much because of her determination.
 
-In my mother's case, she became a systems analyst very much because of her determination. But her road to using that determination included my Great-Grandfather and Great-Grandmother emigrating to Canada in the early twentieth century to find opportunity. Her road to using that determination included my Grandmother settling in North Toronto near two excellent academic schools.
+But her road to using that determination included my Great-Grandfather and Great-Grandmother emigrating to Canada in the early twentieth century to find opportunity. Her road to using that determination included my Grandmother settling in North Toronto near two excellent academic schools.
 
 Her road to using that determination included her family demanding that she be allowed to have an academic education. Her road to using that determination included taking up a career in data processing when it was very new, and there were opportunities for people to join the field without experience.
 
