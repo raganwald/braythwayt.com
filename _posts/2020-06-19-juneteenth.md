@@ -13,7 +13,15 @@ For Juneteenth, here is a simple fact about me: I was born in Toronto on June 14
 
 ---
 
-I have spent my life living the reality that to a large part of America, I am evidence of a great crime, and that to this day, that part of America abhors me and did everything in their power to prevent people like me from even existing. This is not history in a book or in Wikipedia, it is my lived experience.
+I have spent my life living the reality that to a large part of America, I am evidence that my parents committed a great crime.
+
+I have spent my life living the reality that a large part of America, abhors me just for being me.
+
+I have spent my life living the reality that a large part of America did everything in their power to prevent people like me from even existing.
+
+I now spend my life living the overwhelming reality that America the institution--its leadership and its instruments of power--abhors me and welcomes a return to the time when people like my parents could be lynched without consequence.
+
+This reality is not history in a book. It is my lived experience. It is my living experience.
 
 ---
 
