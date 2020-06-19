@@ -27,10 +27,4 @@ Slavery was made illegal in [1865], but the struggle continues. The laws that ma
 [1967]: https://en.wikipedia.org/wiki/Loving_v._Virginia
 [juneteenth]: https://en.wikipedia.org/wiki/Juneteenth
 
----
-
-<center><img src="/assets/images/juneteenth/evy-gwen-lois.jpeg"/></center>
-
----
-
 Thank you for reading this. I send my heartfelt thanks to everyone working for change [today][juneteenth].
