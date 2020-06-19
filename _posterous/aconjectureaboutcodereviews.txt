@@ -1,0 +1,19 @@
+## A conjecture about code reviews
+
+This is just a conjecture, a wild flight of fancy of mine unsullied by witnessing the proposed activity in the real world. I'm thinking about code reviews. Nearly every one I've witnessed or joined has felt a lot like an internet debate. The participants stake out their positions and focus on being right and/or not being found to be wrong with respect to how the code ought to have been written and what must be done to make it right.
+
+If we wave our optimism wand and remove the interpersonal rivalries, we are left with an exercise in taking a piece of code and "fixing" it. What's wrong with that?
+
+![Pastedgraphic-1](images/PastedGraphic-1_tiff_converted1.jpg)
+
+Nothing. But what if something else was going on? What if the purpose of the review was for programmers to teach each other how to review their own code? Imagine if we didn't judge the author of the code by how few "WTFs" it generated, but instead by how fertile it was for discussion? Or, imagine if every programmer was being judged by what they learned from the discussion. How would that change things? better still, imagine if the "manager's" job was to facilitate the learning and get the discussion back on track when it strayed into fixing-the-code territory instead of to judge people by how much they "contribute." That would be a breath of fresh air to most teams.
+
+There is a model for this. "Group Therapy" isn't actually therapy. You can't put six people in a semicircle of chairs for a few hours and expect each person to have their issues properly addressed. That doesn't work! Instead, the mechanism is that by spending a very small amount of time with a few issues from each of the participants, the discussion teaches everyone how to be their own therapist.
+
+Group Therapy doesn't solve problems, it teaches people how to solve their problems for themselves. And maybe, just maybe, code reviews could be about that, about teaching programmers how to solve their own problems instead of being about solving the code's problems.
+
+I'd like to think that on good teams, it already is.
+
+([discuss](http://raganwald.posterous.com/a-conjecture-about-code-reviews))
+
+[Permalink](http://raganwald.posterous.com/a-conjecture-about-code-reviews)

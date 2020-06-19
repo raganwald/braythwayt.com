@@ -1,0 +1,27 @@
+## Competition, Gauge Bosons, and Criticality
+
+I'd like to tell you some of the excellent ways you can grow your brain, get a shot of endorphins and/or adrenaline, and improve your career as a programmer while spending money on someone other than my mother's first-born (and tallest!) child.
+
+First, [Effective JavaScript](http://effectivejs.com) by David Herman:
+
+![Pastedgraphic-1](images/PastedGraphic-1_tiff_converted1.jpg)
+
+I liked this book so much, I wrote a [review](https://github.com/raganwald/homoiconic/blob/master/2013/01/effective-javascript.md). Second, Trevor Burnham's [Async JavaScript](http://pragprog.com/book/tbajs/async-javascript):
+
+![Pastedgraphic-2](images/PastedGraphic-2_tiff_converted1.jpg)
+
+An excellent book focused on a critically important topic. I provided a blurb and I may write a review for it soon. I also bundle with several other leanpub authors. Sometimes I get traffic from their "leads," sometimes they get traffic from mine, and sometimes we both share some cake when a reader buys our bundle. For example, I bundle one of my books with Brian Marick, author of [Functional Programming for the Object-Oriented Programmer](https://leanpub.com/fp-oo):
+
+![Pastedgraphic-3](images/PastedGraphic-3_tiff_converted.jpg)
+
+I struggle with my finances from time to time, but it's hard to drop a few dollars for an Espresso and then begrudge an author $10, or $15, or $20, or $25 for an ebook. I love Espresso, but a good book is worth a few hundred espressos to me. And furthermore, I have a little weakness: When I pay for something, I take it seriously. I paid $20 for this thing? I'd better read it cover to cover!
+
+And yet, every time a dollar flows into one of these fine people's pockets, it doesn't flow into mine. So they could be competitors. But my thinking is, making more pie is far more important than getting the biggest piece of a small pie. I believe very strongly in free knowledge. I also believe very strongly in supporting people who share their knowledge if you can afford it.
+
+What I'm saying here is that I believe in the value of books, I believe in a culture of sharing and of patronage. And today, a good book, properly curated, available for download without DRM is an excellent vehicle for sharing and patronage. I think of books as gauge bosons, exchanging knowledge and value between people. And when we reach criticality, we get a runaway reaction of growth and productivity. 
+
+So that's why I support my "competition" and hope you'll support them too: It's all about runaway growth and learning. Or tasty pie.
+
+p.s. Do you have an unfinished book that needs some feedback? Or a finished book that deserves a review or a blurb? Get in touch, join the party, let's bake more pie!
+
+[Permalink](http://raganwald.posterous.com/competition-gauge-bosons-and-criticality)

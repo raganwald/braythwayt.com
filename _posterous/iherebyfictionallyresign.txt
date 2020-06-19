@@ -1,0 +1,37 @@
+## I hereby (fictionally) resign
+
+Dear Mr. President:
+
+Thank you very much for honouring me with the position of Director of Software Development. I value your trust and have enjoyed my first two months on the job immensely. You have a world-class team and are executing on a daring vision. It pains me to tell you this, however I am forced to resign my position as Director and from here on, I must cheer your team from a distance.
+
+The situation is simple. As you doubtless recall, the new COO has issued a new set of employment contracts. The legalities of arm-twisting employees into signing a new employment contract when they already had a contract with the firm is her responsibility, I'll just have to trust her when she says we can fire anyone without notice if they refuse to agree.
+
+![Url](images/url1.jpg)
+
+One of the new terms is that every prospective new hire allow their manager to "shoulder surf" as they browse their Facebook or better still, to voluntarily log their manager into their Facebook account. If I recall correctly, she claims that we have the obligation to do a "background check" on prospective hires. I'm extremely vague on the correlation between faux-promiscuous sex or drinking and employee performance, but as she is a seasoned veteran, I have to trust her when she says that things like this overrule my judgment as to who is and who isn't fit to be a programmer in our employ.
+
+I was willing to go along with things and see how they panned out. But today something went seriously wrong. I have been interviewing senior hires for the crucial tech lead position on the Fizz Buzz team, and while several walked out in a huff when I asked them to let me look at their Facebook, one young lady smiled and said I could help myself. She logged into her Facebook as I requested, and as I followed the COO's instructions to scan her timeline and friends list looking for evidence of moral turpitude, I became aware she was writing something on her iPad.
+
+"Taking notes?" I asked politely.
+
+"No," she smiled, "Emailing a human rights lawyer I know." To say that the tension in the room could be cut with a knife would be understatement of the highest order. "Oh?" I asked. I waited, and as I am an expert in out-waiting people, she eventually cracked and explained herself.
+
+"If you are surfing my Facebook, you could reasonably be expected to discover that I am a Lesbian. Since discrimination against me on this basis is illegal in Ontario, I am just preparing myself for the possibility that you might refuse to hire me and instead hire someone who is a heterosexual but less qualified in any way. Likewise, if you do hire me, I might need to have your employment contracts disclosed to ensure you aren't paying me less than any male and/or heterosexual colleagues with equivalent responsibilities and experience."
+
+I got her out of the room as quickly as possible. The next few interviews were a blur, I was shaken. And then it happened **again**. This time, I found myself talking to a young man fresh out of University about a development position. After allowing me to surf his Facebook, he asked me how I felt about parenting. As a parent, it was easy to say I liked the idea. Then he dropped the bombshell.
+
+His partner was expecting, and shortly after being hired he would be taking six months of parental leave as required by Ontario law. I told him that he should not have discussed this matter with me. "Oh normally I wouldn't, but since you're looking through my Facebook, you know that already. Now of course, you would **never** refuse to hire someone because they plan to exercise their legal right to parental leave, would you?"
+
+What could I say? I guess we have another hire whether he's qualified or not. Here's the bottom line: My ability to select the best candidates for our positions has been irreparably compromised by looking into their private lives. I've been "tainted" by knowledge of their sexual orientation, illnesses, religion, political affiliations, and other factors that expose us to anti-discrimination legislation. We can't even claim that the employee improperly disclosed these matters to us, as we are the ones initiating the investigation of their private doings
+
+Worse, I cannot manage these people once they're hired. I would be diffident about censuring them or passing them over for advancement for fear of incurring a lawsuit that would be a distraction to our business and damaging to our reputation as fair employers.
+
+Therefore, please consider this my formal resignation. The COO does not tell me how to write software, so I will not tell her how to set HR standards, but I suggest that you review this policy and ask whether it is truly in the company's interest to indiscriminately dig through a candidates' private life. Either that, or we should move to a jurisdiction where we have zero exposure to legal consequences for discrimination.
+
+Yours very truly,
+
+Reginald Scott Braithwaite
+
+([disclaimer](http://raganwald.posterous.com/everythings-made-up-and-the-points-dont-matte))
+
+[Permalink](http://raganwald.posterous.com/i-hereby-resign)

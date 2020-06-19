@@ -1,0 +1,13 @@
+## The Nostalgia Trap
+
+_Or, "Why It's Time For Me To Stop Trying To Reinvent Lisp:"_
+
+> Just because you used to love the endless string of platformers for a long-dead game system doesn't mean that recreating them for the iPhone is a worthy endeavor. Just because you get a warm and fuzzy feeling when recalling thirty year-old UNIX command-line programs is different than putting them on a pedestal as model for how to design tools. 
+> 
+> That doesn't mean you shouldn't learn from the past and avoid repeating expensive mistakes. Just don't get trapped by thinking that older software or technologies are superior because they happened to be entangled with more carefree periods in your life. 
+> 
+> The future is much more interesting.
+
+---[The Nostalgia Trap](http://prog21.dadgum.com/102.html)
+
+[Permalink](http://raganwald.posterous.com/the-nostalgia-trap)

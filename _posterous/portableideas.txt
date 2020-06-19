@@ -1,0 +1,33 @@
+## Portable Ideas
+
+Recently, there have been one or two dozen posts about inequality in the workplace. And other kinds of inequality in North American society. Ted Han raised a very intelligent point:
+
+> My concern is that posts like this don't get to the folks who exhibit the most egregious behavior---Ted Han
+
+Blogs and tweets live in the world of "Broadcatch." I am using the word in its most general terms, to mean people mixing and matching fine-grained media that they choose---by whatever means---to be interesting to them personally.
+
+Crowd-driven aggregators like Hacker News sift though and filter all of the myriad blog posts for those that are "popular" with the people who already read Hacker News. Since participation is voluntary, people who don't like the vibe drop away, and people who like it stay. Over time, the crowd tends to converge on a few strong  points of consensus.
+
+Companies like Google blather about "relevant" search results, but their metric is whether people click the links. That is no more a proxy for relevance than whether a blog post is #1 on Hacker News for a few minutes. It's a metric of how well Google is able to predict what their users want to click.
+
+Effects like crowd-driven news aggregators, click-through driven search engine results, and others are driving the Internet towards being a place where people live in a little bubble. That presents us with a problem when trying to change the world with words: Whatever we write will tend to spread within the bubble of people who already agree with our idea, and be filtered out of the bubbles of people who disagree with our ideas.
+
+This is as true of technical ideas as it is of purely social ideas: Some of my own technical blog posts sit at the top of Hacker News for hours but end up with negative points on [programming.reddit.com](http://programming.reddit.com/). I [depersonalize](https://github.com/raganwald/homoiconic/blob/master/2009-05-01/optimism.md) it by explaining to myself that different crowds live in different bubbles, and neither bubble is a particularly fertile ground for opposing ideologies.
+
+So our words tend to spread into bubbles where the people who are reading them are already receptive to them. In more colloquial terms, "We are preaching to the choir." Are we wasting our time? Is society doomed to polarization? If not, how do we break out of our bubble? How do we preach to the congregation?
+
+The answer is "No, we are not wasting our time."
+
+We are not wasting our time, because the bubbles overlap and intersect. There are JavaScript programmers who are deeply interested in software engineering principles, entrepréneurs who think of themselves as socialists, and twenty-something men who respect working with women. I think of these people as living on the edge of our bubbles. And they are the ones who carry our words into other bubbles. 
+
+Quite often, technical change in organizations need management buy-in. But managers don't read techncial blogs. Nevertheless, managers read techncial blog posts when programmers write them an email and include a link to the blog post. To make that happen, you need a post that appeals to both the programmer and the manager, and is tailored to be easily forwarded as an email enclosure. Or easily tweeted. 
+
+People talk about posts "going viral." I won't use those words, because they imply a really broad adoption. I am thinking of ideas being passed around on a much more personal level. I call this a "portable" idea, one that is easily passed from one person to the next to support a point they already believe in.
+
+If you write an angry rant about sexism in the workplace, it may never leave the bubble. But a thoughtful piece may plant some ideas at the edge of the bubble that will escape. A twenty-something male programmer may not need to be personally convinced of your argument, he may already embrace it.
+
+But if your argument is persuasive and portable, he may be emboldened to speak up the next time he overhears someone else being sexist. He may quote your words or idea. He's using your portable idea to spread change outside of the bubble.
+
+So, the answer to Ted's concern is also a call to action. Don't be afraid to preach to the choir. Don't be discouraged by the thought that your ideas are only going to be read by people who already agree with them. Be optimistic that people at the edges of your bubbles will also read them. And from time to time, if your idea is sufficiently portable, it will escape the bubble and you will have done your part to change the world
+
+[Permalink](http://raganwald.posterous.com/portable-ideas)

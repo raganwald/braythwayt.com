@@ -1,0 +1,31 @@
+## Criticize the Idiot, Praise the Idiocy
+
+(_From time to time, I allow my arch-nemesis Nickieben Bourbacki to guest-author a post. This is one such time._)
+
+ 
+
+I see that the pseudo-hippie "raganwald" is on Hacker News espousing a kindler, gentler form of discourse. This is bullshit and harmful and has to stop.
+
+Don't get me wrong, I'm a nice person, I like nice people, and I'm nice to them. I expect them to be nice to me. But those nice people are my _friends_. They're my _family_. They're invested in my mental well-being and on the whole, that's great. But not always! Sometimes, their desire to be nice to me outweighs common sense, and they'll wish me good luck starting a business that I have no business trying.
+
+They mean well, but I'd have been better served by a stranger breaking into laughter and asking for my home address so he can get in line early for the inevitable contents sale that follows bankruptcy.
+
+[![Gavel](images/gavel_jpg_scaled_500.jpg)](http://getfile9.posterous.com/getfile/files.posterous.com/raganwald/NUZjrY1c2vUlSEI4wGrXMqeuBYohifDRwFUmdp0rv2XHfTLOGc8GNh1oiqKb/gavel.jpg)
+
+Once of the nice things about the Internet is, believe it or not, the relative dearth of nice behaviour. If I ask, "How can I start an airline," I'm going to get some brutal feedback that is going to question my sanity and simultaneously berate me for wasting other people's time. Both points are valid, and in the end both points are going to help me. _Why is this a problem_?
+
+Now a stopped clock is right twice a day, and raganwald does fumble about with a decent point. If I ask, "How do I start an airline," it isn't useful to encourage me to start an airline, but it is useful to use my question as an excuse to ponder whether the industry needs another airline, whether it needs to be disrupted the way it disrupted rail travel, and so forth. None of that discussion will really help a hopeless idiot trying to start an airline because he likes the thought of himself wearing epaulets and banging stewardesses---sorry, _flight service personnel_. But that discussion is way more productive for everyone else.
+
+Which leads me to my rule. Raganwald once wrote that we should [praise the person but criticize their words](https://github.com/raganwald/homoiconic/blob/master/2009-05-01/optimism.md#optimism). When it comes to starting businesses or other high-risk activities, I think he's wrong. I think we should **criticize the idiot, but praise the idiocy**. That sounds harsh, but prompt and sharp criticism is actually going to help the idiot, and praising the idiot's idea---the idiocy---is going to keep everyone's mind open and prevent us from falling into the trap of thinking that everything worth inventing has already been invented.
+
+And hey, if you like nice behaviour from strangers, you will get some. There's no need to try to change the whole world to suit your own need for positive feedback. Instead, embrace the words of Antoine de Saint Exupéry:
+
+> What makes the desert beautiful, is that somewhere, it hides a well.
+
+I say, give people prompt, sharp feedback then go off and have a constructive conversation. If raganwald or anyone else wants their feedback with a spoonful of sugar, let them raise money from friends and family.
+
+--- Nickieben Bourbacki
+
+(discuss Nickie's ideas on [hacker news](http://news.ycombinator.com/item?id=4895838))
+
+[Permalink](http://raganwald.posterous.com/criticize-the-idiot-praise-the-idiocy)

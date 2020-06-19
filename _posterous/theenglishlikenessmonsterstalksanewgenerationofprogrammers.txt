@@ -1,0 +1,34 @@
+## The English-Likeness Monster Stalks a New Generation of Programmers
+
+Every generation of programmers seems doomed to reinvent the failures of the previous generation, albeit in cooler and hipper ways. Consider the "English-Likeness Monster," a/k/a writing programs in English.
+
+[![Shrdlu-3](images/shrdlu-3_png_scaled_500.jpg)](http://getfile3.posterous.com/getfile/files.posterous.com/raganwald/xhzAal3ER4jlerRpeEB2GrIINHPJFXLasbu03Ncv062IBN7E8NluOoNq4XtN/shrdlu-3.png.scaled.1000.jpg)
+
+Under extremely controlled circumstances, amazing things can be accomplished. Terry Winograd's [SHRDLU](https://en.wikipedia.org/wiki/SHRDLU) could move blocks around in a "blocks world" with English commands. It gave great demo. From ether, it seemed to be just a matter of time until all those pesky computer languages could be done away with and replaced with executives writing English requirements.
+
+After all, if you use English to tell the computer to move a block from one pile to another, how hard can it be to have the computer understand how to move money from one account to another or copy a record from disk to magnetic tape?
+
+And yet, it turns out that for all but trivial domains, English is too imprecise. It becomes a read-only language. Meaning, that once you figure out how to get the computer to do the right thing, the command is easy to read. But figuring out _which_ English command achieves the desired result is a nightmare.
+
+Here's John Gruber [discussing AppleScript in 2005](http://daringfireball.net/2005/09/englishlikeness_monster):
+
+> Saying what you mean, in English, almost never "just works" and compiles successfully as AppleScript, and so to be productive you still have to understand all of the ways that AppleScript actually works. But this is difficult, because the language syntax is optimized for English-likeness, rather than being optimized for making it clear just what the fuck is actually going on.
+
+So to write English-ish AppleScript, you had to have a model in your head of what was underneath the parser, and then you had to play a little game of getting the parser to do the right thing. It's far simpler to learn a precise, unambiguous language and manipulate the parser directly.
+
+In other words, **a programming language**.
+
+[  
+](https://twitter.com/pelotom/status/296322622612963329)
+
+![Screen_shot_2013-01-29_at_2](images/Screen_Shot_2013-01-29_at_2_22.png)
+
+And note well: Not all programming languages are either "obviously easy to read' and "precise and unambiguous." Many try to be easy to write and end up being a little like the English-likeness monster in that you have to play with them a bit to get the desired result. Semicolons are optional unless the next line begins with any of five special characters. Parentheses are optional. You can write _if x then y _or _y if x_. 
+
+And of course, the lessons continues to be re-learnt whenever someone discovers the joy of a "Domain-Specific Language." DSLs are usually read-only. The fantasy of a business executive writing requirements directly in a testing DSL or model writing DSL always seems to require unicorn blood to lubricate the apparatus. This would be a reasonable requirement (A test might be written once but read many times), except that if it is hard to write, it might be buggy in subtle ways. Code has to be easy to write if you really want to trust it.
+
+In the end, compromise is the worst of both worlds. Programming languages need to be strict and unambiguous. They need to be easy to understand. And by understand, we are not talking about the ridiculous notion of veryLongVariableNames or function keywords instead of arrows, we are talking about being easy to reason about.
+
+And you simply can't reason about English.
+
+[Permalink](http://raganwald.posterous.com/the-english-likeness-monster-stalks-a-new-gen)

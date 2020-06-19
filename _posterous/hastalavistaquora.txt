@@ -1,0 +1,15 @@
+## Hasta la Vista, Quora!
+
+I just deactivated my [Quora](https://www.quora.com/) account. I would have deleted it, but I was not offered the option (I assume that's Quora's way of saying, "Thanks, sucka', for contributing content. We'll take it from here"). So, why did I choose to deactivate my account? Well, today someone flagged an answer of mine as being "not helpful," and that set me to thinking: Why was what I thought to be sagacious advice not helpful? Where is the disconnect?
+
+Here's the back story. Months ago, some random person asked a question on Quora : "I'm an entrepreneur with an idea. Where can I meet Rock Star Developers?" Like many other people, I responded by questioning whether he was ready to look for such people. I think I was more tactful than most, phrasing my response as a question: Is he a "Rock Star Entrepreneur" himself? If he has a track record for turning software into money, he is ready to look for people who have a track record for turning ideas into software. 
+
+Well, that may or may not be helpful, but it isn't a direct answer to the question and somebody flagged it as not helpful. I was going to argue with them, and then I realized that they are right: Q&A sites are not discussion forums. They are not the place for me to offer this one person advice. Q&A sites aren't even really about that person or me, they're a mechanism for accumulating answers to questions so that in future, somebody looking for the answer to the same question will be able to find it. The larger issue of whether he should be looking for a Rock Star Developer might not be relevant to anybody who types "Where can I meet rock star developers?" into Google's search bar. My answer might be useful to that one person, but it might not be useful for the site as a whole. And thus, it doesn't belong on Quora.
+
+I enjoy interacting with people on the Internet. I've met some incredibly interesting people through participating in communities. But certain formats aren't communities. Q&A sites, wikis... These sites have communities, but they aren't communities in the same sense that [Hacker News](http://news.ycombinator.com) is a community. You have to buy into the larger, nobler goal of building a repository of answers to questions first, and then the community comes as a bonus, second. Whereas a place like Hacker News feels like it's a community first, and any accumulation of knowledge that might accrete is secondary to the community feeling. On Hacker News, answers like the one I gave feel welcome. Not necessarily right or useful to the person answering the question, but held to be contributing positively to the community's discussion.
+
+To me, this is a crucial difference, so I'm going to focus my internet social time on communities rather than on crowdsourced repositories of human knowledge. Given the popularity of sites like [Stack Overflow](http://stackoverflow.com/users/176581/raganwald) and Quora, I know I won't be missed.
+
+([discuss this post on Hacker News](http://news.ycombinator.com/item?id=2314672))
+
+[Permalink](http://raganwald.posterous.com/hasta-la-vista-quora)

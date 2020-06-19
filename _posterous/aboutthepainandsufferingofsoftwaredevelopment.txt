@@ -1,0 +1,7 @@
+## About the pain and suffering of software development
+
+> Well, I must endure the presence of two or three caterpillars if I wish to become acquainted with the butterflies. It seems that they are very beautiful."
+
+--[The Little Prince](http://www.amazon.com/gp/product/0152048049/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0152048049&linkCode=as2&tag=raganwald001-20), by Antoine de Saint Exupéry
+
+[Permalink](http://raganwald.posterous.com/about-the-pain-and-suffering-of-software-deve)

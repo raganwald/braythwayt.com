@@ -1,0 +1,30 @@
+## St. Andrew's College
+
+In 1977, my high school---St. Andrew's College in Aurora, Ontario---had its own computer. Yes, computer: singular. Not a lab full of computers. Not a computer sitting on a desk or beside a desk, it was a rack-mounted computer in its own room. You've heard your elders speak of 5.25" disk drives? This thing had disk drives, 5MB removable Diablos with 12" platters.
+
+You booted the system by toggling three instructions into the front panel. You can't get closer to the hardware without a soldering iron.
+
+![Pastedgraphic-2](images/PastedGraphic-2_tiff_converted.jpg)
+
+  
+
+
+Most of the time, it ran four-user BASIC for us to do our homework on teletype machines. We didn't have write access to the drive, so we stored our programs by printing them to paper tape on the terminals. To read them back in, you fed the tape into the terminal and it simulated typing your source back into the computer.
+
+BASIC had a simple memory management system: It took the computer's 16K of available RAM less interpreter and shared it equally between users, whether you needed the space or not. There was plenty of space for writing programs to solve the "Towers of Hanoi, even considering the fact that the BASIC implementation didn't support local variables, so writing a recursive routine involved "greenspunning" your own stack.
+
+At some point I became interested in writing adventure games, and the larger the game, the more people liked playing. I built a Start Trek variant that required fourteen feet of paper for the source, and it was too big for BASIC. Or was it?
+
+A friend and I broke into the locked supplies cupboard and had a look at the other Diablo drives in there. We were innocent enough to be disinterested in the ones marked administration and marks. But there was another BASIC drive, and when we booted it, we had a glorious, single-user BASIC environment with four times the space. We had hit the jackpot!
+
+The games grew larger and more complex. We had a key to the "lab" and would go in there in the middle of the night so we could play games in single user mode. I remember writing some computer music code: It repeat various loops in the code, and you could hear the distorted "music" by placing an AM radio next to the CPU.
+
+I was going through a difficult period. I was much poorer than the other students, and there were only a few other students of colour there. I was also two years younger (and five years less mature) than the other students in my class. I did not fit in socially at all, and I was an angry guy, so I didn't do myself many favours relating to the other students.
+
+But people liked playing games, and they gave me much-needed validation when I made games they liked playing like "Adventure," "[Hunt the Wumpus](http://jerz.setonhill.edu/if/canon/Hunt_the_Wumpus.htm)," "[Star Trek](https://en.wikipedia.org/wiki/Star_Trek_(text_game))," and "[Maharajah](https://en.wikipedia.org/wiki/Maharajah_and_the_Sepoys)." I brought a skateboard to school one year, and showed some friends how to do a "360." Once again, I got validation. Not so much for being good, but for sharing something. One of the coolest kids in the school, a natural athlete with a surfer's good looks, would hang out with me skating even though his friends asked him why he was wasting time with a geek.
+
+[![Pastedgraphic-1](images/PastedGraphic-1_tiff_scaled_501.jpg)](http://getfile3.posterous.com/getfile/files.posterous.com/raganwald/vLXnOrgig2Ukqd1OQEMDf6oDY5SaOfXQzC8BUWAXv8xCmMYSVLTrpqL1Z0rX/PastedGraphic-1.tiff.converted.jpg)
+
+I learned a lot at St. Andrew's, but no lesson more important than this one: If you do things that make people happy, you will find a way to your own happiness.
+
+[Permalink](http://raganwald.posterous.com/st-andrews-college)

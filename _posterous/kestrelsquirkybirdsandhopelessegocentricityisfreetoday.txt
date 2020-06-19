@@ -1,0 +1,13 @@
+## Kestrels, Quirky Birds, and Hopeless Egocentricity is free today!
+
+My very first Leanpub book was [Kestrels, Quirky Birds, and Hopeless Egocentricity](http://leanpub.com/combinators).
+
+It's a collection of my internet essays about combinatory logic and its application to Ruby meta-programming: [Kestrels](http://github.com/raganwald/homoiconic/tree/master/2008-10-29/kestrel.markdown#readme), [The Thrush](http://github.com/raganwald/homoiconic/tree/master/2008-10-30/thrush.markdown#readme), [Songs of the Cardinal](http://github.com/raganwald/homoiconic/tree/master/2008-10-31/songs_of_the_cardinal.markdown#readme), [Quirky Birds and Meta-Syntactic Programming](http://github.com/raganwald/homoiconic/tree/master/2008-11-04/quirky_birds_and_meta_syntactic_programming.markdown#readme), [Aspect-Oriented Programming in Ruby using Combinator Birds](http://github.com/raganwald/homoiconic/tree/master/2008-11-07/from_birds_that_compose_to_method_advice.markdown#readme), [The Enchaining and Obdurate Kestrels](http://github.com/raganwald/homoiconic/tree/master/2008-11-12/the_obdurate_kestrel.md#readme), [Finding Joy in Combinators](http://github.com/raganwald/homoiconic/tree/master/2008-11-16/joy.md#readme), [Refactoring Methods with Recursive Combinators](http://github.com/raganwald/homoiconic/tree/master/2008-11-23/recursive_combinators.md#readme), [Practical Recursive Combinators](http://github.com/raganwald/homoiconic/tree/master/2008-11-26/practical_recursive_combinators.md#readme), [The Hopelessly Egocentric Blog Post](http://github.com/raganwald/homoiconic/tree/master/2009-02-02/hopeless_egocentricity.md#readme), and [Wrapping Combinators](http://github.com/raganwald/homoiconic/tree/master/2009-06-29/wrapping_combinators.md#readme).
+
+The essays are free to read online. And as I have done before with some of my other books, I am making "Kestrels" free today as well. Simply visit [Kestrels, Quirky Birds, and Hopeless Egocentricity](http://leanpub.com/combinators), and click "Buy the ebook now." You can set your own price, and for today only I have set the minimum price to zero. That's right, zero. Download it for free!
+
+Some folks feel guilty paying less than the suggested price. Don't! I want you to have the book, and I don't mind giving away free electrons. They're just bits, I've got more where they came from.
+
+[What are you waiting for](http://leanpub.com/combinators)?
+
+[Permalink](http://raganwald.posterous.com/kestrels-quirky-birds-and-hopeless-egocentric)

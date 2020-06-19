@@ -1,0 +1,38 @@
+## 2013 Talk Proposals
+
+Hello, my name is Reginald Braithwaite, also known as "raganwald." You can find more about my background at [braythwayt.com](http://braythwayt.com). I am a software developer, team lead, and development manager with more than twenty years of professional experience. I've given keynote talks at [Øredev](http://vimeo.com/53265664), [CUSEC](http://vimeo.com/9967063), and True North PHP. I've also given technical presentations at numerous conferences such as RubyFringe, Microsoft Tech Days, Stack Overflow Tech Days, and MeshU.
+
+I'm the author of [CoffeeScript Ristretto](https://leanpub.com/coffeescript-ristretto), [JavaScript Allongé](https://leanpub.com/javascript-allonge), [Kestrels, Quirky Birds and Hopeless Egocentricity](https://leanpub.com/combinators), [What I've Learned from Failure](https://leanpub.com/shippingsoftware), and [How to Do What You Love and Earn What You're Worth as a Programmer](https://leanpub.com/dowhatyoulove).
+
+In 2013 I will be speaking at a few select conferences, and I'd like you to consider inviting me to give any (or all!) of the following talks that I'm preparing.
+
+**everything you always wanted to know about combinators, but were afraid to ask**
+
+(This talk comes in CoffeeScript, JavaScript, and Ruby flavours)
+
+It will begin with a review of combinatory logic and some of the straightforward applications such as .tap, .into, and hopelessly egocentric null objects. The second part of the talk will move in some new directions, talking about applying combinators to contemporary patterns such as DCI and method combinators. The CoffeeScript and JavaScript flavours will touch on advanced jQuery combinators such as .select and .when.
+
+  
+When the talk wraps up, attendees will have a new appreciation for how some of the fundamentals in theoretical computer science have practical applications, and they will have stepped well outside of the mainstream programming style.
+
+**refactoring to jQuery Combinators**
+
+This is a JavaScript or CoffeeScript talk where we take an interactive "Conway's Game of Life" example application and refactor it to use jQuery Combinators. This will be code-heavy. It's an evolution of a talk I gave at Øoredev, and refined [online](http://weblog.raganwald.com/JQuery-Combinators/life/life.html).
+
+When the talk wraps up, attendees will have an advanced appreciation for programming in jQuery's "fluent" style and ways to integrate their own logic into its flow.
+
+**writing not-so-big requirements: a guide for programmers, by a programmer**
+
+This is a talk that delivers a framework for gathering requirements and writing the technical part of proposals. The emphasis is on building trust and accurately identifying the factors that will drive success.
+
+This talk draws upon my experience working as an independant consultanta s well as my experience directing development in startups and my product management experience. It's a good fit for developers who wish to expand their influence.
+
+**beautiful programming language failures**
+
+In 2009, I gave a keynote at CUSEC called "[Beautiful Failure](http://vimeo.com/9967063)." The thesis was that some types of failures provide deep insight into the possibilities of creating new, disruptive tools and products. This talk will follow the same thesis, but be specialized to discuss what we can learn from the problems created by programming languages, and their implications for new languages, libraries, idioms, and tools.
+
+This talk will include programming language examples but will be primarily a concept or ideas talk rather than hands-on instruction. Attendees will leave the talk motivated and excited about creating new things and exploring new ideas.
+
+_If any of these talks (or another of your choice) would be appropriate for your conference, please get in touch: [reg@braythwayt.com](mailto:reg@braythwayt.com)._
+
+[Permalink](http://raganwald.posterous.com/2013-talk-proposals)

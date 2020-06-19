@@ -1,0 +1,29 @@
+## Dear Steve
+
+Hello.
+
+[I read your post today](http://news.ycombinator.com/item?id=4396747).
+
+Thank you for being so honest. I agree, HN can be a lot less supportive and honest these days. When you share something you've created, the feedback can be brutal. Things have changed, you're right about that. The causes have been well-documented, whether in Paul Graham's [comment](http://news.ycombinator.com/item?id=4397542), Giles Bowkett's [rant](http://gilesbowkett.blogspot.ca/2008/05/summon-monsters-open-door-heal-or-die.html), or Joel Spolsky's observations on [building online communities with software](http://www.joelonsoftware.com/articles/BuildingCommunitieswithSo.html). 
+
+I can't tell Hacker News what to do about its growth. I'm not an expert by any means. And I can't really heal the hurt you must feel when you pour your heart and soul into creating something only to have people you care about say "meh," or worse. I've been there, and although I put a brave face on it, I hurt when people criticize things I take personally.
+
+It's all very well and good to say, "Don't take it personally." I don't take it personally when a client doesn't like a feature I suggest for them. It's a business, I'm trying things for them, it isn't personal. But when I write essays or stories or share a little library of code, I am doing something very personal, and truth be told I crave some positive feedback, some signal that people are glad I tried even if it isn't for them.
+
+What I wouldn't give for a few more "Hey, great effort, it would have been even better if you'd considered adding Foo" comments and a lot fewer "What good is it without Foo?" questions.
+
+So here I am sharing something about me, and this is very personal. I hope I am resonating with you, because if it helps you in any way, I can live with 1,000,000 downvotes from grumpy people.  And for me, that is one of the keys to being happy in a public forum. Seize on any bit of progress, no matter how small. If you like this letter, I can focus on that, I made you nod, or smile, or maybe feel a little better for a little while. That isn't a billion dollars from a startup, but it is damn satisfying to find out that someone, somewhere is a little bit happier for a time, and to think you helped.
+
+And maybe you can find that from the things you are trying. Is there one person out there who is a little happier, who learned a little something, who is grateful for your work? That matters, and it matters more than ten or a hundred or a thousand nay-sayers. I can tell you flat out, I am grateful you wrote your message to Hacker News. It struck something in me. It is striking something in other people. It is making people think. It is making the world a teeny bit better. That's something positive you did, some important measure of your worth. Thank you.
+
+Maybe Hacker News will find a way back to where it came from. I don't know. But I can tell you, I decided a while back that I want to try to stick around even if it doesn't. I don't want to "bail" to the next little place the way I bailed from Reddit to HN. Time changes, and we must change with it. Unless it becomes actively poisonous, I want to try to grow and learn to be happy in spite of how it is not the way it was. There are still many wonderful things happening there, many wonderful people posting there, many excellent posts appearing there.
+
+The trick for me at least is to learn how to filter out the crud without being upset. It is not easy, [I think I have had trouble with negative feedback my whole life](https://github.com/raganwald/homoiconic/blob/master/2009-05-01/optimism.md#readme). But if there is one positive idea in a thread, isn't it worth sorting through and ignoring the dreck? And this is not a passive experiment, We can contribute the good ideas, we can lead by example. I'm trying to be less argumentative. I'm trying to be more thoughtful. There's some value in that for myself. You may already be where I'm trying to go, I don't know. But it seems worth trying. It seems worth sticking around and making a positive contribution. Who knows, you might make one person somewhere nod their head and think and be happy for a moment in time.
+
+That's a good thing, and I hope that whatever you do and wherever you go, you keep making things and saying things and trying to make the world a better place.
+
+Sincerely,
+
+Reginald Braithwaite.
+
+[Permalink](http://raganwald.posterous.com/dear-sw007)

@@ -1,0 +1,1 @@
+This shows the dialog for adding contacts to letters. CMS correctly manages "cc:" and "bcc:" recipients of letters: the content of the letter is personalized for the "to:" recipient, however envelopes or other shipping material is also generated for "cc:" and "bcc:" recipients. Also, "cc:" recipients are listed at the foot of the letter, while "bcc:" recipients remain anonymous.

@@ -1,0 +1,3 @@
+lsi: false
+safe: true
+exclude: [config.rb, Gemfile]

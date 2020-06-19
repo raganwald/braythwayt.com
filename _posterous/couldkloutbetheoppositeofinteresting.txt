@@ -1,0 +1,21 @@
+## Could "klout" be the opposite of "interesting?"
+
+> In the depths of my personal bout with Klout status anxiety, I installed a browser plug-in that allows me to see the Klout scores of everyone in my Twitter feed. At first, I marveled at the folks with scores soaring up into the seventies and eighties. These were the "important" people---big media personalities and pundits with trillions of followers. But after a while I noticed that they seemed stuck in an echo chamber that was swirling with comments about the few headline topics of the social media moment, be it the best zinger at the recent GOP debate or that nutty New York Times story everybody read over the weekend.
+> 
+> Over time, I found my eyes drifting to tweets from folks with the lowest Klout scores. They talked about things nobody else was talking about. Sitcoms in Haiti. Quirky museum exhibits. Strange movie-theater lobby cards from the 1970s. The un-Kloutiest's thoughts, jokes, and bubbles of honest emotion felt rawer, more authentic, and blissfully oblivious to the herd. Like unloved TV shows, these people had low Nielsen ratings---no brand would ever bother to advertise on their channels. And yet, these were the people I paid the most attention to. They were unique and genuine. That may not matter to marketers, and it may not win them much Klout. But it makes them a lot more interesting.
+
+---Seth Stevenson, [What Your Klout Score Really Means](http://www.wired.com/epicenter/2012/04/ff_klout/all/1)
+
+The entire article is worth reading, but the ending is very insightful. To a large degree, having popular opinions makes you less interesting, less memorable, and less unique. I've read that you can create a synthetic "perfect' face by algorithmically blending the faces of a crowd of people until you have a perfectly average, perfectly symmetrical face. And incidentally, one that is unremarkable.
+
+Online, there is very little room for more than one Justin Bieber, Ashton Kutcher, or George Takei. Why would anyone want to follow your stream of memes, funny pictures, and celebrity gossip when there's already another one just like it that their friends are already retweeting? Being popular is a winner-take-all market on the internet.
+
+The [long tail](https://en.wikipedia.org/wiki/Long_Tail) of tweets and posts is where the interest lies. Saying things that nobody else is saying will not corral a large audience, but it will corral a faithful audience, one that is interested in you and your original thoughts. In his book "[The Tipping Point](http://www.amazon.com/mn/search/?_encoding=UTF8&tag=raganwald001-20)," Malcolm Gladwell categorizes influential people as connectors, mavens, and salespeople. Although Klout's algorithm is kept secret, it's obvious that it rewards connectors heavily. But if you want to change the world, you need to be a maven, you need to create new things and share new ideas.
+
+Klout isn't the problem, of course. Blaming Klout for people chasing popularity is like blaming tape measures for men who---oh never mind, you get the idea. The point is, if something can be measured, someone will treat it as a score, and that someone is going to play the game to "win." But it isn't a game in the formal sense and you might discover that scores for online influence are like counting lines of code: Entirely orthogonal to your personal values.
+
+I'm reminded of something Steve Jobs said when recruiting John Sculley to work at Apple: "Do you want to sell sugar-water for the rest of your life, or do you want to change the world?" Have the courage to walk away from the online equivalent of sugar-water, the empty-calorie feel-good tweets that move through the Twitterverse like Enterotoxigenic Escherichia coli through the intestines.
+
+Change the world. Be memorable. Be original. Have the courage to be _interesting._
+
+[Permalink](http://raganwald.posterous.com/could-klout-be-the-opposite-of-interesting)

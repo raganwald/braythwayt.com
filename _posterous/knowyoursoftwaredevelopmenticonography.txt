@@ -1,0 +1,19 @@
+## Know your software development iconography
+
+Name the function of the following software development icons:
+
+[![Pastedgraphic-5](images/PastedGraphic-5_tiff_scaled_500.jpg)](http://getfile8.posterous.com/getfile/files.posterous.com/raganwald/aiBkRbj2PF3YxFc4leFQHJMWfry6KhAgklyhOrleReFmUar9bHUmgMqnd6ZE/PastedGraphic-5.tiff.converted.jpg)
+
+Answers (left to right)
+
+Line 1: Approaching age of retirement (30), yield career to overtaking interns. Project approaching code freeze, requirements changes ahead. Brogrammer (as designed by a brogrammer). Female programmer (as designed by a brogrammer).
+
+Line 2: Lightweight/Scripting Language (e.g. Python, CoffeeScript). Bactrian Language. Obsolete Platform. Trouble-Free Upgrade.
+
+Line 3. WTF Management in Toronto Office. Feature Complete, begin burndown to zero defects. "Java" or "Enterprise Software Salesperson" (both answers acceptable).  Popular web development toolset with irresistible market momentum that leaves a greasy coating of soot on anything within its path.
+
+Line 4: MIS System as Installed. MIS System as Demonstrated. "WTF," e.g. "Email from Product Manager at 4:59 on Friday before long weekend."  "Product Management and users are aligned on the Wrong Thing."
+
+Line 5: "Product Management doesn't have a clue." "Product Management doesn't have a clue because they've never met any actual users." "Bump in the project road caused by company ship floating in the wrong direction." "If you can't change your organization, change your organization."
+
+[Permalink](http://raganwald.posterous.com/know-your-software-development-iconography)

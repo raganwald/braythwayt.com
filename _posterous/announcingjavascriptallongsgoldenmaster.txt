@@ -1,0 +1,98 @@
+## Announcing JavaScript Allongé's "Golden Master"
+
+I guess it's impossible to follow my twitter feed or talk to me for more than a day without my dropping some bit of news about [JavaScript Allongé](http://leanpub.com/javascript-allonge), the book I've written about programming with functions in JavaScript. The old way of doing things was to announce that it "Launched," that we've pressed the "Golden Master," but today those words don't apply.
+
+![Js](images/js_png_scaled500.png)
+
+  
+
+
+The fact is, the JavaScript Allongé is "complete" in the sense that it isn't incomplete. It provides full value for money. There's no glaring hole or "Under Construction" sign on it. It is full of great content. But it's still a living, breathing, dynamic thing. I expect to be making revisions for months to come if not longer. 
+
+Naturally, if you buy it today you get all the updates for free. But when I started to write a post talking about having finished the book, I realized quickly that it's far more interesting to talk about why the words "Golden Master" no longer apply than to talk about what's in it today.
+
+So what I'm sharing with you today is how I ended up writing and publishing this book, and where I think books are going. I hope that you might be motivated to try your hand at writing a book yourself. Or writing software for the things of the future that evolve from the books of today. And of course... if you're interested in JavaScript, today is a great day to buy yourself a copy of this excellent, freshly "golden" book :-)
+
+But enough of today. How did we get here?
+
+**leanpub**
+
+Earlier this year I stumbled across [leanpub.com](http://leanpub.com/). I don't remember how. At the time, I was working with some excellent people who are involved in the lean startup movement, and I might have come across Leanpub while doing some research. I liked a few things right away:
+
+1. Their tool chain is based on markdown. My blogging is based on markdown.
+
+2. Their tool chain is almost painfully simple.
+
+I can't stress the second point enough. One of the reasons I love markdown is that when I write, if I have access to powerful formatting features, I polish the formatting as a way of procrastinating the hard work of thinking about the writing. Markdown forces me to think about words. I have a few markdown editors that offfer a "preview as you write" feature, and I don't use it.
+
+It's better for me if an image shows up as "![Some Caption](path/to/image.jpg)," that way I don't worry about whether it's the right size or whether it needs to be 300dpi while I'm writing.
+
+With Leanpub, I write markdown in text files. I keep them in a Dropbox folder shared with them. I can preview my book and publish it with a button on a web page. Readers can download books in PDF, epub, and mobi formats (for everything, kindles, and iOS). And Leanpub sends me money by Paypal over the Internet.
+
+This is exactly what a web 2.0 company ought to look like.
+
+Leanpub also let me revise and republish at a ridiculous rate. I do this with my blog: People find errors or refute my ideas or even point out wasted words and I can go back and edit. I hate the idea of writing a book on dead trees and having to carefully edit it up front for fear that some trivial mistake will slip through.
+
+Dead tree books remind me of shrink-wrapped software. Today we love Github and software-as-a-service and continuous deployment and running a business in real time on tight feedback circles. That's how Linux works, that's how the web works, that's how I wanted to publish, and that's what Leanpub does.
+
+![K](images/k_png_scaled500.png)
+
+**fall down seven times, get up eight**
+
+JavaScript Allongé is actually my _second_ JavaScript book. It's like this: In the summer, I published [Kestrels, Quirky Birds, and Hopeless Egocentricity](http://combinators.info/). (The entire book is online for free, so don't hesitate to click the link). I was modestly successful with it by book standards.
+
+I made less than I would have had I gone with a dead tree company and done the whole Microsoft Word, chapter-per-month thing, but I banged it out in record time by repurposing a series of blog posts that had a coherent theme of applying ideas from combinatorial logic to Ruby meta-programming.
+
+I polished it up a bit for the web, but I was open about the fact  that I was really charging for the convenience and as a formal tip jar, and I made enough sales to take a pound or two off my bike. 
+
+Leanpub has a really useful feature where you can propose a book and ask interested readers to sign up for a waiting list. I tried the feature to propose a JavaScript edition of Kestrels, Quirky Birds, and Hopeless Egocentricity.
+
+The response was immediate: _Crickets_. _Tumbleweeds_. _Wind howling though empty wastelands_. So I decided not to proceed. That's a huge win, it's a very cheap way to fail fast, and I recommend it to anyone considering writing a book. Just try it, all you need is a title and a description, although a rough cover page would obviously help.
+
+![Cs](images/cs_png_scaled500.png)
+
+**coffeescript ristretto**
+
+After doing a fair bit of stuff in CoffeeScript and JavaScript, including some interesting libraries, I decided to write another book, this time from scratch.
+
+Now, I had to sit down and look in the mirror and be very honest with myself. I don't do the "Learn Fizzbuzz in Seven Days" thing very well. Nor do I do the "Advanced Applications With Redis" thing very well.
+
+What people seem to like from me is stuff that provokes you to think, to shine a light in some dark corners, and to make to look at stuff you're already doing in a new way. And as a bonus, if there are some handy things you can use, like andand in Ruby or method combinators in JavaScript, that's a sweet spot for me personally.
+
+I wanted to write a book that would fit what works for me in my blogging and simultaneously wouldn't be competing with every other book people think about buying. The market for JavaScript is obviously larger than the market for CoffeeScript, so I wrote [CoffeeScript Ristretto](http://leanpub.com/coffeescript-ristretto).
+
+It was much more work than I expected, and there was a ton of feedback from readers. Thanks everyone, I really like that book, and it really shaped the direction of JavaScript Allongé.
+
+**javascript allongé**
+
+[JavaScript Allongé](http://leanpub.com/javascript-allonge) didn't end up being a direct "port" of CoffeeScript Ristretto.
+
+The semantics under the hood are identical between the two languages for obvious reasons, but I have found that CoffeeScript encourages me to write a different kind of code than JavaScript.
+
+I also wanted to reflect the fact that there are a lot more existing resources for JavaScript professionals than CoffeeScript professionals, so CoffeeScript Ristretto explains a bit more of the language and what you might call the "standard" programming style, while JavaScript Allongé explains a bit more about the kinds of things you can do with functions that might not be obvious from looking at most code snippets and blog posts you'll find on the web.
+
+So for that reason, JavaScript Allongé alternates chapters explaining JavaScript's semantics with collections of "recipes," functions you can incorporate into your code, things like Maybe, Partial Application, Get, Send, Before, and others.
+
+I can't emphasize this enough: The structure of the book is a direct result of my experience working in a feedback loop with readers. I wouldn't, I _couldn't_ have written this book if someone had given me an advance and asked me to work on a book with an editor.
+
+**and beyond**
+
+I'm very bullish on this business of writing being done with very short feedback loops. I think this is the future, and shipping books in a truck to stores is the past.
+
+Ebooks solve the problem of carting atoms around the planet and paying rent on valuable retail space, but the other problem to be solved is transforming books from chattels into services, from one-time purchases into services  that receive updates the way a web application grows new features.
+
+Today, Leanpub has a simple model: When you purchase a book, you get all of the author's updates for free, as long as the author continues to make changes. I don't know if there will ever be "in-book purchases" or "virtual goods" inside of books the way there are inside of Angry Birds on my phone. But I do know that companies like Leanpub are innovating rapidly.
+
+Today you can create a landing page with one click. You can republish an update with one click. You can create coupons and track metrics. One day soon you may be able to create a web site for your book, or perhaps reinvest your royalties in targeted marketing based on data about who is interested in reading what. I really think this is an amazing time to be interested in publishing, and with Apple, Amazon, and everybody else competing to put reading always-on reading devices in people's hands, the opportunities are amazing.
+
+_Crass Commercial Interruption_: A lot of the work to create these new companies and ideas will be done in JavaScript and CoffeeScript. So of course, a good way to start is to buy yourself a copy of [CoffeeScript Ristretto](http://leanpub.com/coffeescript-ristretto) and [JavaScript Allongé](http://leanpub.com/javascript-allonge). Or even better, buy all three of my programming books in the [Coffee, Kestrels & Code bundle](https://leanpub.com/b/coffee-kestrels-code).
+
+[![B](images/b_png_scaled500.png)](http://getfile1.posterous.com/getfile/files.posterous.com/temp-2012-12-21/jdEgwnyDigyuhyfijilftlscDaBAcEBADaetGAcIGymxstzBEBihjkatBHgw/b.png.scaled1000.png)
+
+But **even better still**, bring some of your own ideas to the table and become an author. I recently joined [Leanpub](http://leanpub.com/), and I'm writing code for some of the features that might make your next book a huge success. The best way to predict the future is to invent it, so I'm working alongside some great folks who are passionate about inventing the future of publishing.
+
+I can't wait to see how the movie ends, and I'm glad I get to scribble on the script as we go.
+
+ 
+
+[Permalink](http://raganwald.posterous.com/announcing-javascript-allonges-golden-master)

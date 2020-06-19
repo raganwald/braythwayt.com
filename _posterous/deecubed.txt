@@ -1,0 +1,15 @@
+## "Dee Cubed"
+
+...as in "Documentation-Driven Development." Dee cubed isn't a methodology or a process, it's a practice. It's a design technique. And it's oh so simple: 
+
+Before implementing a feature, write the documentation for it. If that seems daunting, write the help text for the feature. If that seems daunting, send a colleague an email describing how it will work. If that seems like a lot of work, put a rubber ducky on top of your monitor (I'm shooing my age here, in your grand-father's time, computer monitors were boxes large enough to hold a pizza and generated enough heat to keep it warm). Explain the feature aloud to the ducky. 
+
+If it's hard to explain, if you find that you have to include a lot of "forward declarations" (enter the Fizzbuzz number number into the blue field, we'll explain Fizzbuzz later), if you can't seem to explain it simply, redesign it until the explanation is simple. 
+
+Simple explanations are a forcing function for straightforward features. 
+
+Now of course, some features are complex because ether is an underlying complexity in the domain. Maybe a form contains a lot of weirdly inter-related fields. If so, try separating the explanation for the interface from the explanation for the domain. If the interface is simple but the domino is complicated, maybe you should reconsider the analysis and push back on how things are organized. If the domain is simple and the complexity is in the interface, ask whether the complexity of the interface is going to generate a positive return for people using your software to Get Things Done. 
+
+There is no right answer, but writing documentation first drives a lot of productive questions. 
+
+[Permalink](http://raganwald.posterous.com/dee-cubed)
