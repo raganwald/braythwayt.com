@@ -32,7 +32,22 @@ His other works are on [GitHub](https://github.com/raganwald) and [Leanpub](http
   </ul>
 </div>
 
-###### 2019
+### 2020
+
+<div class="related">
+  <ul>
+    {% for post in site.posts %}
+      {% capture postyear %}{{post.date | date: '%Y'}}{% endcapture %}
+      {% unless post.tags contains "noindex" or postyear != "2020" %}
+        <li>
+          <a href="{{ post.url }}">{{ post.title }}</a>
+        </li>
+      {% endunless %}
+    {% endfor %}
+  </ul>
+</div>
+
+### 2019
 
 <div class="related">
   <ul>
