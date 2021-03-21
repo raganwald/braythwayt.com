@@ -14,13 +14,11 @@ One day, many millennia hence, they will look back at us and say,
 
 ---
 
-
 Their history will have ages like ours, but to them, everything before the information age will be prehistory.
 
 They are information, and to them, we were the first tool builders.
 
 ---
-
 
 In high school, I learned to bootstrap our mini-computer by physically toggling three sixteen-bit instructions into memory, one toggle switch per bit.
 
@@ -32,7 +30,6 @@ I felt like Prometheus, bringing fire.
 All of our technology industries, computers, cloud computing, software services, whether driving cars or playing games, will be nothing more than echoes of the switches being toggled before the future booted up and no longer needed us to bootstrap it.
 
 ---
-
 
 To the future, almost everything we value—our bodies, our civilizations, our art, our physical technologies—are infrastructure, like electricity powering a bitcoin mining rig.
 
