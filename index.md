@@ -17,6 +17,37 @@ Reg &ldquo;raganwald&rdquo; Braithwaite is proof that somewhere, a combinatory f
 
 His other works are on [GitHub](https://github.com/raganwald) and [Leanpub](http://leanpub.com/u/raganwald), you can follow him on Twitter as [@raganwald](https://twitter.com/raganwald). His email is [reg@braythwayt.com](mailto:reg@braythwayt.com), although most of it falls into the spam filter black hole.
 
+
+### 2021
+
+<div class="related">
+  <ul>
+    {% for post in site.posts %}
+      {% capture postyear %}{{post.date | date: '%Y'}}{% endcapture %}
+      {% unless post.tags contains "noindex" or postyear != "2021" %}
+        <li>
+          <a href="{{ post.url }}">{{ post.title }}</a>
+        </li>
+      {% endunless %}
+    {% endfor %}
+  </ul>
+</div>
+
+### 2020
+
+<div class="related">
+  <ul>
+    {% for post in site.posts %}
+      {% capture postyear %}{{post.date | date: '%Y'}}{% endcapture %}
+      {% unless post.tags contains "noindex" or postyear != "2020" %}
+        <li>
+          <a href="{{ post.url }}">{{ post.title }}</a>
+        </li>
+      {% endunless %}
+    {% endfor %}
+  </ul>
+</div>
+
 ### 2019
 
 <div class="related">
