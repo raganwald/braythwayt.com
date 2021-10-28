@@ -18,6 +18,8 @@ One famous business anti-pattern is “To Osborne yourself,” which is to pre-a
 
 [Osborne Effect]: https://en.wikipedia.org/wiki/Osborne_effect
 
+---
+
 # The Story of Product 2.0
 
 I have personally worked for two companies who “Osborned themselves” internally. Pull up a pew, and I’ll tell you all about what we did, and how it became a disaster. Both cases worked roughly along the following lines:
@@ -31,6 +33,8 @@ But there was another threat looming:
 Because of the company’s success, each sale was paradoxically getting harder to make. It had already plucked the low-hanging fruit in its niche, so the remaining customers were those who had less of a fit for the company’s product. And each new feature generated less net new revenue than the preceding features, because with fewer customers remaining in the niche, each new feature unlocked a proportionally smaller share of net new revenue.
 
 If the company was to continue to grow, It needed to escape its niche with a bold new effort. It needed Product 2.0.
+
+---
 
 ![The VP of Marketing](/assets/images/vp-marketing.jpg)
 
@@ -52,6 +56,8 @@ Resignations followed, first a trickle, then a flow.
 
 Meanwhile, product management was in chaos. Every time they wanted to build something, they’d be stopped with “Hold up, that will be half the cost and twice the value with Product 2.0!” The product was eventually put on life support, because it had neither the will, nor the resources, to do anything except fix bugs while waiting for Product 2.0.
 
+---
+
 ![The man behind the curtain](/assets/images/wizard-of-oz.jpg)
 
 ## Whither Product 2.0?
@@ -62,6 +68,10 @@ The central cause of Product 2.0 failing is another anti-pattern, one I call “
 
 That’s a management anti-pattern, and starting over with new people and a blank piece of paper doesn’t change management. Only management can change management.
 
+---
+
+![The Osborne 1](/assets/images/osborne-1.jpg)
+
 ## Osborne, again
 
 But getting back to Product 1.0, the problem was the company not just betting on Product 2.0, and mismanaging Product 2.0, but **announcing that it was betting on Product 2.0**. The company Osborned itself.
@@ -71,6 +81,8 @@ Could Product 2.0 have succeeded? Maybe.
 But if it would succeed as a “skunkworks,” the way to do that would have been to make it fully independent, and continue to build Product 1.0 as if 2.0 did not exist.
 
 Call Product 2.0 “research.” Or an “experiment.” But don’t call it the future.
+
+---
 
 ## post scriptum
 
