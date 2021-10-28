@@ -1,7 +1,7 @@
-—
+---
 layout: default
 published: true
-—
+---
 
 In software development, we talk a lot about software anti-patterns, how to recognize them, and how to extricate yourself from them via refactoring.
 
