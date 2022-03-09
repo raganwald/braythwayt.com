@@ -52,3 +52,7 @@ Some of the teams are eliminated, but without the necessary hires, their old res
 It seems that things have gobe from bad to worse, and before leadership can summon Jenn to explain what's going on, she reaches for that third envelope. She opens it, and reads Scott's last piece of advice:
 
 **Prepare three envelopes**.
+
+---
+
+*This is a very, very old story. It's often told about legendary Yankees manager Billy Martin. An earlier version of this story (with two envelopees) appeared on [a predecessor to this site](http://weblog.raganwald.com/2008/01/billy-martins-technique-for-managing.html).*
