@@ -145,12 +145,12 @@ His other works are on [GitHub](https://github.com/raganwald) and [Leanpub](http
   <ul>
     {% for post in site.categories.homoiconic %}
         <li>
-    <a href="{{ post.url }}">{{ post.title }}</a>
+            <a href="{{ post.url }}">{{ post.title }}</a>
         </li>
     {% endfor %}
     {% for post in site.categories.posterous %}
         <li>
-    <a href="{{ post.url }}">{{ post.title }}</a>
+            <a href="{{ post.url }}">{{ post.title }}</a>
         </li>
     {% endfor %}
   </ul>
