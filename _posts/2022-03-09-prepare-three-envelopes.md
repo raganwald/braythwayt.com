@@ -7,7 +7,7 @@ Jenn is brought in to take over leadership of a doomed project. It is hopelessly
 
 When she gets to her new office, Scott is clearing out his desk. “I’ll only be a minute. By the way, I left you something” he says.
 
-After he leaves, Jenn discovers three envelopes in the top drawer of the desk. The first envelope is labeled “Open when in trouble.” The second is labeled “Open when in even more trouble.” The third envelopoe is labeled "Open when all hope is lost."
+After he leaves, Jenn discovers three envelopes in the top drawer of the desk. The first envelope is labeled “Open when in trouble.” The second is labeled “Open when in even more trouble.” The third envelope is labeled "Open when all hope is lost."
 
 ![Three Envelopes](/assets/images/three-envelopes.jpg)
 
@@ -41,20 +41,20 @@ Well, it’s back to her office and she opens the second envelope with shaking h
 
 Jenn goes back to leadership and explains that now that she's dived deeper into the situation, she sees that the teams are not set up for success: Multiple critical projects require coördination across teams, which creates organizational and architectural impediments.
 
-Jenn explains how reorganizing the teams around the major deliverables will align the people doing the work with the work to be done and cut the communication tax on velcocity and the architectural tax on the work to be done.
+Jenn explains how reorganizing the teams around the major deliverables will align the people doing the work with the work to be done and cut the communication tax on velocity and the architectural tax on the work to be done.
 
 Unlike her previous proposal, she doesn't blame anyone for this. "It's a systemic issue caused by the company's growth." Leadership nods along and approves the reorganization. Jenn buys extra time to reorganize, and gets back to work.
 
 ### the final update
 
-Well, the reorganization doesn't go as well as anyone would like. Although leadership seemed enthusiastic, when it comes time to budget for necessary hires, they drag their feet on the budget. There is heavy infighting amongst managers over headcounts that undermines progress on the reorganization.
+Well, the reorganization doesn't go as well as anyone would like. Although leadership seemed enthusiastic, when it comes time to budget for necessary hires, they drag their feet on the budget. There is heavy infighting amongst managers over head-counts that undermines progress on the reorganization.
 
 Some of the teams are eliminated, but without the necessary hires, their old responsibilities are either frozen as unowned, or distributed to unrelated teams to temporarily own. Morale amongst individual contributors crashes, and a trickle of resignations becomes a flow.
 
-It seems that things have gobe from bad to worse, and before leadership can summon Jenn to explain what's going on, she reaches for that third envelope. She opens it, and reads Scott's last piece of advice:
+It seems that things have gone from bad to worse, and before leadership can summon Jenn to explain what's going on, she reaches for that third envelope. She opens it, and reads Scott's last piece of advice:
 
 **Prepare three envelopes**.
 
 ---
 
-*This is a very, very old story. It's often told about legendary Yankees manager Billy Martin. An earlier version of this story (with two envelopees) appeared on [a predecessor to this site](http://weblog.raganwald.com/2008/01/billy-martins-technique-for-managing.html).*
+*This is a very, very old story. It's often told about legendary Yankees manager Billy Martin. An earlier version of this story (with two envelopes) appeared on [a predecessor to this site](http://weblog.raganwald.com/2008/01/billy-martins-technique-for-managing.html).*
