@@ -56,7 +56,7 @@ To accelerate this process, we provide affordances for control, but teach the su
 
 <iframe width="600" height="450" src="//www.youtube.com/embed/4JrNr85fPms" frameborder="0" allowfullscreen></iframe><br/>
 
-For example, say we have a [Prisoner], and we want to induce learned helplessness. In that case, we allow them to hatch escape plots, and even to get started on their escape, but we always catch them after they think they've gotten away, and thus we teach them that no matter how much control it appears they have, they don't really have any control.
+For example, say we have a [Prisoner], and we want to induce learned helplessness. We allow them to hatch escape plots, and even to get started on their escape, but we always catch them after they think they've gotten away, and thus we teach them that no matter how much control it appears they have, they don't really have any control.
 
 [Prisoner]: https://en.wikipedia.org/wiki/The_Prisoner
 
