@@ -14,21 +14,23 @@ title: Unlearning Helplessness
 
 Sometimes, we feel that bad things happen to us, and we can't prevent them. Or that our attempts to do good things for ourselves are thwarted by forces beyond our control. People describe this feeling in different ways. They may say that they are "stuck." Or "in a rut." To be stuck in life has nothing to do with how much money we make, or whether we are healthy, or loved, or admired.
 
-Helplessness is to feel that what happens to us is not under our control.
+Helplessness is the feeling that what happens to us is not under our control.
 
 [![Everything you do is irrelevant](/assets/images/ftrain.png)](https://twitter.com/ftrain/status/490162232903602177)
 
-Now, obviously people feel bad when bad things happen to them. But what surprised me was that how bad we feel is more closely correlated to our feeling of helplessness than the magnitude of the bad thing itself.
+Now, obviously people feel bad when bad things happen to them. But what surprised me was that how bad we feel is more closely correlated to our feeling of helplessness, than the magnitude of the bad thing itself.
 
 > I once played a lot of backgammon and poker for money, sometimes very large sums relative to my net worth. I often lost. But it didn't bother me, because I was convinced that I was a good player and that I won more often than I lost, and that when playing a lesser opponent, I would make larger wins when I won and lose lesser amounts when I lost.
 
-> I didn't feel helpless about the times I'd lose a game, or a pot, or even accept a bad double and get gammoned. In the box of a big [chouette].
+> I didn't feel helpless about the times I'd lose a game, or a pot, or even accept a bad double and get gammoned... Even while in the box of a big [chouette].
 
 [chouette]: https://en.wikipedia.org/wiki/Backgammon_chouette
 
-> Whereas, I vividly recall being bullied about my colour in primary school. It felt like no matter what I did, the bullying continued. It was very depressing, and as we can see, that memory has never left me. But what do taunts matter? Very little, even in aggregate. It's not the taunts that hurt a ltttle black boy in 1968, it was the experience of being able to do nothing about them.
+> Whereas, I vividly recall being bullied about my colour in primary school. It felt like no matter what I did, the bullying continued. It was very depressing, and as we can see, that memory has never left me. But what do taunts matter? Very little, even in aggregate.
+>
+> It was not the taunts that hurt a ltttle boy in 1968, it was the perception that I could do nothing about them.
 
-To summarize, "helplessness" is a the feeling that we can't control our own happiness. When people feel helpless about bad things that happen to them, it is more depressing and debilitating than the impact of the bad things themselves.
+To summarize, "helplessness" is a the feeling that we can't control our own happiness. When people feel helpless about things that happen to them, it is more depressing and debilitating than the impact of the  things themselves.
 
 ### the circles of concern and influence
 
