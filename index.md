@@ -15,7 +15,7 @@ Reg &ldquo;raganwald&rdquo; Braithwaite is proof that somewhere, a combinatory f
 
 ---
 
-His other works are on [GitHub](https://github.com/raganwald) and [Leanpub](http://leanpub.com/u/raganwald), you can follow him on Twitter as [@raganwald](https://twitter.com/raganwald). His email is [reg@braythwayt.com](mailto:reg@braythwayt.com), although most of it falls into the spam filter black hole.
+His other works are on [GitHub](https://github.com/raganwald) and [Leanpub](http://leanpub.com/u/raganwald). His email is [reg@braythwayt.com](mailto:reg@braythwayt.com), although most of it falls into the spam filter black hole.
 
 
 ### 2022
