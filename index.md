@@ -7,7 +7,7 @@ layout: default
 
 Reg &ldquo;raganwald&rdquo; Braithwaite is proof that somewhere, a combinatory forest is missing its Idiot Bird. His interests include constructing surreal numbers, deconstructing hopelessly egocentric nulls, and celebrating the joy of programming. This is a space for ideas that are not code-centric.
 
-Reginald Braithwaite is the author of [JavaScript Allongé](https://leanpub.com/javascriptallongesix), [CoffeeScript Ristretto](https://leanpub.com/coffeescript-ristretto) and the programming-specific blog [raganwald.com](http://raganwald.com). He has shipped with [PagerDuty](https://pagerduty.com), [GitHub](https://githiub.com), Unspace, KL Group/Sitraka, and others. He checks his [LinkedIn](https://www.linkedin.com/in/raganwald/) increquently.
+Reginald Braithwaite is the author of [JavaScript Allongé](https://leanpub.com/javascriptallongesix), [CoffeeScript Ristretto](https://leanpub.com/coffeescript-ristretto) and the programming-specific blog [raganwald.com](http://raganwald.com). He has shipped with [PagerDuty](https://pagerduty.com), [GitHub](https://githiub.com), Unspace, KL Group/Sitraka, and others.
 
 ---
 
@@ -17,7 +17,7 @@ Reginald Braithwaite is the author of [JavaScript Allongé](https://leanpub.com/
 
 ---
 
-His other works are on [GitHub](https://github.com/raganwald) and [Leanpub](http://leanpub.com/u/raganwald). His email is [reg@braythwayt.com](mailto:reg@braythwayt.com), although most of it falls into the spam filter black hole. He is [@raganwald](https://social.bau-ha.us/@raganwald) on Mastodon.
+His other works are on [GitHub](https://github.com/raganwald) and [Leanpub](http://leanpub.com/u/raganwald). His email is [reg@braythwayt.com](mailto:reg@braythwayt.com), although most of it falls into the spam filter black hole. He is [@raganwald](https://social.bau-ha.us/@raganwald) on Mastodon. He checks his [LinkedIn](https://www.linkedin.com/in/raganwald/) infrequently.
 
 
 ### 2022
