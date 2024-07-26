@@ -5,7 +5,9 @@ layout: default
 
 > At either end of the educational spectrum, there lies a Hacker Class.
 
-Reg &ldquo;raganwald&rdquo; Braithwaite is proof that somewhere, a combinatory forest is missing its Idiot Bird. His interests include constructing surreal numbers, deconstructing hopelessly egocentric nulls, and celebrating the joy of programming. He is the author of [JavaScript Allongé](https://leanpub.com/javascriptallongesix), [CoffeeScript Ristretto](https://leanpub.com/coffeescript-ristretto) and the programming-specific [raganwald.com](http://raganwald.com). He has shipped with [PagerDuty](https://pagerduty.com), [GitHub](https://githiub.com), Unspace, KL Group/Sitraka, and others. This is his space for words and presentations that are not code-centric.
+Reg &ldquo;raganwald&rdquo; Braithwaite is proof that somewhere, a combinatory forest is missing its Idiot Bird. His interests include constructing surreal numbers, deconstructing hopelessly egocentric nulls, and celebrating the joy of programming. This is a space for ideas that are not code-centric.
+
+Reginald Braithwaite is the author of [JavaScript Allongé](https://leanpub.com/javascriptallongesix), [CoffeeScript Ristretto](https://leanpub.com/coffeescript-ristretto) and the programming-specific blog [raganwald.com](http://raganwald.com). He has shipped with [PagerDuty](https://pagerduty.com), [GitHub](https://githiub.com), Unspace, KL Group/Sitraka, and others. He checks his [LinkedIn](https://www.linkedin.com/in/raganwald/) increquently.
 
 ---
 
