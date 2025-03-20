@@ -4,11 +4,12 @@ subtitle: Canus Potsticker gets his start
 layout: default
 published: true
 ---
-Canus Potsticker was an articulate kid who grew up in the 1960s and 70s watching his entrepreneurial mother buying and renovating properties. His parents had difficulty renting an apartment when they first married, and needed to buy a succession of fixer-uppers, fix them up, and rent out extra bedrooms to make ends meet.
+Canus Potsticker was an articulate young man who grew up in the 60s and 70s watching his entrepreneurial mother buying and renovating properties. His parents had difficulty renting an apartment when they first married, and needed to buy a succession of fixer-uppers, fix them up, and rent out extra bedrooms to make ends meet.
 
 He remembered his mother negotiating with contractors, and how she always rephrased everything the contractor promised in terms of how they would know it was done. And how she put everything in writing. She had worked in systems analysis and some consulting during the mainframe days, and she carried the lessons of those early enterprise computer projects over into renovating houses and offices.
 
-Real estate was a familiar business, and Potsticker toyed with the idea of getting into property himself. But he was excited by computers, not homes. So one day, he impulsively took out an ad in Toronto's "The Buy and Sell" classified ad newspaper, advertising his services as a professional programmer for hire. 
+Real estate was a familiar business, and Potsticker toyed with the idea of getting into property himself. But he was excited by computers, not homes. So one day, he impulsively took out an ad in Toronto's "The Buy and Sell" classified ad newspaper, advertising his services as a professional programmer for hire.
+
 ### classified ad newspapers
 Classified ad newspapers—also called penny-savers—were print publications where the vast majority of the pages were classified advertisements. And classified advertisements were called "classified advertisements," because they were "classified" into sections such as cars for sale, apartments for rent, or the ever-popular "personals."[^print]
 
@@ -22,7 +23,7 @@ This manual and paper-form system was typical for business processes in that era
 ### the buy and sell
 The Buy and Sell in Toronto had once used a manual and paper-form system of their own, but recognizing the benefits of computerization, they saw an opportunity to do it on the cheap. They commissioned their own custom system, hiring two whizz-kid teenaged brothers to design and build it.
 
-The kids delivered a custom mini-computer system they built themselves out of commodity components. Each operator had their own terminal, the ads were taken in real time, and there were programs for administrators. To further save time and money, the system typeset the ads and printed them on a pair of Apple LaserWriters.
+The brothers delivered a custom mini-computer system they built themselves out of commodity components. Each operator had their own terminal, the ads were taken in real time, and there were programs for administrators. To further save time and money, the system typeset the ads and printed them on a pair of Apple LaserWriters.
 
 The Buy and Sell had taken its first step into a larger, digital world.[^mosaic]
 
