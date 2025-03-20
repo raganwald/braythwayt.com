@@ -63,10 +63,12 @@ The customer was represented by a loose cross-functional team, with members from
 Thyme and Potsticker had to install the hardware first. For reasons driven mainly by the import/export logistics of that era, Thyme had arranged for the parts of the minicomputer to be shipped to the customer, and the customer was responsible for their own terminals. Thyme would buy the LaserWriters at retail.
 
 Potsticker went along with Thyme to rent a car, then they drove to a local authorized Apple dealer. The dealer sold PCs to small- and medium- sized businesses out of a featureless industrial park.
-### backing up
+### backing into trouble
 The manager was surprised to see two very young Canadians showing up in a rental car with a story about wanting to buy two extremely expensive and infrequently sold Apple LaserWriters. His surprise deepened when he stepped back into his office and called the phone number on Thyme's business card. His call did not go through: there was a message telling him it was an invalid number.
 
-He confronted them. "Boys," he demanded, "what's really going on here?" Thyme denied that anything was going on. Polite chaos reigned until someone figured out that their business telephone system had been rigged to disallow direct dialling international calls. For those, you had to call a special extension first. The confusion about the phone number having been cleared up, they called the customer team together and arranged to have the printers delivered.
+He confronted them. "*Boys*," he demanded, "*What's really going on here*?" Thyme denied that anything was going on. He said there was and don't take him for a fool.
+
+Polite chaos reigned until someone figured out that their business telephone system had been rigged to disallow direct dialling international calls: You had to call a special extension first. The confusion about the phone number having been cleared up, they called the customer team together and arranged to have the printers delivered.
 
 The apologetic manager took them to a chain restaurant in the industrial park for pizza shooters, shrimp poppers, and extreme fajitas. As they laughed about the incident, the manager told them what made him extremely suspicious: "I saw you *back into your parking spot, like you wanted to be ready for an immediate getaway!*"
 
@@ -80,14 +82,19 @@ The manager explained that—inasmuch as the system as delivered me the requirem
 
 Their was silence, then Thyme started taking, they started talking, and it went around in circles for quite some time. Just as the polite veneer was wearing down, Potsticker apologized but asked for a short bio-break. There was general relief for an excuse to take a moment, let things cool, and huddle to discuss how to move forward.
 
-Thyme was glad of a chance to have a private word with Potsticker. Could he count on Potsticker to make the necessary changes? Potsticker pointed out that creeping scope was not his problem, he had delivered what he was contracted to deliver. But wait.
+Thyme was glad of a chance to have a private word with Potsticker. Could he count on Potsticker to make the necessary changes? Potsticker pointed out that creeping scope was not his problem, he had delivered what he was contracted to deliver.
 
-Potsticker considered. Yes, he had watched his mother using her skills to make sure a contractor delivered what was bargained for. But he also recalled the good contractors upselling her work outside the original scope as an additional phase. He suggested that Thyme go back, tell them that they would accept half of the original contacted amount for delivery in good faith and defer half until the new work was done. And, in addition, they were to agree to a second phase with a charge for the second phase.
+But wait!
+### lessons learned
+Potsticker considered. Yes, he had watched his mother using her skills to make sure a contractor delivered what was bargained for. But he also recalled the good contractors upselling her work outside the original scope as an additional phase.
 
-"How much can you do it for," asked Thyme. Potsticker had a ready reply: "Half of whatever they agree to pay, but no less than half of the price I tell them." Thyme was dubious, but Potsticker remembered one of the contractors who negotiated an outstanding contract, and how the pitch worked. "Trust me, it will be your negotiation. My job is to toss you a soft ball, and I can't tell you the number now because they're going to tell us the number."
+Potsticker suggested that Thyme go back, tell them that they would accept half of the original contacted amount for delivery in good faith and defer half until the new work was done. And, in addition, they were to agree to a second phase with an update to the contract signed off by both parties.
 
+"How much can you do it for," asked Thyme. Potsticker had a ready reply: "Half of whatever they agree to pay, but no less than half of the price I tell them." Thyme was dubious, but Potsticker remembered one of the contractors who negotiated an outstanding contract, and how the pitch worked.
+
+"Trust me, it will be your negotiation. My job is to toss you a soft ball, and I can't tell you the number now because they're going to tell us the number."
 ### the close
-Thyme shrugged and agreed to let Potsticker wing it. They reconvened, and after some preliminary affirmation of how much everyone wanted to work together and make this a great success, Potsticker asked if they could go over the requirements for the new phase of work. After some back and forth, the managers agreed that yes, this was a new set of requirements and they would need to set a realistic timeline for delivery.
+They reconvened, and after some preliminary affirmation of how much everyone wanted to work together and make this a great success, Potsticker asked if they could go over the requirements for the new phase of work. After some back and forth, the managers agreed that yes, this was a new set of requirements and they would need to set a realistic timeline for delivery.
 
 Potsticker, went through the requirements, in each case asking them to explain how critical this requirement was and the impact on their business should the software not support their needs. He made careful, handwritten notes.
 
@@ -100,6 +107,10 @@ Thyme and the team manager emerged from the meeting gripping and grinning. Thyme
 
 Potsticker grinned. "A week, maybe two." Thyme jerked the steering wheel. "What‽ You told me to settle for no less than twelve grand. Six grand is a lot of money for a week's work."
 
-The Postmaster was ready. "Oh no, the six grand is for handling half of the process of helping them understand what a bargain twelve grand would be. The six grand you pocket is for the same thing."
+The Potsticker was ready. "Oh no, the six grand is for handling half of the process of helping them understand what a bargain twelve grand would be. The six grand you pocket is for the other half, negotiating and closing the deal."
 
-Thyme couldn't help grinning too. "Well, if you think six and six is fair, how about ten and ten? they're drawing up a contract amendment for $20,000!" Now it was both of them laughing, and in a few weeks they were back in person to install the updated software and collect what was for them at the time, a very large cheque.
+Thyme couldn't help grinning too. "Well, if you think six and six is fair, how about ten and ten? They're drawing up a contract amendment for $20,000!" Now they were both laughing, and in a few weeks they were back in person to install the updated software and collect what was for them at the time, a very large cheque.
+
+---
+
+## Footnotes
