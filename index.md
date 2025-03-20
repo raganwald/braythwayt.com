@@ -7,7 +7,7 @@ layout: default
 
 Reg &ldquo;raganwald&rdquo; Braithwaite is proof that somewhere, a combinatory forest is missing its Idiot Bird. His interests include constructing surreal numbers, deconstructing hopelessly egocentric nulls, and celebrating the joy of programming. This is a space for ideas that are not code-centric.
 
-Reginald Braithwaite is the author of [JavaScript Allongé](https://leanpub.com/javascriptallongesix), [CoffeeScript Ristretto](https://leanpub.com/coffeescript-ristretto) and the programming-specific blog [raganwald.com](http://raganwald.com). He has shipped with [PagerDuty](https://pagerduty.com), [GitHub](https://githiub.com), Unspace, KL Group/Sitraka, and others.
+Reginald Braithwaite is the author of [JavaScript Allongé](https://leanpub.com/javascriptallongesix), [CoffeeScript Ristretto](https://leanpub.com/coffeescript-ristretto) and the programming-specific blog [raganwald.com](http://raganwald.com). He has shipped with [PagerDuty](https://pagerduty.com), [GitHub](https://githiub.com), Unspace, Sitraka, and others.
 
 ---
 
@@ -34,20 +34,6 @@ His other works are on [GitHub](https://github.com/raganwald) and [Leanpub](http
   </ul>
 </div>
 
-### 2024
-
-<div class="related">
-  <ul>
-    {% for post in site.posts %}
-      {% capture postyear %}{{post.date | date: '%Y'}}{% endcapture %}
-      {% unless post.tags contains "noindex" or postyear != "2024" %}
-        <li>
-          <a href="{{ post.url }}">{{ post.title }}</a>
-        </li>
-      {% endunless %}
-    {% endfor %}
-  </ul>
-</div>
 ### 2022
 
 <div class="related">

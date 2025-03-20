@@ -38,7 +38,7 @@ Thyme's parents were very senior professionals, and they coached him well on neg
 
 When everything was perfectly clear, Potsticker quoted his "best price," fingers crossed behind his back, meaning "best for me." Thyme countered with Thyme's best price, and they wound up almost exactly where they each thought it ought to end up.
 
-The plan was ambitious, and Potsticker worked especially hard. The code was written in [Turbo Pascal], while he had only used SNOBOL, WATFIV, and BASIC. The operating system was [MP/M], and the minicomputer was *weird*: It wasn't a minicomputer at all, it was a closely-coupled distributed system.[^ccds]
+The plan was ambitious, and Potsticker worked especially hard. The code was written in [Turbo Pascal], while he had only used SNOBOL, WATFIV, and BASIC. The operating system was [MP/M][mpm], and the minicomputer was *weird*: It wasn't a minicomputer at all, it was a closely-coupled distributed system.[^ccds]
 
 [Turbo Pascal]: https://en.wikipedia.org/wiki/Turbo_Pascal
 [mpm]: https://en.wikipedia.org/wiki/MP/M
