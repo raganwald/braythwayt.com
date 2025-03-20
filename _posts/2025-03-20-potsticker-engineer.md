@@ -38,6 +38,7 @@ Thyme's parents were very senior professionals, and they coached him well on neg
 
 When everything was perfectly clear, Potsticker quoted his "best price," fingers crossed behind his back, meaning "best for me." Thyme countered with Thyme's best price, and they wound up almost exactly where they each thought it ought to end up.
 
+### the work
 The plan was ambitious, and Potsticker worked especially hard. The code was written in [Turbo Pascal], while he had only used SNOBOL, WATFIV, and BASIC. The operating system was [MP/M][mpm], and the minicomputer was *weird*: It wasn't a minicomputer at all, it was a closely-coupled distributed system.[^ccds]
 
 [Turbo Pascal]: https://en.wikipedia.org/wiki/Turbo_Pascal
@@ -53,9 +54,9 @@ And they all ran a distributed program that was built on an ad hoc, informally-s
 
 Potsticker was inexperienced, but curious. And systems were far, far simpler in those days. Balanced against that was the undeniable fact that he was a first-time professional attempting to maintain and extend a program written by two other first-timer professionals. He worked things out, and bit by bit, he ticked off the requirements.
 
-it was done just in time to meet the customer's desired date. Potsticker accompanied Thyme on a flight to Dayton, Ohio to deliver and install the system for the customer.[^seats]
+The work was done just in time to meet the customer's desired date. Potsticker accompanied Thyme on a flight to Dayton to deliver and install the system for the customer.[^seats]
 
-[^seats] They flew on a twin-engine turboprop. They were first in line to climb the stairs and board, but Thyme waved off the idea of sitting up front near the exits. He led Potsticker to the second-last row, which had good legroom and overhead height. "These old birds are **loud**, he warned, you'll see that the regulars sit as far back as possible."
+[^seats]: They flew on a twin-engine turboprop. They were first in line to climb the stairs and board, but Thyme waved off the idea of sitting up front near the exits. He led Potsticker to the second-last row, which had good legroom and overhead height. "These old birds are **loud**, he warned, you'll see that the regulars sit as far back as possible."
 ### the installation
 The customer was represented by a loose cross-functional team, with members from each of the areas of their business that would be affected by installing the system. A senior manager led them.
 
@@ -85,6 +86,7 @@ Potsticker considered. Yes, he had watched his mother using her skills to make s
 
 "How much can you do it for," asked Thyme. Potsticker had a ready reply: "Half of whatever they agree to pay, but no less than half of the price I tell them." Thyme was dubious, but Potsticker remembered one of the contractors who negotiated an outstanding contract, and how the pitch worked. "Trust me, it will be your negotiation. My job is to toss you a soft ball, and I can't tell you the number now because they're going to tell us the number."
 
+### the close
 Thyme shrugged and agreed to let Potsticker wing it. They reconvened, and after some preliminary affirmation of how much everyone wanted to work together and make this a great success, Potsticker asked if they could go over the requirements for the new phase of work. After some back and forth, the managers agreed that yes, this was a new set of requirements and they would need to set a realistic timeline for delivery.
 
 Potsticker, went through the requirements, in each case asking them to explain how critical this requirement was and the impact on their business should the software not support their needs. He made careful, handwritten notes.
