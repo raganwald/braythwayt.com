@@ -2,6 +2,7 @@
 title: Potsticker Engineer
 subtitle: Canus Potsticker gets his start
 layout: default
+tags: noindex
 published: true
 ---
 Canus Potsticker was an articulate young man who grew up in the 60s and 70s watching his entrepreneurial mother buying and renovating properties. His parents had difficulty renting an apartment when they first married, and needed to buy a succession of fixer-uppers, fix them up, and rent out extra bedrooms to make ends meet.
@@ -110,7 +111,7 @@ Potsticker grinned. "A week, maybe two." Thyme jerked the steering wheel. "Whatâ
 
 The Potsticker was ready. "Oh no, the six grand is for handling half of the process of helping them understand what a bargain twelve grand would be. The six grand you pocket is for the other half, negotiating and closing the deal."
 
-Thyme couldn't help grinning too. "Well, if you think six and six is fair, how about ten and ten? They're drawing up a contract amendment for $20,000!" Now they were both laughing, and in a few weeks they were back in person to install the updated software and collect what was for them at the time, a very large cheque.
+Thyme couldn't help grinning too. "Well, if you think six and six is fair, how about ten and ten? They're drawing up a contract amendment for $20,000!" Now they were both laughing, and within a month they were back in person to install the updated software and collect the rest of the money.
 
 ---
 
