@@ -3,7 +3,7 @@ title: Potsticker Engineer
 subtitle: Canus Potsticker gets his start
 layout: default
 tags: noindex
-published: true
+published: false
 ---
 Canus Potsticker was an articulate young man who grew up in the 60s and 70s watching his entrepreneurial mother buying and renovating properties. His parents had difficulty renting an apartment when they first married, and needed to buy a succession of fixer-uppers, fix them up, and rent out extra bedrooms to make ends meet.
 
