@@ -63,7 +63,7 @@ Gwen has now retired, and like most retirees, she asks her [son](http://braythw
 
 ---
 
-### Follow-up to "A Woman's Story"
+### Follow-up to "A Woman's Story" (2012)
 
 First off, I'm amazed and gratified that so many people liked "A Woman's Story." My mother seems pretty amazing to me, and the story of how she became a systems analyst is just one piece of an incredible life. I was invited to join MetaFilter by a friend. There was a lot more [discussion](http://www.metafilter.com/114365/A-Womans-Story) about IBM and the early days of computing and a few folks asked me to share more about my mother's life. So here's what I wrote there (more or less, I've fixed some spelling and grammar errors):
 
@@ -84,3 +84,13 @@ It's really a variation on Godwin's Law in action: As the size of a community gr
 I liked the smaller, more intimate feeling of the MetaFilter discussion, but I'm also totally cool with the HN discussion. Not that anyone needs my permission to talk about whatever they like! It's weird to discuss my own posts. I sometimes imagine sitting in a coffee shop with a friend, discussing a book I've just read. Unbeknownst to me, the author is at the next table, and she comes over to interrupt the conversation and discuss the book with us. Would that be incredibly cool or would it put us off having a candid conversation?
 
 Anyhow, I'm walking around with a big smile today. Thanks again for all the nice things folks have said about my mom.
+
+———
+
+### Arlene Gwendolyn Lee née Barzey (1941&thinsp;-&thinsp;2024)
+
+On October 29, 2024, Gwen passed away peacefully, with her children present. In a small memorial service, her family remembered that in the 1960s, she was a social justice activist. She and her husband attended anti-racism and anti-class opression protests. I helped colour their protest signs. She started a small school to teach afro-carribean history. And later that decade, as a single mother, she took her children to Africa at a time when the world wasn't as small as it is today.
+
+She was, in many ways, ahead of where society was ready for her to be.
+
+Rest in power.
