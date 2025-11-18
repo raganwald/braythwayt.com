@@ -65,7 +65,7 @@ Gwen has now retired, and like most retirees, she asks her [son](http://braythw
 
 ### Follow-up to "A Woman's Story" (2012)
 
-First off, I'm amazed and gratified that so many people liked "A Woman's Story." My mother seems pretty amazing to me, and the story of how she became a systems analyst is just one piece of an incredible life. I was invited to join MetaFilter by a friend. There was a lot more [discussion](http://www.metafilter.com/114365/A-Womans-Story) about IBM and the early days of computing and a few folks asked me to share more about my mother's life. So here's what I wrote there (more or less, I've fixed some spelling and grammar errors):
+First off, I'm amazed and gratified that so many people liked "A Woman's Story." My mother seems pretty amazing to me, and the story of how she became a systems analyst is just one piece of an incredible life. I was invited to join MetaFilter by a friend. There was a lot more [discussion](http://www.metafilter.com/114365/A-Womans-Story) about IBM and the early days of computing and a few folks asked me to share more about my mother's life. So here's a little of what I wrote there:
 
 > My mother was a very driven women. She was very successful as an analyst, and transcended the programming aspect of the job. She once told me that years after she left Empire Life, they were still using an operations manual that she and another woman had written, because it explained their procedures clearly.
 >
@@ -77,13 +77,7 @@ First off, I'm amazed and gratified that so many people liked "A Woman's Story.
 >
 > Lois also had a story to tell. When her days as an active mother were over, she went to Toronto's York University as a mature student and obtained a degree in geography at age 54. She volunteered with someone-or-other and went to each ESL in Dar-Es-Salaam for a year, so she found her way back to Africa as well.
 
-A few folks have commented on the direction the conversation took on [Hacker News](http://news.ycombinator.com/item?id=3772292). I was surprised that more attention wasn't given to the story for what it represents to Hacker Culture: _Overcoming odds, not settling for society's expectations, and most especially the fact that while most things are imperfect, programming can be less imperfect than other things because the computer itself is blind to who you are_. Then again, I wasn't surprised that a comment about IQ testing would end up dominating the discourse and sucking the air out of the conversation.
-
-It's really a variation on Godwin's Law in action: As the size of a community grows, the probability that every discussion becomes dominated by tenuously relevant axe-grinding approaches one. That could be Libertarianism, it could be Affirmative Action, it could be Hate Speech, it could be IQ Testing, it could be Men's Rights. You can moderate it down or you can embrace it, but to lament it is to lament the fact that we are humans, not machines, we are flesh and blood and sometimes our blood boils.
-
-I liked the smaller, more intimate feeling of the MetaFilter discussion, but I'm also totally cool with the HN discussion. Not that anyone needs my permission to talk about whatever they like! It's weird to discuss my own posts. I sometimes imagine sitting in a coffee shop with a friend, discussing a book I've just read. Unbeknownst to me, the author is at the next table, and she comes over to interrupt the conversation and discuss the book with us. Would that be incredibly cool or would it put us off having a candid conversation?
-
-Anyhow, I'm walking around with a big smile today. Thanks again for all the nice things folks have said about my mom.
+I'm walking around with a big smile today. Thanks again for all the nice things folks have said about my mom.
 
 ———
 
