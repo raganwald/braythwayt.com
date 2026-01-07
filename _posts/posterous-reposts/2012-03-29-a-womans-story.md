@@ -77,6 +77,8 @@ First off, I'm amazed and gratified that so many people liked "A Woman's Story.
 >
 > Lois also had a story to tell. When her days as an active mother were over, she went to Toronto's York University as a mature student and obtained a degree in geography at age 54. She volunteered with someone-or-other and went to each ESL in Dar-Es-Salaam for a year, so she found her way back to Africa as well.
 
+![Toronto’s Interracial School](/assets/images/interracial-school.png)
+
 I'm walking around with a big smile today. Thanks again for all the nice things folks have said about my mom.
 
 ———
